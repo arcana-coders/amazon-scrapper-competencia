@@ -32,19 +32,21 @@ Identificar productos que pueden ser rentables basándose en:
 └─────────────────────────────────────────────────────────────┘
                             ↓
 ┌─────────────────────────────────────────────────────────────┐
-│ FASE 3: VERIFICACIÓN MX (🇲🇽 PRIMERO)                       │
+│ FASE 3: VERIFICACIÓN MX (🇲🇽 SNAPSHOT ÚNICO)                │
 │ → Obtiene precio real del buy box en MX                     │
 │ → Agrega: precio_actual_mx, vendedor_actual_mx              │
 │ → Scripts: verify-products-mx-batch.js                      │
 │ → Panel: Menú [4] Verificar en Amazon MX                    │
+│ → ⚠️ UNA SOLA VEZ por vendedor - No se re-verifica          │
 └─────────────────────────────────────────────────────────────┘
                             ↓
 ┌─────────────────────────────────────────────────────────────┐
-│ FASE 4: VERIFICACIÓN USA (🇺🇸 SEGUNDO)                      │
+│ FASE 4: VERIFICACIÓN USA (🇺🇸 SNAPSHOT ÚNICO)               │
 │ → Obtiene precio en dólares de Amazon.com                   │
 │ → Agrega: precio_actual_usd, vendedor_actual_usa            │
 │ → Scripts: verify-products-usa-batch.js                     │
 │ → Panel: Menú [5] Verificar en Amazon USA                   │
+│ → ⚠️ UNA SOLA VEZ por vendedor - No se re-verifica          │
 └─────────────────────────────────────────────────────────────┘
                             ↓
 ┌─────────────────────────────────────────────────────────────┐
@@ -237,10 +239,11 @@ function ajustarCompetitivo(precio_actual_mx, competitivo) {
 ### Exclusiones:
 
 ```javascript
-// ❌ Excluir productos muy caros
-if (precio_actual_mx > 7000) {
-  excluir(); // No se incluye en ningún archivo
-}
+// ❌ Excluir productos fuera de rango
+// Regla general: precio_actual_mx > 7000 se excluye en todos los filtros
+// Reglas mínimas por tipo de oportunidad:
+//  - Principal: solo productos con precio_actual_mx >= 699
+//  - Menos $50 y Menos $100: solo productos con precio_actual_mx >= 1000
 ```
 
 ### Salida:
@@ -505,7 +508,7 @@ Misma estructura, productos que requieren bajar $100 al precio sugerido.
 #### Paso 1: Ejecutar desde Panel Maestro
 
 ```bash
-node PANELMAESTRO-v2.js
+node MENU.js
 ```
 
 ```
@@ -582,12 +585,12 @@ data/vendors/AE8MUNDUREHX7/
 **Solución:**
 ```bash
 # 1. Verificar estado
-node PANELMAESTRO-v2.js → [4] → Ver estado de verificación MX
-node PANELMAESTRO-v2.js → [5] → Ver estado de verificación USA
+node MENU.js → [4] → Ver estado de verificación MX
+node MENU.js → [5] → Ver estado de verificación USA
 
 # 2. Completar verificaciones faltantes
-node PANELMAESTRO-v2.js → [4] → Verificar productos
-node PANELMAESTRO-v2.js → [5] → Verificar productos
+node MENU.js → [4] → Verificar productos
+node MENU.js → [5] → Verificar productos
 ```
 
 ### Error: "No existe el archivo batch-1-consolidated.csv"
@@ -644,7 +647,7 @@ node buscando_productos_csv.js AE8MUNDUREHX7 2
 ### Desde Panel Maestro (recomendado):
 
 ```bash
-node PANELMAESTRO-v2.js
+node MENU.js
 → [6] Generar Oportunidades
 → [1] Generar oportunidades de un vendedor
 → Seleccionar vendedor

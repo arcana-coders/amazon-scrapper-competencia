@@ -1,10 +1,9 @@
 /**
  * MÓDULO: EJECUTAR SCRAPING
  * 
- * [1] Scraping Simple (vendedor completo)
- * [2] Scraping por Batch
- * [3] Opciones Avanzadas
- * [4] Ver progreso
+ * [1] Scraping por Batch (requiere plan)
+ * [2] Opciones Avanzadas
+ * [3] Ver progreso
  * [0] Volver
  */
 
@@ -23,7 +22,7 @@ const {
   pause 
 } = require('./utils/display-utils');
 const { loadProjects, listVendorIds, getVendorInfo } = require('./utils/projects-utils');
-const { getBatchFiles, vendorDirExists, getVendorDir } = require('./utils/vendor-utils');
+const { getBatchFiles, vendorDirExists, getVendorDir, countExtractedBatches, countConsolidatedBatches, countVendorProducts } = require('./utils/vendor-utils');
 
 // ============================================
 // SCRAPING SIMPLE (VENDEDOR COMPLETO)
@@ -105,9 +104,15 @@ async function scrapingBatch(rl) {
     if (vendorDirExists(sellerId)) {
       const batchFiles = getBatchFiles(sellerId);
       if (batchFiles.length > 0) {
+        const extracted = countExtractedBatches(sellerId);
+        const consolidated = countConsolidatedBatches(sellerId);
+        const products = countVendorProducts(sellerId);
         vendorsWithBatches.push({
           sellerId,
           batches: batchFiles.length,
+          extracted,
+          consolidated,
+          products,
           vendor: projects.projects[sellerId]
         });
       }
@@ -126,8 +131,12 @@ async function scrapingBatch(rl) {
   await typewriteLine('');
   
   for (let i = 0; i < vendorsWithBatches.length; i++) {
-    const { sellerId, batches, vendor } = vendorsWithBatches[i];
-    await typewriteLine(`[${i + 1}] ${sellerId} (${batches} batches) - ${vendor.nombre || 'Sin nombre'}`, { charDelay: 5 });
+    const { sellerId, batches, extracted, consolidated, products, vendor } = vendorsWithBatches[i];
+    const partes = [`${batches} batches`];
+    if (extracted > 0) partes.push(`${extracted} extraído(s)`);
+    if (consolidated > 0) partes.push(`${consolidated} consolidado(s)`);
+    partes.push(`${products} productos`);
+    await typewriteLine(`[${i + 1}] ${sellerId} (${partes.join(', ')}) - ${vendor.nombre || 'Sin nombre'}`, { charDelay: 5 });
   }
   
   await typewriteLine('[0] ← Volver', { charDelay: 5 });
@@ -183,12 +192,20 @@ async function scrapingBatch(rl) {
     await typewriteLine(`[${batchNum}] Batch ${batchNum} - ${status}`, { charDelay: 5 });
   }
   
+  await typewriteLine('');
+  await typewriteLine('[A] ▶ Ejecutar todos los pendientes (continuar donde se quedó)');
   await typewriteLine('[0] ← Volver', { charDelay: 5 });
   await typewriteLine('');
   
   const batchOption = await ask(rl, 'Selecciona un batch: ');
   
   if (batchOption === '0') {
+    return;
+  }
+  
+  if (batchOption.toLowerCase() === 'a') {
+    // Ejecutar secuencialmente todos los pendientes
+    await ejecutarTodosPendientes(rl, sellerId, batchList);
     return;
   }
   
@@ -228,20 +245,85 @@ async function scrapingBatch(rl) {
             } else {
               await showError('✗ Error al consolidar productos');
             }
-            await pause('\nPresiona Enter para volver al menú...');
+            await typewriteLine('\nPresiona Enter para volver al menú...');
+            await pause(rl);
             resolve();
           });
         } else {
-          await pause('\nPresiona Enter para volver al menú...');
+          await typewriteLine('\nPresiona Enter para volver al menú...');
+          await pause(rl);
           resolve();
         }
       } else {
         await showError(`✗ Extracción finalizó con errores (código: ${code})`);
-        await pause('\nPresiona Enter para volver al menú...');
+        await typewriteLine('\nPresiona Enter para volver al menú...');
+        await pause(rl);
         resolve();
       }
     });
   });
+}
+
+// Ejecuta todos los batches pendientes para un vendedor, continuando donde se quedó
+async function ejecutarTodosPendientes(rl, sellerId, batchList) {
+  // Determinar preferencias
+  const autoConsolidar = (await ask(rl, '¿Consolidar automáticamente cada batch tras extracción? (s/n): ')).toLowerCase() === 's';
+  const forzarReextraccion = (await ask(rl, '¿Forzar re-extracción si el batch ya está extraído? (s/n): ')).toLowerCase() === 's';
+
+  await typewriteLine('');
+  await typewriteLine(`▶ Iniciando ejecución secuencial para ${sellerId} ...`);
+  
+  // Ordenar por número de batch ascendente
+  const ordered = [...batchList].sort((a, b) => parseInt(a.batchNum) - parseInt(b.batchNum));
+  for (const entry of ordered) {
+    const batchNum = entry.batchNum;
+    const dir = getVendorDir(sellerId);
+    const extractedFile = path.join(dir, `batch-${batchNum}-products.json`);
+    const consolidatedFile = path.join(dir, `batch-${batchNum}-consolidated.json`);
+    
+    // Si ya está consolidado, saltar
+    if (fs.existsSync(consolidatedFile)) {
+      await typewriteLine(`✓ Batch ${batchNum} ya consolidado — saltando`);
+      continue;
+    }
+    
+    // Si ya está extraído y no se fuerza, saltar a consolidar
+    if (fs.existsSync(extractedFile) && !forzarReextraccion) {
+      await typewriteLine(`↪ Batch ${batchNum} ya extraído — saltando extracción`);
+    } else {
+      // Ejecutar extracción
+      await typewriteLine(`\n🚀 Extrayendo Batch ${batchNum} ...\n`);
+      const ok = await new Promise((resolve) => {
+        const scriptPath = path.join(__dirname, '..', 'extract-batch-products.js');
+        const child = spawn('node', [scriptPath, sellerId, batchNum], { stdio: 'inherit' });
+        child.on('close', (code) => resolve(code === 0));
+      });
+      if (!ok) {
+        await showError(`✗ Error al extraer Batch ${batchNum}. Deteniendo ejecución.`);
+        await pause(rl);
+        return;
+      }
+      await showSuccess(`✓ Batch ${batchNum} extraído`);
+    }
+    
+    if (autoConsolidar) {
+      await typewriteLine(`\n📊 Consolidando Batch ${batchNum} ...\n`);
+      const ok2 = await new Promise((resolve) => {
+        const consolidateScript = path.join(__dirname, '..', 'consolidate-batch-products.js');
+        const childConsolidate = spawn('node', [consolidateScript, sellerId, batchNum], { stdio: 'inherit' });
+        childConsolidate.on('close', (code) => resolve(code === 0));
+      });
+      if (!ok2) {
+        await showError(`✗ Error al consolidar Batch ${batchNum}. Puedes reintentar luego.`);
+      } else {
+        await showSuccess(`✓ Batch ${batchNum} consolidado`);
+      }
+    }
+  }
+  
+  await typewriteLine('');
+  await showSuccess('🎉 Ejecución de todos los pendientes completada');
+  await pause(rl);
 }
 
 // ============================================
@@ -356,19 +438,21 @@ async function verProgreso(rl) {
         await typewriteLine(`\n📦 ${sellerId}:`, { charDelay: 10 });
         
         for (const batchFile of batchFiles) {
-          const fileName = path.basename(batchFile);
-          const match = fileName.match(/plan-batch-(\d+)\.json/);
-          const batchNum = match ? match[1] : '?';
+          // batchFile es { filename, path, number }
+          const batchNum = batchFile.number;
+          const extractedFile = path.join(getVendorDir(sellerId), `batch-${batchNum}-products.json`);
+          const consolidatedFile = path.join(getVendorDir(sellerId), `batch-${batchNum}-consolidated.json`);
           
-          const extractedFile = path.join(
-            getVendorDir(sellerId),
-            `batch-${batchNum}-products.json`
-          );
-          
-          if (fs.existsSync(extractedFile)) {
-            const content = JSON.parse(fs.readFileSync(extractedFile, 'utf-8'));
-            const totalProducts = content.products ? content.products.length : 0;
-            await typewriteLine(`  ✓ Batch ${batchNum}: ${totalProducts} productos extraídos`, { charDelay: 5 });
+          if (fs.existsSync(consolidatedFile)) {
+            await typewriteLine(`  ✓ Batch ${batchNum}: Consolidado`, { charDelay: 5 });
+          } else if (fs.existsSync(extractedFile)) {
+            try {
+              const content = JSON.parse(fs.readFileSync(extractedFile, 'utf-8'));
+              const totalProducts = Array.isArray(content.products) ? content.products.length : 0;
+              await typewriteLine(`  🔄 Batch ${batchNum}: ${totalProducts} productos extraídos (listo para consolidar)`, { charDelay: 5 });
+            } catch {
+              await typewriteLine(`  🔄 Batch ${batchNum}: productos extraídos (listo para consolidar)`, { charDelay: 5 });
+            }
           } else {
             await typewriteLine(`  ⏳ Batch ${batchNum}: Pendiente`, { charDelay: 5 });
           }
@@ -395,10 +479,9 @@ async function show(rl) {
     await typewriteLine('');
     await showTitle('EJECUTAR SCRAPING (FASE 1)', { icon: '🔄' });
     
-    await typewriteLine('[1] 🎯 Scraping Simple (vendedor completo)', { charDelay: 8 });
-    await typewriteLine('[2] 📦 Scraping por Batch', { charDelay: 8 });
-    await typewriteLine('[3] 🔧 Opciones Avanzadas', { charDelay: 8 });
-    await typewriteLine('[4] 📊 Ver progreso actual', { charDelay: 8 });
+    await typewriteLine('[1] 📦 Scraping por Batch (requiere plan)', { charDelay: 8 });
+    await typewriteLine('[2] 🔧 Opciones Avanzadas', { charDelay: 8 });
+    await typewriteLine('[3] 📊 Ver progreso actual', { charDelay: 8 });
     await typewriteLine('[0] ← Volver', { charDelay: 8 });
     await typewriteLine('');
     
@@ -406,15 +489,12 @@ async function show(rl) {
     
     switch (option) {
       case '1':
-        await scrapingSimple(rl);
-        break;
-      case '2':
         await scrapingBatch(rl);
         break;
-      case '3':
+      case '2':
         await opcionesAvanzadas(rl);
         break;
-      case '4':
+      case '3':
         await verProgreso(rl);
         break;
       case '0':

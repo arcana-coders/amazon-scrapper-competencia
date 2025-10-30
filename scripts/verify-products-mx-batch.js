@@ -64,9 +64,6 @@ const esPendienteMX = (producto) => {
   const fecha = producto.fecha_verificacion_mx;
   if (!fecha) return true;
 
-  const dias = (Date.now() - new Date(fecha).getTime()) / (1000 * 60 * 60 * 24);
-  if (dias > 7) return true;
-
   const disponibilidad = (producto.disponibilidad_mx || '').toLowerCase();
   const requiereDatos = disponibilidad === '' || disponibilidad === 'disponible';
   const missingCriticos = (!producto.precio_actual_mx && !producto.vendedor_actual_mx) && !producto.error_verificacion_mx;

@@ -9,8 +9,8 @@
  */
 async function typewriteLine(text, options = {}) {
   const {
-    charDelay = 5,  // Reducido de 15 a 5ms (3x más rápido)
-    lineDelay = 30, // Reducido de 100 a 30ms
+    charDelay = 0,  // Cambiado a 0ms para ser instantáneo
+    lineDelay = 5,  // Reducido a 5ms para ser muy rápido
     skipTypewriter = false
   } = options;
 
@@ -19,27 +19,15 @@ async function typewriteLine(text, options = {}) {
     return;
   }
 
-  // Si charDelay es 0, usar console.log directo (más rápido y sin interferir con readline)
-  if (charDelay === 0) {
+    // Ignoramos cualquier opción de delay para mantener salida inmediata
     console.log(text);
-    await new Promise(resolve => setTimeout(resolve, lineDelay));
-    return;
-  }
-
-  for (const char of text) {
-    process.stdout.write(char);
-    await new Promise(resolve => setTimeout(resolve, charDelay));
-  }
-  
-  process.stdout.write('\n');
-  await new Promise(resolve => setTimeout(resolve, lineDelay));
 }
 
 /**
  * Mostrar línea separadora
  */
 async function showSeparator(char = '─', length = 50) {
-  await typewriteLine(char.repeat(length), { charDelay: 0 });
+  await typewriteLine(char.repeat(length));
 }
 
 /**
@@ -52,7 +40,7 @@ async function showTitle(text, options = {}) {
     await showSeparator('═');
   }
   
-  await typewriteLine(`${icon} ${text}`, { charDelay: 3 }); // Reducido de 12 a 3ms
+    await typewriteLine(`${icon} ${text}`);
   
   if (separator) {
     await showSeparator('═');
@@ -65,7 +53,7 @@ async function showTitle(text, options = {}) {
  * Mostrar mensaje de error
  */
 async function showError(message) {
-  await typewriteLine(`❌ ${message}`, { charDelay: 3 }); // Reducido de 10 a 3ms
+  await typewriteLine(`❌ ${message}`);
   await typewriteLine('');
 }
 
@@ -73,7 +61,7 @@ async function showError(message) {
  * Mostrar mensaje de éxito
  */
 async function showSuccess(message) {
-  await typewriteLine(`✅ ${message}`, { charDelay: 3 }); // Reducido de 10 a 3ms
+  await typewriteLine(`✅ ${message}`);
   await typewriteLine('');
 }
 
@@ -81,7 +69,7 @@ async function showSuccess(message) {
  * Mostrar mensaje de advertencia
  */
 async function showWarning(message) {
-  await typewriteLine(`⚠️  ${message}`, { charDelay: 3 }); // Reducido de 10 a 3ms
+  await typewriteLine(`⚠️  ${message}`);
   await typewriteLine('');
 }
 
@@ -89,7 +77,7 @@ async function showWarning(message) {
  * Mostrar mensaje de información
  */
 async function showInfo(message) {
-  await typewriteLine(`ℹ️  ${message}`, { charDelay: 3 }); // Reducido de 10 a 3ms
+  await typewriteLine(`ℹ️  ${message}`);
   await typewriteLine('');
 }
 
@@ -97,25 +85,36 @@ async function showInfo(message) {
  * Limpiar pantalla
  */
 function clearScreen() {
-  console.clear();
+  // No limpiar pantalla para mantener historial visible según requerimiento
 }
 
 /**
  * Pausa con mensaje
+ * Acepta ya sea un rl existente o un mensaje de texto.
+ * - Si se pasa un objeto con método question (rl), usa ese rl y NO crea uno nuevo.
+ * - Si se pasa un string (mensaje) o nada, crea un rl temporal y lo cierra al finalizar.
  */
-async function pause(message = 'Presiona Enter para continuar...') {
-  const readline = require('readline');
-  const rl = readline.createInterface({
-    input: process.stdin,
-    output: process.stdout
-  });
-  
-  return new Promise(resolve => {
-    rl.question(message, () => {
-      rl.close();
-      resolve();
+async function pause(rlOrMessage = 'Presiona Enter para continuar...') {
+  const isRl = rlOrMessage && typeof rlOrMessage === 'object' && typeof rlOrMessage.question === 'function';
+  const message = isRl ? 'Presiona Enter para continuar...' : rlOrMessage;
+
+  if (isRl) {
+    const rl = rlOrMessage;
+    return new Promise(resolve => {
+      rl.question(message, () => {
+        resolve();
+      });
     });
-  });
+  } else {
+    const readline = require('readline');
+    const rl = readline.createInterface({ input: process.stdin, output: process.stdout });
+    return new Promise(resolve => {
+      rl.question(message, () => {
+        rl.close();
+        resolve();
+      });
+    });
+  }
 }
 
 /**

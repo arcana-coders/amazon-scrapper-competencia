@@ -242,7 +242,7 @@ if (!sellerId || typeof sellerId !== 'string') {
 2. **Probar tu código**:
    ```bash
    # Ejecutar el sistema
-   node PANELMAESTRO-v2.js
+   node MENU.js
    
    # Probar tu módulo específico
    # Verificar que no hay errores

@@ -124,7 +124,19 @@ async function verificarProductosPendientesMX(sellerId, batchNumber) {
       return 0;
     }
     
-    const pendientes = data.filter(p => !p.fecha_verificacion_mx).length;
+    // Usar la misma lógica que verify-products-mx-batch.js
+    const esPendienteMX = (producto) => {
+      const fecha = producto.fecha_verificacion_mx;
+      if (!fecha) return true;
+
+      const disponibilidad = (producto.disponibilidad_mx || '').toLowerCase();
+      const requiereDatos = disponibilidad === '' || disponibilidad === 'disponible';
+      const missingCriticos = (!producto.precio_actual_mx && !producto.vendedor_actual_mx) && !producto.error_verificacion_mx;
+
+      return requiereDatos && missingCriticos;
+    };
+    
+    const pendientes = data.filter(esPendienteMX).length;
     console.log(`📊 DEBUG: Total productos: ${data.length}, Pendientes: ${pendientes}`);
     return pendientes;
   } catch (e) {

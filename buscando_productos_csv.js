@@ -60,8 +60,10 @@ let productos = [];
 let total = 0;
 let excluidos_por_precio = 0;
 
-// Límite máximo de precio para oportunidades
-const PRECIO_MAXIMO = 7000;
+// Límites de precio para oportunidades
+const PRECIO_MAXIMO = 7000;          // excluir > 7000 en todos los filtros
+const PRECIO_MIN_PRINCIPAL = 699;    // incluir solo >= 699 en oportunidad directa
+const PRECIO_MIN_OTROS = 1000;       // incluir solo >= 1000 en -50 y -100
 
 fs.createReadStream(INPUT)
   .pipe(csv())
@@ -70,19 +72,25 @@ fs.createReadStream(INPUT)
     productos.push(row);
   })
   .on('end', () => {
-    let usados = new Set();
-    let oportunidades = [];
-    let oportunidades_menos_50 = [];
-    let oportunidades_menos_100 = [];
+  let usados = new Set();
+  let oportunidades = [];
+  let oportunidades_menos_50 = [];
+  let oportunidades_menos_100 = [];
+  let excluidos_por_min_principal = 0;
+  let excluidos_por_min_otros = 0;
 
     // 1. Primer filtro: precio_sugerido < precio_actual_mx
     productos.forEach(row => {
       const sugerido = parseFloat(row['precio_sugerido']);
       const actual = parseFloat(row['precio_actual_mx']);
       
-      // Excluir productos con precio mayor a $7,000
+      // Excluir por rango para principal: < 699 o > 7000
       if (!isNaN(actual) && actual > PRECIO_MAXIMO) {
         excluidos_por_precio++;
+        return;
+      }
+      if (!isNaN(actual) && actual < PRECIO_MIN_PRINCIPAL) {
+        excluidos_por_min_principal++;
         return;
       }
       
@@ -101,8 +109,12 @@ fs.createReadStream(INPUT)
         const sugerido = parseFloat(row['precio_sugerido']);
         const actual = parseFloat(row['precio_actual_mx']);
         
-        // Excluir productos con precio mayor a $7,000
+        // Excluir por rango para -50: < 1000 o > 7000
         if (!isNaN(actual) && actual > PRECIO_MAXIMO) {
+          return;
+        }
+        if (!isNaN(actual) && actual < PRECIO_MIN_OTROS) {
+          excluidos_por_min_otros++;
           return;
         }
         
@@ -124,8 +136,12 @@ fs.createReadStream(INPUT)
         const sugerido = parseFloat(row['precio_sugerido']);
         const actual = parseFloat(row['precio_actual_mx']);
         
-        // Excluir productos con precio mayor a $7,000
+        // Excluir por rango para -100: < 1000 o > 7000
         if (!isNaN(actual) && actual > PRECIO_MAXIMO) {
+          return;
+        }
+        if (!isNaN(actual) && actual < PRECIO_MIN_OTROS) {
+          excluidos_por_min_otros++;
           return;
         }
         
@@ -175,6 +191,12 @@ fs.createReadStream(INPUT)
     console.log(`📊 Se analizaron ${total} productos`);
     if (excluidos_por_precio > 0) {
       console.log(`⚠️  Se excluyeron ${excluidos_por_precio} productos con precio > $${PRECIO_MAXIMO.toLocaleString()}`);
+    }
+    if (excluidos_por_min_principal > 0) {
+      console.log(`⚠️  Se excluyeron ${excluidos_por_min_principal} productos con precio < $${PRECIO_MIN_PRINCIPAL} para oportunidad directa`);
+    }
+    if (excluidos_por_min_otros > 0) {
+      console.log(`⚠️  Se excluyeron ${excluidos_por_min_otros} productos con precio < $${PRECIO_MIN_OTROS} para oportunidades -50/-100`);
     }
     console.log('');
     console.log('📈 Resumen de oportunidades:');

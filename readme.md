@@ -8,15 +8,25 @@
 
 ---
 
-## � Descripción
+## 📖 Descripción
 
-Sistema completo para automatizar el flujo de productos en Amazon:
+Sistema completo para **dropshipping USA → MX** en Amazon:
 
-1. **Scraping inteligente** de productos de vendedores en Amazon México
-2. **Verificación** de precios y disponibilidad en Amazon USA
-3. **Análisis de oportunidades** de negocio con fórmulas personalizables
-4. **Gestión de plantillas** de Seller Central
+**Modelo de Negocio:**
+1. Identificamos **tiendas exitosas** en Amazon MX (competidores)
+2. **Copiamos su catálogo completo** (extraemos todos sus ASINs)
+3. **Verificamos precios actuales** en MX (buy box) y USA (costo)
+4. **Aplicamos fórmulas** de ganancia para identificar oportunidades
+5. **Publicamos productos rentables** en nuestra tienda de Amazon MX
+
+**Flujo Técnico:**
+1. **Scraping inteligente** de catálogos de vendedores competidores
+2. **Verificación snapshot** de precios en MX y USA (una sola vez)
+3. **Análisis de oportunidades** con fórmulas de ganancia personalizables
+4. **Gestión de plantillas** de Amazon Seller Central
 5. **Publicación automatizada** de productos
+
+**Lee la documentación completa del modelo de negocio:** [`docs/MODELO-NEGOCIO.md`](docs/MODELO-NEGOCIO.md)
 
 **Características clave**:
 - ✅ Arquitectura modular y escalable
@@ -58,7 +68,7 @@ npx playwright install
 
 ```bash
 # Ejecutar panel principal
-node PANELMAESTRO-v2.js
+node MENU.js
 
 # O ejecutar scripts individuales
 node scripts/test-seller.js SELLER_ID
@@ -71,7 +81,7 @@ node scripts/test-seller.js SELLER_ID
 ```
 amazon-scrapper-otherseller/
 │
-├── PANELMAESTRO-v2.js           # Panel principal modular
+├── MENU.js           # Panel principal modular
 ├── modules/                      # Módulos del sistema
 │   ├── utils/                    # Utilidades compartidas
 │   │   ├── display-utils.js      # Funciones de display
@@ -118,7 +128,7 @@ amazon-scrapper-otherseller/
 
 ### 1️⃣ Gestión de Vendedores
 
-- Registrar nuevos vendedores por Seller ID
+- Registrar vendedores competidores por Seller ID
 - Ver lista completa con estadísticas
 - Eliminar vendedores del registro
 - Ver detalles completos (archivos, batches, productos)
@@ -130,13 +140,14 @@ amazon-scrapper-otherseller/
 - Ver estado de planes y progreso
 - Resetear planes para regenerar
 
-### 3️⃣ Extracción de Productos
+### 3️⃣ Extracción de Productos (Scraping)
 
-- **Scraping Simple**: Extracción completa del vendedor
-- **Scraping por Batch**: Extracción selectiva por batch
+- **Scraping Simple**: Extracción completa del vendedor pequeño
+- **Scraping por Batch**: Extracción selectiva por batch (para vendedores grandes)
 - **Extracción Jerárquica**: Bypass del límite de 320 productos de Amazon
 - Ver progreso en tiempo real
 - Consolidación automática (JSON + CSV)
+- ⚠️ **Se hace UNA SOLA VEZ por vendedor** (no se re-scrapea)
 
 **Sistema jerárquico**:
 ```
@@ -149,7 +160,55 @@ Categoría padre (ej: Deportes)
     = Total: N × 320 productos (sin límite)
 ```
 
-### 4️⃣ Consolidación y CSV
+### 4️⃣ Verificación de Precios (Snapshot Único)
+
+- **Verificación MX**: Precio del buy box y vendedor actual en Amazon.com.mx
+- **Verificación USA**: Precio en USD en Amazon.com (costo para nosotros)
+- Detección automática de disponibilidad
+- Registro de errores (captcha, timeout, etc.)
+- ⚠️ **Snapshot único**: Se verifica UNA VEZ, no se vuelve a verificar
+
+**Propósito**: Obtener datos para análisis de oportunidades, no mantener precios actualizados.
+
+### 5️⃣ Análisis de Oportunidades
+
+- Aplicación de fórmulas de ganancia personalizables
+- Filtrado por niveles de agresividad (precio exacto, -50, -100)
+- Exclusión de productos > $7,000
+- Generación de 3 archivos CSV por batch
+- Estadísticas de oportunidades encontradas
+
+**Fórmula**:
+```
+precio_sugerido = (precio_usa × tipo_cambio) + costos_importación
+es_rentable = precio_sugerido < precio_actual_mx
+```
+
+### 6️⃣ Gestión de Plantillas
+
+- Solicitar plantilla a Amazon Seller Central
+- Descargar plantilla generada
+- Llenar plantilla con productos de oportunidades (máx 500)
+- Validación automática de límites
+- Ver estado de plantillas
+
+### 7️⃣ Publicación Automatizada
+
+- Subir plantilla llenada a Seller Central
+- Consultar estado de feed
+- Ver resumen de publicaciones
+- Registro de subidas con fecha
+
+### 8️⃣ Reportes y Estadísticas
+
+- Resumen general del sistema
+- Reporte detallado por vendedor
+- Métricas de oportunidades
+- Exportar reportes
+
+---
+
+## 📊 Consolidación y Archivos Generados
 
 Generación automática de archivos consolidados:
 
@@ -192,12 +251,18 @@ CSV generado automáticamente con escape correcto para importación directa.
 
 ## 📚 Documentación
 
-Toda la documentación está en la carpeta **`docs/`**:
+Documentación completa en [`docs/`](docs/):
 
-| Documento | Descripción |
-|-----------|-------------|
-| [INDICE-DOCUMENTACION.md](docs/INDICE-DOCUMENTACION.md) | 📑 Índice completo |
-| [README-PANELMAESTRO-V2.md](docs/README-PANELMAESTRO-V2.md) | 📘 Sistema modular |
+| Documento | Descripción | Tiempo |
+|-----------|-------------|--------|
+| **[MODELO-NEGOCIO.md](docs/MODELO-NEGOCIO.md)** 🌟 | **LEE ESTO PRIMERO**: Modelo de negocio, flujo completo, conceptos clave | 10 min |
+| [README-PANELMAESTRO-V2.md](docs/README-PANELMAESTRO-V2.md) | Guía de uso del panel principal | 15 min |
+| [CRITERIOS-VERIFICACION.md](docs/CRITERIOS-VERIFICACION.md) | Estados de verificación + comandos | 5 min |
+| [FLUJO-OPORTUNIDADES.md](docs/FLUJO-OPORTUNIDADES.md) | Scripts y fórmulas técnicas | 10 min |
+
+**Total**: 4 documentos esenciales (~40 minutos)
+
+**Empieza aquí**: [`docs/MODELO-NEGOCIO.md`](docs/MODELO-NEGOCIO.md)
 | [RESUMEN-IMPLEMENTACION.md](docs/RESUMEN-IMPLEMENTACION.md) | 📊 Estado del proyecto |
 | [GUIA-MIGRACION-V1-V2.md](docs/GUIA-MIGRACION-V1-V2.md) | 🔄 Migración V1→V2 |
 | [README-EXTRACCION-JERARQUICA.md](docs/README-EXTRACCION-JERARQUICA.md) | 🌳 Sistema jerárquico |
@@ -213,7 +278,7 @@ Toda la documentación está en la carpeta **`docs/`**:
 ### Registrar un vendedor
 
 ```bash
-node PANELMAESTRO-v2.js
+node MENU.js
 # Seleccionar [1] Gestión de Vendedores
 # Seleccionar [1] Registrar nuevo vendedor
 # Ingresar Seller ID: A2Q3Y263D00KWC
@@ -222,7 +287,7 @@ node PANELMAESTRO-v2.js
 ### Generar plan de batches
 
 ```bash
-node PANELMAESTRO-v2.js
+node MENU.js
 # Seleccionar [2] Generar Plan de Scraping
 # Seleccionar [2] Plan Batches
 # Ingresar Seller ID
@@ -231,7 +296,7 @@ node PANELMAESTRO-v2.js
 ### Extraer productos por batch
 
 ```bash
-node PANELMAESTRO-v2.js
+node MENU.js
 # Seleccionar [3] Ejecutar Scraping
 # Seleccionar [2] Scraping por Batch
 # Seleccionar vendedor y número de batch
@@ -260,7 +325,7 @@ node consolidate-batch-products.js A2Q3Y263D00KWC
 
 ```
 ┌─────────────────────────────────┐
-│   PANELMAESTRO-v2.js            │
+│   MENU.js            │
 │   (Orquestador principal)       │
 └────────────┬────────────────────┘
              │

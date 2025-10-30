@@ -124,7 +124,19 @@ async function verificarProductosPendientesUSA(sellerId, batchNumber) {
       return 0;
     }
     
-    const pendientes = data.filter(p => !p.fecha_verificacion_usa).length;
+    // Usar la misma lógica que verify-products-usa-batch.js
+    const esPendienteUSA = (producto) => {
+      const fecha = producto.fecha_verificacion_usa;
+      if (!fecha) return true;
+
+      const disponibilidad = (producto.disponibilidad_usa || '').toLowerCase();
+      const requiereDatos = disponibilidad === '' || disponibilidad === 'disponible';
+      const missingCriticos = (!producto.precio_actual_usd && !producto.vendedor_actual_usa) && !producto.error_verificacion_usa;
+
+      return requiereDatos && missingCriticos;
+    };
+    
+    const pendientes = data.filter(esPendienteUSA).length;
     console.log(`📊 DEBUG: Total productos: ${data.length}, Pendientes: ${pendientes}`);
     return pendientes;
   } catch (e) {

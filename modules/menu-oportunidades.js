@@ -140,6 +140,7 @@ async function generarOportunidades(rl) {
     await typewriteLine('');
     await typewriteLine('  [1] 🎯 Generar oportunidades de batch específico');
     await typewriteLine('  [2] 🔄 Generar oportunidades de todos los batches');
+    await typewriteLine('  [3] 📦 Generar oportunidades consolidadas (máx 500 ASINs por archivo)');
     await typewriteLine('  [0] ← Cancelar');
     await typewriteLine('');
     
@@ -151,6 +152,8 @@ async function generarOportunidades(rl) {
       await generarOportunidadesBatchEspecifico(rl, sellerId, batches);
     } else if (opcion === '2') {
       await generarOportunidadesTodosLosBatches(rl, sellerId, batches);
+    } else if (opcion === '3') {
+      await generarOportunidadesConsolidadas(rl, sellerId, batches);
     } else {
       await showError('Opción inválida');
       await ask(rl, '\nPresiona ENTER para continuar...');
@@ -306,7 +309,7 @@ async function ejecutarGeneracionOportunidades(rl, sellerId, batchNumber) {
   const rootDir = path.join(__dirname, '..');
   
   // Paso 1: Ejecutar prepare_business_csv.js
-  await showInfo('� Paso 1/2: Filtrando productos con precios válidos...');
+  await showInfo('📊 Paso 1/2: Filtrando productos con precios válidos...');
   await typewriteLine('');
   
   const success1 = await ejecutarScript(
@@ -490,4 +493,375 @@ async function verResumenOportunidades(rl) {
   await ask(rl, 'Presiona ENTER para continuar...');
 }
 
-module.exports = { show };
+/**
+ * Generar oportunidades consolidadas (todos los batches en archivos de máximo 500 ASINs)
+ */
+async function generarOportunidadesConsolidadas(rl, sellerId, batches) {
+  await typewriteLine('');
+  await showSeparator();
+  await typewriteLine('');
+  
+  // Verificar que el vendedor esté listo
+  const phaseInfo = detectVendorPhase(sellerId);
+  
+  if (!phaseInfo.ready) {
+    await typewriteLine('');
+    await showWarning(`⚠️  El vendedor no está listo para generar oportunidades`);
+    await showInfo(`Estado actual: ${phaseInfo.label}`);
+    
+    if (phaseInfo.stats) {
+      await typewriteLine('');
+      await typewriteLine(`   📊 Productos totales: ${phaseInfo.stats.total}`);
+      await typewriteLine(`   🇲🇽 Verificados MX: ${phaseInfo.stats.mx}/${phaseInfo.stats.total}`);
+      await typewriteLine(`   🇺🇸 Verificados USA: ${phaseInfo.stats.usa}/${phaseInfo.stats.total}`);
+      await typewriteLine('');
+      
+      if (phaseInfo.stats.mx < phaseInfo.stats.total) {
+        await showInfo('❌ Falta completar verificación MX - Menú [4]');
+      }
+      if (phaseInfo.stats.usa < phaseInfo.stats.total) {
+        await showInfo('❌ Falta completar verificación USA - Menú [5]');
+      }
+    }
+    
+    await typewriteLine('');
+    await showInfo('💡 Ambas verificaciones (MX y USA) deben estar al 100% antes de generar oportunidades');
+    await ask(rl, '\nPresiona ENTER para continuar...');
+    return;
+  }
+  
+  // Mostrar información del proceso
+  await showInfo(`Generación de oportunidades consolidadas para ${sellerId}`);
+  await typewriteLine('');
+  await typewriteLine(`📦 Batches a consolidar: ${batches.length}`);
+  await typewriteLine(`📊 Productos totales: ${phaseInfo.stats.total}`);
+  await typewriteLine(`💼 Archivos máx 500 ASINs cada uno`);
+  await typewriteLine('');
+  await showWarning('Este proceso:');
+  await typewriteLine('  1. Combinará todos los batches consolidados');
+  await typewriteLine('  2. Eliminará duplicados por ASIN');
+  await typewriteLine('  3. Aplicará filtros de oportunidades');
+  await typewriteLine('  4. Dividirá en archivos de máximo 500 ASINs');
+  await typewriteLine('  5. Generará 3 tipos: principal, menos_50, menos_100');
+  await typewriteLine('');
+  
+  const confirmar = await ask(rl, '¿Continuar? (s/n): ');
+  
+  if (confirmar.toLowerCase() !== 's') {
+    await showInfo('Operación cancelada');
+    return;
+  }
+  
+  await typewriteLine('');
+  await showSeparator();
+  await typewriteLine('');
+  await showSuccess('🚀 Iniciando generación de oportunidades consolidadas...');
+  
+  try {
+    // Ejecutar la consolidación y generación
+    await ejecutarGeneracionOportunidadesConsolidadas(rl, sellerId, batches);
+    
+    await typewriteLine('');
+    await showSuccess('✅ Oportunidades consolidadas generadas exitosamente');
+    
+  } catch (error) {
+    await typewriteLine('');
+    await showError('❌ Error durante la generación:');
+    await typewriteLine(`   ${error.message}`);
+  }
+  
+  await typewriteLine('');
+  await ask(rl, 'Presiona ENTER para continuar...');
+}
+
+/**
+ * Ejecutar la generación de oportunidades consolidadas
+ */
+async function ejecutarGeneracionOportunidadesConsolidadas(rl, sellerId, batches) {
+  const fs = require('fs');
+  const path = require('path');
+  const csv = require('csv-parser');
+  const { parse } = require('json2csv');
+  
+  const baseDir = path.join(__dirname, '..', 'data', 'vendors', sellerId);
+  
+  await showInfo('📂 Paso 1: Consolidando todos los batches...');
+  
+  // Leer y combinar todos los batch-N-consolidated.json
+  const todosLosProductos = [];
+  const asinsVistos = new Set();
+  
+  for (const batch of batches) {
+    if (batch.json && fs.existsSync(batch.json)) {
+      try {
+        const data = JSON.parse(fs.readFileSync(batch.json, 'utf8'));
+        const products = data.all_products || data.products || [];
+        
+        await typewriteLine(`   📦 Batch ${batch.number}: ${products.length} productos`);
+        
+        for (const producto of products) {
+          if (producto.asin && !asinsVistos.has(producto.asin)) {
+            todosLosProductos.push(producto);
+            asinsVistos.add(producto.asin);
+          }
+        }
+      } catch (e) {
+        await typewriteLine(`   ❌ Error leyendo batch ${batch.number}: ${e.message}`);
+      }
+    }
+  }
+  
+  await typewriteLine('');
+  await typewriteLine(`📊 Total productos únicos: ${todosLosProductos.length}`);
+  
+  // Crear archivo temporal consolidado completo
+  const archivoConsolidadoCompleto = path.join(baseDir, 'vendedor-completo-consolidated.json');
+  fs.writeFileSync(archivoConsolidadoCompleto, JSON.stringify({ all_products: todosLosProductos }, null, 2));
+  
+  await showInfo('📋 Paso 2: Procesando filtros y oportunidades...');
+  
+  // Usar lógica similar a los scripts existentes pero integrada
+  await procesarOportunidadesConsolidadas(rl, sellerId, todosLosProductos);
+  
+  // Limpiar archivo temporal
+  if (fs.existsSync(archivoConsolidadoCompleto)) {
+    fs.unlinkSync(archivoConsolidadoCompleto);
+  }
+}
+
+/**
+ * Procesar oportunidades consolidadas con división en chunks de 500
+ */
+async function procesarOportunidadesConsolidadas(rl, sellerId, productos) {
+  const fs = require('fs');
+  const path = require('path');
+  const { parse } = require('json2csv');
+  
+  const baseDir = path.join(__dirname, '..', 'data', 'vendors', sellerId);
+  
+  await typewriteLine('   🔍 Aplicando filtros de negocio...');
+  
+  // PASO 1: Aplicar filtros iniciales (lógica EXACTA de prepare_business_csv.js)
+  const productosFiltrados = productos.filter(producto => {
+    return producto.precio_actual_mx && 
+           producto.precio_actual_usd && 
+           producto.price;
+  });
+  
+  await typewriteLine(`   ✅ Productos con datos completos: ${productosFiltrados.length}`);
+  
+  // PASO 2: Calcular precio sugerido (lógica EXACTA de prepare_business_csv.js)
+  const productosConPrecioSugerido = [];
+  
+  for (const producto of productosFiltrados) {
+    let nuevo = { ...producto };
+    
+    // Cálculo EXACTO de precio_sugerido
+    let precio_usd = parseFloat(producto.precio_actual_usd);
+    if (!isNaN(precio_usd)) {
+      nuevo.precio_sugerido = (precio_usd * 41.79 + 314.81).toFixed(2);
+    } else {
+      nuevo.precio_sugerido = '';
+    }
+    
+    productosConPrecioSugerido.push(nuevo);
+  }
+  
+  await typewriteLine('   💰 Identificando oportunidades...');
+  
+  // PASO 3: Aplicar 3 filtros de oportunidades (lógica EXACTA de buscando_productos_csv.js)
+  
+  // Función ajustarCompetitivo EXACTA del script original
+  function ajustarCompetitivo(precio_actual_mx, competitivo) {
+    if (precio_actual_mx <= 2500) {
+      const limite = precio_actual_mx - 100;
+      return competitivo < limite ? limite : competitivo;
+    } else {
+      const limite = precio_actual_mx - 200;
+      return competitivo < limite ? limite : competitivo;
+    }
+  }
+  
+  let usados = new Set();
+  let oportunidades = [];
+  let oportunidades_menos_50 = [];
+  let oportunidades_menos_100 = [];
+  
+  // Límites de precio
+  const PRECIO_MAXIMO = 7000;          // excluir > 7000 en todos los filtros
+  const PRECIO_MIN_PRINCIPAL = 699;    // incluir solo >= 699 en oportunidad directa
+  const PRECIO_MIN_OTROS = 1000;       // incluir solo >= 1000 en -50 y -100
+  let excluidos_por_precio = 0;
+  let excluidos_por_min_principal = 0;
+  let excluidos_por_min_otros = 0;
+  
+  // 1. Primer filtro EXACTO: precio_sugerido < precio_actual_mx
+  productosConPrecioSugerido.forEach(row => {
+    const sugerido = parseFloat(row.precio_sugerido);
+    const actual = parseFloat(row.precio_actual_mx);
+    
+    // Excluir por rango para principal: < 699 o > 7000
+    if (!isNaN(actual) && actual > PRECIO_MAXIMO) {
+      excluidos_por_precio++;
+      return;
+    }
+    if (!isNaN(actual) && actual < PRECIO_MIN_PRINCIPAL) {
+      excluidos_por_min_principal++;
+      return;
+    }
+    
+    if (!isNaN(sugerido) && !isNaN(actual) && sugerido < actual) {
+      let competitivo = ajustarCompetitivo(actual, sugerido);
+      let nuevo = { ...row, precio_competitivo: competitivo.toFixed(2) };
+      oportunidades.push(nuevo);
+      usados.add(row.asin);
+    }
+  });
+  
+  // 2. Segundo filtro EXACTO: (precio_sugerido - 50) < precio_actual_mx,
+  // pero solo si no está en oportunidades y sugerido >= actual
+  productosConPrecioSugerido.forEach(row => {
+    if (!usados.has(row.asin)) {
+      const sugerido = parseFloat(row.precio_sugerido);
+      const actual = parseFloat(row.precio_actual_mx);
+      
+      // Excluir por rango para -50: < 1000 o > 7000
+      if (!isNaN(actual) && actual > PRECIO_MAXIMO) {
+        return;
+      }
+      if (!isNaN(actual) && actual < PRECIO_MIN_OTROS) {
+        excluidos_por_min_otros++;
+        return;
+      }
+      
+      if (!isNaN(sugerido) && !isNaN(actual)) {
+        if ((sugerido - 50) < actual && sugerido >= actual) {
+          let competitivo = ajustarCompetitivo(actual, sugerido - 50);
+          let nuevo = { ...row, precio_competitivo: competitivo.toFixed(2) };
+          oportunidades_menos_50.push(nuevo);
+          usados.add(row.asin);
+        }
+      }
+    }
+  });
+  
+  // 3. Tercer filtro EXACTO: (precio_sugerido - 100) < precio_actual_mx,
+  // pero solo si no está en anteriores
+  productosConPrecioSugerido.forEach(row => {
+    if (!usados.has(row.asin)) {
+      const sugerido = parseFloat(row.precio_sugerido);
+      const actual = parseFloat(row.precio_actual_mx);
+      
+      // Excluir por rango para -100: < 1000 o > 7000
+      if (!isNaN(actual) && actual > PRECIO_MAXIMO) {
+        return;
+      }
+      if (!isNaN(actual) && actual < PRECIO_MIN_OTROS) {
+        excluidos_por_min_otros++;
+        return;
+      }
+      
+      if (!isNaN(sugerido) && !isNaN(actual)) {
+        if ((sugerido - 100) < actual && (sugerido - 50) >= actual) {
+          let competitivo = ajustarCompetitivo(actual, sugerido - 100);
+          let nuevo = { ...row, precio_competitivo: competitivo.toFixed(2) };
+          oportunidades_menos_100.push(nuevo);
+          usados.add(row.asin);
+        }
+      }
+    }
+  });
+  
+  await typewriteLine(`   📊 Oportunidades principales: ${oportunidades.length}`);
+  await typewriteLine(`   📊 Oportunidades menos $50: ${oportunidades_menos_50.length}`);
+  await typewriteLine(`   📊 Oportunidades menos $100: ${oportunidades_menos_100.length}`);
+  
+  if (excluidos_por_precio > 0) {
+    await typewriteLine(`   ⚠️  Excluidos por precio > $${PRECIO_MAXIMO.toLocaleString()}: ${excluidos_por_precio}`);
+  }
+  if (excluidos_por_min_principal > 0) {
+    await typewriteLine(`   ⚠️  Excluidos por precio < $${PRECIO_MIN_PRINCIPAL} (oportunidad directa): ${excluidos_por_min_principal}`);
+  }
+  if (excluidos_por_min_otros > 0) {
+    await typewriteLine(`   ⚠️  Excluidos por precio < $${PRECIO_MIN_OTROS} (oportunidades -50/-100): ${excluidos_por_min_otros}`);
+  }
+  
+  await typewriteLine('');
+  await showInfo('📄 Paso 3: Generando archivos con máximo 500 ASINs...');
+  
+  // Generar archivos divididos en chunks de 500
+  const oportunidadesParaArchivos = {
+    principal: oportunidades,
+    menos50: oportunidades_menos_50,
+    menos100: oportunidades_menos_100
+  };
+  
+  await generarArchivosChunkeados(rl, baseDir, sellerId, oportunidadesParaArchivos);
+}
+
+/**
+ * Generar archivos divididos en chunks de máximo 500 ASINs
+ */
+async function generarArchivosChunkeados(rl, baseDir, sellerId, oportunidades) {
+  const fs = require('fs');
+  const path = require('path');
+  const { parse } = require('json2csv');
+  
+  const CHUNK_SIZE = 500;
+  const campos = [
+    'asin', 'precio_actual_mx', 'precio_actual_usd', 'price', 'title',
+    'precio_sugerido', 'url_usa', 'vendedor_actual_mx', 'vendedor_actual_usa', 'precio_competitivo'
+  ];
+  
+  // Función helper para dividir array en chunks
+  const dividirEnChunks = (array, size) => {
+    const chunks = [];
+    for (let i = 0; i < array.length; i += size) {
+      chunks.push(array.slice(i, i + size));
+    }
+    return chunks;
+  };
+  
+  const tiposOportunidades = [
+    { key: 'principal', nombre: 'oportunidades', datos: oportunidades.principal },
+    { key: 'menos50', nombre: 'oportunidades-menos-50', datos: oportunidades.menos50 },
+    { key: 'menos100', nombre: 'oportunidades-menos-100', datos: oportunidades.menos100 }
+  ];
+  
+  let totalArchivos = 0;
+  
+  for (const tipo of tiposOportunidades) {
+    if (tipo.datos.length === 0) {
+      await typewriteLine(`   📄 ${tipo.nombre}: Sin datos para generar`);
+      continue;
+    }
+    
+    const chunks = dividirEnChunks(tipo.datos, CHUNK_SIZE);
+    await typewriteLine(`   📄 ${tipo.nombre}: ${chunks.length} archivo${chunks.length > 1 ? 's' : ''} (${tipo.datos.length} productos)`);
+    
+    for (let i = 0; i < chunks.length; i++) {
+      const chunk = chunks[i];
+      const numeroParte = i + 1;
+      const nombreArchivo = chunks.length > 1 
+        ? `vendedor-${tipo.nombre}-parte-${numeroParte}.csv`
+        : `vendedor-${tipo.nombre}.csv`;
+      
+      const rutaArchivo = path.join(baseDir, nombreArchivo);
+      
+      try {
+        const csvData = parse(chunk, { fields: campos });
+        fs.writeFileSync(rutaArchivo, csvData);
+        totalArchivos++;
+        
+        await typewriteLine(`     ✅ ${nombreArchivo} (${chunk.length} productos)`);
+      } catch (error) {
+        await typewriteLine(`     ❌ Error generando ${nombreArchivo}: ${error.message}`);
+      }
+    }
+  }
+  
+  await typewriteLine('');
+  await showSuccess(`📁 Total archivos generados: ${totalArchivos}`);
+}
+
+module.exports = { show, generarOportunidadesConsolidadas };

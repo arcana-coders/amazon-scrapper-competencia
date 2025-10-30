@@ -58,8 +58,8 @@ function listVendorFiles(sellerId, pattern = null) {
  * Contar productos del vendedor
  */
 function countVendorProducts(sellerId) {
+  // 1) Contar desde archivos "-products.json" (scraping bruto)
   const files = listVendorFiles(sellerId, '-products.json');
-  
   let totalProducts = 0;
   
   files.forEach(file => {
@@ -77,7 +77,69 @@ function countVendorProducts(sellerId) {
     }
   });
   
-  return totalProducts;
+  if (totalProducts > 0) {
+    return totalProducts;
+  }
+  
+  // 2) Fallback: usar consolidado único si existe
+  try {
+    const consolidated = path.join(getVendorDir(sellerId), 'all-products-consolidated.json');
+    if (fs.existsSync(consolidated)) {
+      const content = JSON.parse(fs.readFileSync(consolidated, 'utf8'));
+      const arr = Array.isArray(content) ? content : (content.all_products || content.products || []);
+      if (Array.isArray(arr)) {
+        return arr.length;
+      }
+    }
+  } catch (e) {
+    // ignorar
+  }
+  
+  // 3) Fallback: sumar consolidado por batches si existen
+  try {
+    const batches = getBatchConsolidatedFiles(sellerId);
+    if (batches && batches.length > 0) {
+      let sum = 0;
+      for (const b of batches) {
+        if (b.json && fs.existsSync(b.json)) {
+          try {
+            const data = JSON.parse(fs.readFileSync(b.json, 'utf8'));
+            const arr = Array.isArray(data) ? data : (data.all_products || data.products || []);
+            if (Array.isArray(arr)) {
+              sum += arr.length;
+            }
+          } catch (_) {
+            // continuar
+          }
+        }
+      }
+      if (sum > 0) return sum;
+    }
+  } catch (e) {
+    // ignorar
+  }
+  
+  // 4) Último recurso: estimar usando expected_products de los planes de batches
+  try {
+    const batchFiles = getBatchFiles(sellerId);
+    if (batchFiles.length > 0) {
+      let expected = 0;
+      batchFiles.forEach(batch => {
+        try {
+          const data = JSON.parse(fs.readFileSync(batch.path, 'utf8'));
+          const categories = data.categories || [];
+          expected += categories.reduce((sum, cat) => sum + (cat.expected_products || 0), 0);
+        } catch (_) {
+          // continuar
+        }
+      });
+      if (expected > 0) return expected;
+    }
+  } catch (e) {
+    // ignorar
+  }
+  
+  return 0;
 }
 
 /**
@@ -143,6 +205,45 @@ function getBatchesStatus(sellerId) {
  */
 function hasBatchPlan(sellerId) {
   return getBatchFiles(sellerId).length > 0;
+}
+
+/**
+ * Contar batches extraídos (batch-N-products.json existentes)
+ */
+function countExtractedBatches(sellerId) {
+  const dir = getVendorDir(sellerId);
+  if (!fs.existsSync(dir)) return 0;
+  const batchFiles = getBatchFiles(sellerId);
+  let extracted = 0;
+  for (const b of batchFiles) {
+    const productsPath = path.join(dir, `batch-${b.number}-products.json`);
+    if (fs.existsSync(productsPath)) extracted++;
+  }
+  return extracted;
+}
+
+/**
+ * Contar batches consolidados (batch-N-consolidated.json existentes)
+ */
+function countConsolidatedBatches(sellerId) {
+  const batches = getBatchConsolidatedFiles(sellerId);
+  if (!batches || batches.length === 0) return 0;
+  return batches.filter(b => b.json && fs.existsSync(b.json)).length;
+}
+
+/**
+ * Verificar si vendedor tiene plan simple (YYYY-MM-DD-plan.json)
+ */
+function hasSimplePlan(sellerId) {
+  const files = listVendorFiles(sellerId);
+  return files.some(f => /^\d{4}-\d{2}-\d{2}-plan\.json$/.test(f));
+}
+
+/**
+ * Verificar si vendedor tiene cualquier tipo de plan (simple o batches)
+ */
+function hasAnyPlan(sellerId) {
+  return hasBatchPlan(sellerId) || hasSimplePlan(sellerId);
 }
 
 /**
@@ -493,21 +594,12 @@ function detectVendorPhase(sellerId) {
         if (Array.isArray(data)) {
           totalProductos += data.length;
           
-          // MX: cuenta como verificado si tiene fecha_verificacion_mx
-          verificadosMX += data.filter(p => p.fecha_verificacion_mx).length;
+          // MX: cuenta como verificado si tiene disponibilidad_mx (el campo que realmente se usa)
+          verificadosMX += data.filter(p => p.disponibilidad_mx).length;
           
-          // USA: cuenta como verificado si tiene precio_actual_usd O error_verificacion_usa registrado
-          // NO cuenta si está "disponible" pero sin precio ni error (necesita re-verificación)
-          verificadosUSA += data.filter(p => {
-            if (!p.fecha_verificacion_usa) return false;
-            // Tiene precio = verificado exitoso
-            if (p.precio_actual_usd) return true;
-            // Tiene error registrado = verificado (aunque sea error)
-            if (p.error_verificacion_usa) return true;
-            // No disponible/no listado = verificado
-            const disponibilidad = (p.disponibilidad_usa || '').toLowerCase();
-            return disponibilidad !== '' && disponibilidad !== 'disponible';
-          }).length;
+          // USA: cuenta como verificado si tiene fecha_verificacion_usa (snapshot único)
+          // No se requiere re-verificación - una vez verificado, siempre verificado
+          verificadosUSA += data.filter(p => p.fecha_verificacion_usa).length;
         }
       } catch (e) {
         // Ignorar errores de lectura
@@ -574,6 +666,10 @@ module.exports = {
   getBatchFiles,
   getBatchesStatus,
   hasBatchPlan,
+  countExtractedBatches,
+  countConsolidatedBatches,
+  hasSimplePlan,
+  hasAnyPlan,
   isLargeVendor,
   getProgressFile,
   getVendorSummary,

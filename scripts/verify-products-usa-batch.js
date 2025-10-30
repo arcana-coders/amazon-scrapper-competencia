@@ -64,9 +64,6 @@ const esPendienteUSA = (producto) => {
   const fecha = producto.fecha_verificacion_usa;
   if (!fecha) return true;
 
-  const dias = (Date.now() - new Date(fecha).getTime()) / (1000 * 60 * 60 * 24);
-  if (dias > 7) return true;
-
   const disponibilidad = (producto.disponibilidad_usa || '').toLowerCase();
   const requiereDatos = disponibilidad === '' || disponibilidad === 'disponible';
   const missingCriticos = (!producto.precio_actual_usd && !producto.vendedor_actual_usa) && !producto.error_verificacion_usa;

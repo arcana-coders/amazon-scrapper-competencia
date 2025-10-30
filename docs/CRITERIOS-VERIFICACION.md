@@ -43,7 +43,7 @@ producto.fecha_verificacion_usa !== null
 
 ## 🔄 Criterio de "Pendiente" en Scripts
 
-Los scripts de verificación usan un criterio **más estricto** para decidir qué productos re-verificar:
+Los scripts de verificación usan un criterio **estricto** para decidir qué productos verificar:
 
 ### verify-products-mx-batch.js
 
@@ -52,10 +52,6 @@ const esPendienteMX = (producto) => {
   // Sin fecha = pendiente
   const fecha = producto.fecha_verificacion_mx;
   if (!fecha) return true;
-
-  // Verificación antigua (> 7 días) = pendiente
-  const dias = (Date.now() - new Date(fecha).getTime()) / (1000 * 60 * 60 * 24);
-  if (dias > 7) return true;
 
   // Disponible pero sin datos = pendiente
   const disponibilidad = (producto.disponibilidad_mx || '').toLowerCase();
@@ -80,10 +76,6 @@ const esPendienteUSA = (producto) => {
   const fecha = producto.fecha_verificacion_usa;
   if (!fecha) return true;
 
-  // Verificación antigua (> 7 días) = pendiente
-  const dias = (Date.now() - new Date(fecha).getTime()) / (1000 * 60 * 60 * 24);
-  if (dias > 7) return true;
-
   // Disponible pero sin datos = pendiente
   const disponibilidad = (producto.disponibilidad_usa || '').toLowerCase();
   const requiereDatos = disponibilidad === '' || disponibilidad === 'disponible';
@@ -94,6 +86,8 @@ const esPendienteUSA = (producto) => {
 ```
 
 **Misma lógica que MX**.
+
+**⚠️ IMPORTANTE:** La verificación es un **snapshot único** del momento del scraping. Una vez que un producto tiene `fecha_verificacion_mx/usa`, NO se vuelve a verificar, sin importar cuánto tiempo haya pasado. El propósito es obtener los datos iniciales para análisis de oportunidades, no mantener precios actualizados.
 
 ---
 
@@ -197,22 +191,33 @@ node scripts/verify-products-usa-batch.js SELLER_ID BATCH
 
 El script lo detectará como pendiente y lo re-intentará.
 
-### 2. Productos con verificación antigua (> 7 días)
+---
 
-**Caso:**
-```javascript
-{
-  asin: 'B08XX123',
-  precio_actual_usd: 49.99,
-  fecha_verificacion_usa: '2025-10-01T12:00:00Z' // Hace 15 días
-}
+## 🚀 Comandos Rápidos
+
+### Verificar MX (20 productos por lote)
+```bash
+node scripts/verify-products-mx-batch.js SELLER_ID BATCH
 ```
 
-**Estado:** ⚠️ **Verificado pero antiguo**
-
-**Solución:** Re-verificar para actualizar precios
+### Verificar USA (20 productos por lote)
 ```bash
 node scripts/verify-products-usa-batch.js SELLER_ID BATCH
+```
+
+### Ver progreso de verificación
+Desde el panel:
+```bash
+node MENU.js → [4] o [5] → [2] Ver estado
+```
+
+### Regenerar cookies (si expiran)
+```bash
+# Amazon MX
+node scripts/login_amazon_mx.js
+
+# Amazon USA  
+node scripts/login_amazon_usa.js
 ```
 
 ---
@@ -228,7 +233,7 @@ node -e "const fs = require('fs'); const data = JSON.parse(fs.readFileSync('data
 ### Ver productos pendientes según script:
 
 ```javascript
-node -e "const fs = require('fs'); const data = JSON.parse(fs.readFileSync('data/vendors/SELLER_ID/batch-N-consolidated.json', 'utf8')); const productos = data.all_products; const esPendienteUSA = (p) => { const fecha = p.fecha_verificacion_usa; if (!fecha) return true; const dias = (Date.now() - new Date(fecha).getTime()) / (1000 * 60 * 60 * 24); if (dias > 7) return true; const disponibilidad = (p.disponibilidad_usa || '').toLowerCase(); const requiereDatos = disponibilidad === '' || disponibilidad === 'disponible'; const missingCriticos = (!p.precio_actual_usd && !p.vendedor_actual_usa) && !p.error_verificacion_usa; return requiereDatos && missingCriticos; }; const pendientes = productos.filter(esPendienteUSA); console.log('Pendientes según script:', pendientes.length); if (pendientes.length > 0) { console.log('Ejemplos:'); pendientes.slice(0, 5).forEach(p => console.log(' -', p.asin, ':', p.disponibilidad_usa || 'sin disponibilidad')); }"
+node -e "const fs = require('fs'); const data = JSON.parse(fs.readFileSync('data/vendors/SELLER_ID/batch-N-consolidated.json', 'utf8')); const productos = data.all_products; const esPendienteUSA = (p) => { const fecha = p.fecha_verificacion_usa; if (!fecha) return true; const disponibilidad = (p.disponibilidad_usa || '').toLowerCase(); const requiereDatos = disponibilidad === '' || disponibilidad === 'disponible'; const missingCriticos = (!p.precio_actual_usd && !p.vendedor_actual_usa) && !p.error_verificacion_usa; return requiereDatos && missingCriticos; }; const pendientes = productos.filter(esPendienteUSA); console.log('Pendientes según script:', pendientes.length); if (pendientes.length > 0) { console.log('Ejemplos:'); pendientes.slice(0, 5).forEach(p => console.log(' -', p.asin, ':', p.disponibilidad_usa || 'sin disponibilidad')); }"
 ```
 
 ### Ver productos con errores:

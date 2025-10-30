@@ -17,7 +17,7 @@
 ```
 c:\robots\amazon-scrapper-otherseller\
 │
-├── PANELMAESTRO-v2.js         # Orquestador principal
+├── MENU.js         # Orquestador principal
 │
 └── modules/                    # Módulos del sistema
     │
@@ -42,7 +42,7 @@ c:\robots\amazon-scrapper-otherseller\
 
 ```bash
 cd c:\robots\amazon-scrapper-otherseller
-node PANELMAESTRO-v2.js
+node MENU.js
 ```
 
 El sistema mostrará:
@@ -393,7 +393,7 @@ module.exports = { show };
 
 ### Paso 3: Agregar al orquestador
 
-En `PANELMAESTRO-v2.js`:
+En `MENU.js`:
 
 ```javascript
 // Agregar import
@@ -414,7 +414,7 @@ case '9':
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│             PANELMAESTRO-v2.js (Orchestrator)          │
+│             MENU.js (Orchestrator)          │
 │                                                         │
 │  showBanner() → showQuickSummary() → showMainMenu()    │
 │                                                         │
@@ -446,7 +446,7 @@ case '9':
 
 ### Flujo de ejecución:
 
-1. **Usuario ejecuta**: `node PANELMAESTRO-v2.js`
+1. **Usuario ejecuta**: `node MENU.js`
 2. **Banner**: Se muestra el logo ASCII
 3. **Resumen**: Se carga `projects.json` y muestra estadísticas
 4. **Menú principal**: Usuario ve 8 opciones
@@ -484,7 +484,7 @@ case '9':
 ### Test básico del orquestador:
 
 ```bash
-node PANELMAESTRO-v2.js
+node MENU.js
 ```
 
 Deberías ver:
@@ -539,7 +539,7 @@ Deberías ver:
 # Crear el módulo faltante
 touch modules/menu-nombremodulo.js
 
-# O comentar temporalmente en PANELMAESTRO-v2.js:
+# O comentar temporalmente en MENU.js:
 // const menuNombreModulo = require('./modules/menu-nombremodulo');
 ```
 

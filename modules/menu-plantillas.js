@@ -525,7 +525,7 @@ async function verEstadoPlantillas(rl) {
   await typewriteLine('');
   
   if (plantillasLlenadas.length > 0) {
-    await showSuccess(`� Tienes ${plantillasLlenadas.length} plantilla(s) lista(s) para subir`);
+    await showSuccess(`✅ Tienes ${plantillasLlenadas.length} plantilla(s) lista(s) para subir`);
     await showInfo('Usa el menú [7] PUBLICACIÓN para subirlas a Seller Central');
   } else if (plantillasDescargadas.length > 0) {
     await showWarning('⚠️  Tienes plantillas descargadas pero sin llenar');

@@ -16,7 +16,7 @@ Esta versión representa una reescritura completa del sistema con arquitectura m
 ### ✨ Agregado
 
 #### Sistema Modular
-- **PANELMAESTRO-v2.js**: Orquestador principal completamente modular
+- **MENU.js**: Orquestador principal completamente modular
 - **modules/**: Nueva estructura de módulos independientes
   - `menu-vendedores.js`: Gestión completa de vendedores (100% funcional)
   - `menu-planes.js`: Generación de planes simple y por batches (100% funcional)

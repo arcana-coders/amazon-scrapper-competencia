@@ -23,7 +23,7 @@ const {
   pause
 } = require('./utils/display-utils');
 const { loadProjects, listVendorIds, getVendorInfo } = require('./utils/projects-utils');
-const { getBatchFiles, vendorDirExists, getVendorDir, countVendorProducts } = require('./utils/vendor-utils');
+const { getBatchFiles, vendorDirExists, getVendorDir, countVendorProducts, hasSimplePlan, hasAnyPlan, countConsolidatedBatches, countExtractedBatches } = require('./utils/vendor-utils');
 
 // ============================================
 // PLAN SIMPLE (< 1000 productos)
@@ -59,9 +59,9 @@ async function planSimple(rl) {
   }
   
   if (smallVendors.length === 0) {
-    await showWarning('No hay vendedores pequeños (< 1000 productos) con datos extraídos');
-    await showInfo('Primero ejecuta scraping en un vendedor');
-    await pause(rl);
+  await showWarning('No hay vendedores pequeños (< 1000 productos) con datos extraídos');
+  await showInfo('Primero ejecuta scraping en un vendedor');
+  await pause(rl);
     return;
   }
   
@@ -94,8 +94,8 @@ async function planSimple(rl) {
   
   const selectedIndex = parseInt(planOption) - 1;
   if (isNaN(selectedIndex) || selectedIndex < 0 || selectedIndex >= vendoresSinPlan.length) {
-    await showError('Opción inválida');
-    await pause(rl);
+  await showError('Opción inválida');
+  await pause(rl);
     return;
   }
   
@@ -114,7 +114,7 @@ async function planSimple(rl) {
       } else {
         await showError(`✗ Error al generar plan (código: ${code})`);
       }
-      await pause(rl);
+  await pause(rl);
       resolve();
     });
   });
@@ -127,60 +127,76 @@ async function planBatches(rl) {
   await typewriteLine('');
   await showTitle('PLAN BATCHES', { icon: '📦' });
   
-  // Listar todos los vendedores con productos
+  // Listar todos los vendedores registrados y su estado de plan
   const projects = loadProjects();
   const vendors = [];
   
   for (const sellerId in projects.projects) {
     const vendor = projects.projects[sellerId];
-    if (vendorDirExists(sellerId)) {
-      const productCount = countVendorProducts(sellerId);
-      
-      if (productCount > 0) {
-        // Verificar si ya tiene plan de batches
-        const batchFiles = getBatchFiles(sellerId);
-        const tieneBatches = batchFiles.length > 0;
-        
-        vendors.push({
-          sellerId,
-          products: productCount,
-          vendor,
-          tieneBatches
-        });
-      }
-    }
+    const productCount = vendorDirExists(sellerId) ? countVendorProducts(sellerId) : 0;
+    const batchFiles = getBatchFiles(sellerId);
+    const tieneBatches = batchFiles.length > 0;
+    const tienePlanSimple = vendorDirExists(sellerId) ? hasSimplePlan(sellerId) : false;
+    const tieneCualquierPlan = tieneBatches || tienePlanSimple;
+    
+    vendors.push({
+      sellerId,
+      products: productCount,
+      vendor,
+      tieneBatches,
+      tienePlanSimple,
+      tieneCualquierPlan
+    });
   }
   
   if (vendors.length === 0) {
-    await showWarning('No hay vendedores con datos extraídos');
-    await showInfo('Primero ejecuta scraping en un vendedor');
-    await pause(rl);
+  await showWarning('No hay vendedores registrados');
+  await showInfo('Primero registra un vendedor en [1] Gestión de Vendedores');
+  await pause(rl);
     return;
   }
   
-  // Filtrar vendedores SIN plan de batches
-  const vendoresSinPlan = vendors.filter(v => !v.tieneBatches);
+  // Separar por estado de plan (simple o batches)
+  const vendoresConPlan = vendors.filter(v => v.tieneCualquierPlan);
+  const vendoresSinPlan = vendors.filter(v => !v.tieneCualquierPlan);
   
-  if (vendoresSinPlan.length === 0) {
-    await showWarning('Todos los vendedores ya tienen plan de batches');
-    await showInfo('Para regenerar un plan, usa la opción [4] Resetear plan');
-    await pause(rl);
-    return;
-  }
-  
-  await typewriteLine('\nVendedores disponibles (sin plan de batches):', { charDelay: 10 });
+  await typewriteLine('\nEstado de planes por vendedor:');
   await typewriteLine('');
   
+  // Mostrar con plan (simple o batches)
+  await typewriteLine('✓ Con plan:');
+  if (vendoresConPlan.length === 0) {
+    await typewriteLine('   — Ninguno');
+  } else {
+    for (const { sellerId, products, vendor, tieneBatches, tienePlanSimple } of vendoresConPlan) {
+      const tipo = products >= 1000 ? '(GRANDE)' : '(pequeño)';
+      const etiquetaPlan = tieneBatches ? 'plan de batches' : (tienePlanSimple ? 'plan simple' : 'plan');
+      await typewriteLine(`   • ${sellerId} (${products} productos) ${tipo} - ${vendor.nombre || 'Sin nombre'} — ${etiquetaPlan}`);
+    }
+  }
+  
+  await typewriteLine('');
+  // Mostrar sin plan (seleccionables)
+  await typewriteLine('⏳ Sin plan (seleccionables):');
+  if (vendoresSinPlan.length === 0) {
+  await typewriteLine('   — Ninguno');
+  await typewriteLine('');
+  await showInfo('Para regenerar un plan existente usa la opción [4] Resetear plan');
+  await pause(rl);
+    return;
+  }
+  
+  await typewriteLine('');
   for (let i = 0; i < vendoresSinPlan.length; i++) {
     const { sellerId, products, vendor } = vendoresSinPlan[i];
     const tipo = products >= 1000 ? '(GRANDE)' : '(pequeño)';
-    await typewriteLine(`[${i + 1}] ${sellerId} (${products} productos) ${tipo} - ${vendor.nombre || 'Sin nombre'}`, { charDelay: 5 });
+    await typewriteLine(`[${i + 1}] ${sellerId} (${products} productos) ${tipo} - ${vendor.nombre || 'Sin nombre'}`);
   }
   
-  await typewriteLine('[0] ← Volver', { charDelay: 5 });
+  await typewriteLine('[0] ← Volver');
   await typewriteLine('');
   
-  const batchPlanOption = await ask(rl, 'Selecciona un vendedor: ');
+  const batchPlanOption = await ask(rl, 'Selecciona un vendedor SIN plan: ');
   
   if (batchPlanOption === '0') {
     return;
@@ -188,8 +204,8 @@ async function planBatches(rl) {
   
   const selectedIndex = parseInt(batchPlanOption) - 1;
   if (isNaN(selectedIndex) || selectedIndex < 0 || selectedIndex >= vendoresSinPlan.length) {
-    await showError('Opción inválida');
-    await pause(rl);
+  await showError('Opción inválida');
+  await pause(rl);
     return;
   }
   
@@ -212,7 +228,7 @@ async function planBatches(rl) {
       } else {
         await showError(`✗ Error al generar plan (código: ${code})`);
       }
-      await pause(rl);
+  await pause(rl);
       resolve();
     });
   });
@@ -226,58 +242,163 @@ async function verEstado(rl) {
   await showTitle('ESTADO DE PLANES', { icon: '📊' });
   
   const projects = loadProjects();
-  let hayPlanes = false;
+  const vendorsConPlan = [];
+  const vendorsSinPlan = [];
   
   await typewriteLine('\n🔍 Analizando planes generados...\n');
   
   for (const sellerId in projects.projects) {
     const vendor = projects.projects[sellerId];
-    
-    if (vendorDirExists(sellerId)) {
-      const batchFiles = getBatchFiles(sellerId);
-      const productCount = countVendorProducts(sellerId);
-      
-      if (batchFiles.length > 0 || productCount > 0) {
-        hayPlanes = true;
-        await typewriteLine(`📦 ${sellerId} (${vendor.nombre || 'Sin nombre'}):`, { charDelay: 10 });
-        await typewriteLine(`  • Productos extraídos: ${productCount}`, { charDelay: 5 });
-        
-        if (batchFiles.length > 0) {
-          await typewriteLine(`  • Plan de batches: ${batchFiles.length} batches generados`, { charDelay: 5 });
-          
-          // Ver progreso de cada batch
-          let completados = 0;
-          for (const batchFile of batchFiles) {
-            // batchFile es un objeto: {filename, path, number}
-            const batchNum = batchFile.number;
-            
-            const consolidatedFile = path.join(
-              getVendorDir(sellerId),
-              `batch-${batchNum}-consolidated.json`
-            );
-            
-            if (fs.existsSync(consolidatedFile)) {
-              completados++;
-            }
-          }
-          
-          await typewriteLine(`  • Progreso: ${completados}/${batchFiles.length} batches consolidados`, { charDelay: 5 });
-        } else {
-          await typewriteLine(`  • Plan: Simple (sin batches)`, { charDelay: 5 });
-        }
-        
-        await typewriteLine('');
-      }
+    const exists = vendorDirExists(sellerId);
+    const productCount = exists ? countVendorProducts(sellerId) : 0;
+    const batchFiles = exists ? getBatchFiles(sellerId) : [];
+    const simple = exists ? hasSimplePlan(sellerId) : false;
+    const anyPlan = exists ? hasAnyPlan(sellerId) : false;
+
+    if (anyPlan) {
+      const consolidated = countConsolidatedBatches(sellerId);
+      const extracted = countExtractedBatches(sellerId);
+      vendorsConPlan.push({ sellerId, vendor, productCount, batchFiles, simple, consolidated, extracted });
+    } else {
+      vendorsSinPlan.push({ sellerId, vendor, productCount });
     }
   }
-  
-  if (!hayPlanes) {
+
+  if (vendorsConPlan.length > 0) {
+    for (const v of vendorsConPlan) {
+      await typewriteLine(`📦 ${v.sellerId} (${v.vendor.nombre || 'Sin nombre'}):`, { charDelay: 10 });
+      await typewriteLine(`  • Productos extraídos: ${v.productCount}`, { charDelay: 5 });
+      if (v.batchFiles.length > 0) {
+        await typewriteLine(`  • Plan de batches: ${v.batchFiles.length} batches generados`, { charDelay: 5 });
+        await typewriteLine(`  • Progreso: ${v.consolidated}/${v.batchFiles.length} batches consolidados (${v.extracted} extraído(s))`, { charDelay: 5 });
+      }
+      if (v.simple) {
+        await typewriteLine(`  • Plan: Simple (sin batches)`, { charDelay: 5 });
+      }
+      await typewriteLine('');
+    }
+  } else {
     await showInfo('No hay planes generados');
     await showInfo('Genera un plan desde las opciones [1] o [2]');
   }
-  
+
+  // Mostrar también vendedores sin plan
+  await showSeparator();
+  await typewriteLine('📝 Vendedores registrados sin plan:');
+  if (vendorsSinPlan.length === 0) {
+    await typewriteLine('  — Ninguno');
+  } else {
+    for (const v of vendorsSinPlan) {
+      const sugerencia = v.productCount >= 1000 ? 'Sugerido: batches' : 'Sugerido: simple';
+      await typewriteLine(`  • ${v.sellerId} (${v.vendor.nombre || 'Sin nombre'}) — Productos extraídos: ${v.productCount} — ${sugerencia}`);
+    }
+  }
+
+  // Acciones útiles
   await typewriteLine('');
-  await pause(rl);
+  await showSeparator();
+  await typewriteLine('Acciones:');
+  await typewriteLine('[1] ➕ Crear plan para vendedor sin plan');
+  await typewriteLine('[2] 🗑️  Borrar plan de vendedor');
+  await typewriteLine('[0] ← Volver');
+  await typewriteLine('');
+
+  const action = await ask(rl, 'Selecciona una acción: ');
+
+  if (action === '1') {
+    if (vendorsSinPlan.length === 0) {
+      await showInfo('No hay vendedores sin plan');
+      await pause(rl);
+      return;
+    }
+    await typewriteLine('');
+    await typewriteLine('Vendedores sin plan:');
+    for (let i = 0; i < vendorsSinPlan.length; i++) {
+      const v = vendorsSinPlan[i];
+      const sugerencia = v.productCount >= 1000 ? '(recomendado: batches)' : '(recomendado: simple)';
+      await typewriteLine(`[${i + 1}] ${v.sellerId} — ${v.vendor.nombre || 'Sin nombre'} ${sugerencia}`);
+    }
+    await typewriteLine('[0] ← Volver');
+    await typewriteLine('');
+    const pick = await ask(rl, 'Selecciona vendedor: ');
+    if (pick === '0') return;
+    const idx = parseInt(pick) - 1;
+    if (isNaN(idx) || idx < 0 || idx >= vendorsSinPlan.length) {
+      await showError('Opción inválida');
+      await pause(rl);
+      return;
+    }
+    const sel = vendorsSinPlan[idx];
+    const recommendedBatch = sel.productCount >= 1000;
+    let tipo = recommendedBatch ? 'b' : 's';
+    const override = await ask(rl, `Crear plan ${recommendedBatch ? 'de batches' : 'simple'} para ${sel.sellerId}. ¿Deseas cambiar? (b = batches, s = simple, Enter para continuar): `);
+    if (override.trim().toLowerCase() === 'b') tipo = 'b';
+    if (override.trim().toLowerCase() === 's') tipo = 's';
+
+    await typewriteLine(`\n🚀 Generando plan ${tipo === 'b' ? 'de batches' : 'simple'} para ${sel.sellerId}...\n`);
+    await new Promise((resolve) => {
+      const script = path.join(__dirname, '..', tipo === 'b' ? 'create-plan-batches.js' : 'create-plan.js');
+      const child = spawn('node', [script, sel.sellerId], { stdio: 'inherit' });
+      child.on('close', async (code) => {
+        if (code === 0) {
+          await showSuccess('✓ Plan generado');
+        } else {
+          await showError(`✗ Error al generar plan (código: ${code})`);
+        }
+        resolve();
+      });
+    });
+    await pause(rl);
+  } else if (action === '2') {
+    if (vendorsConPlan.length === 0) {
+      await showInfo('No hay vendedores con plan');
+      await pause(rl);
+      return;
+    }
+    await typewriteLine('');
+    await typewriteLine('Vendedores con plan:');
+    for (let i = 0; i < vendorsConPlan.length; i++) {
+      const v = vendorsConPlan[i];
+      const etiquetaPlan = v.batchFiles.length > 0 ? 'batches' : (v.simple ? 'simple' : 'plan');
+      await typewriteLine(`[${i + 1}] ${v.sellerId} — ${v.vendor.nombre || 'Sin nombre'} (${etiquetaPlan})`);
+    }
+    await typewriteLine('[0] ← Volver');
+    await typewriteLine('');
+    const pick = await ask(rl, 'Selecciona vendedor a borrar plan: ');
+    if (pick === '0') return;
+    const idx = parseInt(pick) - 1;
+    if (isNaN(idx) || idx < 0 || idx >= vendorsConPlan.length) {
+      await showError('Opción inválida');
+      await pause(rl);
+      return;
+    }
+    const sel = vendorsConPlan[idx];
+    await showWarning(`\n⚠️ Esto eliminará archivos de plan de ${sel.sellerId}. Los productos extraídos NO se borrarán.`);
+    const confirm = await ask(rl, 'Escribe "SI" para confirmar: ');
+    if (confirm !== 'SI') {
+      await showInfo('Operación cancelada');
+      await pause(rl);
+      return;
+    }
+    // Borrar planes
+    const dir = getVendorDir(sel.sellerId);
+    let eliminados = 0;
+    // Borrar batch plans
+    for (const b of sel.batchFiles) {
+      try { fs.unlinkSync(b.path); eliminados++; } catch (e) {}
+    }
+    // Borrar simple plan
+    const files = fs.readdirSync(dir);
+    for (const f of files) {
+      if (/^\d{4}-\d{2}-\d{2}-plan\.json$/.test(f)) {
+        try { fs.unlinkSync(path.join(dir, f)); eliminados++; } catch (e) {}
+      }
+    }
+    await showSuccess(`✓ ${eliminados} archivo(s) de plan eliminados`);
+    await pause(rl);
+  } else {
+    // volver
+  }
 }
 
 // ============================================
@@ -304,8 +425,8 @@ async function resetearPlan(rl) {
   }
   
   if (vendorsWithPlans.length === 0) {
-    await showWarning('No hay vendedores con planes de batches');
-    await pause(rl);
+  await showWarning('No hay vendedores con planes de batches');
+  await pause(rl);
     return;
   }
   
@@ -328,16 +449,16 @@ async function resetearPlan(rl) {
   
   const selectedIndex = parseInt(resetOption) - 1;
   if (isNaN(selectedIndex) || selectedIndex < 0 || selectedIndex >= vendorsWithPlans.length) {
-    await showError('Opción inválida');
-    await pause(rl);
+  await showError('Opción inválida');
+  await pause(rl);
     return;
   }
   
   const selected = vendorsWithPlans[selectedIndex];
   const sellerId = selected.sellerId;
   if (!selected) {
-    await showError(`Vendedor "${sellerId}" no tiene plan de batches`);
-    await pause(rl);
+  await showError(`Vendedor "${sellerId}" no tiene plan de batches`);
+  await pause(rl);
     return;
   }
   
@@ -347,8 +468,8 @@ async function resetearPlan(rl) {
   const confirmacion = await ask(rl, 'Escribe "SI" para confirmar: ');
   
   if (confirmacion !== 'SI') {
-    await showInfo('Operación cancelada');
-    await pause(rl);
+  await showInfo('Operación cancelada');
+  await pause(rl);
     return;
   }
   
@@ -358,10 +479,10 @@ async function resetearPlan(rl) {
   
   for (const batchFile of batchFiles) {
     try {
-      fs.unlinkSync(batchFile);
+      fs.unlinkSync(batchFile.path);
       eliminados++;
     } catch (err) {
-      await showError(`Error al eliminar ${path.basename(batchFile)}: ${err.message}`);
+      await showError(`Error al eliminar ${path.basename(batchFile.path)}: ${err.message}`);
     }
   }
   
