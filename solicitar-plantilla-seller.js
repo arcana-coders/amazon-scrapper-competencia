@@ -10,7 +10,7 @@ const csv = require('csv-parser');
  * una plantilla de carga masiva.
  * 
  * USO:
- *   node solicitar-plantilla-seller.js SELLER_ID OPCION
+ *   node solicitar-plantilla-seller.js SELLER_ID OPCION [BATCH_NUMBER]
  * 
  * PARÁMETROS:
  *   SELLER_ID: ID del vendedor (obligatorio)
@@ -18,9 +18,11 @@ const csv = require('csv-parser');
  *     1 = oportunidades.csv
  *     2 = oportunidades_menos_50.csv
  *     3 = oportunidades_menos_100.csv
+ *   BATCH_NUMBER: Número de batch (opcional, para vendedores con batches)
  * 
- * EJEMPLO:
+ * EJEMPLOS:
  *   node solicitar-plantilla-seller.js A3Q5ASRA7J8Y5E 1
+ *   node solicitar-plantilla-seller.js AE8MUNDUREHX7 1 1
  * 
  * SALIDA:
  *   Solicita plantilla en Seller Central con los ASINs del archivo elegido
@@ -29,11 +31,13 @@ const csv = require('csv-parser');
 // ========== VALIDACIÓN DE ARGUMENTOS ==========
 const SELLER_ID = process.argv[2];
 const OPCION = process.argv[3];
+const BATCH_NUMBER = process.argv[4] || null;
 
 if (!SELLER_ID) {
   console.error('❌ Error: Debes proporcionar un SELLER_ID');
-  console.error('📋 Uso: node solicitar-plantilla-seller.js SELLER_ID OPCION');
+  console.error('📋 Uso: node solicitar-plantilla-seller.js SELLER_ID OPCION [BATCH_NUMBER]');
   console.error('📋 Ejemplo: node solicitar-plantilla-seller.js A3Q5ASRA7J8Y5E 1');
+  console.error('📋 Ejemplo con batch: node solicitar-plantilla-seller.js AE8MUNDUREHX7 1 1');
   process.exit(1);
 }
 
@@ -57,11 +61,15 @@ const ARCHIVO_MAP = {
 };
 
 const ARCHIVO_NOMBRE = ARCHIVO_MAP[OPCION];
-const CSV_PATH = path.join(VENDOR_DIR, ARCHIVO_NOMBRE);
+const PREFIJO_BATCH = BATCH_NUMBER ? `batch-${BATCH_NUMBER}-` : '';
+const CSV_PATH = path.join(VENDOR_DIR, `${PREFIJO_BATCH}${ARCHIVO_NOMBRE}`);
 
 console.log('🔧 Configuración:');
 console.log(`   📂 Vendedor: ${SELLER_ID}`);
-console.log(`   📄 Archivo: ${ARCHIVO_NOMBRE}`);
+if (BATCH_NUMBER) {
+  console.log(`   � Batch: ${BATCH_NUMBER}`);
+}
+console.log(`   �📄 Archivo: ${PREFIJO_BATCH}${ARCHIVO_NOMBRE}`);
 console.log(`   🍪 Cookies: ${COOKIE_PATH}`);
 
 // ========== VALIDACIONES ==========

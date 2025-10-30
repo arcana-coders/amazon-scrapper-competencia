@@ -1,9 +1,9 @@
 /**
- * MÓDULO: VERIFICACIÓN EN AMAZON USA (FASE 4)
+ * MÓDULO: VERIFICACIÓN EN AMAZON MX (FASE 3.5)
  * 
- * Verifica productos en Amazon USA para obtener:
- * - Precio en USD
- * - Vendedor actual USA
+ * Verifica productos en Amazon México para obtener el precio del BUY BOX:
+ * - Precio en MXN (buy box)
+ * - Vendedor actual MX
  * - Disponibilidad
  */
 
@@ -47,7 +47,7 @@ function determinarFase(sellerId) {
     return '📋 Registrado';
   }
   
-  // Verificar estado de verificación USA
+  // Verificar estado de verificación MX
   let totalProductos = 0;
   let verificadosMX = 0;
   let verificadosUSA = 0;
@@ -62,7 +62,7 @@ function determinarFase(sellerId) {
           totalProductos += data.length;
           
           for (const product of data) {
-            if (product.fecha_verificacion_usa) {
+            if (product.fecha_verificacion_mx) {
               verificadosMX++;
             }
             if (product.fecha_verificacion_usa) {
@@ -86,18 +86,18 @@ function determinarFase(sellerId) {
   } else if (verificadosUSA > 0) {
     return '🔄 Verificando USA';
   } else if (verificadosMX === totalProductos) {
-    return '✅ Verificado USA';
+    return '✅ Verificado MX';
   } else if (verificadosMX > 0) {
-    return '🔄 Verificando USA';
+    return '🔄 Verificando MX';
   } else {
     return '📦 Consolidado';
   }
 }
 
 /**
- * Verificar cuántos productos pendientes quedan en USA
+ * Verificar cuántos productos pendientes quedan en MX
  */
-async function verificarProductosPendientesUSA(sellerId, batchNumber) {
+async function verificarProductosPendientesMX(sellerId, batchNumber) {
   // Desde modules/ subir un nivel a la raíz del proyecto
   const projectRoot = path.join(__dirname, '..');
   const vendorDir = path.join(projectRoot, 'data', 'vendors', sellerId);
@@ -124,7 +124,7 @@ async function verificarProductosPendientesUSA(sellerId, batchNumber) {
       return 0;
     }
     
-    const pendientes = data.filter(p => !p.fecha_verificacion_usa).length;
+    const pendientes = data.filter(p => !p.fecha_verificacion_mx).length;
     console.log(`📊 DEBUG: Total productos: ${data.length}, Pendientes: ${pendientes}`);
     return pendientes;
   } catch (e) {
@@ -134,17 +134,17 @@ async function verificarProductosPendientesUSA(sellerId, batchNumber) {
 }
 
 /**
- * Menú principal de verificación USA
+ * Menú principal de verificación MX
  */
 async function show(rl) {
   let continuar = true;
   
   while (continuar) {
     await clearScreen();
-    await showTitle('VERIFICAR EN AMAZON USA (FASE 4)', { icon: '🇺🇸' });
+    await showTitle('VERIFICAR EN AMAZON MX (FASE 3.5)', { icon: '🇲🇽' });
     await typewriteLine('');
-    await showInfo('Verifica precios y disponibilidad de productos en Amazon USA');
-    await showWarning('💡 Ejecutar DESPUÉS de verificar en MX');
+    await showInfo('Verifica precios del BUY BOX en Amazon México');
+    await showWarning('⚠️  Ejecutar ANTES de verificar en USA');
     await typewriteLine('');
     await showSeparator();
     await typewriteLine('');
@@ -179,7 +179,7 @@ async function show(rl) {
  */
 async function verificarProductos(rl) {
   await clearScreen();
-  await showTitle('VERIFICAR PRODUCTOS EN USA', { icon: '🔍' });
+  await showTitle('VERIFICAR PRODUCTOS EN MX', { icon: '🔍' });
   await typewriteLine('');
   
   // Filtrar solo vendedores con batches consolidados
@@ -306,7 +306,7 @@ async function verificarBatchEspecifico(rl, sellerId, batches) {
   await typewriteLine('');
   await showSeparator();
   await typewriteLine('');
-  await showWarning(`Iniciando verificación USA del batch ${batchNumber}...`);
+  await showWarning(`Iniciando verificación MX del batch ${batchNumber}...`);
   await showInfo('El script se ejecutará en lotes hasta completar el batch');
   await showInfo(`Tamaño de lote: ${loteNum} productos`);
   await typewriteLine('');
@@ -331,7 +331,7 @@ async function verificarBatchEspecifico(rl, sellerId, batches) {
       await new Promise(resolve => setTimeout(resolve, 2000));
       
       // Verificar si quedan productos pendientes
-      const pendientes = await verificarProductosPendientesUSA(sellerId, batchNumber);
+      const pendientes = await verificarProductosPendientesMX(sellerId, batchNumber);
       
       if (pendientes > 0) {
         await showWarning(`⏳ Quedan ${pendientes} productos pendientes. Continuando con siguiente lote...`);
@@ -339,7 +339,7 @@ async function verificarBatchEspecifico(rl, sellerId, batches) {
         rondaActual++;
         await new Promise(resolve => setTimeout(resolve, 1000));
       } else {
-        await showSuccess('🎉 ¡Batch completado! Todos los productos verificados en USA');
+        await showSuccess('🎉 ¡Batch completado! Todos los productos verificados en MX');
         continuar = false;
       }
     } else {
@@ -392,7 +392,7 @@ async function verificarTodosLosBatches(rl, sellerId, batches) {
         // Esperar 2 segundos para que el archivo se guarde completamente
         await new Promise(resolve => setTimeout(resolve, 2000));
         
-        const pendientes = await verificarProductosPendientesUSA(sellerId, batch.number);
+        const pendientes = await verificarProductosPendientesMX(sellerId, batch.number);
         
         if (pendientes > 0) {
           await showWarning(`⏳ Quedan ${pendientes} productos pendientes en batch ${batch.number}. Continuando...`);
@@ -436,7 +436,7 @@ async function verificarVendedorPequeno(rl, sellerId) {
   await typewriteLine('');
   await showSeparator();
   await typewriteLine('');
-  await showWarning(`Iniciando verificación USA para ${sellerId}...`);
+  await showWarning(`Iniciando verificación MX para ${sellerId}...`);
   await showInfo('El script se ejecutará en lotes hasta completar todos los productos');
   await showInfo(`Tamaño de lote: ${loteNum} productos`);
   await typewriteLine('');
@@ -452,7 +452,7 @@ async function verificarVendedorPequeno(rl, sellerId) {
     const resultado = await ejecutarVerificacion(rl, sellerId, null, loteNum);
     
     if (resultado === 0) {
-      const pendientes = await verificarProductosPendientesUSA(sellerId, null);
+      const pendientes = await verificarProductosPendientesMX(sellerId, null);
       
       if (pendientes > 0) {
         await showInfo(`📊 Quedan ${pendientes} productos pendientes`);
@@ -461,7 +461,7 @@ async function verificarVendedorPequeno(rl, sellerId) {
         rondaActual++;
         await new Promise(resolve => setTimeout(resolve, 2000));
       } else {
-        await showSuccess('🎉 ¡Verificación completada! Todos los productos verificados en USA');
+        await showSuccess('🎉 ¡Verificación completada! Todos los productos verificados en MX');
         continuar = false;
       }
     } else {
@@ -475,11 +475,11 @@ async function verificarVendedorPequeno(rl, sellerId) {
 }
 
 /**
- * Ejecutar el script de verificación USA
+ * Ejecutar el script de verificación MX
  */
 async function ejecutarVerificacion(rl, sellerId, batchNumber, lote) {
   return new Promise((resolve) => {
-    const scriptPath = path.join(__dirname, '..', 'scripts', 'verify-products-usa-batch.js');
+    const scriptPath = path.join(__dirname, '..', 'scripts', 'verify-products-mx-batch.js');
     
     const args = [scriptPath, sellerId];
     if (batchNumber) {
@@ -489,8 +489,7 @@ async function ejecutarVerificacion(rl, sellerId, batchNumber, lote) {
     
     const proceso = spawn('node', args, {
       stdio: 'inherit',
-      shell: false,
-      windowsHide: false
+      shell: true
     });
     
     proceso.on('close', (code) => {
@@ -516,7 +515,7 @@ async function ejecutarVerificacion(rl, sellerId, batchNumber, lote) {
  */
 async function verEstadoVerificacion(rl) {
   await clearScreen();
-  await showTitle('ESTADO DE VERIFICACIÓN USA', { icon: '📊' });
+  await showTitle('ESTADO DE VERIFICACIÓN MX', { icon: '📊' });
   await typewriteLine('');
   
   // Filtrar solo vendedores con batches consolidados
@@ -572,7 +571,7 @@ async function verEstadoVerificacion(rl) {
   await typewriteLine('');
   await showSeparator();
   await typewriteLine('');
-  await showInfo(`Verificación USA de ${sellerId}`);
+  await showInfo(`Verificación MX de ${sellerId}`);
   await typewriteLine('');
   
   // Detectar batches
@@ -592,7 +591,7 @@ async function verEstadoVerificacion(rl) {
         await mostrarEstadoBatch(status);
         await typewriteLine('');
       } else {
-        await showWarning(`Batch ${batch.number}: Sin datos de verificación USA`);
+        await showWarning(`Batch ${batch.number}: Sin datos de verificación MX`);
         await typewriteLine('');
       }
     }
@@ -605,8 +604,8 @@ async function verEstadoVerificacion(rl) {
       await typewriteLine('');
       await mostrarEstadoBatch(status);
     } else {
-      await showWarning('No hay datos de verificación USA disponibles');
-      await showInfo('Ejecuta primero la verificación USA desde la opción [1]');
+      await showWarning('No hay datos de verificación MX disponibles');
+      await showInfo('Ejecuta primero la verificación MX desde la opción [1]');
     }
   }
   
@@ -615,7 +614,7 @@ async function verEstadoVerificacion(rl) {
 }
 
 /**
- * Obtener estado de verificación USA
+ * Obtener estado de verificación MX
  */
 function getVerificationStatusMX(sellerId, batchNumber) {
   const fs = require('fs');
@@ -676,8 +675,8 @@ async function mostrarEstadoBatch(status) {
   await typewriteLine(`     Total productos: ${status.total}`);
   await typewriteLine(`     Verificados: ${status.verified} (${status.percentage}%)`);
   await typewriteLine(`     Pendientes: ${status.pending}`);
-  await typewriteLine(`     Con precio USA: ${status.withPrice}`);
-  await typewriteLine(`     Con vendedor USA: ${status.withSeller}`);
+  await typewriteLine(`     Con precio MX: ${status.withPrice}`);
+  await typewriteLine(`     Con vendedor MX: ${status.withSeller}`);
   await typewriteLine(`     Con errores: ${status.withErrors}`);
   await typewriteLine(`     Disponibles: ${status.disponible}`);
   await typewriteLine(`     No disponibles: ${status.noDisponible}`);

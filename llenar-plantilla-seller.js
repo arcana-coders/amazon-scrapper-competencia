@@ -9,18 +9,25 @@ console.log('  📝 LLENADO DE PLANTILLA - Amazon Seller Central');
 console.log('═══════════════════════════════════════════════════════════');
 console.log('');
 
-// 🧠 Argumento: SELLER_ID
+// 🧠 Argumentos: SELLER_ID [OPCION_ARCHIVO] [BATCH_NUMBER]
 const sellerId = process.argv[2];
+const opcionArchivo = process.argv[3] || '1';
+const BATCH_NUMBER = process.argv[4] || null;
+
 if (!sellerId) {
   console.error('❌ Debes proporcionar el SELLER_ID como argumento');
   console.error('');
-  console.error('Uso: node llenar-plantilla-seller.js SELLER_ID');
+  console.error('Uso: node llenar-plantilla-seller.js SELLER_ID [OPCION_ARCHIVO] [BATCH_NUMBER]');
   console.error('Ejemplo: node llenar-plantilla-seller.js A3Q5ASRA7J8Y5E');
+  console.error('Ejemplo con batch: node llenar-plantilla-seller.js AE8MUNDUREHX7 1 1');
   console.error('');
   process.exit(1);
 }
 
 console.log(`📦 Vendedor: ${sellerId}`);
+if (BATCH_NUMBER) {
+  console.log(`📦 Batch: ${BATCH_NUMBER}`);
+}
 console.log('');
 
 // 📁 Rutas
@@ -60,40 +67,25 @@ const plantillaPath = path.join(plantillasDir, plantillaFile);
 
 console.log(`📄 Plantilla encontrada: ${plantillaFile}`);
 
-// 🔍 Determinar qué archivo de oportunidades usar
-const projectsPath = path.join(__dirname, 'data', 'projects.json');
-let opcionUsada = '1'; // Por defecto oportunidades.csv
-
-if (fs.existsSync(projectsPath)) {
-  const projectsData = JSON.parse(fs.readFileSync(projectsPath, 'utf8'));
-  const project = projectsData.projects?.[sellerId];
-  
-  if (project?.publication_requests?.oportunidades) {
-    opcionUsada = project.publication_requests.oportunidades.option || '1';
-  } else if (project?.publication_requests?.menos_50) {
-    opcionUsada = '2';
-  } else if (project?.publication_requests?.menos_100) {
-    opcionUsada = '3';
-  }
-}
-
-// 📄 Mapear opción a archivo
+//  Mapear opción a archivo
 const archivoOportunidades = {
   '1': 'oportunidades.csv',
   '2': 'oportunidades_menos_50.csv',
   '3': 'oportunidades_menos_100.csv'
-}[opcionUsada];
+}[opcionArchivo];
 
-const csvPath = path.join(vendorDir, archivoOportunidades);
+// 🔧 Construir ruta con batch si aplica
+const PREFIJO_BATCH = BATCH_NUMBER ? `batch-${BATCH_NUMBER}-` : '';
+const csvPath = path.join(vendorDir, `${PREFIJO_BATCH}${archivoOportunidades}`);
 
 if (!fs.existsSync(csvPath)) {
-  console.error(`❌ No se encontró el archivo de oportunidades: ${archivoOportunidades}`);
+  console.error(`❌ No se encontró el archivo de oportunidades: ${PREFIJO_BATCH}${archivoOportunidades}`);
   console.error(`   Ruta: ${csvPath}`);
   console.error('');
   process.exit(1);
 }
 
-console.log(`📊 Archivo de oportunidades: ${archivoOportunidades}`);
+console.log(`📊 Archivo de oportunidades: ${PREFIJO_BATCH}${archivoOportunidades}`);
 console.log('');
 
 // 📥 Leer CSV de oportunidades con parser robusto

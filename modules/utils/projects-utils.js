@@ -133,13 +133,45 @@ function countVendorsByPhase() {
     published: 0
   };
   
-  Object.values(projects).forEach(project => {
+  // Importar vendor-utils para detectar archivos
+  const { getBatchFiles, vendorDirExists, countVendorProducts } = require('./vendor-utils');
+  
+  Object.keys(projects).forEach(sellerId => {
     counts.total++;
+    counts.registered++;
     
-    if (project.phase) {
-      counts[project.phase] = (counts[project.phase] || 0) + 1;
-    } else {
-      counts.registered++;
+    // Verificar si tiene plan (archivos de batch o productos extraídos)
+    if (vendorDirExists(sellerId)) {
+      const batchFiles = getBatchFiles(sellerId);
+      const productCount = countVendorProducts(sellerId);
+      
+      if (batchFiles.length > 0 || productCount > 0) {
+        counts.planned++;
+        
+        // Verificar si está en scraping o ya scrapeó
+        if (batchFiles.length > 0) {
+          // Vendedor con batches
+          let completados = 0;
+          for (const batchFile of batchFiles) {
+            const batchNum = batchFile.number;
+            const vendorDir = path.join(__dirname, '..', '..', 'data', 'vendors', sellerId);
+            const consolidatedFile = path.join(vendorDir, `batch-${batchNum}-consolidated.json`);
+            
+            if (fs.existsSync(consolidatedFile)) {
+              completados++;
+            }
+          }
+          
+          if (completados === batchFiles.length) {
+            counts.scraped++;
+          } else if (completados > 0) {
+            counts.scraping++;
+          }
+        } else if (productCount > 0) {
+          // Vendedor pequeño ya scrapeado
+          counts.scraped++;
+        }
+      }
     }
   });
   

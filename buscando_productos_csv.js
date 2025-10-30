@@ -3,19 +3,48 @@ const path = require('path');
 const csv = require('csv-parser');
 const { parse } = require('json2csv');
 
-// Recibe seller_id como argumento
+// Recibe seller_id y opcionalmente batch_number como argumentos
 const seller_id = process.argv[2];
+const batch_number = process.argv[3]; // Opcional
+
 if (!seller_id) {
-  console.error('Debes proporcionar el seller_id como argumento. Ejemplo: node buscando_productos_csv.js A3Q5ASRA7J8Y5E');
+  console.error('❌ Debes proporcionar el seller_id como argumento.');
+  console.log('📖 Uso:');
+  console.log('   node buscando_productos_csv.js SELLER_ID           # Vendedor pequeño');
+  console.log('   node buscando_productos_csv.js SELLER_ID BATCH_NUM # Vendedor con batches');
+  console.log('');
+  console.log('📝 Ejemplos:');
+  console.log('   node buscando_productos_csv.js A3Q5ASRA7J8Y5E');
+  console.log('   node buscando_productos_csv.js A3Q5ASRA7J8Y5E 1');
   process.exit(1);
 }
 
-// Define rutas usando el seller_id
+// Define rutas usando el seller_id y batch_number
 const baseDir = path.join(__dirname, 'data', 'vendors', seller_id);
-const INPUT = path.join(baseDir, 'productos-filtrados-sugeridos.csv');
-const OUTPUT1 = path.join(baseDir, 'oportunidades.csv');
-const OUTPUT2 = path.join(baseDir, 'oportunidades_menos_50.csv');
-const OUTPUT3 = path.join(baseDir, 'oportunidades_menos_100.csv');
+
+let INPUT, OUTPUT1, OUTPUT2, OUTPUT3;
+if (batch_number) {
+  // Vendedor con batches
+  INPUT = path.join(baseDir, `batch-${batch_number}-productos-filtrados-sugeridos.csv`);
+  OUTPUT1 = path.join(baseDir, `batch-${batch_number}-oportunidades.csv`);
+  OUTPUT2 = path.join(baseDir, `batch-${batch_number}-oportunidades_menos_50.csv`);
+  OUTPUT3 = path.join(baseDir, `batch-${batch_number}-oportunidades_menos_100.csv`);
+  console.log(`📦 Generando oportunidades para BATCH ${batch_number} del vendedor ${seller_id}`);
+} else {
+  // Vendedor pequeño
+  INPUT = path.join(baseDir, 'productos-filtrados-sugeridos.csv');
+  OUTPUT1 = path.join(baseDir, 'oportunidades.csv');
+  OUTPUT2 = path.join(baseDir, 'oportunidades_menos_50.csv');
+  OUTPUT3 = path.join(baseDir, 'oportunidades_menos_100.csv');
+  console.log(`📦 Generando oportunidades para vendedor pequeño ${seller_id}`);
+}
+
+// Validar que existe el archivo de entrada
+if (!fs.existsSync(INPUT)) {
+  console.error(`❌ No existe el archivo: ${INPUT}`);
+  console.log('💡 Asegúrate de haber ejecutado prepare_business_csv.js primero.');
+  process.exit(1);
+}
 
 function ajustarCompetitivo(precio_actual_mx, competitivo) {
   if (precio_actual_mx <= 2500) {
@@ -141,10 +170,22 @@ fs.createReadStream(INPUT)
     }
 
     // Mensaje resumen
-    console.log('¡Proceso finalizado!');
-    console.log(`Se analizaron ${total} productos`);
+    console.log('');
+    console.log('✅ ¡Proceso finalizado!');
+    console.log(`📊 Se analizaron ${total} productos`);
     if (excluidos_por_precio > 0) {
       console.log(`⚠️  Se excluyeron ${excluidos_por_precio} productos con precio > $${PRECIO_MAXIMO.toLocaleString()}`);
     }
-    informe.forEach(msg => console.log(msg));
+    console.log('');
+    console.log('📈 Resumen de oportunidades:');
+    informe.forEach(msg => console.log(`   ${msg}`));
+    console.log('');
+    
+    if (batch_number) {
+      console.log(`📌 Archivos generados para BATCH ${batch_number}`);
+    } else {
+      console.log('📌 Archivos generados para vendedor completo');
+    }
+    console.log('');
+    console.log('🎯 Siguiente paso: Usar el menú de PLANTILLAS para generar templates con estos archivos');
   });

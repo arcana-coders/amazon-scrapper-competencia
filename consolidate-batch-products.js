@@ -66,11 +66,15 @@ function findBatchFiles() {
 function findCategoryProductFiles() {
   const files = [];
   
-  // Buscar en VENDOR_DIR
+  // Buscar en VENDOR_DIR archivos *-products.json (sin intelligent- ni batch-)
   if (fs.existsSync(VENDOR_DIR)) {
     const vendorFiles = fs.readdirSync(VENDOR_DIR);
     vendorFiles
-      .filter(file => file.includes('intelligent-') && file.endsWith('.json'))
+      .filter(file => 
+        file.endsWith('-products.json') && 
+        !file.includes('intelligent-') && 
+        !file.includes('batch-')
+      )
       .forEach(file => {
         files.push({
           path: path.join(VENDOR_DIR, file),
@@ -84,9 +88,10 @@ function findCategoryProductFiles() {
     const categoryFiles = fs.readdirSync(CATEGORIES_DIR);
     categoryFiles
       .filter(file => 
-        file.includes('intelligent-') && 
-        file.includes(SELLER_ID) && 
-        file.endsWith('.json')
+        file.endsWith('-products.json') &&
+        !file.includes('intelligent-') &&
+        !file.includes('batch-') &&
+        file.includes(SELLER_ID)
       )
       .forEach(file => {
         files.push({
@@ -144,13 +149,38 @@ function consolidateBatch(batchNumber) {
   
   for (const categoryName of batchCategories) {
     // Buscar archivo de productos para esta categoría
-    const productFile = productFiles.find(file => {
-      const normalized = categoryName.toLowerCase().replace(/[^a-z0-9]/g, '-');
-      return file.filename.toLowerCase().includes(normalized);
+    // Normalizar nombre: "Bebé" -> "bebe", "Alimentos y Bebidas" -> "alimentos-y-bebidas"
+    let normalized = categoryName.toLowerCase()
+      .normalize('NFD')
+      .replace(/[\u0300-\u036f]/g, '') // Eliminar acentos
+      .replace(/[^a-z0-9]/g, '-')
+      .replace(/-+/g, '-') // Evitar guiones múltiples
+      .replace(/^-|-$/g, ''); // Eliminar guiones al inicio/final
+    
+    // Buscar coincidencia EXACTA: {normalized}-products.json
+    let productFile = productFiles.find(file => {
+      const fileName = file.filename.toLowerCase();
+      // Debe terminar en -products.json y empezar con el nombre normalizado
+      return fileName === `${normalized}-products.json` || 
+             fileName.startsWith(`${normalized}-${normalized}-products.json`); // Para casos como alimentos-y-bebidas-alimentos-y-bebidas-products.json
     });
+    
+    // Si no encuentra, intentar buscar con variaciones (bebe vs beb, etc.)
+    if (!productFile) {
+      productFile = productFiles.find(file => {
+        const fileName = file.filename.toLowerCase();
+        // Buscar coincidencias más flexibles
+        const fileBase = fileName.replace(/-products\.json$/, '');
+        return fileBase === normalized || 
+               fileBase === `${normalized}-` || 
+               fileBase === normalized.slice(0, -1) || // bebe -> beb
+               fileName === `${normalized.slice(0, -1)}--products.json`; // beb--products.json
+      });
+    }
     
     if (!productFile) {
       console.log(`⚠️ No se encontró archivo de productos para: ${categoryName}`);
+      console.log(`   Buscando: ${normalized}-products.json o variaciones`);
       continue;
     }
     

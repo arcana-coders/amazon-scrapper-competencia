@@ -9,13 +9,20 @@
  */
 async function typewriteLine(text, options = {}) {
   const {
-    charDelay = 15,
-    lineDelay = 100,
+    charDelay = 5,  // Reducido de 15 a 5ms (3x más rápido)
+    lineDelay = 30, // Reducido de 100 a 30ms
     skipTypewriter = false
   } = options;
 
   if (skipTypewriter || process.env.SKIP_TYPEWRITER === 'true') {
     console.log(text);
+    return;
+  }
+
+  // Si charDelay es 0, usar console.log directo (más rápido y sin interferir con readline)
+  if (charDelay === 0) {
+    console.log(text);
+    await new Promise(resolve => setTimeout(resolve, lineDelay));
     return;
   }
 
@@ -45,7 +52,7 @@ async function showTitle(text, options = {}) {
     await showSeparator('═');
   }
   
-  await typewriteLine(`${icon} ${text}`, { charDelay: 12 });
+  await typewriteLine(`${icon} ${text}`, { charDelay: 3 }); // Reducido de 12 a 3ms
   
   if (separator) {
     await showSeparator('═');
@@ -58,7 +65,7 @@ async function showTitle(text, options = {}) {
  * Mostrar mensaje de error
  */
 async function showError(message) {
-  await typewriteLine(`❌ ${message}`, { charDelay: 10 });
+  await typewriteLine(`❌ ${message}`, { charDelay: 3 }); // Reducido de 10 a 3ms
   await typewriteLine('');
 }
 
@@ -66,7 +73,7 @@ async function showError(message) {
  * Mostrar mensaje de éxito
  */
 async function showSuccess(message) {
-  await typewriteLine(`✅ ${message}`, { charDelay: 10 });
+  await typewriteLine(`✅ ${message}`, { charDelay: 3 }); // Reducido de 10 a 3ms
   await typewriteLine('');
 }
 
@@ -74,7 +81,7 @@ async function showSuccess(message) {
  * Mostrar mensaje de advertencia
  */
 async function showWarning(message) {
-  await typewriteLine(`⚠️  ${message}`, { charDelay: 10 });
+  await typewriteLine(`⚠️  ${message}`, { charDelay: 3 }); // Reducido de 10 a 3ms
   await typewriteLine('');
 }
 
@@ -82,7 +89,7 @@ async function showWarning(message) {
  * Mostrar mensaje de información
  */
 async function showInfo(message) {
-  await typewriteLine(`ℹ️  ${message}`, { charDelay: 10 });
+  await typewriteLine(`ℹ️  ${message}`, { charDelay: 3 }); // Reducido de 10 a 3ms
   await typewriteLine('');
 }
 
@@ -113,11 +120,16 @@ async function pause(message = 'Presiona Enter para continuar...') {
 
 /**
  * Leer entrada del usuario
+ * Nota: Para evitar duplicación de input, no usar typewriter antes de ask()
  */
-async function ask(question, rl) {
+async function ask(rl, question) {
+  // Desactivar temporalmente el typewriter effect
   return new Promise(resolve => {
-    rl.question(question, answer => {
-      resolve(answer.trim());
+    // Usar setImmediate para asegurar que todo el output anterior se haya procesado
+    setImmediate(() => {
+      rl.question(question, answer => {
+        resolve(answer.trim());
+      });
     });
   });
 }

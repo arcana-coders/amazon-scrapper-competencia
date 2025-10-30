@@ -43,10 +43,16 @@ async function planSimple(rl) {
       
       // Solo vendedores con productos extraídos y < 1000
       if (productCount > 0 && productCount < 1000) {
+        // Verificar si ya tiene plan simple
+        const vendorDir = getVendorDir(sellerId);
+        const files = fs.readdirSync(vendorDir);
+        const tienePlanSimple = files.some(f => f.match(/^\d{4}-\d{2}-\d{2}-plan\.json$/));
+        
         smallVendors.push({
           sellerId,
           products: productCount,
-          vendor
+          vendor,
+          tienePlanSimple
         });
       }
     }
@@ -59,20 +65,42 @@ async function planSimple(rl) {
     return;
   }
   
-  await typewriteLine('\nVendedores disponibles para plan simple:', { charDelay: 10 });
-  for (const { sellerId, products, vendor } of smallVendors) {
-    await typewriteLine(`  • ${sellerId} (${products} productos) - ${vendor.nombre || 'Sin nombre'}`, { charDelay: 5 });
-  }
+  // Filtrar vendedores SIN plan simple
+  const vendoresSinPlan = smallVendors.filter(v => !v.tienePlanSimple);
   
-  await typewriteLine('');
-  const sellerId = await ask('Ingresa el Seller ID: ', rl);
-  
-  const selected = smallVendors.find(v => v.sellerId === sellerId);
-  if (!selected) {
-    await showError(`Vendedor "${sellerId}" no disponible o tiene >= 1000 productos`);
+  if (vendoresSinPlan.length === 0) {
+    await showWarning('Todos los vendedores pequeños ya tienen plan simple');
+    await showInfo('El plan simple se genera automáticamente al hacer scraping');
     await pause(rl);
     return;
   }
+  
+  await typewriteLine('\nVendedores disponibles (sin plan simple):', { charDelay: 10 });
+  await typewriteLine('');
+  
+  for (let i = 0; i < vendoresSinPlan.length; i++) {
+    const { sellerId, products, vendor } = vendoresSinPlan[i];
+    await typewriteLine(`[${i + 1}] ${sellerId} (${products} productos) - ${vendor.nombre || 'Sin nombre'}`, { charDelay: 5 });
+  }
+  
+  await typewriteLine('[0] ← Volver', { charDelay: 5 });
+  await typewriteLine('');
+  
+  const planOption = await ask(rl, 'Selecciona un vendedor: ');
+  
+  if (planOption === '0') {
+    return;
+  }
+  
+  const selectedIndex = parseInt(planOption) - 1;
+  if (isNaN(selectedIndex) || selectedIndex < 0 || selectedIndex >= vendoresSinPlan.length) {
+    await showError('Opción inválida');
+    await pause(rl);
+    return;
+  }
+  
+  const selected = vendoresSinPlan[selectedIndex];
+  const sellerId = selected.sellerId;
   
   await typewriteLine(`\n🚀 Generando plan simple para ${sellerId}...\n`);
   
@@ -109,10 +137,15 @@ async function planBatches(rl) {
       const productCount = countVendorProducts(sellerId);
       
       if (productCount > 0) {
+        // Verificar si ya tiene plan de batches
+        const batchFiles = getBatchFiles(sellerId);
+        const tieneBatches = batchFiles.length > 0;
+        
         vendors.push({
           sellerId,
           products: productCount,
-          vendor
+          vendor,
+          tieneBatches
         });
       }
     }
@@ -125,32 +158,43 @@ async function planBatches(rl) {
     return;
   }
   
-  await typewriteLine('\nVendedores disponibles:', { charDelay: 10 });
-  for (const { sellerId, products, vendor } of vendors) {
-    const tipo = products >= 1000 ? '(GRANDE)' : '(pequeño)';
-    await typewriteLine(`  • ${sellerId} (${products} productos) ${tipo} - ${vendor.nombre || 'Sin nombre'}`, { charDelay: 5 });
-  }
+  // Filtrar vendedores SIN plan de batches
+  const vendoresSinPlan = vendors.filter(v => !v.tieneBatches);
   
-  await typewriteLine('');
-  const sellerId = await ask('Ingresa el Seller ID: ', rl);
-  
-  const selected = vendors.find(v => v.sellerId === sellerId);
-  if (!selected) {
-    await showError(`Vendedor "${sellerId}" no disponible`);
+  if (vendoresSinPlan.length === 0) {
+    await showWarning('Todos los vendedores ya tienen plan de batches');
+    await showInfo('Para regenerar un plan, usa la opción [4] Resetear plan');
     await pause(rl);
     return;
   }
   
-  // Verificar si ya tiene plan de batches
-  const batchFiles = getBatchFiles(sellerId);
-  if (batchFiles.length > 0) {
-    await showWarning(`Este vendedor ya tiene ${batchFiles.length} batches generados`);
-    const regenerar = await ask('¿Regenerar plan? (s/n): ', rl);
-    
-    if (regenerar.toLowerCase() !== 's') {
-      return;
-    }
+  await typewriteLine('\nVendedores disponibles (sin plan de batches):', { charDelay: 10 });
+  await typewriteLine('');
+  
+  for (let i = 0; i < vendoresSinPlan.length; i++) {
+    const { sellerId, products, vendor } = vendoresSinPlan[i];
+    const tipo = products >= 1000 ? '(GRANDE)' : '(pequeño)';
+    await typewriteLine(`[${i + 1}] ${sellerId} (${products} productos) ${tipo} - ${vendor.nombre || 'Sin nombre'}`, { charDelay: 5 });
   }
+  
+  await typewriteLine('[0] ← Volver', { charDelay: 5 });
+  await typewriteLine('');
+  
+  const batchPlanOption = await ask(rl, 'Selecciona un vendedor: ');
+  
+  if (batchPlanOption === '0') {
+    return;
+  }
+  
+  const selectedIndex = parseInt(batchPlanOption) - 1;
+  if (isNaN(selectedIndex) || selectedIndex < 0 || selectedIndex >= vendoresSinPlan.length) {
+    await showError('Opción inválida');
+    await pause(rl);
+    return;
+  }
+  
+  const selected = vendoresSinPlan[selectedIndex];
+  const sellerId = selected.sellerId;
   
   await typewriteLine(`\n🚀 Generando plan de batches para ${sellerId}...\n`);
   
@@ -204,21 +248,20 @@ async function verEstado(rl) {
           // Ver progreso de cada batch
           let completados = 0;
           for (const batchFile of batchFiles) {
-            const fileName = path.basename(batchFile);
-            const match = fileName.match(/plan-batch-(\d+)\.json/);
-            const batchNum = match ? match[1] : '?';
+            // batchFile es un objeto: {filename, path, number}
+            const batchNum = batchFile.number;
             
-            const extractedFile = path.join(
+            const consolidatedFile = path.join(
               getVendorDir(sellerId),
-              `batch-${batchNum}-products.json`
+              `batch-${batchNum}-consolidated.json`
             );
             
-            if (fs.existsSync(extractedFile)) {
+            if (fs.existsSync(consolidatedFile)) {
               completados++;
             }
           }
           
-          await typewriteLine(`  • Progreso: ${completados}/${batchFiles.length} batches extraídos`, { charDelay: 5 });
+          await typewriteLine(`  • Progreso: ${completados}/${batchFiles.length} batches consolidados`, { charDelay: 5 });
         } else {
           await typewriteLine(`  • Plan: Simple (sin batches)`, { charDelay: 5 });
         }
@@ -267,14 +310,31 @@ async function resetearPlan(rl) {
   }
   
   await typewriteLine('\nVendedores con planes:', { charDelay: 10 });
-  for (const { sellerId, batches, vendor } of vendorsWithPlans) {
-    await typewriteLine(`  • ${sellerId} (${batches} batches) - ${vendor.nombre || 'Sin nombre'}`, { charDelay: 5 });
+  await typewriteLine('');
+  
+  for (let i = 0; i < vendorsWithPlans.length; i++) {
+    const { sellerId, batches, vendor } = vendorsWithPlans[i];
+    await typewriteLine(`[${i + 1}] ${sellerId} (${batches} batches) - ${vendor.nombre || 'Sin nombre'}`, { charDelay: 5 });
   }
   
+  await typewriteLine('[0] ← Volver', { charDelay: 5 });
   await typewriteLine('');
-  const sellerId = await ask('Ingresa el Seller ID para resetear: ', rl);
   
-  const selected = vendorsWithPlans.find(v => v.sellerId === sellerId);
+  const resetOption = await ask(rl, 'Selecciona vendedor para resetear: ');
+  
+  if (resetOption === '0') {
+    return;
+  }
+  
+  const selectedIndex = parseInt(resetOption) - 1;
+  if (isNaN(selectedIndex) || selectedIndex < 0 || selectedIndex >= vendorsWithPlans.length) {
+    await showError('Opción inválida');
+    await pause(rl);
+    return;
+  }
+  
+  const selected = vendorsWithPlans[selectedIndex];
+  const sellerId = selected.sellerId;
   if (!selected) {
     await showError(`Vendedor "${sellerId}" no tiene plan de batches`);
     await pause(rl);
@@ -284,7 +344,7 @@ async function resetearPlan(rl) {
   await showWarning(`\n⚠️  Esto eliminará todos los archivos plan-batch-*.json de ${sellerId}`);
   await showWarning('⚠️  Los productos extraídos NO se borrarán\n');
   
-  const confirmacion = await ask('Escribe "SI" para confirmar: ', rl);
+  const confirmacion = await ask(rl, 'Escribe "SI" para confirmar: ');
   
   if (confirmacion !== 'SI') {
     await showInfo('Operación cancelada');
@@ -311,7 +371,7 @@ async function resetearPlan(rl) {
   
   // Preguntar si quiere resetear otro
   await typewriteLine('');
-  const otro = await ask('¿Resetear otro vendedor? (s/n): ', rl);
+  const otro = await ask(rl, '¿Resetear otro vendedor? (s/n): ');
   if (otro.toLowerCase() === 's') {
     await resetearPlan(rl);
   }
@@ -334,7 +394,7 @@ async function show(rl) {
     await typewriteLine('[0] ← Volver', { charDelay: 8 });
     await typewriteLine('');
     
-    const option = await ask('Selecciona una opción: ', rl);
+    const option = await ask(rl, 'Selecciona una opción: ');
     
     switch (option) {
       case '1':

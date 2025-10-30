@@ -39,6 +39,7 @@ const {
 const menuVendedores = require('./modules/menu-vendedores');
 const menuPlanes = require('./modules/menu-planes');
 const menuScraping = require('./modules/menu-scraping');
+const menuVerificacionMX = require('./modules/menu-verificacion-mx');
 const menuVerificacionUSA = require('./modules/menu-verificacion-usa');
 const menuOportunidades = require('./modules/menu-oportunidades');
 const menuPlantillas = require('./modules/menu-plantillas');
@@ -51,11 +52,11 @@ const menuReportes = require('./modules/menu-reportes');
 async function showBanner() {
   clearScreen();
   await showSeparator('═', 60);
-  await typewriteLine('           🤖  PANEL MAESTRO V2 - SISTEMA AMAZON', { charDelay: 15 });
+  await typewriteLine('           🤖  PANEL MAESTRO V2 - SISTEMA AMAZON', { charDelay: 3 });
   await showSeparator('═', 60);
   await typewriteLine('');
-  await typewriteLine('  Sistema modular para gestión completa del flujo Amazon:', { charDelay: 8 });
-  await typewriteLine('  Desde el scraping hasta la publicación en Seller Central', { charDelay: 8 });
+  await typewriteLine('  Sistema modular para gestión completa del flujo Amazon:', { charDelay: 2 });
+  await typewriteLine('  Desde el scraping hasta la publicación en Seller Central', { charDelay: 2 });
   await typewriteLine('');
   await showSeparator('═', 60);
   await typewriteLine('');
@@ -67,14 +68,14 @@ async function showBanner() {
 async function showQuickSummary() {
   const counts = countVendorsByPhase();
   
-  await typewriteLine(`📊 Resumen rápido:`, { charDelay: 10 });
-  await typewriteLine(`   Total vendedores: ${counts.total}`, { charDelay: 8 });
+  await typewriteLine(`📊 Resumen rápido:`, { charDelay: 2 });
+  await typewriteLine(`   Total vendedores: ${counts.total}`, { charDelay: 2 });
   
   if (counts.total > 0) {
-    await typewriteLine(`   • Registrados: ${counts.registered || 0}`, { charDelay: 8 });
-    await typewriteLine(`   • Con plan: ${counts.planned || 0}`, { charDelay: 8 });
-    await typewriteLine(`   • En scraping: ${counts.scraping || 0}`, { charDelay: 8 });
-    await typewriteLine(`   • Scrapeados: ${counts.scraped || 0}`, { charDelay: 8 });
+    await typewriteLine(`   • Registrados: ${counts.registered || 0}`, { charDelay: 2 });
+    await typewriteLine(`   • Con plan: ${counts.planned || 0}`, { charDelay: 2 });
+    await typewriteLine(`   • En scraping: ${counts.scraping || 0}`, { charDelay: 2 });
+    await typewriteLine(`   • Scrapeados: ${counts.scraped || 0}`, { charDelay: 2 });
   }
   
   await typewriteLine('');
@@ -85,17 +86,18 @@ async function showQuickSummary() {
  */
 async function showMainMenu() {
   await showSeparator('─', 60);
-  await typewriteLine('¿Qué deseas hacer?', { charDelay: 10 });
+  await typewriteLine('¿Qué deseas hacer?', { charDelay: 2 });
   await typewriteLine('');
-  await typewriteLine('[1] 📋 Gestión de Vendedores', { charDelay: 8 });
-  await typewriteLine('[2] 🎯 Generar Plan de Scraping', { charDelay: 8 });
-  await typewriteLine('[3] 🔄 Ejecutar Scraping (Fase 1)', { charDelay: 8 });
-  await typewriteLine('[4] ✅ Verificar en Amazon USA (Fase 2)', { charDelay: 8 });
-  await typewriteLine('[5] 💰 Generar Oportunidades (Fase 3)', { charDelay: 8 });
-  await typewriteLine('[6] 📄 Gestión de Plantillas (Fase 4a)', { charDelay: 8 });
-  await typewriteLine('[7] 🚀 Publicar Productos (Fase 4b)', { charDelay: 8 });
-  await typewriteLine('[8] 📊 Reportes y Estado', { charDelay: 8 });
-  await typewriteLine('[0] Salir', { charDelay: 8 });
+  await typewriteLine('[1] 📋 Gestión de Vendedores', { charDelay: 2 });
+  await typewriteLine('[2] 🎯 Generar Plan de Scraping', { charDelay: 2 });
+  await typewriteLine('[3] 🔄 Ejecutar Scraping (Fase 1)', { charDelay: 2 });
+  await typewriteLine('[4] 🇲🇽 Verificar en Amazon MX (Fase 2)', { charDelay: 2 });
+  await typewriteLine('[5] 🇺🇸 Verificar en Amazon USA (Fase 3)', { charDelay: 2 });
+  await typewriteLine('[6] 💰 Generar Oportunidades (Fase 4)', { charDelay: 2 });
+  await typewriteLine('[7] 📄 Gestión de Plantillas (Fase 5a)', { charDelay: 2 });
+  await typewriteLine('[8] 🚀 Publicar Productos (Fase 5b)', { charDelay: 2 });
+  await typewriteLine('[9] 📊 Reportes y Estado', { charDelay: 2 });
+  await typewriteLine('[0] Salir', { charDelay: 2 });
   await typewriteLine('');
 }
 
@@ -103,7 +105,7 @@ async function showMainMenu() {
  * Manejar selección del menú principal
  */
 async function handleMainMenu(rl) {
-  const option = await ask('Selecciona una opción: ', rl);
+  const option = await ask(rl, 'Selecciona una opción: ');
   
   switch (option) {
     case '1':
@@ -119,22 +121,26 @@ async function handleMainMenu(rl) {
       break;
       
     case '4':
-      await menuVerificacionUSA.show(rl);
+      await menuVerificacionMX.show(rl);
       break;
       
     case '5':
-      await menuOportunidades.show(rl);
+      await menuVerificacionUSA.show(rl);
       break;
       
     case '6':
-      await menuPlantillas.show(rl);
+      await menuOportunidades.show(rl);
       break;
       
     case '7':
-      await menuPublicacion.show(rl);
+      await menuPlantillas.show(rl);
       break;
       
     case '8':
+      await menuPublicacion.show(rl);
+      break;
+      
+    case '9':
       await menuReportes.show(rl);
       break;
       

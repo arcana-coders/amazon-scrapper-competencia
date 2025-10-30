@@ -56,7 +56,7 @@ async function registrarVendedor(rl) {
   await typewriteLine('');
   await showTitle('REGISTRAR NUEVO VENDEDOR', { icon: '➕' });
   
-  const sellerId = await ask('ID del vendedor (Seller ID): ', rl);
+  const sellerId = await ask(rl, 'ID del vendedor (Seller ID): ');
   
   if (!sellerId || sellerId === '0') {
     await showWarning('Operación cancelada');
@@ -92,7 +92,7 @@ async function registrarVendedor(rl) {
         
         // Preguntar si quiere registrar otro
         await typewriteLine('');
-        const otro = await ask('¿Registrar otro vendedor? (s/n): ', rl);
+        const otro = await ask(rl, '¿Registrar otro vendedor? (s/n): ');
         
         if (otro.toLowerCase() === 's') {
           await registrarVendedor(rl);
@@ -178,7 +178,7 @@ async function borrarVendedor(rl) {
   }
   
   await typewriteLine('');
-  const choice = await ask('¿Qué vendedor borrar? (0 para cancelar): ', rl);
+  const choice = await ask(rl, '¿Qué vendedor borrar? (0 para cancelar): ');
   
   const index = parseInt(choice) - 1;
   
@@ -196,7 +196,7 @@ async function borrarVendedor(rl) {
   await typewriteLine('    Esto solo borrará el registro, no los archivos.', { charDelay: 8 });
   await typewriteLine('');
   
-  const confirm = await ask('Confirmar (escribe "SI" para borrar): ', rl);
+  const confirm = await ask(rl, 'Confirmar (escribe "SI" para borrar): ');
   
   if (confirm !== 'SI') {
     await showWarning('Operación cancelada');
@@ -212,7 +212,7 @@ async function borrarVendedor(rl) {
     
     // Preguntar si quiere borrar otro
     await typewriteLine('');
-    const otro = await ask('¿Borrar otro vendedor? (s/n): ', rl);
+    const otro = await ask(rl, '¿Borrar otro vendedor? (s/n): ');
     
     if (otro.toLowerCase() === 's') {
       await borrarVendedor(rl);
@@ -248,7 +248,7 @@ async function verDetalleVendedor(rl) {
   }
   
   await typewriteLine('');
-  const choice = await ask('Número de vendedor (0 para cancelar): ', rl);
+  const choice = await ask(rl, 'Número de vendedor (0 para cancelar): ');
   
   const index = parseInt(choice) - 1;
   
@@ -314,7 +314,7 @@ async function show(rl) {
   while (continuar) {
     await showMenu();
     
-    const option = await ask('Selecciona una opción: ', rl);
+    const option = await ask(rl, 'Selecciona una opción: ');
     
     switch (option) {
       case '1':

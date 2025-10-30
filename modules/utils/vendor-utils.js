@@ -224,6 +224,347 @@ function getVendorSummary(sellerId) {
   };
 }
 
+/**
+ * Obtener archivos consolidados de batches
+ * Retorna lista de archivos batch-N-consolidated.csv
+ */
+function getBatchConsolidatedFiles(sellerId) {
+  const dir = getVendorDir(sellerId);
+  if (!fs.existsSync(dir)) {
+    return [];
+  }
+  
+  const files = fs.readdirSync(dir);
+  const batchFiles = files
+    .filter(f => f.match(/^batch-\d+-consolidated\.(json|csv)$/))
+    .sort((a, b) => {
+      const numA = parseInt(a.match(/batch-(\d+)-/)[1]);
+      const numB = parseInt(b.match(/batch-(\d+)-/)[1]);
+      return numA - numB;
+    });
+  
+  // Agrupar por batch number
+  const batches = {};
+  batchFiles.forEach(file => {
+    const match = file.match(/batch-(\d+)-consolidated\.(json|csv)$/);
+    if (match) {
+      const batchNum = match[1];
+      const ext = match[2];
+      if (!batches[batchNum]) {
+        batches[batchNum] = { number: batchNum, json: null, csv: null };
+      }
+      batches[batchNum][ext] = path.join(dir, file);
+    }
+  });
+  
+  return Object.values(batches);
+}
+
+/**
+ * Obtener archivos de oportunidades de un batch específico
+ */
+function getBatchOpportunitiesFiles(sellerId, batchNum) {
+  const dir = getVendorDir(sellerId);
+  if (!fs.existsSync(dir)) {
+    return null;
+  }
+  
+  const result = {
+    batchNumber: batchNum,
+    filtradosSugeridos: null,
+    oportunidades: null,
+    oportunidadesMenos50: null,
+    oportunidadesMenos100: null
+  };
+  
+  const prefix = batchNum ? `batch-${batchNum}-` : '';
+  
+  const filtrados = path.join(dir, `${prefix}productos-filtrados-sugeridos.csv`);
+  const opor1 = path.join(dir, `${prefix}oportunidades.csv`);
+  const opor2 = path.join(dir, `${prefix}oportunidades_menos_50.csv`);
+  const opor3 = path.join(dir, `${prefix}oportunidades_menos_100.csv`);
+  
+  if (fs.existsSync(filtrados)) result.filtradosSugeridos = filtrados;
+  if (fs.existsSync(opor1)) result.oportunidades = opor1;
+  if (fs.existsSync(opor2)) result.oportunidadesMenos50 = opor2;
+  if (fs.existsSync(opor3)) result.oportunidadesMenos100 = opor3;
+  
+  return result;
+}
+
+/**
+ * Obtener TODOS los archivos de oportunidades (todos los batches + vendedor pequeño)
+ */
+function getAllOpportunitiesFiles(sellerId) {
+  const dir = getVendorDir(sellerId);
+  if (!fs.existsSync(dir)) {
+    return [];
+  }
+  
+  const files = fs.readdirSync(dir);
+  const opportunities = [];
+  
+  // Buscar archivos sin prefijo de batch (vendedor pequeño)
+  const smallVendor = getBatchOpportunitiesFiles(sellerId, null);
+  if (smallVendor.oportunidades || smallVendor.oportunidadesMenos50 || smallVendor.oportunidadesMenos100) {
+    opportunities.push({
+      type: 'small-vendor',
+      batchNumber: null,
+      ...smallVendor
+    });
+  }
+  
+  // Buscar archivos con prefijo batch-N-
+  const batchNums = new Set();
+  files.forEach(file => {
+    const match = file.match(/^batch-(\d+)-oportunidades/);
+    if (match) {
+      batchNums.add(match[1]);
+    }
+  });
+  
+  batchNums.forEach(batchNum => {
+    const batchOpportunities = getBatchOpportunitiesFiles(sellerId, batchNum);
+    if (batchOpportunities.oportunidades || batchOpportunities.oportunidadesMenos50 || batchOpportunities.oportunidadesMenos100) {
+      opportunities.push({
+        type: 'batch',
+        ...batchOpportunities
+      });
+    }
+  });
+  
+  return opportunities;
+}
+
+/**
+ * Obtener estado de verificación USA de un batch
+ */
+function getVerificationStatus(sellerId, batchNum = null) {
+  const dir = getVendorDir(sellerId);
+  if (!fs.existsSync(dir)) {
+    return null;
+  }
+  
+  const fileName = batchNum 
+    ? `batch-${batchNum}-consolidated.json`
+    : 'all-products-consolidated.json';
+  
+  const filePath = path.join(dir, fileName);
+  if (!fs.existsSync(filePath)) {
+    return null;
+  }
+  
+  try {
+    const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+    const products = data.all_products || data.products || data;
+    
+    if (!Array.isArray(products)) {
+      return null;
+    }
+    
+    const total = products.length;
+    const verified = products.filter(p => p.fecha_verificacion_usa).length;
+    const withPrice = products.filter(p => p.precio_actual_usd).length;
+    const withSeller = products.filter(p => p.vendedor_actual_usa).length;
+    const withErrors = products.filter(p => p.error_verificacion_usa).length;
+    const disponible = products.filter(p => p.disponibilidad_usa === 'disponible').length;
+    const noDisponible = products.filter(p => p.disponibilidad_usa === 'no disponible').length;
+    const noListado = products.filter(p => p.disponibilidad_usa === 'no listado').length;
+    
+    // Productos pendientes de verificación (lógica del script)
+    const pendientes = products.filter(p => {
+      const fecha = p.fecha_verificacion_usa;
+      if (!fecha) return true;
+      
+      const dias = (Date.now() - new Date(fecha).getTime()) / (1000 * 60 * 60 * 24);
+      if (dias > 7) return true;
+      
+      const disponibilidad = (p.disponibilidad_usa || '').toLowerCase();
+      const requiereDatos = disponibilidad === '' || disponibilidad === 'disponible';
+      const missingCriticos = (!p.precio_actual_usd && !p.vendedor_actual_usa) && !p.error_verificacion_usa;
+      
+      return requiereDatos && missingCriticos;
+    }).length;
+    
+    return {
+      batchNumber: batchNum,
+      total,
+      verified,
+      pending: pendientes,
+      withPrice,
+      withSeller,
+      withErrors,
+      disponible,
+      noDisponible,
+      noListado,
+      percentage: total > 0 ? Math.round((verified / total) * 100) : 0
+    };
+  } catch (err) {
+    return null;
+  }
+}
+
+/**
+ * Contar productos en archivos de oportunidades
+ */
+function countOpportunities(sellerId, batchNum = null) {
+  const csv = require('csv-parser');
+  const opportunities = getBatchOpportunitiesFiles(sellerId, batchNum);
+  
+  if (!opportunities) {
+    return null;
+  }
+  
+  const counts = {
+    batchNumber: batchNum,
+    principal: 0,
+    menos50: 0,
+    menos100: 0,
+    total: 0
+  };
+  
+  // Función helper para contar líneas de un CSV
+  const countCsvLines = (filePath) => {
+    return new Promise((resolve, reject) => {
+      if (!filePath || !fs.existsSync(filePath)) {
+        resolve(0);
+        return;
+      }
+      
+      let count = 0;
+      fs.createReadStream(filePath)
+        .pipe(csv())
+        .on('data', () => count++)
+        .on('end', () => resolve(count))
+        .on('error', () => resolve(0));
+    });
+  };
+  
+  // Retornar una promesa que cuenta todos los archivos
+  return Promise.all([
+    countCsvLines(opportunities.oportunidades),
+    countCsvLines(opportunities.oportunidadesMenos50),
+    countCsvLines(opportunities.oportunidadesMenos100)
+  ]).then(([principal, menos50, menos100]) => {
+    counts.principal = principal;
+    counts.menos50 = menos50;
+    counts.menos100 = menos100;
+    counts.total = principal + menos50 + menos100;
+    return counts;
+  });
+}
+
+/**
+ * Detectar fase actual del vendedor basándose en archivos existentes
+ */
+function detectVendorPhase(sellerId) {
+  const dir = getVendorDir(sellerId);
+  if (!fs.existsSync(dir)) {
+    return { phase: 0, label: '📋 Registrado', ready: false };
+  }
+  
+  // Verificar si tiene batches consolidados
+  const batches = getBatchConsolidatedFiles(sellerId);
+  
+  if (batches.length === 0) {
+    // Verificar si tiene all-products-consolidated
+    const allProductsFile = path.join(dir, 'all-products-consolidated.json');
+    if (!fs.existsSync(allProductsFile)) {
+      return { phase: 1, label: '📋 Registrado', ready: false };
+    }
+  }
+  
+  // Verificar estado de verificaciones
+  const consolidatedFiles = batches.length > 0 
+    ? batches.map(b => b.json).filter(f => f !== null)
+    : [path.join(dir, 'all-products-consolidated.json')];
+  
+  let totalProductos = 0;
+  let verificadosMX = 0;
+  let verificadosUSA = 0;
+  let conOportunidades = 0;
+  
+  for (const file of consolidatedFiles) {
+    if (fs.existsSync(file)) {
+      try {
+        const fileContent = JSON.parse(fs.readFileSync(file, 'utf-8'));
+        const data = Array.isArray(fileContent) ? fileContent : fileContent.all_products;
+        
+        if (Array.isArray(data)) {
+          totalProductos += data.length;
+          
+          // MX: cuenta como verificado si tiene fecha_verificacion_mx
+          verificadosMX += data.filter(p => p.fecha_verificacion_mx).length;
+          
+          // USA: cuenta como verificado si tiene precio_actual_usd O error_verificacion_usa registrado
+          // NO cuenta si está "disponible" pero sin precio ni error (necesita re-verificación)
+          verificadosUSA += data.filter(p => {
+            if (!p.fecha_verificacion_usa) return false;
+            // Tiene precio = verificado exitoso
+            if (p.precio_actual_usd) return true;
+            // Tiene error registrado = verificado (aunque sea error)
+            if (p.error_verificacion_usa) return true;
+            // No disponible/no listado = verificado
+            const disponibilidad = (p.disponibilidad_usa || '').toLowerCase();
+            return disponibilidad !== '' && disponibilidad !== 'disponible';
+          }).length;
+        }
+      } catch (e) {
+        // Ignorar errores de lectura
+      }
+    }
+  }
+  
+  // Verificar archivos de oportunidades
+  const opportunitiesFiles = getAllOpportunitiesFiles(sellerId);
+  const hasOpportunities = opportunitiesFiles.length > 0;
+  
+  if (totalProductos === 0) {
+    return { phase: 1, label: '📦 Sin productos', ready: false };
+  }
+  
+  // Determinar fase según verificaciones
+  const mxComplete = verificadosMX === totalProductos;
+  const usaComplete = verificadosUSA === totalProductos;
+  
+  if (hasOpportunities) {
+    return { 
+      phase: 5, 
+      label: '✅ Con oportunidades',
+      ready: true,
+      stats: { total: totalProductos, mx: verificadosMX, usa: verificadosUSA }
+    };
+  } else if (usaComplete) {
+    return { 
+      phase: 4, 
+      label: '🇺🇸 Listo para oportunidades',
+      ready: true,
+      stats: { total: totalProductos, mx: verificadosMX, usa: verificadosUSA }
+    };
+  } else if (mxComplete) {
+    return { 
+      phase: 3, 
+      label: '🇲🇽 Verificado MX', 
+      ready: false,
+      stats: { total: totalProductos, mx: verificadosMX, usa: verificadosUSA }
+    };
+  } else if (verificadosMX > 0) {
+    return { 
+      phase: 3, 
+      label: `🔄 Verificando MX (${verificadosMX}/${totalProductos})`, 
+      ready: false,
+      stats: { total: totalProductos, mx: verificadosMX, usa: verificadosUSA }
+    };
+  } else {
+    return { 
+      phase: 2, 
+      label: '📦 Consolidado',
+      ready: false,
+      stats: { total: totalProductos, mx: verificadosMX, usa: verificadosUSA }
+    };
+  }
+}
+
 module.exports = {
   getVendorDir,
   vendorDirExists,
@@ -236,6 +577,12 @@ module.exports = {
   isLargeVendor,
   getProgressFile,
   getVendorSummary,
+  getBatchConsolidatedFiles,
+  getBatchOpportunitiesFiles,
+  getAllOpportunitiesFiles,
+  getVerificationStatus,
+  countOpportunities,
+  detectVendorPhase,
   ROOT_DIR,
   VENDORS_DIR
 };
