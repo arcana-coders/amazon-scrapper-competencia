@@ -1,0 +1,535 @@
+{
+  "metadata": {
+    "seller_id": "AE8MUNDUREHX7",
+    "seller_url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260442011%2Cp_n_g-1004151746091%3A11338000011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370483&rnid=11337999011&ref=sr_nr_p_n_g-1004151746091_2&ds=v1%3AtAU2lqlCNTppkQlco2MdDpaPEBK%2BCn7iuWDsYLOVGgg",
+    "category_name": "juguetes-y-juegos-1-a-2-a-os",
+    "total_products": 87,
+    "pages_processed": 6,
+    "extraction_date": "2025-10-20T01:35:59.095Z",
+    "script_version": "1.0"
+  },
+  "products": [
+    {
+      "asin": "B0DZ65RJSP",
+      "title": "Tablero ocupado con interruptores de luz LED, juguetes Montessori para niños de 1 2 3 años, tabla de actividades sensoriales de juguete de madera para niños y niñas de más de 1 año",
+      "price": "$806.92",
+      "extracted_at": "2025-10-20T01:34:59.133Z"
+    },
+    {
+      "asin": "B0BNDRQGDY",
+      "title": "Hoarosall Tablero ocupado de dinosaurio con 8 interruptores de luz LED, tablero ocupado Montessori para niños pequeños, juguetes sensoriales Montessori para bebés de más de 1 año, niño pequeño Azul",
+      "price": "$757.65",
+      "extracted_at": "2025-10-20T01:34:59.133Z"
+    },
+    {
+      "asin": "B0F9WKQFYK",
+      "title": "QPAU 3 en 1 - Pozo y cama elástica para niños pequeños, castillo hinchable con red de seguridad, juguetes al aire última intervensión para niños pequeños de 1 a 3, casa de rebote interior, patio de",
+      "price": "$1,855.19",
+      "extracted_at": "2025-10-20T01:34:59.134Z"
+    },
+    {
+      "asin": "B0CMZL1N52",
+      "title": "Globos rosados metálicos, globos rosados, 50 globos de látex rosados, de 12 pulgadas, color rosa brillante, color rosa claro, y globos rosa magenta oscuro, para ocasiones de adultos, fiestas, eventos",
+      "price": "$451.12",
+      "extracted_at": "2025-10-20T01:34:59.134Z"
+    },
+    {
+      "asin": "B0DZST2FXZ",
+      "title": "Globo de decoración de fiesta de cumpleaños de Frozen, 40 pulgadas, Elsa 5 globos con corona de copos de nieve, globos de Mylar para princesa Anna Elsa, suministros de cumpleaños con temática",
+      "price": "$440.65",
+      "extracted_at": "2025-10-20T01:34:59.134Z"
+    },
+    {
+      "asin": "B0D7SRGSSX",
+      "title": "Binibi - Libros musicales españoles en la fiesta de cumpleaños | Aprendizaje español para niños | Libro bilingüe infantil | Libro bilingüe para bebés y niños pequeños 1-3 | Libro en inglés para bebés",
+      "price": "$845.83",
+      "extracted_at": "2025-10-20T01:34:59.134Z"
+    },
+    {
+      "asin": "B0FGYFTKPS",
+      "title": "Kit de arco de globos de otoño, kit de arco de globos de Acción de Gracias con globos de color otoño y láminas de estrellas para fiestas de otoño, decoraciones de festivales, entradas y fondos de",
+      "price": "$710.20",
+      "extracted_at": "2025-10-20T01:34:59.134Z"
+    },
+    {
+      "asin": "B0D7CDBFGC",
+      "title": "Lilian&Gema - Juguetes de bicicleta de equilibrio para bebés para niños de más de 1 año, iluminación colorida sin pedal, bicicleta para niños de 12 a 24 meses, juguete con 4 ruedas de silencio, regalo",
+      "price": "$1,300.96",
+      "extracted_at": "2025-10-20T01:34:59.134Z"
+    },
+    {
+      "asin": "B0CG17HSJX",
+      "title": "JOYTOY - Figura de acción Warhammer 1/18 modelo de la colección 40,000 Action Figure Ultramarines Intercessors, regalos para cumpleaños y Navidad, 10 cm",
+      "price": "$756.17",
+      "extracted_at": "2025-10-20T01:34:59.134Z"
+    },
+    {
+      "asin": "B0DFVYBDQD",
+      "title": "WHAUU - Rueda giratoria de 12 pulgadas con soporte, 12 ranuras rueda giratoria de color con borrador, marcadores, rueda de borrado en seco de la fortuna juego para carnaval, casino y feria comercial",
+      "price": "$879.84",
+      "extracted_at": "2025-10-20T01:34:59.134Z"
+    },
+    {
+      "asin": "B0D2S6J4HP",
+      "title": "EMT & Paramedic Farmacology Drug Study Flashcards & Pocket Guide con preguntas de prueba, fórmulas de dosificación, indicadores IV, concentraciones, tasas de goteo y mucho más para estudiantes, EMT",
+      "price": "$2,134.82",
+      "extracted_at": "2025-10-20T01:34:59.134Z"
+    },
+    {
+      "asin": "B0CT5HJY19",
+      "title": "BlueWood Pikler - Juego de triángulo plegable 7 en 1, juguetes de madera para escalada de bebé, con arco, rampa y escalador de escalera, gimnasios de selva para niños, azul cielo",
+      "price": "$5,653.88",
+      "extracted_at": "2025-10-20T01:34:59.135Z"
+    },
+    {
+      "asin": "B0D5QSY1PN",
+      "title": "Kit de arco de guirnalda de globos rojos, blancos y negros, decoraciones de fiesta rojas y negras con globos blancos plateados, globos de látex para decoraciones de graduación, graduación, aniversario",
+      "price": "$461.54",
+      "extracted_at": "2025-10-20T01:34:59.135Z"
+    },
+    {
+      "asin": "B0D45PDZ5C",
+      "title": "Globos pastel, 65 globos de color pastel, globos de macarrón con purpurina dorada para arco de globos de Pascua, globos biodegradables coloridos para decoración de fiesta de cumpleaños de niñas",
+      "price": "$564.56",
+      "extracted_at": "2025-10-20T01:34:59.135Z"
+    },
+    {
+      "asin": "B08FC5LKJT",
+      "title": "Thorn Tree - Traje de Halloween para bebés y niñas, traje de fantasma, disfraz de fiesta para niños, ropa de bebé, 2 piezas",
+      "price": "$622.30",
+      "extracted_at": "2025-10-20T01:34:59.135Z"
+    },
+    {
+      "asin": "B0CPSHWBND",
+      "title": "MarcZero - 11 juguetes de playa de silicona, juguetes modernos de playa para bebés, juego de playa para viajes, juguete ecológico, cubeta de silicona, pala, 8 moldes de arena, bolsa de playa, juguetes",
+      "price": "$1,308.50",
+      "extracted_at": "2025-10-20T01:34:59.135Z"
+    },
+    {
+      "asin": "B0DQYBMKPC",
+      "title": "BlueWood Pikler - Juego de triángulo, juguetes de escalada de madera para niños pequeños, escalador 7 en 1, juguetes plegables de escalada para niños, Montessori Play Jungle Gym con arco, rampa",
+      "price": "$3,443.26",
+      "extracted_at": "2025-10-20T01:35:06.319Z"
+    },
+    {
+      "asin": "B0D8FS2HHT",
+      "title": "Gimnasio de la selva interior para niños pequeños 8 en 1, parque de juegos de madera, azul cielo",
+      "price": "$7,184.69",
+      "extracted_at": "2025-10-20T01:35:06.319Z"
+    },
+    {
+      "asin": "B0DHX79QMF",
+      "title": "BuilderButler - Tablero de rompecabezas giratorio ligero de 1500 piezas con 6 cajones deslizantes y cubierta - Mesa giratoria de 360° Lazy Susan Spinning, mesa portátil de plástico de 34.2 x 26.3",
+      "price": "$1,924.17",
+      "extracted_at": "2025-10-20T01:35:06.319Z"
+    },
+    {
+      "asin": "B09CTZCTLT",
+      "title": "Montessori Juguetes para niños pequeños, juguete de pista de carreras con 4 coches y 1 estacionamiento de madera, base estable, juguete de rampa de coche para niños de 1, 2 a 3 años de edad",
+      "price": "$897.03",
+      "extracted_at": "2025-10-20T01:35:06.319Z"
+    },
+    {
+      "asin": "B0CY3KFPHK",
+      "title": "Juego de cifras de acción T13, Titan 13 Robot Action Figure 3D Impreso Robo 13 Lucky 13 Articulado, regalo simulado para coleccionistas decoración de computadora, negro verde/rojo negro",
+      "price": "$597.94",
+      "extracted_at": "2025-10-20T01:35:06.319Z"
+    },
+    {
+      "asin": "B0F8NN9BWR",
+      "title": "2000 piezas de mesa de rompecabezas con cajones y patas, mesa de rompecabezas grande de 30 x 41 pulgadas para adultos, altura ajustable y 12 ángulos de inclinación, tablero de rompecabezas de madera",
+      "price": "$6,516.93",
+      "extracted_at": "2025-10-20T01:35:06.319Z"
+    },
+    {
+      "asin": "B0D5QVP43Y",
+      "title": "Chrisfall - 12 piezas de decoración de fiesta de vaquero occidental, centro de mesa de vaquero, decoración de mesa de vaquero, decoración de fiesta temática occidental, suministros de baby shower de",
+      "price": "$500.06",
+      "extracted_at": "2025-10-20T01:35:06.319Z"
+    },
+    {
+      "asin": "B0DF4P7KCM",
+      "title": "BlueWood Pikler - Juego de triángulo, juguetes de escalada de madera para niños pequeños, escalador 7 en 1, juguetes plegables de escalada para niños, Montessori Play Jungle Gym con arco, rampa,",
+      "price": "$3,444.01",
+      "extracted_at": "2025-10-20T01:35:06.320Z"
+    },
+    {
+      "asin": "B093FM8JL2",
+      "title": "WOOD CITY Juego de Tren de Madera, Juego de Tren de Lujo para niños de 56 Piezas para niños de 2, 3, 4 y 5 años, vía de Tren con temática de Carga y Puente Colgante con grúa Torre, Juego de Tren navi",
+      "price": "$957.02",
+      "extracted_at": "2025-10-20T01:35:06.320Z"
+    },
+    {
+      "asin": "B0CY1SLYFQ",
+      "title": "Kit de guirnalda de arco de globos de arena azul polvoriento, 141 unidades, pizarrón, niebla, azul, arena, blanco, beige, crema para niños, cumpleaños, oso, baby shower, revelación de género,",
+      "price": "$593.07",
+      "extracted_at": "2025-10-20T01:35:06.320Z"
+    },
+    {
+      "asin": "B097Y2PCND",
+      "title": "SUNWUKING - Mesa plegable de arena y agua para niños pequeños – Pozo de juego sensorial portátil para bebé con diseño plegable, diversión de verano, juego creativo, baño de mascotas, juegos de bolas y",
+      "price": "$1,122.70",
+      "extracted_at": "2025-10-20T01:35:06.320Z"
+    },
+    {
+      "asin": "B0D258NQRK",
+      "title": "Af-tigonhw - Kit de arco de guirnalda de globos de color rojo, azul, amarillo y verde, globos de aluminio de estrella de champiñones, globos de circo de color para Mario cumpleaños, carnaval,",
+      "price": "$506.28",
+      "extracted_at": "2025-10-20T01:35:06.320Z"
+    },
+    {
+      "asin": "B0CHWDS7ZW",
+      "title": "Kit de arco de globos de Navidad, 137 piezas de guirnalda de globos de Navidad rosa con globos de látex rosa, azul azulado, blanco, bastón de caramelo rosa y globos de aluminio para Navidad,",
+      "price": "$605.91",
+      "extracted_at": "2025-10-20T01:35:06.320Z"
+    },
+    {
+      "asin": "B087FTYHST",
+      "title": "Wood City - Juguetes para niños pequeños para 1, 2 y 3 años, juego de vehículos de madera con 7 mini coches y pistas de carreras, juguetes Montessori, regalo de manualidades para niños y niñas",
+      "price": "$1,307.76",
+      "extracted_at": "2025-10-20T01:35:06.320Z"
+    },
+    {
+      "asin": "B0DG5DQWZW",
+      "title": "Rueda giratoria de 12 pulgadas, 12 ranuras personalizables, base resistente y soporte, ideal para eventos de carnaval, fiestas en casa y ferias comerciales, rueda de la fortuna, gira",
+      "price": "$907.63",
+      "extracted_at": "2025-10-20T01:35:06.320Z"
+    },
+    {
+      "asin": "B0D8VRJ1HH",
+      "title": "Haolongfa - Kit de arco de guirnalda de globos de Navidad, globos de Navidad con caramelo de Navidad, bastón, globos de Año Nuevo 4D para decoraciones de fiestas de Navidad en interiores, cumpleaños,",
+      "price": "$654.50",
+      "extracted_at": "2025-10-20T01:35:06.320Z"
+    },
+    {
+      "asin": "B0D41ZPJHY",
+      "title": "Cowcowcow Montessori - Juguetes para niños de 1, 2, 3, 4 años, juguetes para niños pequeños de 2 a 4 años, 1, 2, 3, 4 años, regalos de cumpleaños, paquete de 10 bloques de madera para clasificar y",
+      "price": "$538.95",
+      "extracted_at": "2025-10-20T01:35:21.980Z"
+    },
+    {
+      "asin": "B0B8NJGLFS",
+      "title": "SPRMUD - Juguetes coloridos de plástico para conchas marinas, conchas, estrellas de mar, juguetes para fiestas en la playa, día festivo en la piscina, buceo en la piscina, búsqueda del tesoro, regalo de fiesta, decoración de fiestas (concha marina)",
+      "price": "$480.40",
+      "extracted_at": "2025-10-20T01:35:21.981Z"
+    },
+    {
+      "asin": "B0DBHGXK8R",
+      "title": "Globo negro morado azul, 60 unidades de 12 pulgadas, globos de confeti para niños, decoración de fiesta de videojuegos, baby shower, compromiso, graduación, fiestas",
+      "price": "$529.28",
+      "extracted_at": "2025-10-20T01:35:21.981Z"
+    },
+    {
+      "asin": "B0DBHHVW9L",
+      "title": "Kit de arco de guirnalda de globos de Halloween, más de 100 unidades, globos naranjas y negros, color morado y verde con globos de aluminio de murciélago espeluznante, tela de araña para otoño,",
+      "price": "$686.80",
+      "extracted_at": "2025-10-20T01:35:21.981Z"
+    },
+    {
+      "asin": "B0D92VJSFQ",
+      "title": "Nuokin - Juguetes de peluche de hongos de 12 pulgadas, lindo juguete de peluche para regalo de cumpleaños, decoración del hogar, Halloween para niños (rojo)",
+      "price": "$890.37",
+      "extracted_at": "2025-10-20T01:35:21.981Z"
+    },
+    {
+      "asin": "B0D7T7SBXY",
+      "title": "Globos bohemios de color rosa rubor retro, 65 unidades de 12 pulgadas, color rosa polvoriento, color rosa metálico, oro rosa, nude para cumpleaños, baby shower, novia, niñas, suministros de decoración",
+      "price": "$525.22",
+      "extracted_at": "2025-10-20T01:35:21.981Z"
+    },
+    {
+      "asin": "B0D4VHPSCQ",
+      "title": "BlueWood 2024 - Juego de escalada Pikler 3 en 1, color azul cielo",
+      "price": "$4,778.15",
+      "extracted_at": "2025-10-20T01:35:21.981Z"
+    },
+    {
+      "asin": "B0D4D534N8",
+      "title": "YCCHENG - Juego de 15 modelos de juguetes 1:43, pequeños coches de carreras para niños pequeños de 1, 2, 3, 4, 5, 6 años, cesta de Pascua, regalo de fiesta de cumpleaños preescolar",
+      "price": "$597.94",
+      "extracted_at": "2025-10-20T01:35:21.981Z"
+    },
+    {
+      "asin": "B0DDPNKXDG",
+      "title": "IVENRXIU - Kit médico para niños, 16 piezas de juego médico para niños, kit médico de juego de simulación con estetoscopio real, soporte de pared de rayos X, disfraces de vestir, etc. Juguetes para",
+      "price": "$775.10",
+      "extracted_at": "2025-10-20T01:35:21.981Z"
+    },
+    {
+      "asin": "B0DCZLZWFZ",
+      "title": "Decoraciones de primer cumpleaños para niña, corona 1 globo, número rosa 1 globos de 40 pulgadas, decoración de fiesta de cumpleaños con temática de gato, suministros de baby shower",
+      "price": "$477.62",
+      "extracted_at": "2025-10-20T01:35:21.981Z"
+    },
+    {
+      "asin": "B0D5Y1RYNB",
+      "title": "Arañas de plástico, 30 piezas de arañas de Halloween, pequeñas arañas falsas, mini araña realista, arañas de juguete negras, arañas pequeñas a granel, arañas de goma, juguetes de broma, juguetes de",
+      "price": "$428.02",
+      "extracted_at": "2025-10-20T01:35:21.981Z"
+    },
+    {
+      "asin": "B0D6BJMW79",
+      "title": "Suministros para fiesta de cumpleaños de construcción, decoración de fiesta de camión volquete incluye pancarta de feliz cumpleaños, telón de fondo, juego de vajilla, mantel, decoración de pasteles,",
+      "price": "$850.20",
+      "extracted_at": "2025-10-20T01:35:21.982Z"
+    },
+    {
+      "asin": "B0F5HVGRFY",
+      "title": "Decoración de fiesta de 3er cumpleaños, corona rosa grande de 40 pulgadas, 3 globos para niñas, decoración de cumpleaños real, suministros de fiesta, aniversarios (número 2 globos de cumpleaños de",
+      "price": "$469.61",
+      "extracted_at": "2025-10-20T01:35:21.982Z"
+    },
+    {
+      "asin": "B0D1V154NR",
+      "title": "Decoración de cumpleaños azul claro, pancarta de telón de fondo, globos de papel de estrella de corazón, mantel y suministros de fiesta para niños y niñas",
+      "price": "$870.75",
+      "extracted_at": "2025-10-20T01:35:21.982Z"
+    },
+    {
+      "asin": "B0D2B98RYH",
+      "title": "Decoraciones de cumpleaños rosa y negro de Saratimtou, incluye globos de color rosa intenso, claro, negros, de estrella, confeti, aluminio, pancarta, cortinas con flecos, cinta y tira decorativa",
+      "price": "$666.40",
+      "extracted_at": "2025-10-20T01:35:21.982Z"
+    },
+    {
+      "asin": "B0DK9WDHH4",
+      "title": "Tabla de actividades sensoriales, juguete sensorial de silicona para niños, TDAH y autismo, calmante para la ansiedad, silencioso, sin ensuciar, juguetes sensoriales para niños a partir de 3 años y",
+      "price": "$533.12",
+      "extracted_at": "2025-10-20T01:35:21.982Z"
+    },
+    {
+      "asin": "B0D25TF56W",
+      "title": "Juego de 24 libros para colorear para niños a granel con 24 lápices apilables, mini libros para colorear a granel para edades de 2 a 4 a 8 a 12 años, libros de actividades pequeños para regalos de",
+      "price": "$893.69",
+      "extracted_at": "2025-10-20T01:35:33.436Z"
+    },
+    {
+      "asin": "B0D1GH6WNL",
+      "title": "Juego de globos de fiesta de sirena, color rosa, morado, azul, 60 globos de látex metálicos de 12 pulgadas para niñas, fiesta de cumpleaños, baby shower, cumpleaños, decoraciones de fiesta bajo el mar",
+      "price": "$484.48",
+      "extracted_at": "2025-10-20T01:35:33.436Z"
+    },
+    {
+      "asin": "B0CGL5Z71S",
+      "title": "kreat4joy - Decoración de 3 cumpleaños con temática de safari de guepardo y selva, globos de telón de fondo de globos con diseño de globos de feliz cumpleaños, decoración de tartas, diseño de leopardo número 3",
+      "price": "$831.78",
+      "extracted_at": "2025-10-20T01:35:33.437Z"
+    },
+    {
+      "asin": "B096D6GFFQ",
+      "title": "Accesorios de decoración de Halloween, cabeza de zombi de látex sangriento de tamaño natural para casa encantada, fiesta de Halloween, patio, decoración de bar",
+      "price": "$1,000.97",
+      "extracted_at": "2025-10-20T01:35:33.437Z"
+    },
+    {
+      "asin": "B0CXHR4JLM",
+      "title": "MOMOSHERO - Kit de 175 globos de neón para decoración de fiesta de cumpleaños, fiestas, fiestas de cumpleaños con colores brillantes en la oscuridad (punto de estrella arcoiris)",
+      "price": "$663.73",
+      "extracted_at": "2025-10-20T01:35:33.437Z"
+    },
+    {
+      "asin": "B0CDKQGGN8",
+      "title": "Juguetes para niños pequeños de coche para niños: juguetes para niños de 2 a 3 a 4 años, juguetes de construcción 5 en 1 para niños de 2 a 3 a 4 a 3 años, juguetes para bebés de 18 a 24 meses, regalos de cumpleaños de Navidad para niños",
+      "price": "$856.97",
+      "extracted_at": "2025-10-20T01:35:33.437Z"
+    },
+    {
+      "asin": "B0CBVP9W7N",
+      "title": "100 globos de enlace rápido blancos de 10 pulgadas, globos de látex para pared de globos/arcos/cadenas, fiesta de cumpleaños, boda, aniversario, graduación, decoración de fiesta de arco (blanco)",
+      "price": "$605.91",
+      "extracted_at": "2025-10-20T01:35:33.437Z"
+    },
+    {
+      "asin": "B0D3VHGMPH",
+      "title": "Juego de estampado de vaca, 12 pulgadas, 60 globos de vaca azul café, globos marrones y azules para decoración de fiesta temática occidental de Bithday Farm",
+      "price": "$517.11",
+      "extracted_at": "2025-10-20T01:35:33.437Z"
+    },
+    {
+      "asin": "B0F7HXHQPS",
+      "title": "Juego de 6 ropa de muñeca de 17 cm, ropa para muñecas, accesorios para ropa de muñecas de 17 cm, playera + overoles + sombrero + cámara pequeña + anteojos + zapatos, no incluye muñeca",
+      "price": "$678.56",
+      "extracted_at": "2025-10-20T01:35:33.437Z"
+    },
+    {
+      "asin": "B0F5HPHKDM",
+      "title": "Decoración de fiesta de 4 cumpleaños de princesa, corona rosa grande de 40 pulgadas, 4 globos para niñas, decoración de cumpleaños real, suministros de fiesta, regalos de aniversario (número 4 globos",
+      "price": "$466.52",
+      "extracted_at": "2025-10-20T01:35:33.437Z"
+    },
+    {
+      "asin": "B0BTHCLFRG",
+      "title": "Globo número 8 de 40 pulgadas, globos de papel de aluminio rosa, 8 globos grandes, suministros de fiesta de 8, 18, 80 globos de cumpleaños para mujer y niña, aniversario de boda",
+      "price": "$387.36",
+      "extracted_at": "2025-10-20T01:35:33.438Z"
+    },
+    {
+      "asin": "B0CHYD6W8H",
+      "title": "Rueda de premio resistente de 24 pulgadas, rueda de premio de doble uso, soporte de mesa ajustable y piso, 12 ranuras, 1 soporte, kit de borrado en seco – Juego de rueda de la fortuna para carnaval, casino y feria comercial.",
+      "price": "$2,970.81",
+      "extracted_at": "2025-10-20T01:35:33.438Z"
+    },
+    {
+      "asin": "B0D1VJKS3D",
+      "title": "Qtioucp - Juego de herramientas de jardinería para niños, juego de patio trasero con carretilla, juguetes educativos para aprendizaje STEM al aire última intervensión para niños y niñas",
+      "price": "$1,606.55",
+      "extracted_at": "2025-10-20T01:35:33.438Z"
+    },
+    {
+      "asin": "B0D1BHMRRL",
+      "title": "Nemoro - Figura de acción Dummy13 con estampado en 3D, Robo13 con múltiples articulaciones, decoraciones de computadora para cifras de acción, el mejor regalo de festival de cumpleaños de Chritmas",
+      "price": "$605.91",
+      "extracted_at": "2025-10-20T01:35:33.438Z"
+    },
+    {
+      "asin": "B0DBVFQN16",
+      "title": "11 piezas de decoración temática de videojuegos, suministros para fiesta de cumpleaños número décimo para niños, driver de videojuegos, globo de lámina de Mylar, suministros de decoración de fiesta de",
+      "price": "$605.91",
+      "extracted_at": "2025-10-20T01:35:33.438Z"
+    },
+    {
+      "asin": "B0CGMG5S7G",
+      "title": "Decoraciones de 4º cumpleaños para niñas de color degradado de 4 cumpleaños con pancarta de feliz cumpleaños para baby showers suministros de fiesta de cuarto cumpleaños para niñas y niños (cuarto cumpleaños)",
+      "price": "$666.50",
+      "extracted_at": "2025-10-20T01:35:33.438Z"
+    },
+    {
+      "asin": "B0C1B7Y936",
+      "title": "Globos de fiesta de cumpleaños para coche de carreras, 40 pulgadas, tamaño grande, de Mylar de 40 pulgadas, color negro, para decoración de fiesta de 3er cumpleaños, suministros de decoración de fiesta temática de coche de carreras, juego de 9 piezas",
+      "price": "$451.61",
+      "extracted_at": "2025-10-20T01:35:45.221Z"
+    },
+    {
+      "asin": "B0DMWSDZJQ",
+      "title": "Máquina de burbujas para niños",
+      "price": "$596.98",
+      "extracted_at": "2025-10-20T01:35:45.221Z"
+    },
+    {
+      "asin": "B0C417RSN7",
+      "title": "Decoraciones de Cumpleaños Rosas para Mujeres y Niñas - Cortina de Flecos, Pancarta, Globos y Letras de Globo",
+      "price": "$858.31",
+      "extracted_at": "2025-10-20T01:35:45.221Z"
+    },
+    {
+      "asin": "B0BDZR457R",
+      "title": "Kit de arco de guirnalda de globos, 120 globos de 18 pulgadas, 12 pulgadas, 10 pulgadas, 5 pulgadas, globos de confeti dorados para boda, cumpleaños, baby shower, compromisos, aniversario, decoración de fiesta (verde salvia)",
+      "price": "$546.61",
+      "extracted_at": "2025-10-20T01:35:45.221Z"
+    },
+    {
+      "asin": "B09C9T1X7P",
+      "title": "TECHNOK Juguetes de baño para bebés – 12 vasos apilables arcoíris para bebés con botes de baño, tren y regadera para niños pequeños – Juguetes de baño de plástico apilables – Juguete de baño con formas de animales de mar juguete para niñas y niños",
+      "price": "$632.85",
+      "extracted_at": "2025-10-20T01:35:45.221Z"
+    },
+    {
+      "asin": "B09C3G7F5K",
+      "title": "16 bolsas de fiesta de tiburón con asas de papel giratorias, bolsas de regalo para niños con temática de tiburón azul, bolsas de regalo para verano, océano, mar, baby shower, suministros de fiesta de cumpleaños, 6.3 x 3.1 x 8.7 pulgadas",
+      "price": "$536.71",
+      "extracted_at": "2025-10-20T01:35:45.222Z"
+    },
+    {
+      "asin": "B08YXB7KGW",
+      "title": "Decoraciones de cumpleaños para perros, suministros de fiesta que sirven 16 unidades, incluye pancartas de cara de cachorro, servilletas, globos y cubierta de mesa, paquetes de fiesta para perritos",
+      "price": "$665.21",
+      "extracted_at": "2025-10-20T01:35:45.222Z"
+    },
+    {
+      "asin": "B0BBFMDHBL",
+      "title": "Protado - Juego de recuerdos de madera para niños, 24 tarjetas de memoria a juego con 5 pegatinas de tatuaje, juego educativo de memoria a juego para el desarrollo de aprendizaje temprano de",
+      "price": "$546.61",
+      "extracted_at": "2025-10-20T01:35:45.222Z"
+    },
+    {
+      "asin": "B09MLRMSPH",
+      "title": "Kit de guirnalda de globos azul marino, 95 globos azul marino mate azul oscuro con 18 pulgadas + 12 pulgadas + 10 pulgadas + 5 pulgadas para cumpleaños, baby shower, boda, despedida de soltera",
+      "price": "$517.11",
+      "extracted_at": "2025-10-20T01:35:45.222Z"
+    },
+    {
+      "asin": "B097748WDR",
+      "title": "Decoración para tarta de cumpleaños con texto en inglés \"Happy Birthday\" para niños y niños, camper/cazador/leñador/bosque/bosque/animal/fogata/decoración de tartas de cumpleaños",
+      "price": "$457.81",
+      "extracted_at": "2025-10-20T01:35:45.222Z"
+    },
+    {
+      "asin": "B07TCW8GRJ",
+      "title": "Kidohub Suministros para fiestas de cumpleaños de videojuegos, decoraciones de videojuegos, suministros para fiestas de jugador, vajilla de fiesta, mantel, pancarta de cumpleaños, globos, regalos, cajas de regalo, 185 piezas para 16 invitados",
+      "price": "$1,073.66",
+      "extracted_at": "2025-10-20T01:35:45.222Z"
+    },
+    {
+      "asin": "B077WTYLZF",
+      "title": "Guirnaldas de papel con purpurina dorada de 7,3 m para colgar, decoración de luna de miel, boda, compromiso, fiesta de cumpleaños, Navidad, fiestas, centros de mesa",
+      "price": "$569.94",
+      "extracted_at": "2025-10-20T01:35:45.222Z"
+    },
+    {
+      "asin": "B0D7H2JYZ3",
+      "title": "105 piezas de decoraciones de fiesta de cumpleaños de Halloween, decoraciones de cumpleaños de Halloween, con pancarta de cumpleaños de Halloween, globos de Halloween, calcomanías de pared para",
+      "price": "$931.59",
+      "extracted_at": "2025-10-20T01:35:45.222Z"
+    },
+    {
+      "asin": "B0D1K1VTQM",
+      "title": "Globos de látex de 5º cumpleaños, 24 unidades, color verde salvia, oro verde, dorado para quinto cumpleaños, decoración de fiesta de 5º cumpleaños para niñas y niños, suministros de decoración de",
+      "price": "$418.78",
+      "extracted_at": "2025-10-20T01:35:45.222Z"
+    },
+    {
+      "asin": "B0D5Y894K1",
+      "title": "Juguetes coloridos para bicicleta de equilibrio de bebé para regalos de niña de 1 año, bicicleta de equilibrio de 10 a 36 meses, sin pedal, 4 ruedas de silencio y asiento suave para niños de primera",
+      "price": "$1,911.09",
+      "extracted_at": "2025-10-20T01:35:45.223Z"
+    },
+    {
+      "asin": "B07DK73N46",
+      "title": "Merytes 2 barajas de Cartas de póquer Impermeables y Cartas de Juego con PVC de plástico Flexible y Cartas de Truco clásicas",
+      "price": "$461.61",
+      "extracted_at": "2025-10-20T01:35:45.223Z"
+    },
+    {
+      "asin": "B0DCF7NPP4",
+      "title": "MOMOSHERO - Kit de 142 globos de Acción de Gracias para otoño, color naranja quemado, globos de oro marfil, guirnalda para regalar amigos, calabaza, arce, cumpleaños, baby shower, decoración de fiesta",
+      "price": "$695.00",
+      "extracted_at": "2025-10-20T01:35:59.075Z"
+    },
+    {
+      "asin": "B0D2XYHGRQ",
+      "title": "Globo azul morado y rosa para cumpleaños",
+      "price": "$691.82",
+      "extracted_at": "2025-10-20T01:35:59.075Z"
+    },
+    {
+      "asin": "B0D1KD16NS",
+      "title": "Suministros para fiestas de cumpleaños de dinosaurio, decoraciones de estilo dinosaurio incluyen telón de fondo, mantel, pancartas, decoración de pasteles, adornos para cupcakes, globos de látex y",
+      "price": "$957.41",
+      "extracted_at": "2025-10-20T01:35:59.075Z"
+    },
+    {
+      "asin": "B09TVLCZH2",
+      "title": "JOGILBOY 10 decoraciones para tartas de feliz cumpleaños, fuegos artificiales, decoración de tartas, cócteles, frutas, palillos de dientes para decoración de pasteles, suministros de fiesta",
+      "price": "$448.39",
+      "extracted_at": "2025-10-20T01:35:59.076Z"
+    },
+    {
+      "asin": "B09LYT3VGQ",
+      "title": "Cutemini Mecedora en miniatura escala 1:12, accesorios para casa de muñecas, modelo de muebles pequeños para casa de muñecas, juguete, decoración del hogar, escena de tiro (rojo)",
+      "price": "$546.61",
+      "extracted_at": "2025-10-20T01:35:59.076Z"
+    },
+    {
+      "asin": "B07KPDFL3B",
+      "title": "AKIO CRAFT Ventilador de papel, Paperfan6t-heartshape",
+      "price": "$535.61",
+      "extracted_at": "2025-10-20T01:35:59.076Z"
+    },
+    {
+      "asin": "B0CZSRW9GN",
+      "title": "Globo dorado negro con papel de aluminio de 16 pulgadas, estrella de cinco puntas de 10 pulgadas, estrella de cuatro puntas adecuada para niños, hombres, mujeres, niños y niñas",
+      "price": "$416.57",
+      "extracted_at": "2025-10-20T01:35:59.076Z"
+    }
+  ]
+}

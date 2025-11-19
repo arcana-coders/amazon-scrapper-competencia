@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "seller_id": "AE8MUNDUREHX7",
+    "seller_url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482660011%2Cn%3A9784381011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760369775&rnid=9482660011&ref=sr_nr_n_8&ds=v1%3A%2F1GbOIVgnC6mfkRcSjqv1rK5rgU2axfokRv7m39TmfQ",
+    "category_name": "deportes-y-aire-libre-calzado-deportivo",
+    "total_products": 10,
+    "pages_processed": 1,
+    "extraction_date": "2025-10-17T16:33:33.745Z",
+    "script_version": "1.0"
+  },
+  "products": [
+    {
+      "asin": "B09NGHLFJT",
+      "title": "RUIDENG - Tenis de Plataforma para Mujer, cojín de Aire, Zapatos de Caminar para Mujer, cómodos Todo el día, Parte Inferior Gruesa",
+      "price": "$1,259.53",
+      "extracted_at": "2025-10-17T16:33:33.723Z"
+    },
+    {
+      "asin": "B07X3M2K7C",
+      "title": "Fly Fishing Hero Chest Waders for Men with Boots Hunting Waders Fishing Boots Waders for Women Free Hangers",
+      "price": "$1,307.17",
+      "extracted_at": "2025-10-17T16:33:33.723Z"
+    },
+    {
+      "asin": "B07RGGZY4N",
+      "title": "TIOSEBON Tenis para Caminar Ligeros y Casuales para Mujer",
+      "price": "$1,266.79",
+      "extracted_at": "2025-10-17T16:33:33.723Z"
+    },
+    {
+      "asin": "B0B4G4PPWR",
+      "title": "Zapatos de agua para niños y niñas, calcetines acuáticos, de piel descalzos, para caminar, de secado rápido, antideslizantes, transpirables, para nadar, surf",
+      "price": "$719.07",
+      "extracted_at": "2025-10-17T16:33:33.723Z"
+    },
+    {
+      "asin": "B0BGLCY188",
+      "title": "Poramea Mens Slip on Loafers Walking Tennis Shoes Laceless Jogging Blade Sneakers Mesh Trail Running Casual Athletic",
+      "price": "$1,375.64",
+      "extracted_at": "2025-10-17T16:33:33.723Z"
+    },
+    {
+      "asin": "B08R8NS7G8",
+      "title": "Anlarach Zapatos deportivos para niños y niñas, para correr, con cojín de aire, para niños pequeños, niños grandes",
+      "price": "$1,035.06",
+      "extracted_at": "2025-10-17T16:33:33.724Z"
+    },
+    {
+      "asin": "B093QJ5R35",
+      "title": "See Kai Run, Summit - Zapatos deportivos para niños",
+      "price": "$1,664.33",
+      "extracted_at": "2025-10-17T16:33:33.724Z"
+    },
+    {
+      "asin": "B07LFXYKS3",
+      "title": "Leader Show Women's Casual Walking Shoes Comfortable Loafers Slip-On Nursing Shoes Fashion Platform Sneakers",
+      "price": "$839.46",
+      "extracted_at": "2025-10-17T16:33:33.724Z"
+    },
+    {
+      "asin": "B07NQCCQ62",
+      "title": "HKR Calzado de Senderismo para Mujer Zapatillas Slip On Ligeras Zapatos de Trabajo Antideslizantes Todo Blanco 8",
+      "price": "$1,281.02",
+      "extracted_at": "2025-10-17T16:33:33.724Z"
+    },
+    {
+      "asin": "B07S7QT5B7",
+      "title": "BARERUN - Zapatos de Agua Descalzos para Mujeres y Hombres, de Secado rápido, para natación, Playa, Piscina, Surf, Yoga, Barco, Viajes, Antideslizantes, para Interiores y Exteriores",
+      "price": "$630.94",
+      "extracted_at": "2025-10-17T16:33:33.724Z"
+    }
+  ]
+}

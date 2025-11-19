@@ -1,0 +1,1577 @@
+{
+  "projects": {
+    "A3Q5ASRA7J8Y5E": {
+      "analysis_completed": true,
+      "analysis_date": "2025-10-10T13:42:27.614Z",
+      "last_updated": "2025-10-11T01:49:46.375Z",
+      "plan_created": true,
+      "plan_date": "2025-10-10T13:43:28.747Z",
+      "scraping_completed": true,
+      "scraping_date": "2025-10-10T13:45:39.313Z",
+      "products_extraction_completed": true,
+      "products_extraction_date": "2025-10-10T17:13:40.322Z",
+      "enrichment_completed": true,
+      "enrichment_date": "2025-10-10T22:50:44.244Z",
+      "usa_verification_completed": true,
+      "usa_verification_date": "2025-10-11T01:49:46.374Z",
+      "publication_requests": {
+        "oportunidades": {
+          "requested_at": "2025-10-12T03:17:49.969Z",
+          "option": "1"
+        }
+      },
+      "uploads": [
+        {
+          "uploaded_at": "2025-10-12T05:22:42.671Z",
+          "archivo": "listo_para_subir_A3Q5ASRA7J8Y5E_2025-10-11_23-07.xlsx",
+          "feedId": null
+        },
+        {
+          "uploaded_at": "2025-10-12T22:23:28.537Z",
+          "archivo": "listo_para_subir_A3Q5ASRA7J8Y5E_2025-10-12_16-18.xlsx",
+          "feedId": null
+        }
+      ]
+    },
+    "AE8MUNDUREHX7": {
+      "analysis_completed": true,
+      "analysis_date": "2025-10-13T05:04:11.524Z",
+      "last_updated": "2025-10-13T03:57:19.421Z",
+      "seller_id": "AE8MUNDUREHX7",
+      "total_products": 1,
+      "main_categories": [
+        "Alimentos y Bebidas",
+        "Automotriz y Motocicletas",
+        "Bebé",
+        "Belleza",
+        "Deportes y Aire libre",
+        "Electrónicos",
+        "Herramientas y Mejoras del Hogar",
+        "Hogar y Cocina",
+        "Industria, Empresas y Ciencia",
+        "Instrumentos Musicales",
+        "Jardín",
+        "Juguetes y Juegos",
+        "Libros",
+        "Oficina y Papelería",
+        "Películas y Series de TV",
+        "Productos para animales",
+        "Ropa, Zapatos y Accesorios",
+        "Salud y Cuidado Personal",
+        "Videojuegos"
+      ],
+      "main_categories_urls": [
+        {
+          "name": "Alimentos y Bebidas",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A17608484011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331846&rnid=15997893011&ref=sr_nr_n_1&ds=v1%3AU%2B5zTl2Qb8XXjXb9atdCbUl1CV%2FqzlXazhd9J0lRdXA"
+        },
+        {
+          "name": "Automotriz y Motocicletas",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A13848848011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331846&rnid=15997893011&ref=sr_nr_n_2&ds=v1%3AP5vr7xPIMQWE%2F%2FH6oLiSVIakRZz%2F3OHoTpUApwUgm8U"
+        },
+        {
+          "name": "Bebé",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482650011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331846&rnid=15997893011&ref=sr_nr_n_3&ds=v1%3AwqfFdFAxncQlDEfwYjFV1e3Iu%2BNzwtsVN3g0wRWGVoU"
+        },
+        {
+          "name": "Belleza",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260452011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331846&rnid=15997893011&ref=sr_nr_n_4&ds=v1%3AuJMuer95XdsccYj%2BercHHGpgZa1g0C6YMAYStn3nmA8"
+        },
+        {
+          "name": "Deportes y Aire libre",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482660011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331846&rnid=15997893011&ref=sr_nr_n_5&ds=v1%3ABwe9vlOhnAjsBAN16aEb3KoZIVMzVYsxMIn0bDItahM"
+        },
+        {
+          "name": "Electrónicos",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482558011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331846&rnid=15997893011&ref=sr_nr_n_6&ds=v1%3Agu0DIjB6fUm2yLCThclJ7XujjN7jes5CX8nTZAJWByw"
+        },
+        {
+          "name": "Herramientas y Mejoras del Hogar",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482670011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331846&rnid=15997893011&ref=sr_nr_n_7&ds=v1%3Apanh4jjxBDM7lsQ%2F4H1KyHvxxXPEm8xGr81%2BSJIF78Y"
+        },
+        {
+          "name": "Hogar y Cocina",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331846&rnid=15997893011&ref=sr_nr_n_8&ds=v1%3AlFpAXkX3ovIB87SUpn3bVM3iFVYvZEBNzN7I3IgoG9E"
+        },
+        {
+          "name": "Industria, Empresas y Ciencia",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11076223011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331846&rnid=15997893011&ref=sr_nr_n_9&ds=v1%3AICrMH2qV9zeq19WHsAGfXcVbktm3oEfCzFQgmy0n2%2FI"
+        },
+        {
+          "name": "Instrumentos Musicales",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A13848858011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331846&rnid=15997893011&ref=sr_nr_n_10&ds=v1%3AaHzaMBFrPrAVtFtG1y0TsbVQ%2FaPwnGTPzwR7V%2B6OatQ"
+        },
+        {
+          "name": "Jardín",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A16215357011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331846&rnid=15997893011&ref=sr_nr_n_11&ds=v1%3A0yAcY%2FQuUQTvzbtpCcJ1YNPSX%2BIF4nNJZkRAXfvvBQM"
+        },
+        {
+          "name": "Juguetes y Juegos",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260442011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331846&rnid=15997893011&ref=sr_nr_n_12&ds=v1%3Aa0nglgq0NlUYGbHzYWt10w5IgF3TdEfuU8O72ZCyHQk"
+        },
+        {
+          "name": "Libros",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9298576011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331846&rnid=15997893011&ref=sr_nr_n_13&ds=v1%3AA4DgfwPyYbl3S4Y1T3TRDXkgZXyXheV7B0yfQ5JlJlU"
+        },
+        {
+          "name": "Oficina y Papelería",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9673844011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331846&rnid=15997893011&ref=sr_nr_n_14&ds=v1%3AgXs4SRbxrXO8w5mec38mdEV8UWlza3dQDfGrR0t8wxU"
+        },
+        {
+          "name": "Películas y Series de TV",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482630011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331846&rnid=15997893011&ref=sr_nr_n_15&ds=v1%3AUV73xjUXtW8L2dEeKHAUc5du5MUb26OaSdfNnuVidA4"
+        },
+        {
+          "name": "Productos para animales",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11782336011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331846&rnid=15997893011&ref=sr_nr_n_16&ds=v1%3AAhqHEjapyYd6NzhWY2CwEMV%2F%2BSvqfwReoHuSPUjchJ4"
+        },
+        {
+          "name": "Ropa, Zapatos y Accesorios",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A13848838011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331846&rnid=15997893011&ref=sr_nr_n_17&ds=v1%3Ai0647sbS8nQf1oe5StE3uonc%2FBJ%2F9KNZXDDyKaDz5jc"
+        },
+        {
+          "name": "Salud y Cuidado Personal",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482610011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331846&rnid=15997893011&ref=sr_nr_n_18&ds=v1%3AP9vbvN85%2FgOVyETyilbQf18PFbviYMRamlYaQPweHt8"
+        },
+        {
+          "name": "Videojuegos",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482640011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331846&rnid=15997893011&ref=sr_nr_n_19&ds=v1%3AEzIa1jrJAnRUuOTUXnmX3xWOBYWUPY7PbqhkoSNVnss"
+        }
+      ],
+      "discovered_at": "2025-10-13T03:45:18.581Z",
+      "last_analyzed": "2025-10-13T05:04:11.524Z",
+      "status": "planned",
+      "batches": [
+        {
+          "batch": 1,
+          "status": "completed",
+          "products": 681,
+          "categories": [
+            "Alimentos y Bebidas",
+            "Automotriz y Motocicletas",
+            "Bebé"
+          ],
+          "created_at": "2025-10-13T03:47:50.596Z",
+          "started_at": "2025-10-13T17:39:13.211Z",
+          "completed_at": "2025-10-13T17:39:13.215Z"
+        },
+        {
+          "batch": 2,
+          "status": "completed",
+          "products": 823,
+          "categories": [
+            "Belleza",
+            "Deportes y Aire libre"
+          ],
+          "created_at": "2025-10-13T03:50:36.369Z",
+          "started_at": "2025-10-13T15:43:30.217Z",
+          "completed_at": "2025-10-13T15:43:30.219Z"
+        },
+        {
+          "batch": 3,
+          "status": "completed",
+          "products": 1515,
+          "categories": [
+            "Electrónicos"
+          ],
+          "created_at": "2025-10-13T03:51:14.730Z",
+          "started_at": "2025-10-13T15:43:34.801Z",
+          "completed_at": "2025-10-13T15:43:34.803Z"
+        },
+        {
+          "batch": 4,
+          "status": "completed",
+          "products": 1030,
+          "categories": [
+            "Herramientas y Mejoras del Hogar"
+          ],
+          "created_at": "2025-10-13T03:53:56.000Z",
+          "started_at": "2025-10-13T15:43:38.306Z",
+          "completed_at": "2025-10-13T15:43:38.308Z"
+        },
+        {
+          "batch": 5,
+          "status": "completed",
+          "products": 3511,
+          "categories": [
+            "Hogar y Cocina"
+          ],
+          "created_at": "2025-10-13T03:55:06.444Z",
+          "started_at": "2025-10-13T15:43:42.075Z",
+          "completed_at": "2025-10-13T15:45:01.365Z"
+        },
+        {
+          "batch": 6,
+          "status": "completed",
+          "products": 991,
+          "categories": [
+            "Industria, Empresas y Ciencia"
+          ],
+          "created_at": "2025-10-13T03:55:09.149Z",
+          "started_at": "2025-10-13T15:45:05.437Z",
+          "completed_at": "2025-10-13T15:46:20.839Z"
+        },
+        {
+          "batch": 7,
+          "status": "completed",
+          "products": 467,
+          "categories": [
+            "Instrumentos Musicales",
+            "Jardín"
+          ],
+          "created_at": "2025-10-13T03:56:36.360Z",
+          "started_at": "2025-10-13T15:46:27.166Z",
+          "completed_at": "2025-10-13T15:47:57.439Z"
+        },
+        {
+          "batch": 8,
+          "status": "completed",
+          "products": 839,
+          "categories": [
+            "Juguetes y Juegos",
+            "Libros"
+          ],
+          "created_at": "2025-10-13T03:57:19.421Z",
+          "started_at": "2025-10-13T15:48:01.298Z",
+          "completed_at": "2025-10-13T15:49:30.063Z"
+        }
+      ],
+      "plan_created": true,
+      "plan_date": "2025-10-13T03:57:19.421Z",
+      "store_name": "AE8MUNDUREHX7",
+      "uploads": [
+        {
+          "uploaded_at": "2025-10-17T16:15:51.021Z",
+          "archivo": "listo_para_subir_AE8MUNDUREHX7_2025-10-17_08-47.xlsx",
+          "feedId": null
+        }
+      ]
+    },
+    "A27UCZ6SHTD3J2": {
+      "seller_id": "A27UCZ6SHTD3J2",
+      "total_products": 1,
+      "main_categories": [
+        "Automotriz y Motocicletas",
+        "Bebé",
+        "Belleza",
+        "Deportes y Aire libre",
+        "Electrónicos",
+        "Herramientas y Mejoras del Hogar",
+        "Hogar y Cocina",
+        "Industria, Empresas y Ciencia",
+        "Jardín",
+        "Juguetes y Juegos",
+        "Libros",
+        "Música",
+        "Oficina y Papelería",
+        "Películas y Series de TV",
+        "Productos para animales",
+        "Ropa, Zapatos y Accesorios",
+        "Salud y Cuidado Personal",
+        "Software",
+        "Videojuegos"
+      ],
+      "main_categories_urls": [
+        {
+          "name": "Automotriz y Motocicletas",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A13848848011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760330165&rnid=15997893011&ref=sr_nr_n_1&ds=v1%3Atq%2BxbsjzPaVVwpI0GF8RgWuodUSQ2LuZrgJBPUOLg%2BI"
+        },
+        {
+          "name": "Bebé",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A9482650011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760330165&rnid=15997893011&ref=sr_nr_n_2&ds=v1%3AnPOJizBOAzAshaOHWR92iv6Utz%2B5Z%2FM8KmBxaU9CrjY"
+        },
+        {
+          "name": "Belleza",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A11260452011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760330165&rnid=15997893011&ref=sr_nr_n_3&ds=v1%3AF9DRCQlQ9C%2Fi7BQP0ucTrGskSTCYUdLoxZ51AS2j%2BqY"
+        },
+        {
+          "name": "Deportes y Aire libre",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A9482660011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760330165&rnid=15997893011&ref=sr_nr_n_4&ds=v1%3Aqo%2FR6RDCacD9BJJKTwul5sjMiOoSKkpjGHjJfNCFpI0"
+        },
+        {
+          "name": "Electrónicos",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A9482558011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760330165&rnid=15997893011&ref=sr_nr_n_5&ds=v1%3AfCOJt1ftrfT08XYlYXvv351vwoJSWdid2CHOwfRd2hQ"
+        },
+        {
+          "name": "Herramientas y Mejoras del Hogar",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A9482670011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760330165&rnid=15997893011&ref=sr_nr_n_6&ds=v1%3AB%2Bs6PaR9lWgy8g04Yd7E%2F%2BQIuQs2SAh4q5D7Ayc9HEw"
+        },
+        {
+          "name": "Hogar y Cocina",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A9482593011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760330165&rnid=15997893011&ref=sr_nr_n_7&ds=v1%3A6n7NKcPnEKSo75zgqmn0kMzBHkAT8daq4Lm0zPzOQlA"
+        },
+        {
+          "name": "Industria, Empresas y Ciencia",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A11076223011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760330165&rnid=15997893011&ref=sr_nr_n_8&ds=v1%3ATTGjg0HHZOlKQ9huhJXtO7ms4vnbpO3IyW9uQE3MBAI"
+        },
+        {
+          "name": "Jardín",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A16215357011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760330165&rnid=15997893011&ref=sr_nr_n_9&ds=v1%3AVPLlCprcdq1FQZGyYqWPSOxgZ17DIO27xEeBGjfRZIc"
+        },
+        {
+          "name": "Juguetes y Juegos",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A11260442011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760330165&rnid=15997893011&ref=sr_nr_n_10&ds=v1%3AMoILCXPAJjXatGaa%2FU1NUnmHKgAl32Wi8agiz%2Fb49xk"
+        },
+        {
+          "name": "Libros",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A9298576011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760330165&rnid=15997893011&ref=sr_nr_n_11&ds=v1%3AsV9Iua8cVihulClSIz7nqs7sWP9qh19f1sBFfN6mGaE"
+        },
+        {
+          "name": "Música",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A9482620011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760330165&rnid=15997893011&ref=sr_nr_n_12&ds=v1%3A8b0SIIdX7q4u4f9Va5iz7yA43NA6W%2BXGCF5HRCH8HBs"
+        },
+        {
+          "name": "Oficina y Papelería",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A9673844011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760330165&rnid=15997893011&ref=sr_nr_n_13&ds=v1%3AVoGlAId4EFKW%2BUzc22lmMAEYZsjCXSSgD5Eg8nEsx3U"
+        },
+        {
+          "name": "Películas y Series de TV",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A9482630011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760330165&rnid=15997893011&ref=sr_nr_n_14&ds=v1%3A2oHD%2FtyL72U5q%2BthdoITgdsqR9qzmrqsNsHBk8FAJ6E"
+        },
+        {
+          "name": "Productos para animales",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A11782336011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760330165&rnid=15997893011&ref=sr_nr_n_15&ds=v1%3A%2BxLm0riMJEzmYvecxJVjbVkdLW3dtDoRcOf%2F4%2FKBR4k"
+        },
+        {
+          "name": "Ropa, Zapatos y Accesorios",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A13848838011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760330165&rnid=15997893011&ref=sr_nr_n_16&ds=v1%3ABRampyBS%2FRJ8EEzxNsChECeWS9J2SdcMRTTfqweYHTI"
+        },
+        {
+          "name": "Salud y Cuidado Personal",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A9482610011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760330165&rnid=15997893011&ref=sr_nr_n_17&ds=v1%3ATThoeNnJ22g4ix5Vj1fvyDnhc3kFUvYA6WXDKW%2FuQCc"
+        },
+        {
+          "name": "Software",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A9482690011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760330165&rnid=15997893011&ref=sr_nr_n_18&ds=v1%3Ad%2FX06vbsJik0%2BYhX6lhGu0d5KdpcxlwNhC%2Fd9o30nKA"
+        },
+        {
+          "name": "Videojuegos",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A9482640011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760330165&rnid=15997893011&ref=sr_nr_n_19&ds=v1%3A6YEDwUTh7t4eznjtGMZvrEYHLlp6t3p7KcptQLjC%2Fl4"
+        }
+      ],
+      "discovered_at": "2025-10-13T04:36:10.618Z",
+      "last_analyzed": "2025-10-13T04:36:10.618Z",
+      "status": "planned",
+      "analysis_completed": true,
+      "analysis_date": "2025-10-13T04:36:11.182Z",
+      "last_updated": "2025-10-29T19:32:20.918Z",
+      "batches": [
+        {
+          "batch": 1,
+          "status": "plan_created",
+          "products": 972,
+          "categories": [
+            "Automotriz y Motocicletas",
+            "Bebé",
+            "Belleza",
+            "Deportes y Aire libre"
+          ],
+          "created_at": "2025-10-29T19:29:45.029Z"
+        },
+        {
+          "batch": 2,
+          "status": "plan_created",
+          "products": 896,
+          "categories": [
+            "Electrónicos",
+            "Herramientas y Mejoras del Hogar",
+            "Hogar y Cocina",
+            "Industria, Empresas y Ciencia",
+            "Jardín",
+            "Juguetes y Juegos",
+            "Libros",
+            "Música"
+          ],
+          "created_at": "2025-10-29T19:30:43.446Z"
+        },
+        {
+          "batch": 3,
+          "status": "plan_created",
+          "products": 258,
+          "categories": [
+            "Oficina y Papelería",
+            "Películas y Series de TV",
+            "Productos para animales"
+          ],
+          "created_at": "2025-10-29T19:31:33.911Z"
+        },
+        {
+          "batch": 4,
+          "status": "plan_created",
+          "products": 850,
+          "categories": [
+            "Ropa, Zapatos y Accesorios"
+          ],
+          "created_at": "2025-10-29T19:32:15.239Z"
+        },
+        {
+          "batch": 5,
+          "status": "plan_created",
+          "products": 566,
+          "categories": [
+            "Salud y Cuidado Personal",
+            "Software",
+            "Videojuegos"
+          ],
+          "created_at": "2025-10-29T19:32:20.918Z"
+        }
+      ],
+      "plan_created": true,
+      "plan_date": "2025-10-29T19:32:20.918Z"
+    },
+    "A2CINPW5JHJUKV": {
+      "seller_id": "A2CINPW5JHJUKV",
+      "total_products": 1,
+      "main_categories": [
+        "Alimentos y Bebidas",
+        "Automotriz y Motocicletas",
+        "Bebé",
+        "Belleza",
+        "Deportes y Aire libre",
+        "Electrónicos",
+        "Herramientas y Mejoras del Hogar",
+        "Hogar y Cocina",
+        "Industria, Empresas y Ciencia",
+        "Instrumentos Musicales",
+        "Juguetes y Juegos",
+        "Libros",
+        "Música",
+        "Oficina y Papelería",
+        "Películas y Series de TV",
+        "Productos para animales",
+        "Ropa, Zapatos y Accesorios",
+        "Salud y Cuidado Personal",
+        "Software",
+        "Videojuegos"
+      ],
+      "main_categories_urls": [
+        {
+          "name": "Alimentos y Bebidas",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A2CINPW5JHJUKV&rh=n%3A17608484011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760330497&rnid=15997893011&ref=sr_nr_n_1&ds=v1%3AKWniXaJnA3VOyjTUjmkn6tcuCGzUyDJ8r20HLvqWLoA"
+        },
+        {
+          "name": "Automotriz y Motocicletas",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A2CINPW5JHJUKV&rh=n%3A13848848011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760330497&rnid=15997893011&ref=sr_nr_n_2&ds=v1%3AzXK2FGwwwtasOlqmbaY2aLstKkP2iMEpvGg2U564caM"
+        },
+        {
+          "name": "Bebé",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A2CINPW5JHJUKV&rh=n%3A9482650011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760330497&rnid=15997893011&ref=sr_nr_n_3&ds=v1%3A7kVNutRweUaT0HQLCwKvU1Tx48vRFFcRUAGoqLQCiVg"
+        },
+        {
+          "name": "Belleza",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A2CINPW5JHJUKV&rh=n%3A11260452011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760330497&rnid=15997893011&ref=sr_nr_n_4&ds=v1%3AyrRjaJfVNt2HERPWLloKcHkqWPsKZXXcavA2EcTwPZ0"
+        },
+        {
+          "name": "Deportes y Aire libre",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A2CINPW5JHJUKV&rh=n%3A9482660011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760330497&rnid=15997893011&ref=sr_nr_n_5&ds=v1%3ARu9r3jLIFRSlYvUZNt8zSxVMtAxfyadivQVE7MOwcdE"
+        },
+        {
+          "name": "Electrónicos",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A2CINPW5JHJUKV&rh=n%3A9482558011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760330497&rnid=15997893011&ref=sr_nr_n_6&ds=v1%3AHKu0pgHhVt9tWH5H4AYl6USDxZkbVw63PCRNv7NMnXA"
+        },
+        {
+          "name": "Herramientas y Mejoras del Hogar",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A2CINPW5JHJUKV&rh=n%3A9482670011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760330497&rnid=15997893011&ref=sr_nr_n_7&ds=v1%3ADhEftUTXJX5R54rU0onuSr3EmvIznn%2BQYnLYp5vz9q4"
+        },
+        {
+          "name": "Hogar y Cocina",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A2CINPW5JHJUKV&rh=n%3A9482593011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760330497&rnid=15997893011&ref=sr_nr_n_8&ds=v1%3AEzNonkY4MieBE54pVWKMorFK0xTxdRj3SWRauGeRcDY"
+        },
+        {
+          "name": "Industria, Empresas y Ciencia",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A2CINPW5JHJUKV&rh=n%3A11076223011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760330497&rnid=15997893011&ref=sr_nr_n_9&ds=v1%3A1YRo4pNhqQYqu9v2qmSFgLuceqcAJITMVYR1HC%2Bocog"
+        },
+        {
+          "name": "Instrumentos Musicales",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A2CINPW5JHJUKV&rh=n%3A13848858011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760330497&rnid=15997893011&ref=sr_nr_n_10&ds=v1%3AVC9%2FRjDIMGY863%2Ft2POzN4AMeMvWqps%2FEKtyJQzD1YM"
+        },
+        {
+          "name": "Juguetes y Juegos",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A2CINPW5JHJUKV&rh=n%3A11260442011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760330497&rnid=15997893011&ref=sr_nr_n_11&ds=v1%3AzHopWpc4rNTjH1t7rYz2bA1u9qhAv1pox36p9ylaTBA"
+        },
+        {
+          "name": "Libros",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A2CINPW5JHJUKV&rh=n%3A9298576011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760330497&rnid=15997893011&ref=sr_nr_n_12&ds=v1%3AxcskchMokVTUbb9J0D86ixYFSPpMpBPI9%2FqhAmUT2AI"
+        },
+        {
+          "name": "Música",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A2CINPW5JHJUKV&rh=n%3A9482620011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760330497&rnid=15997893011&ref=sr_nr_n_13&ds=v1%3AJtXEkHo%2Fp3B8dV4MMcQjmLDVV03Moq76wXB6HvvI%2FUU"
+        },
+        {
+          "name": "Oficina y Papelería",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A2CINPW5JHJUKV&rh=n%3A9673844011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760330497&rnid=15997893011&ref=sr_nr_n_14&ds=v1%3ASEYwYky18wWgmQVW36XISCgjbb9Bh8J%2B%2FScGDWafRVA"
+        },
+        {
+          "name": "Películas y Series de TV",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A2CINPW5JHJUKV&rh=n%3A9482630011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760330497&rnid=15997893011&ref=sr_nr_n_15&ds=v1%3ArU3ose3XuQQo7qE%2FuCK78DibRlypoNVP6EO9o69%2FQnQ"
+        },
+        {
+          "name": "Productos para animales",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A2CINPW5JHJUKV&rh=n%3A11782336011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760330497&rnid=15997893011&ref=sr_nr_n_16&ds=v1%3AEluvXMAFjs2mkdeRHcIkUvd1ftwb65pSHH%2BgaCfmFFk"
+        },
+        {
+          "name": "Ropa, Zapatos y Accesorios",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A2CINPW5JHJUKV&rh=n%3A13848838011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760330497&rnid=15997893011&ref=sr_nr_n_17&ds=v1%3AYDstbmu5Nmr90yLHfwxE8U4aPKzlgyQabP0UaYnwmS8"
+        },
+        {
+          "name": "Salud y Cuidado Personal",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A2CINPW5JHJUKV&rh=n%3A9482610011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760330497&rnid=15997893011&ref=sr_nr_n_18&ds=v1%3A0YOLDCcbuLNJgvnR3Dcd2%2BxxGrn5g5TLTbL7I%2FiNd7Q"
+        },
+        {
+          "name": "Software",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A2CINPW5JHJUKV&rh=n%3A9482690011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760330497&rnid=15997893011&ref=sr_nr_n_19&ds=v1%3Afl%2FBfOeUGcIzZtTXmUg%2BcTSVYdtyFj1QTapx%2F7vP25s"
+        },
+        {
+          "name": "Videojuegos",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A2CINPW5JHJUKV&rh=n%3A9482640011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760330497&rnid=15997893011&ref=sr_nr_n_20&ds=v1%3ArISPzqwH3joMgMMRHt45fkfXD3TyoVIXuYuEOuKZtq8"
+        }
+      ],
+      "discovered_at": "2025-10-13T04:41:42.092Z",
+      "last_analyzed": "2025-10-13T04:41:42.092Z",
+      "status": "discovered",
+      "analysis_completed": true,
+      "analysis_date": "2025-10-13T04:41:42.377Z",
+      "last_updated": "2025-10-13T04:41:42.377Z"
+    },
+    "A2529Q8MW27A5W": {
+      "seller_id": "A2529Q8MW27A5W",
+      "store_name": "A2529Q8MW27A5W",
+      "total_products": 1,
+      "main_categories": [
+        "Alimentos y Bebidas",
+        "Automotriz y Motocicletas",
+        "Bebé",
+        "Belleza",
+        "Deportes y Aire libre",
+        "Electrónicos",
+        "Herramientas y Mejoras del Hogar",
+        "Hogar y Cocina",
+        "Industria, Empresas y Ciencia",
+        "Instrumentos Musicales",
+        "Jardín",
+        "Juguetes y Juegos",
+        "Libros",
+        "Música",
+        "Oficina y Papelería",
+        "Películas y Series de TV",
+        "Productos para animales",
+        "Ropa, Zapatos y Accesorios",
+        "Salud y Cuidado Personal",
+        "Software",
+        "Videojuegos"
+      ],
+      "main_categories_urls": [
+        {
+          "name": "Alimentos y Bebidas",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A2529Q8MW27A5W&rh=n%3A17608484011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331884&rnid=15997893011&ref=sr_nr_n_1&ds=v1%3AscVtndcF%2B%2FqMpnCxQYUOHkejbLE1vbKxeqrE0MDERLA"
+        },
+        {
+          "name": "Automotriz y Motocicletas",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A2529Q8MW27A5W&rh=n%3A13848848011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331884&rnid=15997893011&ref=sr_nr_n_2&ds=v1%3AeLCCJfzePcO39Wn5272Tl5XTi%2BettIlgNV9DXESRnLA"
+        },
+        {
+          "name": "Bebé",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A2529Q8MW27A5W&rh=n%3A9482650011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331884&rnid=15997893011&ref=sr_nr_n_3&ds=v1%3AquXvGkUqWBHUJVOYy9fjFFfFM9l9CRPl0vi3OVROWUs"
+        },
+        {
+          "name": "Belleza",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A2529Q8MW27A5W&rh=n%3A11260452011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331884&rnid=15997893011&ref=sr_nr_n_4&ds=v1%3AGM%2BZdU2EGxRQpeTF9i0cvXd59hDYXN7FxpDZgOKC%2BZQ"
+        },
+        {
+          "name": "Deportes y Aire libre",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A2529Q8MW27A5W&rh=n%3A9482660011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331884&rnid=15997893011&ref=sr_nr_n_5&ds=v1%3AyicK6JT9vaBkF%2FY1lTLUKw3BKch8f%2FyKtEtNczX%2BeNo"
+        },
+        {
+          "name": "Electrónicos",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A2529Q8MW27A5W&rh=n%3A9482558011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331884&rnid=15997893011&ref=sr_nr_n_6&ds=v1%3A12iD21xckS1dZOBdNZFhgE2OxNIehUEADENkn%2FOhGsw"
+        },
+        {
+          "name": "Herramientas y Mejoras del Hogar",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A2529Q8MW27A5W&rh=n%3A9482670011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331884&rnid=15997893011&ref=sr_nr_n_7&ds=v1%3AeOE5qChfj3fpBStmrGgsztYmVaem6hRQhxCwHenfXFc"
+        },
+        {
+          "name": "Hogar y Cocina",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A2529Q8MW27A5W&rh=n%3A9482593011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331884&rnid=15997893011&ref=sr_nr_n_8&ds=v1%3AjVtsJUc3zS9krEoDJeYRS47HGYyTKnMt6B3JSZX2%2B6E"
+        },
+        {
+          "name": "Industria, Empresas y Ciencia",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A2529Q8MW27A5W&rh=n%3A11076223011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331884&rnid=15997893011&ref=sr_nr_n_9&ds=v1%3A1Bmuy7mm4guwKhkr3yc2%2BN3dvMXChRJ1fmn%2B%2BOYPbVs"
+        },
+        {
+          "name": "Instrumentos Musicales",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A2529Q8MW27A5W&rh=n%3A13848858011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331884&rnid=15997893011&ref=sr_nr_n_10&ds=v1%3AkcAewwZ0%2FD57Pa6xq%2FMz6oQkmLn0oYopSdWrs1FXaUs"
+        },
+        {
+          "name": "Jardín",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A2529Q8MW27A5W&rh=n%3A16215357011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331884&rnid=15997893011&ref=sr_nr_n_11&ds=v1%3A7dcV3HYVLhYHeOPapOfhO928YgQUAnezA5ZPn79aC1w"
+        },
+        {
+          "name": "Juguetes y Juegos",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A2529Q8MW27A5W&rh=n%3A11260442011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331884&rnid=15997893011&ref=sr_nr_n_12&ds=v1%3AinkpltJbusZMq8VL5G8VxvsEEWdCEZG7EaUm9JO2aj8"
+        },
+        {
+          "name": "Libros",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A2529Q8MW27A5W&rh=n%3A9298576011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331884&rnid=15997893011&ref=sr_nr_n_13&ds=v1%3AZHyfo9cSevFeNNgGR%2BrSIzmtIT9uwlVgSSgUxV4OG14"
+        },
+        {
+          "name": "Música",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A2529Q8MW27A5W&rh=n%3A9482620011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331884&rnid=15997893011&ref=sr_nr_n_14&ds=v1%3AOAJXByMKtt0VkVTYyKKFpvAjch1oYXcgg8Cl9ZW3WVE"
+        },
+        {
+          "name": "Oficina y Papelería",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A2529Q8MW27A5W&rh=n%3A9673844011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331884&rnid=15997893011&ref=sr_nr_n_15&ds=v1%3AxTashX3s80hTsuGxW3bTddLX2uTWdgeWzrwzppLEhKk"
+        },
+        {
+          "name": "Películas y Series de TV",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A2529Q8MW27A5W&rh=n%3A9482630011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331884&rnid=15997893011&ref=sr_nr_n_16&ds=v1%3AbFK%2BPz4TQLlVA45ICe7P1BR3vzArQ6JSnZynNIiD0vU"
+        },
+        {
+          "name": "Productos para animales",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A2529Q8MW27A5W&rh=n%3A11782336011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331884&rnid=15997893011&ref=sr_nr_n_17&ds=v1%3AZMEPffKF5q2cg5AlxHpWUBFz67JyYzwBgG1K2KatBmA"
+        },
+        {
+          "name": "Ropa, Zapatos y Accesorios",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A2529Q8MW27A5W&rh=n%3A13848838011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331884&rnid=15997893011&ref=sr_nr_n_18&ds=v1%3ALPingpgRlqz5qAWyaFvjG9nZnVdbXo7JNMcWfjKNqQI"
+        },
+        {
+          "name": "Salud y Cuidado Personal",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A2529Q8MW27A5W&rh=n%3A9482610011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331884&rnid=15997893011&ref=sr_nr_n_19&ds=v1%3AoF1hJOelwn8g%2FRQB85com%2BZkI2RMEGE1JaZv2rMRB1Y"
+        },
+        {
+          "name": "Software",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A2529Q8MW27A5W&rh=n%3A9482690011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331884&rnid=15997893011&ref=sr_nr_n_20&ds=v1%3AIbXcjGTXWdI3qeudZtvrBcTSrKLxRT%2F4W5sKtiKhlQY"
+        },
+        {
+          "name": "Videojuegos",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A2529Q8MW27A5W&rh=n%3A9482640011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331884&rnid=15997893011&ref=sr_nr_n_21&ds=v1%3A9ibU11TDwe61WhtuF0YxF%2FXK4Mk4f%2FsMbhAVxNiV4KA"
+        }
+      ],
+      "discovered_at": "2025-10-13T05:04:49.133Z",
+      "last_analyzed": "2025-10-13T05:04:49.133Z",
+      "status": "discovered",
+      "analysis_completed": true,
+      "analysis_date": "2025-10-13T05:04:49.133Z"
+    },
+    "AJF6S5112BPIX": {
+      "seller_id": "AJF6S5112BPIX",
+      "store_name": "AJF6S5112BPIX",
+      "total_products": 1,
+      "main_categories": [
+        "Alimentos y Bebidas",
+        "Automotriz y Motocicletas",
+        "Bebé",
+        "Belleza",
+        "Deportes y Aire libre",
+        "Electrónicos",
+        "Herramientas y Mejoras del Hogar",
+        "Hogar y Cocina",
+        "Industria, Empresas y Ciencia",
+        "Instrumentos Musicales",
+        "Jardín",
+        "Juguetes y Juegos",
+        "Libros",
+        "Música",
+        "Oficina y Papelería",
+        "Productos para animales",
+        "Ropa, Zapatos y Accesorios",
+        "Salud y Cuidado Personal",
+        "Software",
+        "Videojuegos"
+      ],
+      "main_categories_urls": [
+        {
+          "name": "Alimentos y Bebidas",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A17608484011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331917&rnid=15997893011&ref=sr_nr_n_1&ds=v1%3AH9Fpw7HG3ROEalnLBCwU6Si3CavIWV4qtWVRz%2FEEeRw"
+        },
+        {
+          "name": "Automotriz y Motocicletas",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A13848848011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331917&rnid=15997893011&ref=sr_nr_n_2&ds=v1%3A3vCNqdlUsxhxKfg9WlP1RicJvYZxbHbwP7PahcvAwpI"
+        },
+        {
+          "name": "Bebé",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482650011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331917&rnid=15997893011&ref=sr_nr_n_3&ds=v1%3A60Wfhi%2F7Lpke1TZcl%2F1t2Ft71PkJPoNd0o0L0xTpM3s"
+        },
+        {
+          "name": "Belleza",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A11260452011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331917&rnid=15997893011&ref=sr_nr_n_4&ds=v1%3A4y1Kl7%2F2TlKmbeGwSfNtAfg6ll1L1l1z7p8PZESk3a8"
+        },
+        {
+          "name": "Deportes y Aire libre",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482660011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331917&rnid=15997893011&ref=sr_nr_n_5&ds=v1%3ATtxru%2FqtE1Xwnj8P%2BeT8neIlYN%2B5SmMaiMnKs5QgvzI"
+        },
+        {
+          "name": "Electrónicos",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482558011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331917&rnid=15997893011&ref=sr_nr_n_6&ds=v1%3AHy%2BN1i%2BWedUyBDKzomajScgdaIFkDD967EpxN4%2B50%2BY"
+        },
+        {
+          "name": "Herramientas y Mejoras del Hogar",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482670011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331917&rnid=15997893011&ref=sr_nr_n_7&ds=v1%3AW5vKeg1EljdY9oA6xYCguej2DziyAzT5pNrYh0GmXus"
+        },
+        {
+          "name": "Hogar y Cocina",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482593011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331917&rnid=15997893011&ref=sr_nr_n_8&ds=v1%3Ar%2F0YCrNZzCSPheZxyKi58avaL1cmuYpIL6acxy4hdJg"
+        },
+        {
+          "name": "Industria, Empresas y Ciencia",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A11076223011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331917&rnid=15997893011&ref=sr_nr_n_9&ds=v1%3AJAdJouiEmgYf0Rt41gdNK7nx9jVWvhKaLm0Rbwc1LLQ"
+        },
+        {
+          "name": "Instrumentos Musicales",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A13848858011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331917&rnid=15997893011&ref=sr_nr_n_10&ds=v1%3ARrx%2F2o6kVlFFN9Zml3Df25ZDUlZ6RCenjeryaU1Kzi0"
+        },
+        {
+          "name": "Jardín",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A16215357011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331917&rnid=15997893011&ref=sr_nr_n_11&ds=v1%3APeutiSkZ0f2SRpRZ%2FJTnnO9QBHcD5oOT13UvwZbXV%2Bs"
+        },
+        {
+          "name": "Juguetes y Juegos",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A11260442011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331917&rnid=15997893011&ref=sr_nr_n_12&ds=v1%3Ai9XRjPmsjFaBVpXKJSS7Tb2pOeT59IkmCwaWrGKR50A"
+        },
+        {
+          "name": "Libros",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331917&rnid=15997893011&ref=sr_nr_n_13&ds=v1%3AgsXysU%2Bs%2FI%2FITykfz1NJ21krqv15h%2B3RK9HdBHAPNe8"
+        },
+        {
+          "name": "Música",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482620011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331917&rnid=15997893011&ref=sr_nr_n_14&ds=v1%3A%2B53IekbzV8JVMV83kCcGBJSklKFCMd1SD33vQFUbdwM"
+        },
+        {
+          "name": "Oficina y Papelería",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331917&rnid=15997893011&ref=sr_nr_n_15&ds=v1%3AvtRnymWyGe6I4Lh0E%2BjUC%2FZF181reyUvq4MJBUqmVT0"
+        },
+        {
+          "name": "Productos para animales",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A11782336011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331917&rnid=15997893011&ref=sr_nr_n_16&ds=v1%3ArnvPAh2tRIK6SXCJ%2BaYRj6kTdSyLiOyEIuRM6cWkwa8"
+        },
+        {
+          "name": "Ropa, Zapatos y Accesorios",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A13848838011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331917&rnid=15997893011&ref=sr_nr_n_17&ds=v1%3Ac0P6fBUUH0xq9K0fTOk3U7D%2FuZgVu2Nw3dAXPUbzZ9w"
+        },
+        {
+          "name": "Salud y Cuidado Personal",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482610011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331917&rnid=15997893011&ref=sr_nr_n_18&ds=v1%3AnJl9olpk5SUsCpLalr%2BTibaXXrsYOX3oHmKvcsgmKeA"
+        },
+        {
+          "name": "Software",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482690011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331917&rnid=15997893011&ref=sr_nr_n_19&ds=v1%3ATQeclEzpFgdOW6AUtIcRso4cLiOTW%2BJ%2FfQ9Y%2BrCef%2F4"
+        },
+        {
+          "name": "Videojuegos",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482640011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331917&rnid=15997893011&ref=sr_nr_n_20&ds=v1%3A1dcCljUEAylr9cnpOLRZY2CfNmu9SBBGAUjLkXVkqvc"
+        }
+      ],
+      "discovered_at": "2025-10-13T05:05:22.035Z",
+      "last_analyzed": "2025-10-13T05:05:22.035Z",
+      "status": "planned",
+      "analysis_completed": true,
+      "analysis_date": "2025-10-13T05:05:22.035Z",
+      "batches": [
+        {
+          "batch": 1,
+          "status": "plan_created",
+          "products": 316,
+          "categories": [
+            "Alimentos y Bebidas",
+            "Automotriz y Motocicletas",
+            "Bebé"
+          ],
+          "created_at": "2025-10-31T17:48:54.380Z"
+        },
+        {
+          "batch": 2,
+          "status": "plan_created",
+          "products": 1650,
+          "categories": [
+            "Belleza"
+          ],
+          "created_at": "2025-10-31T17:48:57.162Z"
+        },
+        {
+          "batch": 3,
+          "status": "plan_created",
+          "products": 561,
+          "categories": [
+            "Deportes y Aire libre",
+            "Electrónicos",
+            "Herramientas y Mejoras del Hogar"
+          ],
+          "created_at": "2025-10-31T17:51:08.044Z"
+        },
+        {
+          "batch": 4,
+          "status": "plan_created",
+          "products": 3555,
+          "categories": [
+            "Hogar y Cocina"
+          ],
+          "created_at": "2025-10-31T17:51:10.781Z"
+        },
+        {
+          "batch": 5,
+          "status": "plan_created",
+          "products": 806,
+          "categories": [
+            "Industria, Empresas y Ciencia",
+            "Jardín",
+            "Juguetes y Juegos",
+            "Libros",
+            "Música"
+          ],
+          "created_at": "2025-10-31T18:01:54.628Z"
+        },
+        {
+          "batch": 6,
+          "status": "plan_created",
+          "products": 3022,
+          "categories": [
+            "Oficina y Papelería"
+          ],
+          "created_at": "2025-10-31T18:01:57.460Z"
+        },
+        {
+          "batch": 7,
+          "status": "plan_created",
+          "products": 68,
+          "categories": [
+            "Productos para animales"
+          ],
+          "created_at": "2025-10-31T18:03:52.401Z"
+        },
+        {
+          "batch": 8,
+          "status": "plan_created",
+          "products": 1495,
+          "categories": [
+            "Ropa, Zapatos y Accesorios"
+          ],
+          "created_at": "2025-10-31T18:05:45.104Z"
+        },
+        {
+          "batch": 9,
+          "status": "plan_created",
+          "products": 1290,
+          "categories": [
+            "Salud y Cuidado Personal"
+          ],
+          "created_at": "2025-10-31T18:05:48.010Z"
+        },
+        {
+          "batch": 10,
+          "status": "plan_created",
+          "products": 168,
+          "categories": [
+            "Software",
+            "Videojuegos"
+          ],
+          "created_at": "2025-10-31T18:05:50.768Z"
+        }
+      ],
+      "plan_created": true,
+      "plan_date": "2025-10-31T18:05:50.768Z",
+      "last_updated": "2025-10-31T18:05:50.768Z"
+    },
+    "A1V03129EORV8P": {
+      "seller_id": "A1V03129EORV8P",
+      "store_name": "A1V03129EORV8P",
+      "total_products": 1,
+      "main_categories": [
+        "Alimentos y Bebidas",
+        "Automotriz y Motocicletas",
+        "Bebé",
+        "Belleza",
+        "Deportes y Aire libre",
+        "Electrónicos",
+        "Herramientas y Mejoras del Hogar",
+        "Hogar y Cocina",
+        "Industria, Empresas y Ciencia",
+        "Instrumentos Musicales",
+        "Jardín",
+        "Juguetes y Juegos",
+        "Libros",
+        "Música",
+        "Oficina y Papelería",
+        "Películas y Series de TV",
+        "Productos para animales",
+        "Ropa, Zapatos y Accesorios",
+        "Salud y Cuidado Personal",
+        "Software",
+        "Videojuegos"
+      ],
+      "main_categories_urls": [
+        {
+          "name": "Alimentos y Bebidas",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A1V03129EORV8P&rh=n%3A17608484011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331958&rnid=15997893011&ref=sr_nr_n_1&ds=v1%3AbybIXM72ypuC2wMKch6Psy9PvNx4O1UA0pjNDo20y6w"
+        },
+        {
+          "name": "Automotriz y Motocicletas",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A1V03129EORV8P&rh=n%3A13848848011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331958&rnid=15997893011&ref=sr_nr_n_2&ds=v1%3Aw8pMU%2BLx%2FEDk2LXdUOVLqYvJrlgLi7Q%2BApvleH43DxA"
+        },
+        {
+          "name": "Bebé",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A1V03129EORV8P&rh=n%3A9482650011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331958&rnid=15997893011&ref=sr_nr_n_3&ds=v1%3AgN6PevxuokOsXd5H4U07%2BOabQi3M%2BKHrb81daT6MF7c"
+        },
+        {
+          "name": "Belleza",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A1V03129EORV8P&rh=n%3A11260452011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331958&rnid=15997893011&ref=sr_nr_n_4&ds=v1%3A2kZIkZSOC8XniOL5WuqxB4ePycMSzwl%2BoDOhHr6v1pM"
+        },
+        {
+          "name": "Deportes y Aire libre",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A1V03129EORV8P&rh=n%3A9482660011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331958&rnid=15997893011&ref=sr_nr_n_5&ds=v1%3AV1gRyzvv%2F%2B94iR6bgMJ26XSwVfE9kJ4Wx0OgO3rycqU"
+        },
+        {
+          "name": "Electrónicos",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A1V03129EORV8P&rh=n%3A9482558011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331958&rnid=15997893011&ref=sr_nr_n_6&ds=v1%3A7eeyX1VNYFAplvO9Bghw70QybLjnpu1KO2z%2BQvUnooc"
+        },
+        {
+          "name": "Herramientas y Mejoras del Hogar",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A1V03129EORV8P&rh=n%3A9482670011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331958&rnid=15997893011&ref=sr_nr_n_7&ds=v1%3Ap6Mvk807lbva9bqjGg0AsYgSJPsYyRwWDNLWhBY%2B%2BKc"
+        },
+        {
+          "name": "Hogar y Cocina",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A1V03129EORV8P&rh=n%3A9482593011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331958&rnid=15997893011&ref=sr_nr_n_8&ds=v1%3AU5sqJbwcDXMwLv1ZU5Aj27gtxoaeTlls%2Bzcu1OEDCuc"
+        },
+        {
+          "name": "Industria, Empresas y Ciencia",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A1V03129EORV8P&rh=n%3A11076223011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331958&rnid=15997893011&ref=sr_nr_n_9&ds=v1%3AIJ0QtyUoRzpE8NNarmXe8kxm0a6iI5G%2F75Zc6ngcak0"
+        },
+        {
+          "name": "Instrumentos Musicales",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A1V03129EORV8P&rh=n%3A13848858011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331958&rnid=15997893011&ref=sr_nr_n_10&ds=v1%3ANoLFFufPKm%2Fc20wMOGmh3BfFoCh1Ug0TzwwQk0ji%2F94"
+        },
+        {
+          "name": "Jardín",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A1V03129EORV8P&rh=n%3A16215357011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331958&rnid=15997893011&ref=sr_nr_n_11&ds=v1%3Ai6wwQDehJ5snJOVEC87zKMbiHco2BCdxNlda4BYFEJM"
+        },
+        {
+          "name": "Juguetes y Juegos",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A1V03129EORV8P&rh=n%3A11260442011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331958&rnid=15997893011&ref=sr_nr_n_12&ds=v1%3Ahu%2BQ5pi8vj3n2YdNej5h1MXZowoz01Q%2FvnPaovz9dQ4"
+        },
+        {
+          "name": "Libros",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A1V03129EORV8P&rh=n%3A9298576011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331958&rnid=15997893011&ref=sr_nr_n_13&ds=v1%3A4WmhF%2FuQ2aPqHewCiz%2Bh2ndDtC0LdF3hrfoCil0xrLk"
+        },
+        {
+          "name": "Música",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A1V03129EORV8P&rh=n%3A9482620011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331958&rnid=15997893011&ref=sr_nr_n_14&ds=v1%3ANeBUxdzqpfccy%2FXR0QI828XLHy%2FLSjcQIcLNAS1Hi4E"
+        },
+        {
+          "name": "Oficina y Papelería",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A1V03129EORV8P&rh=n%3A9673844011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331958&rnid=15997893011&ref=sr_nr_n_15&ds=v1%3A5bxAmJAFqDhshwSMcUU44dEi%2BJWGqJExY8nRI%2BHivWU"
+        },
+        {
+          "name": "Películas y Series de TV",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A1V03129EORV8P&rh=n%3A9482630011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331958&rnid=15997893011&ref=sr_nr_n_16&ds=v1%3ASv9XornXhT8LAASnd7LkbkDZ6SdQ2q84XToluFHGSxk"
+        },
+        {
+          "name": "Productos para animales",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A1V03129EORV8P&rh=n%3A11782336011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331958&rnid=15997893011&ref=sr_nr_n_17&ds=v1%3AERJ7ibv7geTnNibXlP8Zm5c8LTTFZqSuNAwNwfzeStU"
+        },
+        {
+          "name": "Ropa, Zapatos y Accesorios",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A1V03129EORV8P&rh=n%3A13848838011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331958&rnid=15997893011&ref=sr_nr_n_18&ds=v1%3A6WZa%2F8WLRLeRlWsum3VhDwQARdh1yl%2BszctbEOIQWPw"
+        },
+        {
+          "name": "Salud y Cuidado Personal",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A1V03129EORV8P&rh=n%3A9482610011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331958&rnid=15997893011&ref=sr_nr_n_19&ds=v1%3AWFIIX4Kx1OVK2XXYeDd6C0rpiNxbcA%2BMjBm4iXPMJ0A"
+        },
+        {
+          "name": "Software",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A1V03129EORV8P&rh=n%3A9482690011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331958&rnid=15997893011&ref=sr_nr_n_20&ds=v1%3ApsNHBEtYSgSyUzXCsSjJg7Ktxq6HWmFMd6ocRMxaqz4"
+        },
+        {
+          "name": "Videojuegos",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A1V03129EORV8P&rh=n%3A9482640011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760331958&rnid=15997893011&ref=sr_nr_n_21&ds=v1%3AJ3t3CkIpz%2FWWLuI7T5fUgZVboNAhH8px5Qlq0E%2FKmqM"
+        }
+      ],
+      "discovered_at": "2025-10-13T05:06:02.677Z",
+      "last_analyzed": "2025-10-13T05:06:02.677Z",
+      "status": "discovered",
+      "analysis_completed": true,
+      "analysis_date": "2025-10-13T05:06:02.677Z"
+    },
+    "A12WQF3HZEWBDD": {
+      "seller_id": "A12WQF3HZEWBDD",
+      "store_name": "A12WQF3HZEWBDD",
+      "total_products": 1,
+      "main_categories": [
+        "Alimentos y Bebidas",
+        "Automotriz y Motocicletas",
+        "Bebé",
+        "Belleza",
+        "Deportes y Aire libre",
+        "Electrónicos",
+        "Herramientas y Mejoras del Hogar",
+        "Hogar y Cocina",
+        "Industria, Empresas y Ciencia",
+        "Instrumentos Musicales",
+        "Jardín",
+        "Juguetes y Juegos",
+        "Libros",
+        "Oficina y Papelería",
+        "Productos para animales",
+        "Ropa, Zapatos y Accesorios",
+        "Salud y Cuidado Personal",
+        "Software"
+      ],
+      "main_categories_urls": [
+        {
+          "name": "Alimentos y Bebidas",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A17608484011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332099&rnid=15997893011&ref=sr_nr_n_1&ds=v1%3ApOJEYOl%2FIo7APkSrXaFg0EumItyeBOOoJnJt79Ds6tU"
+        },
+        {
+          "name": "Automotriz y Motocicletas",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A13848848011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332099&rnid=15997893011&ref=sr_nr_n_2&ds=v1%3A8HhIW63rdjmBgNaEeDeR0J3h5h2HOltwj%2FIzxr7JTuk"
+        },
+        {
+          "name": "Bebé",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A9482650011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332099&rnid=15997893011&ref=sr_nr_n_3&ds=v1%3AbR6kOiFZaeJTkJoDNWpFedyO3LnAHMJ0DTGO2491ZRk"
+        },
+        {
+          "name": "Belleza",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A11260452011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332099&rnid=15997893011&ref=sr_nr_n_4&ds=v1%3AtolydRdlg0Zaq3cXGHtKe2U4S6jfBNMgaCPIpfRl4oc"
+        },
+        {
+          "name": "Deportes y Aire libre",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A9482660011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332099&rnid=15997893011&ref=sr_nr_n_5&ds=v1%3AyFuDO69hG8oT2SiesxIlgA16w3pNDUN%2BUZmuiaYrglQ"
+        },
+        {
+          "name": "Electrónicos",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A9482558011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332099&rnid=15997893011&ref=sr_nr_n_6&ds=v1%3Az4dEyyetiQeVJ9brjgwwIVldjoc49FvwyCt%2BCTP4hsw"
+        },
+        {
+          "name": "Herramientas y Mejoras del Hogar",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A9482670011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332099&rnid=15997893011&ref=sr_nr_n_7&ds=v1%3ADOeCoJZ88UYV7%2BdHdecv3DqtytRi9kc6AAoIVe6mXsM"
+        },
+        {
+          "name": "Hogar y Cocina",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A9482593011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332099&rnid=15997893011&ref=sr_nr_n_8&ds=v1%3Aa7TeowqkKA2RuIV175%2FCs2Kfcrcb%2FpQYAnl6GNdHHU4"
+        },
+        {
+          "name": "Industria, Empresas y Ciencia",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A11076223011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332099&rnid=15997893011&ref=sr_nr_n_9&ds=v1%3AyiSeGgEVugoga%2Fb8d%2BURwbrIRSJxWHqofPNiePH22tU"
+        },
+        {
+          "name": "Instrumentos Musicales",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A13848858011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332099&rnid=15997893011&ref=sr_nr_n_10&ds=v1%3Am2TIfvotIttZmyp7bCU%2FLiKVWMi%2Bsai%2F7cEBVfzh%2BGY"
+        },
+        {
+          "name": "Jardín",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A16215357011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332099&rnid=15997893011&ref=sr_nr_n_11&ds=v1%3ARAIp%2B9MpVB4yoGz5AyxUIDWSKbNftzXWx4PAKqIDuWc"
+        },
+        {
+          "name": "Juguetes y Juegos",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A11260442011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332099&rnid=15997893011&ref=sr_nr_n_12&ds=v1%3A8FXPVx0J8qUZAFKPkIdEjW54kSSSWSxNyKujtkGvvlo"
+        },
+        {
+          "name": "Libros",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A9298576011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332099&rnid=15997893011&ref=sr_nr_n_13&ds=v1%3AQFH1GVPnJJd4KXpO%2FCFmmaNQnoEYRCRWy5j2mQdbeRQ"
+        },
+        {
+          "name": "Oficina y Papelería",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A9673844011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332099&rnid=15997893011&ref=sr_nr_n_14&ds=v1%3ARrDdAy7A93WnScuWjviFrklF%2BcRE%2Bh4rVckWYK1sH3c"
+        },
+        {
+          "name": "Productos para animales",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A11782336011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332099&rnid=15997893011&ref=sr_nr_n_15&ds=v1%3A66hDxaudR6T3v1zE%2FEqi33MSt8R9pdEBXk938%2B7K%2Fik"
+        },
+        {
+          "name": "Ropa, Zapatos y Accesorios",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A13848838011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332099&rnid=15997893011&ref=sr_nr_n_16&ds=v1%3A2CHX6mC4Bh%2FGYj5mkXDU7ibUL07YjTqX%2FUAzGJg%2Fnrw"
+        },
+        {
+          "name": "Salud y Cuidado Personal",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A9482610011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332099&rnid=15997893011&ref=sr_nr_n_17&ds=v1%3ARmEgcao7PFVvQNgIYM47Ukk8NsXPPy%2Ftl0Dw0LtBOYc"
+        },
+        {
+          "name": "Software",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A9482690011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332099&rnid=15997893011&ref=sr_nr_n_18&ds=v1%3A3WQe1R42YopXkAasdx3r13Si7czo767w9ec%2BgnRk8iw"
+        }
+      ],
+      "discovered_at": "2025-10-13T05:06:42.559Z",
+      "last_analyzed": "2025-10-13T05:08:24.045Z",
+      "status": "planned",
+      "analysis_completed": true,
+      "analysis_date": "2025-10-13T05:08:24.045Z",
+      "batches": [
+        {
+          "batch": 1,
+          "status": "plan_created",
+          "products": 414,
+          "categories": [
+            "Alimentos y Bebidas",
+            "Automotriz y Motocicletas",
+            "Bebé"
+          ],
+          "created_at": "2025-11-03T13:48:08.294Z"
+        },
+        {
+          "batch": 2,
+          "status": "plan_created",
+          "products": 2205,
+          "categories": [
+            "Belleza"
+          ],
+          "created_at": "2025-11-03T13:48:11.032Z"
+        },
+        {
+          "batch": 3,
+          "status": "plan_created",
+          "products": 159,
+          "categories": [
+            "Deportes y Aire libre"
+          ],
+          "created_at": "2025-11-03T13:57:06.097Z"
+        },
+        {
+          "batch": 4,
+          "status": "plan_created",
+          "products": 8563,
+          "categories": [
+            "Electrónicos"
+          ],
+          "created_at": "2025-11-03T13:57:08.926Z"
+        },
+        {
+          "batch": 5,
+          "status": "plan_created",
+          "products": 313,
+          "categories": [
+            "Herramientas y Mejoras del Hogar"
+          ],
+          "created_at": "2025-11-03T13:59:14.379Z"
+        },
+        {
+          "batch": 6,
+          "status": "plan_created",
+          "products": 3870,
+          "categories": [
+            "Hogar y Cocina"
+          ],
+          "created_at": "2025-11-03T13:59:17.152Z"
+        },
+        {
+          "batch": 7,
+          "status": "plan_created",
+          "products": 417,
+          "categories": [
+            "Industria, Empresas y Ciencia",
+            "Instrumentos Musicales",
+            "Jardín"
+          ],
+          "created_at": "2025-11-03T14:00:08.285Z"
+        },
+        {
+          "batch": 8,
+          "status": "plan_created",
+          "products": 975,
+          "categories": [
+            "Juguetes y Juegos",
+            "Libros",
+            "Oficina y Papelería"
+          ],
+          "created_at": "2025-11-03T14:00:17.459Z"
+        },
+        {
+          "batch": 9,
+          "status": "plan_created",
+          "products": 213,
+          "categories": [
+            "Productos para animales",
+            "Ropa, Zapatos y Accesorios"
+          ],
+          "created_at": "2025-11-03T14:01:51.283Z"
+        },
+        {
+          "batch": 10,
+          "status": "plan_created",
+          "products": 1274,
+          "categories": [
+            "Salud y Cuidado Personal"
+          ],
+          "created_at": "2025-11-03T14:01:51.285Z"
+        }
+      ],
+      "plan_created": true,
+      "plan_date": "2025-11-03T14:01:51.285Z",
+      "last_updated": "2025-11-03T14:01:51.285Z"
+    },
+    "A16U1L53M9TMNY": {
+      "seller_id": "A16U1L53M9TMNY",
+      "store_name": "A16U1L53M9TMNY",
+      "total_products": 1,
+      "main_categories": [
+        "Bebé",
+        "Belleza",
+        "Hogar y Cocina",
+        "Ropa, Zapatos y Accesorios",
+        "Salud y Cuidado Personal"
+      ],
+      "main_categories_urls": [
+        {
+          "name": "Bebé",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A16U1L53M9TMNY&rh=n%3A9482650011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332076&rnid=15997893011&ref=sr_nr_n_1&ds=v1%3Ahzx4ahnKhM%2F60Tj04d%2FZDRLZQc7TaDEyeQ5HQT8Ls00"
+        },
+        {
+          "name": "Belleza",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A16U1L53M9TMNY&rh=n%3A11260452011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332076&rnid=15997893011&ref=sr_nr_n_2&ds=v1%3A8jbVPfZXRvRs2yqgqz70OcDOd5WNZ%2FbKgYGhIMCSy6E"
+        },
+        {
+          "name": "Hogar y Cocina",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A16U1L53M9TMNY&rh=n%3A9482593011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332076&rnid=15997893011&ref=sr_nr_n_3&ds=v1%3AJgKhd5yVPBnMTTCMPHJ0M7BfjIeU6q7NcBSRV1sX3Zg"
+        },
+        {
+          "name": "Ropa, Zapatos y Accesorios",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A16U1L53M9TMNY&rh=n%3A13848838011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332076&rnid=15997893011&ref=sr_nr_n_4&ds=v1%3AwaPHOappRhvGGcznG9pnJ5yAV5W0PvRDu5n1V%2FmTYh0"
+        },
+        {
+          "name": "Salud y Cuidado Personal",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A16U1L53M9TMNY&rh=n%3A9482610011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332076&rnid=15997893011&ref=sr_nr_n_5&ds=v1%3A97z2A2qz8o4lrymmGVf4meXnIQHA1mrGRGtlKJj0zDI"
+        }
+      ],
+      "discovered_at": "2025-10-13T05:08:00.628Z",
+      "last_analyzed": "2025-10-13T05:08:00.628Z",
+      "status": "discovered",
+      "analysis_completed": true,
+      "analysis_date": "2025-10-13T05:08:00.628Z"
+    },
+    "A34GDP2AI92FU5": {
+      "seller_id": "A34GDP2AI92FU5",
+      "store_name": "A34GDP2AI92FU5",
+      "total_products": 1,
+      "main_categories": [
+        "Alimentos y Bebidas",
+        "Automotriz y Motocicletas",
+        "Bebé",
+        "Belleza",
+        "Deportes y Aire libre",
+        "Electrónicos",
+        "Herramientas y Mejoras del Hogar",
+        "Hogar y Cocina",
+        "Industria, Empresas y Ciencia",
+        "Instrumentos Musicales",
+        "Jardín",
+        "Juguetes y Juegos",
+        "Libros",
+        "Oficina y Papelería",
+        "Productos para animales",
+        "Ropa, Zapatos y Accesorios",
+        "Salud y Cuidado Personal",
+        "Videojuegos"
+      ],
+      "main_categories_urls": [
+        {
+          "name": "Alimentos y Bebidas",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A34GDP2AI92FU5&rh=n%3A17608484011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332156&rnid=15997893011&ref=sr_nr_n_1&ds=v1%3A60UBCYOmNZwLKMoai1HzyAjy%2Bu6QUN2VXwNJO%2FBW%2Fg0"
+        },
+        {
+          "name": "Automotriz y Motocicletas",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A34GDP2AI92FU5&rh=n%3A13848848011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332156&rnid=15997893011&ref=sr_nr_n_2&ds=v1%3AmDByAC2lqN1OvgdmWeKj2AhYQTVMR1YDj4GsbyGJljk"
+        },
+        {
+          "name": "Bebé",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A34GDP2AI92FU5&rh=n%3A9482650011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332156&rnid=15997893011&ref=sr_nr_n_3&ds=v1%3ACecW2mmg7goM8UtdyZqYrhr7xAQsMRFOkz8PUwvzzL8"
+        },
+        {
+          "name": "Belleza",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A34GDP2AI92FU5&rh=n%3A11260452011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332156&rnid=15997893011&ref=sr_nr_n_4&ds=v1%3Ahc5Bkxtl8XklYxa9NWhq8k3BsTF0Lg4b0oNSsCjC8Cw"
+        },
+        {
+          "name": "Deportes y Aire libre",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A34GDP2AI92FU5&rh=n%3A9482660011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332156&rnid=15997893011&ref=sr_nr_n_5&ds=v1%3Av%2FDR%2FNFWLBpcnYeP78x94c1plsEEHzibt1ZFw0qRrFM"
+        },
+        {
+          "name": "Electrónicos",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A34GDP2AI92FU5&rh=n%3A9482558011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332156&rnid=15997893011&ref=sr_nr_n_6&ds=v1%3ACNWrGiZPOk9sl9GLUgrwWHD%2B2Ais18JvfDjK0PZrtm8"
+        },
+        {
+          "name": "Herramientas y Mejoras del Hogar",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A34GDP2AI92FU5&rh=n%3A9482670011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332156&rnid=15997893011&ref=sr_nr_n_7&ds=v1%3AfJjI52l7%2BZDSnmn6uHfRsLlEAtn46VREMQoQyYbview"
+        },
+        {
+          "name": "Hogar y Cocina",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A34GDP2AI92FU5&rh=n%3A9482593011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332156&rnid=15997893011&ref=sr_nr_n_8&ds=v1%3A6yNjV7UVpsBrKRShlO1ywBCHHKlr%2BhUskIFL0v4dZUY"
+        },
+        {
+          "name": "Industria, Empresas y Ciencia",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A34GDP2AI92FU5&rh=n%3A11076223011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332156&rnid=15997893011&ref=sr_nr_n_9&ds=v1%3AqiX9gOMC4K6dhChLRds%2BXRutdLKBINqAJRUxF%2FIoLvs"
+        },
+        {
+          "name": "Instrumentos Musicales",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A34GDP2AI92FU5&rh=n%3A13848858011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332156&rnid=15997893011&ref=sr_nr_n_10&ds=v1%3APLlC43TXk6kqltkt9bTgU2EQuN%2Fc1aZ5S2MNLZsS%2Bh0"
+        },
+        {
+          "name": "Jardín",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A34GDP2AI92FU5&rh=n%3A16215357011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332156&rnid=15997893011&ref=sr_nr_n_11&ds=v1%3AgeaLwZ2ikXqC%2FJEFNYh69lGMTu06D3PKwV6x%2Fumdkdk"
+        },
+        {
+          "name": "Juguetes y Juegos",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A34GDP2AI92FU5&rh=n%3A11260442011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332156&rnid=15997893011&ref=sr_nr_n_12&ds=v1%3A6NGfycy1ZU3xMfGQzvZqo%2BhoL0UWUBDv8dbn00UZz1M"
+        },
+        {
+          "name": "Libros",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A34GDP2AI92FU5&rh=n%3A9298576011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332156&rnid=15997893011&ref=sr_nr_n_13&ds=v1%3AQhKfeWWbvYN0rNJi6CamyK6RSMbWDm4Tq8fRTgpDLDE"
+        },
+        {
+          "name": "Oficina y Papelería",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A34GDP2AI92FU5&rh=n%3A9673844011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332156&rnid=15997893011&ref=sr_nr_n_14&ds=v1%3AggRqymiKqDAue44rB1xFqsz8wyNapiQY9z8BEEcVaak"
+        },
+        {
+          "name": "Productos para animales",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A34GDP2AI92FU5&rh=n%3A11782336011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332156&rnid=15997893011&ref=sr_nr_n_15&ds=v1%3Ao6AVVw9YlPU9O9%2BeOljmrEA7QcTg%2FtjBLfkJE%2F%2FTxDo"
+        },
+        {
+          "name": "Ropa, Zapatos y Accesorios",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A34GDP2AI92FU5&rh=n%3A13848838011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332156&rnid=15997893011&ref=sr_nr_n_16&ds=v1%3A4YVaC3wQx11Fcws%2FgPAk3xJBs3jhQoRzLcttRg2M05c"
+        },
+        {
+          "name": "Salud y Cuidado Personal",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A34GDP2AI92FU5&rh=n%3A9482610011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332156&rnid=15997893011&ref=sr_nr_n_17&ds=v1%3AgNK6OOR66qdQem%2FHmAtgv8xHoi4xWXQmtuWHJ%2BW2oV4"
+        },
+        {
+          "name": "Videojuegos",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A34GDP2AI92FU5&rh=n%3A9482640011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332156&rnid=15997893011&ref=sr_nr_n_18&ds=v1%3AJQxejSTXQYdvI4y3TH1mSnEiEwZBWM7Q88csDei4N4g"
+        }
+      ],
+      "discovered_at": "2025-10-13T05:09:20.779Z",
+      "last_analyzed": "2025-10-13T05:09:20.779Z",
+      "status": "discovered",
+      "analysis_completed": true,
+      "analysis_date": "2025-10-13T05:09:20.779Z"
+    },
+    "A32350E2FK8PTY": {
+      "seller_id": "A32350E2FK8PTY",
+      "store_name": "A32350E2FK8PTY",
+      "total_products": 1,
+      "main_categories": [
+        "Alimentos y Bebidas",
+        "Automotriz y Motocicletas",
+        "Bebé",
+        "Belleza",
+        "Deportes y Aire libre",
+        "Electrónicos",
+        "Herramientas y Mejoras del Hogar",
+        "Hogar y Cocina",
+        "Industria, Empresas y Ciencia",
+        "Instrumentos Musicales",
+        "Jardín",
+        "Juguetes y Juegos",
+        "Oficina y Papelería",
+        "Ropa, Zapatos y Accesorios",
+        "Salud y Cuidado Personal",
+        "Videojuegos"
+      ],
+      "main_categories_urls": [
+        {
+          "name": "Alimentos y Bebidas",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A32350E2FK8PTY&rh=n%3A17608484011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332210&rnid=15997893011&ref=sr_nr_n_1&ds=v1%3AzhYVJNY39wc1v2KEz59VyIOxUciTffMNR8ucFEyangM"
+        },
+        {
+          "name": "Automotriz y Motocicletas",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A32350E2FK8PTY&rh=n%3A13848848011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332210&rnid=15997893011&ref=sr_nr_n_2&ds=v1%3A2W9%2FSI0o4Wb5WFQryvQwApa5zaYp0y2qFcFgu%2FsGi1k"
+        },
+        {
+          "name": "Bebé",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A32350E2FK8PTY&rh=n%3A9482650011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332210&rnid=15997893011&ref=sr_nr_n_3&ds=v1%3AI0RgDnpMLlvPTsvVAZeMf5sElNOzygIbDPeFblmRRb0"
+        },
+        {
+          "name": "Belleza",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A32350E2FK8PTY&rh=n%3A11260452011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332210&rnid=15997893011&ref=sr_nr_n_4&ds=v1%3A9tEebXq4geT8%2F6nTPk0BdKDlg6Ckm6pLYlmSbJnfcjY"
+        },
+        {
+          "name": "Deportes y Aire libre",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A32350E2FK8PTY&rh=n%3A9482660011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332210&rnid=15997893011&ref=sr_nr_n_5&ds=v1%3AdTqC8DHSc0fbDvfGJuEktluLkWgOr2P7NtDXtESKxbc"
+        },
+        {
+          "name": "Electrónicos",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A32350E2FK8PTY&rh=n%3A9482558011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332210&rnid=15997893011&ref=sr_nr_n_6&ds=v1%3A8W3AQ5kwYch%2FIb92vrB262IkuU5wmTpCmRjvv1ZCPbI"
+        },
+        {
+          "name": "Herramientas y Mejoras del Hogar",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A32350E2FK8PTY&rh=n%3A9482670011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332210&rnid=15997893011&ref=sr_nr_n_7&ds=v1%3A6NtLD%2BuHOVFe5lV2JdqoRMntvl0b1AajYHu0InHNbF8"
+        },
+        {
+          "name": "Hogar y Cocina",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A32350E2FK8PTY&rh=n%3A9482593011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332210&rnid=15997893011&ref=sr_nr_n_8&ds=v1%3AY7x%2BOaYyBENb%2FuC%2BojuXa0mLB%2FY%2BVz65TmElq4VdE9U"
+        },
+        {
+          "name": "Industria, Empresas y Ciencia",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A32350E2FK8PTY&rh=n%3A11076223011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332210&rnid=15997893011&ref=sr_nr_n_9&ds=v1%3Aw%2BTl99yjImvZ%2F3QkAfvIX89lUMTk1nRjQoi23ATcvyU"
+        },
+        {
+          "name": "Instrumentos Musicales",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A32350E2FK8PTY&rh=n%3A13848858011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332210&rnid=15997893011&ref=sr_nr_n_10&ds=v1%3A01OTdP19j%2Fj7tY7mEHb4vxCOUx5fqhVQX8CpYBHUSLc"
+        },
+        {
+          "name": "Jardín",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A32350E2FK8PTY&rh=n%3A16215357011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332210&rnid=15997893011&ref=sr_nr_n_11&ds=v1%3AgLV8DUYY1DwAIqKXlmppDysRRq7%2BoHDWL6EToNtYWps"
+        },
+        {
+          "name": "Juguetes y Juegos",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A32350E2FK8PTY&rh=n%3A11260442011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332210&rnid=15997893011&ref=sr_nr_n_12&ds=v1%3ANMc%2BcfE82mvL0XVgw7zqhWWjaqX2oedlSmz7MQ6iRYs"
+        },
+        {
+          "name": "Oficina y Papelería",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A32350E2FK8PTY&rh=n%3A9673844011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332210&rnid=15997893011&ref=sr_nr_n_13&ds=v1%3AtfNtYZrBubt1RJYE83jr%2BaRWp1AiRCNszgKnEwfpv4Y"
+        },
+        {
+          "name": "Ropa, Zapatos y Accesorios",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A32350E2FK8PTY&rh=n%3A13848838011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332210&rnid=15997893011&ref=sr_nr_n_14&ds=v1%3AGmaPFIp0MAtFbOAIssBsQn7gYRAuhI6QWceUFAXX7ko"
+        },
+        {
+          "name": "Salud y Cuidado Personal",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A32350E2FK8PTY&rh=n%3A9482610011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332210&rnid=15997893011&ref=sr_nr_n_15&ds=v1%3APx238eGbnHpkB1ohn5JQd%2B0C0UPAf2i4Aurtlf2hvOE"
+        },
+        {
+          "name": "Videojuegos",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A32350E2FK8PTY&rh=n%3A9482640011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760332210&rnid=15997893011&ref=sr_nr_n_16&ds=v1%3A55IatSrbI1wMXN1dTGGgk%2FNFbi7o%2B8rm3VmcsxcFbRw"
+        }
+      ],
+      "discovered_at": "2025-10-13T05:10:15.468Z",
+      "last_analyzed": "2025-10-13T05:10:15.468Z",
+      "status": "discovered",
+      "analysis_completed": true,
+      "analysis_date": "2025-10-13T05:10:15.468Z"
+    },
+    "A70OX8CAEIFDO": {
+      "seller_id": "A70OX8CAEIFDO",
+      "seller_url": "https://www.amazon.com.mx/s?me=A70OX8CAEIFDO&marketplaceID=A1AM78C64UM0Y8",
+      "registered_date": "2025-11-19T01:52:45.666Z",
+      "status": "registered",
+      "notes": ""
+    },
+    "A2ZSCWTDRVV2LZ": {
+      "seller_id": "A2ZSCWTDRVV2LZ",
+      "seller_url": "https://www.amazon.com.mx/s?me=A2ZSCWTDRVV2LZ&marketplaceID=A1AM78C64UM0Y8",
+      "registered_date": "2025-11-19T01:52:45.670Z",
+      "status": "registered",
+      "notes": ""
+    },
+    "A25LAT7A0LQQ9L": {
+      "seller_id": "A25LAT7A0LQQ9L",
+      "seller_url": "https://www.amazon.com.mx/s?me=A25LAT7A0LQQ9L&marketplaceID=A1AM78C64UM0Y8",
+      "registered_date": "2025-11-19T01:52:45.671Z",
+      "status": "registered",
+      "notes": ""
+    },
+    "AGYB6GLXU3OJB": {
+      "seller_id": "AGYB6GLXU3OJB",
+      "seller_url": "https://www.amazon.com.mx/s?me=AGYB6GLXU3OJB&marketplaceID=A1AM78C64UM0Y8",
+      "registered_date": "2025-11-19T01:52:45.671Z",
+      "status": "registered",
+      "notes": ""
+    },
+    "A2AZSHW2J3Y86U": {
+      "seller_id": "A2AZSHW2J3Y86U",
+      "seller_url": "https://www.amazon.com.mx/s?me=A2AZSHW2J3Y86U&marketplaceID=A1AM78C64UM0Y8",
+      "registered_date": "2025-11-19T01:52:45.671Z",
+      "status": "registered",
+      "notes": ""
+    },
+    "AG29UEBD2E0VM": {
+      "seller_id": "AG29UEBD2E0VM",
+      "seller_url": "https://www.amazon.com.mx/s?me=AG29UEBD2E0VM&marketplaceID=A1AM78C64UM0Y8",
+      "registered_date": "2025-11-19T01:52:45.671Z",
+      "status": "registered",
+      "notes": ""
+    },
+    "A1M5MQDY4CZD0F": {
+      "seller_id": "A1M5MQDY4CZD0F",
+      "seller_url": "https://www.amazon.com.mx/s?me=A1M5MQDY4CZD0F&marketplaceID=A1AM78C64UM0Y8",
+      "registered_date": "2025-11-19T01:52:45.671Z",
+      "status": "registered",
+      "notes": ""
+    },
+    "A1F62EE235OGIX": {
+      "seller_id": "A1F62EE235OGIX",
+      "seller_url": "https://www.amazon.com.mx/s?me=A1F62EE235OGIX&marketplaceID=A1AM78C64UM0Y8",
+      "registered_date": "2025-11-19T01:52:45.671Z",
+      "status": "registered",
+      "notes": ""
+    },
+    "A3SXTUR0WS2UCN": {
+      "seller_id": "A3SXTUR0WS2UCN",
+      "seller_url": "https://www.amazon.com.mx/s?me=A3SXTUR0WS2UCN&marketplaceID=A1AM78C64UM0Y8",
+      "registered_date": "2025-11-19T01:52:45.671Z",
+      "status": "registered",
+      "notes": ""
+    },
+    "A3M0XVHTLEZM2D": {
+      "seller_id": "A3M0XVHTLEZM2D",
+      "seller_url": "https://www.amazon.com.mx/s?me=A3M0XVHTLEZM2D&marketplaceID=A1AM78C64UM0Y8",
+      "registered_date": "2025-11-19T01:52:45.671Z",
+      "status": "registered",
+      "notes": ""
+    },
+    "AE4WM1BNK0R4H": {
+      "seller_id": "AE4WM1BNK0R4H",
+      "seller_url": "https://www.amazon.com.mx/s?me=AE4WM1BNK0R4H&marketplaceID=A1AM78C64UM0Y8",
+      "registered_date": "2025-11-19T01:52:45.671Z",
+      "status": "registered",
+      "notes": ""
+    },
+    "ABEJSZTT6GSP6": {
+      "seller_id": "ABEJSZTT6GSP6",
+      "seller_url": "https://www.amazon.com.mx/s?me=ABEJSZTT6GSP6&marketplaceID=A1AM78C64UM0Y8",
+      "registered_date": "2025-11-19T01:52:45.671Z",
+      "status": "registered",
+      "notes": ""
+    },
+    "A3KV1U5S0MKGON": {
+      "seller_id": "A3KV1U5S0MKGON",
+      "seller_url": "https://www.amazon.com.mx/s?me=A3KV1U5S0MKGON&marketplaceID=A1AM78C64UM0Y8",
+      "registered_date": "2025-11-19T01:52:45.671Z",
+      "status": "registered",
+      "notes": ""
+    },
+    "AO403XYKF044G": {
+      "seller_id": "AO403XYKF044G",
+      "seller_url": "https://www.amazon.com.mx/s?me=AO403XYKF044G&marketplaceID=A1AM78C64UM0Y8",
+      "registered_date": "2025-11-19T01:52:45.671Z",
+      "status": "registered",
+      "notes": ""
+    },
+    "A3N84D5AJ313WC": {
+      "seller_id": "A3N84D5AJ313WC",
+      "seller_url": "https://www.amazon.com.mx/s?me=A3N84D5AJ313WC&marketplaceID=A1AM78C64UM0Y8",
+      "registered_date": "2025-11-19T01:52:45.671Z",
+      "status": "registered",
+      "notes": ""
+    },
+    "A2ROGC60HQGY7Y": {
+      "seller_id": "A2ROGC60HQGY7Y",
+      "seller_url": "https://www.amazon.com.mx/s?me=A2ROGC60HQGY7Y&marketplaceID=A1AM78C64UM0Y8",
+      "registered_date": "2025-11-19T01:52:45.671Z",
+      "status": "registered",
+      "notes": ""
+    },
+    "A8A3N4FR6OVR1": {
+      "seller_id": "A8A3N4FR6OVR1",
+      "seller_url": "https://www.amazon.com.mx/s?me=A8A3N4FR6OVR1&marketplaceID=A1AM78C64UM0Y8",
+      "registered_date": "2025-11-19T01:52:45.671Z",
+      "status": "registered",
+      "notes": ""
+    },
+    "A3INGTX5JLIJZS": {
+      "seller_id": "A3INGTX5JLIJZS",
+      "seller_url": "https://www.amazon.com.mx/s?me=A3INGTX5JLIJZS&marketplaceID=A1AM78C64UM0Y8",
+      "registered_date": "2025-11-19T01:52:45.671Z",
+      "status": "registered",
+      "notes": ""
+    },
+    "A3RIO9JRCW4S7M": {
+      "seller_id": "A3RIO9JRCW4S7M",
+      "seller_url": "https://www.amazon.com.mx/s?me=A3RIO9JRCW4S7M&marketplaceID=A1AM78C64UM0Y8",
+      "registered_date": "2025-11-19T01:52:45.671Z",
+      "status": "registered",
+      "notes": ""
+    },
+    "A1J4ISLQKSFLZ3": {
+      "seller_id": "A1J4ISLQKSFLZ3",
+      "seller_url": "https://www.amazon.com.mx/s?me=A1J4ISLQKSFLZ3&marketplaceID=A1AM78C64UM0Y8",
+      "registered_date": "2025-11-19T01:52:45.671Z",
+      "status": "registered",
+      "notes": "Para testing - 161 productos"
+    }
+  },
+  "last_updated": "2025-11-03T14:01:51.285Z"
+}

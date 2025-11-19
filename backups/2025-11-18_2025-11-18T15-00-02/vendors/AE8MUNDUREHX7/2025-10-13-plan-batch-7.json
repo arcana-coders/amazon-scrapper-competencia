@@ -1,0 +1,253 @@
+{
+  "seller_id": "AE8MUNDUREHX7",
+  "batch_number": 7,
+  "created_at": "2025-10-13T03:56:36.358Z",
+  "analysis_type": "recursive_hierarchical_batch",
+  "max_products_per_leaf": 320,
+  "max_recursion_depth": 10,
+  "max_products_per_batch": 1000,
+  "main_categories": [
+    "Alimentos y Bebidas",
+    "Automotriz y Motocicletas",
+    "Bebé",
+    "Belleza",
+    "Deportes y Aire libre",
+    "Electrónicos",
+    "Herramientas y Mejoras del Hogar",
+    "Hogar y Cocina",
+    "Industria, Empresas y Ciencia",
+    "Instrumentos Musicales",
+    "Jardín",
+    "Juguetes y Juegos",
+    "Libros",
+    "Oficina y Papelería",
+    "Películas y Series de TV",
+    "Productos para animales",
+    "Ropa, Zapatos y Accesorios",
+    "Salud y Cuidado Personal",
+    "Videojuegos"
+  ],
+  "categories": [
+    {
+      "name": "Instrumentos Musicales",
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A13848858011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327198&rnid=15997893011&ref=sr_nr_n_10&ds=v1%3AR%2BLyR22PY2AOnU61Yd%2B%2Fn1wIVUO3iiqTV5aNRdSA7tA",
+      "expected_products": 48,
+      "isLeaf": true,
+      "depth": 1,
+      "path": [
+        "Instrumentos Musicales"
+      ],
+      "status": "completed",
+      "created_at": "2025-10-13T03:55:09.146Z",
+      "started_at": "2025-10-13T15:46:27.957Z",
+      "completed_at": "2025-10-13T15:46:35.150Z",
+      "file_path": "2025-10-13-intelligent-instrumentos-musicales.json",
+      "validation_result": {
+        "total_subcategories": 1,
+        "total_products": 48,
+        "loops_avoided": 0,
+        "filters_detected": 0,
+        "expected_vs_found": {
+          "expected": 48,
+          "found": 48
+        }
+      }
+    },
+    {
+      "name": "Jardín",
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A16215357011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327198&rnid=15997893011&ref=sr_nr_n_11&ds=v1%3AuvAJ4pgwJ3Q4h8SBGQWqK9hLbAqR0U7h02wtEktt6vs",
+      "expected_products": 370,
+      "isLeaf": false,
+      "depth": 1,
+      "path": [
+        "Jardín"
+      ],
+      "status": "completed",
+      "subcategories": [
+        {
+          "name": "Asadores y Comedor en Exteriores",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A16215357011%2Cn%3A20949695011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327708&rnid=16215357011&ref=sr_nr_n_1&ds=v1%3AvXIqTPfAwx2LhJ4kvBqUKCtkuEtjhk00s5A7uVf8TeM",
+          "expected_products": 45,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Jardín",
+            "Asadores y Comedor en Exteriores"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:55:14.572Z"
+        },
+        {
+          "name": "Cortadoras y Herramientas Eléctricas",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A16215357011%2Cn%3A20949680011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327708&rnid=16215357011&ref=sr_nr_n_2&ds=v1%3AqBmaktom7fUB%2BvZhfdRcHDe4oY7g3gIEDUaU3T%2F22wo",
+          "expected_products": 33,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Jardín",
+            "Cortadoras y Herramientas Eléctricas"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:55:17.359Z"
+        },
+        {
+          "name": "Cuidado de Césped y Plantas",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A16215357011%2Cn%3A20949684011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327708&rnid=16215357011&ref=sr_nr_n_3&ds=v1%3AAYrv%2F5Fpk%2FIez4AxZp6Qjp3SkXEv1QVq%2BQTTs0eMbD4",
+          "expected_products": 14,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Jardín",
+            "Cuidado de Césped y Plantas"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:55:20.089Z"
+        },
+        {
+          "name": "Decoración para Exteriores",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A16215357011%2Cn%3A20949693011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327708&rnid=16215357011&ref=sr_nr_n_4&ds=v1%3A3V3MC8hNQV53LWAFQnqr7H5aoKr4OZugPnfgPvB%2FDjM",
+          "expected_products": 60,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Jardín",
+            "Decoración para Exteriores"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:55:22.944Z"
+        },
+        {
+          "name": "Estructuras y Equipo de Germinación",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A16215357011%2Cn%3A20949691011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327708&rnid=16215357011&ref=sr_nr_n_5&ds=v1%3AmOVAwVIdJbYsUoqAPen0HYbtU%2FSRglJSj6vNpiLvrxI",
+          "expected_products": 29,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Jardín",
+            "Estructuras y Equipo de Germinación"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:55:25.708Z"
+        },
+        {
+          "name": "Herramientas de Jardín y Equipo de Riego",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A16215357011%2Cn%3A20949683011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327708&rnid=16215357011&ref=sr_nr_n_6&ds=v1%3AFKEdFL2%2Bki6AbtMwap7UujtjOzr06JGmj5hEF1IxjbY",
+          "expected_products": 62,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Jardín",
+            "Herramientas de Jardín y Equipo de Riego"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:55:28.447Z"
+        },
+        {
+          "name": "Iluminación de Exterior",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A16215357011%2Cn%3A9886232011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327708&rnid=16215357011&ref=sr_nr_n_7&ds=v1%3AR94V6%2FJXSbX4188e%2B3I5kW2YdgRDv%2FDBRWmATsVIolo",
+          "expected_products": 64,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Jardín",
+            "Iluminación de Exterior"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:55:31.283Z"
+        },
+        {
+          "name": "Muebles de Patio y Accesorios",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A16215357011%2Cn%3A20949685011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327708&rnid=16215357011&ref=sr_nr_n_8&ds=v1%3AE0ijIfo%2BeZGY6%2BeZIhG1rj7s7HO5J6yZ3skUT0wiHFU",
+          "expected_products": 18,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Jardín",
+            "Muebles de Patio y Accesorios"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:55:34.150Z"
+        },
+        {
+          "name": "Piscinas, Jacuzzis y Suministros",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A16215357011%2Cn%3A20949694011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327708&rnid=16215357011&ref=sr_nr_n_9&ds=v1%3AsEZK0ApU8X2FBCFqx%2B06wNAAFpN3A8VoCTKnGRM38Ho",
+          "expected_products": 16,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Jardín",
+            "Piscinas, Jacuzzis y Suministros"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:55:36.900Z"
+        },
+        {
+          "name": "Termómetros e Instrumentos Meteorológicos",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A16215357011%2Cn%3A20949692011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327708&rnid=16215357011&ref=sr_nr_n_10&ds=v1%3AeUeLPPETdY4%2BH0IGCrkITm7o8d06lNJRGUjCxHHG53M",
+          "expected_products": 6,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Jardín",
+            "Termómetros e Instrumentos Meteorológicos"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:55:39.646Z"
+        },
+        {
+          "name": "Terrazas de Madera y Cercas",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A16215357011%2Cn%3A9829766011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327708&rnid=16215357011&ref=sr_nr_n_11&ds=v1%3AJXu%2FJb0wY6TiqSlOLH9j89chhQHsM3icMdKFkGjA5Ac",
+          "expected_products": 6,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Jardín",
+            "Terrazas de Madera y Cercas"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:55:42.310Z"
+        },
+        {
+          "name": "Meses sin Intereses",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A16215357011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327708&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3AdZFrnc2Yf9nwnafjPJv%2BxMoxyKVK5PSiTp2FZv1nSas",
+          "expected_products": 17,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Jardín",
+            "Meses sin Intereses"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:55:45.087Z"
+        },
+        {
+          "name": "Amazon Internacional",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A16215357011%2Cp_n_is-global-store-asin%3A23559285011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327708&rnid=23559284011&ref=sr_nr_p_n_is-global-store-asin_1&ds=v1%3AjWPSyUXyfXlkTWfDEyVtH7SkOtVFO5%2FBiEU8ieMZN0g",
+          "expected_products": 49,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Jardín",
+            "Amazon Internacional"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:55:47.817Z"
+        }
+      ],
+      "created_at": "2025-10-13T03:55:52.717Z",
+      "started_at": "2025-10-13T15:46:38.818Z",
+      "completed_at": "2025-10-13T15:47:52.558Z",
+      "file_path": "2025-10-13-intelligent-jardín.json",
+      "validation_result": {
+        "total_subcategories": 13,
+        "total_products": 418,
+        "loops_avoided": 0,
+        "filters_detected": 15,
+        "expected_vs_found": {
+          "expected": 370,
+          "found": 418
+        }
+      }
+    }
+  ]
+}

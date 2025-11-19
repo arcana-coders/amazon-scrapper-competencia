@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "seller_id": "A27UCZ6SHTD3J2",
+    "seller_url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A9482690011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761766132&rnid=15997893011&ref=sr_nr_n_18&ds=v1%3AhIOzmpRRUzFCrUzB9mhznpzS1sUnpX1UUe5RvQkcWYM",
+    "category_name": "Software",
+    "total_products": 5,
+    "pages_processed": 1,
+    "extraction_date": "2025-10-29T22:28:30.367Z",
+    "script_version": "1.0"
+  },
+  "products": [
+    {
+      "asin": "1952970776",
+      "title": "Learning Without Tears - My Printing Book Student Workbook, edición actual - Serie de escritura a mano sin lágrimas - Libro de escritura de primer grado - Letras, lecciones de artes de idiomas - para uso escolar o doméstico",
+      "price": "$636.92",
+      "extracted_at": "2025-10-29T22:28:30.347Z"
+    },
+    {
+      "asin": "B0CQCNQ4N4",
+      "title": "Server 2022 Standard 64 bit | 16 core",
+      "price": "$2,080.91",
+      "extracted_at": "2025-10-29T22:28:30.347Z"
+    },
+    {
+      "asin": "B09G3X363J",
+      "title": "MechWarrior 5: Mercenaries (Xbox Series X)",
+      "price": "$960.65",
+      "extracted_at": "2025-10-29T22:28:30.347Z"
+    },
+    {
+      "asin": "B08WBLBTLW",
+      "title": "CorelDRAW Essentials 2021 | Graphics Design Software for Occasional Users | Illustration, Layout, and Photo Editing [PC Disc]",
+      "price": "$2,215.18",
+      "extracted_at": "2025-10-29T22:28:30.347Z"
+    },
+    {
+      "asin": "B07B8Q1S44",
+      "title": "LEGO Harry Potter: Years 1-4 (Essentials) /PS3",
+      "price": "$1,152.49",
+      "extracted_at": "2025-10-29T22:28:30.347Z"
+    }
+  ]
+}

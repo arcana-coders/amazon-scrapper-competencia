@@ -1,0 +1,539 @@
+{
+  "seller_id": "AJF6S5112BPIX",
+  "batch_number": 8,
+  "created_at": "2025-10-31T18:05:45.102Z",
+  "analysis_type": "recursive_hierarchical_batch",
+  "max_products_per_leaf": 320,
+  "max_recursion_depth": 10,
+  "max_products_per_batch": 1000,
+  "main_categories": [
+    "Alimentos y Bebidas",
+    "Automotriz y Motocicletas",
+    "Bebé",
+    "Belleza",
+    "Deportes y Aire libre",
+    "Electrónicos",
+    "Herramientas y Mejoras del Hogar",
+    "Hogar y Cocina",
+    "Industria, Empresas y Ciencia",
+    "Jardín",
+    "Juguetes y Juegos",
+    "Libros",
+    "Música",
+    "Oficina y Papelería",
+    "Productos para animales",
+    "Ropa, Zapatos y Accesorios",
+    "Salud y Cuidado Personal",
+    "Software",
+    "Videojuegos"
+  ],
+  "categories": [
+    {
+      "name": "Ropa, Zapatos y Accesorios",
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A13848838011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761932814&rnid=15997893011&ref=sr_nr_n_16&ds=v1%3Asl%2FXf3GkuxqSui9kdZN9TD23adMDs0FhH8AIaelOKx8",
+      "expected_products": 396,
+      "isLeaf": false,
+      "depth": 1,
+      "path": [
+        "Ropa, Zapatos y Accesorios"
+      ],
+      "status": "pending",
+      "subcategories": [
+        {
+          "name": "Hombres",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A13848838011%2Cp_n_g-101015233022111%3A121476086011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933717&rnid=121476084011&ref=sr_nr_p_n_g-101015233022111_1&ds=v1%3A6WQrEerlE0%2FNFDxyvZEizY1USUXdmqVdLiVJYGoapVk",
+          "expected_products": 69,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Ropa, Zapatos y Accesorios",
+            "Hombres"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-31T18:02:02.943Z"
+        },
+        {
+          "name": "Mujeres",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A13848838011%2Cp_n_g-101015233022111%3A121476085011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933717&rnid=121476084011&ref=sr_nr_p_n_g-101015233022111_2&ds=v1%3AWBqPo4LITKPKkQHXHen8%2BwxTkLc%2F3I3QewNIdRmDf4s",
+          "expected_products": 97,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Ropa, Zapatos y Accesorios",
+            "Mujeres"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-31T18:02:05.845Z"
+        },
+        {
+          "name": "Niñas",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A13848838011%2Cp_n_g-101015233022111%3A121476089011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933717&rnid=121476084011&ref=sr_nr_p_n_g-101015233022111_3&ds=v1%3A5eA%2FwNrPaEs4hyEUSEeb1dnM8bVwSfRLhPgV6lxz6QY",
+          "expected_products": 3,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Ropa, Zapatos y Accesorios",
+            "Niñas"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-31T18:02:08.606Z"
+        },
+        {
+          "name": "Bebés",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A13848838011%2Cp_n_g-101015233022111%3A121830347011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933717&rnid=121476084011&ref=sr_nr_p_n_g-101015233022111_4&ds=v1%3AXO4t9NvjIFpqB%2FrJIjWmPiKf20dET8qYf18sSvZfDkU",
+          "expected_products": 2,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Ropa, Zapatos y Accesorios",
+            "Bebés"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-31T18:02:11.349Z"
+        },
+        {
+          "name": "Unisex",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A13848838011%2Cp_n_g-101015233022111%3A121830348011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933717&rnid=121476084011&ref=sr_nr_p_n_g-101015233022111_5&ds=v1%3AEfzmWFqbN08eKUnDypRRNdipECAxU86u64SOTgHpvlw",
+          "expected_products": 62,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Ropa, Zapatos y Accesorios",
+            "Unisex"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-31T18:02:14.086Z"
+        },
+        {
+          "name": "Mujeres",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A13848838011%2Cn%3A14093002011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933717&rnid=13848838011&ref=sr_nr_n_1&ds=v1%3ALBnf3hABCqJ2LG86THEBDKI8v3Bqt%2FvLwlJSKOZcpxo",
+          "expected_products": 26,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Ropa, Zapatos y Accesorios",
+            "Mujeres"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-31T18:02:16.867Z"
+        },
+        {
+          "name": "Hombres",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A13848838011%2Cn%3A14093000011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933717&rnid=13848838011&ref=sr_nr_n_2&ds=v1%3Af%2FNWDOtqpML%2FiQyTXKyXthev4CSGk4ShxS4pCP61NVs",
+          "expected_products": 27,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Ropa, Zapatos y Accesorios",
+            "Hombres"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-31T18:02:19.804Z"
+        },
+        {
+          "name": "Accesorios para Zapatos, Joyas y Relojes",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A13848838011%2Cn%3A14092998011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933717&rnid=13848838011&ref=sr_nr_n_3&ds=v1%3AtV4K%2BmRKVfEH%2Bfc23IkZ%2FtKbspNX3uuqhWOwqdMj3lM",
+          "expected_products": 39,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Ropa, Zapatos y Accesorios",
+            "Accesorios para Zapatos, Joyas y Relojes"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-31T18:02:22.742Z"
+        },
+        {
+          "name": "Bolsas, Maletas y Accesorios de Viaje",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A13848838011%2Cn%3A14093001011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933717&rnid=13848838011&ref=sr_nr_n_4&ds=v1%3ABkwRxiInh7%2F35mmqAZM4vU%2B1z%2BCve38TRqZckHx2tTI",
+          "expected_products": 139,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Ropa, Zapatos y Accesorios",
+            "Bolsas, Maletas y Accesorios de Viaje"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-31T18:02:25.729Z"
+        },
+        {
+          "name": "Ropa Específica Deportiva",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A13848838011%2Cn%3A23575791011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933717&rnid=13848838011&ref=sr_nr_n_5&ds=v1%3ATve7aFLXLzET3KWQmCq%2Bcuj2Do6uWImS3BbgvXjHOW4",
+          "expected_products": 11,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Ropa, Zapatos y Accesorios",
+            "Ropa Específica Deportiva"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-31T18:02:28.595Z"
+        },
+        {
+          "name": "Todos los descuentos",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A13848838011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933717&rnid=23565476011&ref=sr_nr_p_n_deal_type_1&ds=v1%3ArsFZZqHEukcngNdzJSE65TQTBO5Y42wKxhWcVpEWP5s",
+          "expected_products": 394,
+          "isLeaf": false,
+          "depth": 2,
+          "path": [
+            "Ropa, Zapatos y Accesorios",
+            "Todos los descuentos"
+          ],
+          "status": "pending",
+          "subcategories": [
+            {
+              "name": "Hombres",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A13848838011%2Cp_n_deal_type%3A23565478011%2Cp_n_g-101015233022111%3A121476086011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933749&rnid=121476084011&ref=sr_nr_p_n_g-101015233022111_1&ds=v1%3AiPwd9W%2F9Mjauzd1lBzG2JRih1XPn%2BD9Eq4AIncRQjgc",
+              "expected_products": 68,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Ropa, Zapatos y Accesorios",
+                "Todos los descuentos",
+                "Hombres"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-31T18:02:34.148Z"
+            },
+            {
+              "name": "Mujeres",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A13848838011%2Cp_n_deal_type%3A23565478011%2Cp_n_g-101015233022111%3A121476085011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933749&rnid=121476084011&ref=sr_nr_p_n_g-101015233022111_2&ds=v1%3AuWGHAFKa3iuKz0JboFi77CPOM62lmm4PL7%2FiTHct9rk",
+              "expected_products": 96,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Ropa, Zapatos y Accesorios",
+                "Todos los descuentos",
+                "Mujeres"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-31T18:02:36.894Z"
+            },
+            {
+              "name": "Niñas",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A13848838011%2Cp_n_deal_type%3A23565478011%2Cp_n_g-101015233022111%3A121476089011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933749&rnid=121476084011&ref=sr_nr_p_n_g-101015233022111_3&ds=v1%3A0h%2FvkYU%2FqhHx71uUTFWPi9dDuqfRvZeVk3%2FNdC%2F7GCs",
+              "expected_products": 3,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Ropa, Zapatos y Accesorios",
+                "Todos los descuentos",
+                "Niñas"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-31T18:02:39.581Z"
+            },
+            {
+              "name": "Bebés",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A13848838011%2Cp_n_deal_type%3A23565478011%2Cp_n_g-101015233022111%3A121830347011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933749&rnid=121476084011&ref=sr_nr_p_n_g-101015233022111_4&ds=v1%3A6h%2FuIob2phJxAJzswd8TUAz6y0xTg59xAmDbsuX%2Fb%2BI",
+              "expected_products": 2,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Ropa, Zapatos y Accesorios",
+                "Todos los descuentos",
+                "Bebés"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-31T18:02:42.371Z"
+            },
+            {
+              "name": "Unisex",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A13848838011%2Cp_n_deal_type%3A23565478011%2Cp_n_g-101015233022111%3A121830348011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933749&rnid=121476084011&ref=sr_nr_p_n_g-101015233022111_5&ds=v1%3A%2B1YM1ZG8xiDx01FAmmHn8xufIk8W%2FINiQ93P8xgdB0k",
+              "expected_products": 61,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Ropa, Zapatos y Accesorios",
+                "Todos los descuentos",
+                "Unisex"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-31T18:02:45.097Z"
+            },
+            {
+              "name": "Mujeres",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A13848838011%2Cn%3A14093002011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933749&rnid=13848838011&ref=sr_nr_n_1&ds=v1%3AvSagHx12B1g1%2BqUecc3PnDAbhi4ztqZ3RxPVwPoCETA",
+              "expected_products": 26,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Ropa, Zapatos y Accesorios",
+                "Todos los descuentos",
+                "Mujeres"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-31T18:02:47.862Z"
+            },
+            {
+              "name": "Hombres",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A13848838011%2Cn%3A14093000011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933749&rnid=13848838011&ref=sr_nr_n_2&ds=v1%3AyYFFk%2Bogu2bbOQ0tbPMilqShVofCZ8FveMf3YiNm0WA",
+              "expected_products": 27,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Ropa, Zapatos y Accesorios",
+                "Todos los descuentos",
+                "Hombres"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-31T18:02:50.641Z"
+            },
+            {
+              "name": "Accesorios para Zapatos, Joyas y Relojes",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A13848838011%2Cn%3A14092998011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933749&rnid=13848838011&ref=sr_nr_n_3&ds=v1%3A%2FJOW8gek4CDWa9XyfYCbsRMxxX4CIna5jojG2uiG5f4",
+              "expected_products": 39,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Ropa, Zapatos y Accesorios",
+                "Todos los descuentos",
+                "Accesorios para Zapatos, Joyas y Relojes"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-31T18:02:53.392Z"
+            },
+            {
+              "name": "Bolsas, Maletas y Accesorios de Viaje",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A13848838011%2Cn%3A14093001011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933749&rnid=13848838011&ref=sr_nr_n_4&ds=v1%3AFQb8sdZS6MZtemuL6rMEIXwSEzoVB7sS0fxB0h1mCKE",
+              "expected_products": 137,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Ropa, Zapatos y Accesorios",
+                "Todos los descuentos",
+                "Bolsas, Maletas y Accesorios de Viaje"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-31T18:02:56.109Z"
+            },
+            {
+              "name": "Ropa Específica Deportiva",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A13848838011%2Cn%3A23575791011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933749&rnid=13848838011&ref=sr_nr_n_5&ds=v1%3AjJUXe9%2FTMdv0hmwVz1wc6OotW8vxZOcjkvam6YyduKc",
+              "expected_products": 11,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Ropa, Zapatos y Accesorios",
+                "Todos los descuentos",
+                "Ropa Específica Deportiva"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-31T18:02:58.883Z"
+            },
+            {
+              "name": "Borrar",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A13848838011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933749&ref=sr_ex_p_n_deal_type_0&ds=v1%3A6zjNJ%2FoYDE7DoCMGlU%2FRNM0oFqJDnfsILOiMnkKbtVQ",
+              "expected_products": 396,
+              "isLeaf": false,
+              "depth": 3,
+              "path": [
+                "Ropa, Zapatos y Accesorios",
+                "Todos los descuentos",
+                "Borrar"
+              ],
+              "status": "pending",
+              "subcategories": [
+                {
+                  "name": "Hombres",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A13848838011%2Cp_n_g-101015233022111%3A121476086011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933779&rnid=121476084011&ref=sr_nr_p_n_g-101015233022111_1&ds=v1%3A0Y7DIO7EesUeY22zpL3odB3TzsIm5KfUN3WQhkv1u10",
+                  "expected_products": 69,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Ropa, Zapatos y Accesorios",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Hombres"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T18:03:04.303Z"
+                },
+                {
+                  "name": "Mujeres",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A13848838011%2Cp_n_g-101015233022111%3A121476085011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933779&rnid=121476084011&ref=sr_nr_p_n_g-101015233022111_2&ds=v1%3A5YOTh8UZFDfG%2FQplF13z7BMhj8IXIPI8akG2yFBo0mY",
+                  "expected_products": 97,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Ropa, Zapatos y Accesorios",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Mujeres"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T18:03:06.974Z"
+                },
+                {
+                  "name": "Niñas",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A13848838011%2Cp_n_g-101015233022111%3A121476089011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933779&rnid=121476084011&ref=sr_nr_p_n_g-101015233022111_3&ds=v1%3An9g%2BKAeSZ1Dfhmkbt9YbZ%2BX%2FecvxwHp3LfCs6j6Zoow",
+                  "expected_products": 3,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Ropa, Zapatos y Accesorios",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Niñas"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T18:03:09.655Z"
+                },
+                {
+                  "name": "Bebés",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A13848838011%2Cp_n_g-101015233022111%3A121830347011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933779&rnid=121476084011&ref=sr_nr_p_n_g-101015233022111_4&ds=v1%3Audr50DdRJMmrqpugWn3h9tIUUZL6KBDi07oMThPoZ1g",
+                  "expected_products": 2,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Ropa, Zapatos y Accesorios",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Bebés"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T18:03:12.289Z"
+                },
+                {
+                  "name": "Unisex",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A13848838011%2Cp_n_g-101015233022111%3A121830348011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933779&rnid=121476084011&ref=sr_nr_p_n_g-101015233022111_5&ds=v1%3A2kYMJwRIWwqyA71931WdF3BfWCVi1JWeUjKAL%2Fecj1A",
+                  "expected_products": 62,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Ropa, Zapatos y Accesorios",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Unisex"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T18:03:14.999Z"
+                },
+                {
+                  "name": "Mujeres",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A13848838011%2Cn%3A14093002011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933779&rnid=13848838011&ref=sr_nr_n_1&ds=v1%3Ajua%2Fl%2Bi%2B4grkGNWmyuKOxN8rcBs6lqMNnFIMilrNbRA",
+                  "expected_products": 26,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Ropa, Zapatos y Accesorios",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Mujeres"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T18:03:17.651Z"
+                },
+                {
+                  "name": "Hombres",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A13848838011%2Cn%3A14093000011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933779&rnid=13848838011&ref=sr_nr_n_2&ds=v1%3AtwGm%2BM41SfU3SldBQWE5q3Zu2TNFfNu7fNElOcxur9Q",
+                  "expected_products": 27,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Ropa, Zapatos y Accesorios",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Hombres"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T18:03:20.303Z"
+                },
+                {
+                  "name": "Accesorios para Zapatos, Joyas y Relojes",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A13848838011%2Cn%3A14092998011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933779&rnid=13848838011&ref=sr_nr_n_3&ds=v1%3AxEtpaf7mapwJe1pUXLiGmi0YHbwwHhrsfaDYRyIyyGI",
+                  "expected_products": 39,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Ropa, Zapatos y Accesorios",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Accesorios para Zapatos, Joyas y Relojes"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T18:03:22.982Z"
+                },
+                {
+                  "name": "Bolsas, Maletas y Accesorios de Viaje",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A13848838011%2Cn%3A14093001011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933779&rnid=13848838011&ref=sr_nr_n_4&ds=v1%3ApPZdWv%2BvoG1%2Fv4Q6gCwgWSKHKUg17yACD%2FFQZoXxFZs",
+                  "expected_products": 139,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Ropa, Zapatos y Accesorios",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Bolsas, Maletas y Accesorios de Viaje"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T18:03:25.758Z"
+                },
+                {
+                  "name": "Ropa Específica Deportiva",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A13848838011%2Cn%3A23575791011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933779&rnid=13848838011&ref=sr_nr_n_5&ds=v1%3AMHXTMT7XjBbWor4qjlkvaw5yGWJVDjaOTuF9rbJ96CI",
+                  "expected_products": 11,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Ropa, Zapatos y Accesorios",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Ropa Específica Deportiva"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T18:03:28.434Z"
+                },
+                {
+                  "name": "Meses sin Intereses",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A13848838011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933779&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3AIzMXfPGMFQdSyMC9WkkJmmCrPDc4QFQ3YciJO62%2BYAE",
+                  "expected_products": 25,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Ropa, Zapatos y Accesorios",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Meses sin Intereses"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T18:03:31.181Z"
+                }
+              ],
+              "created_at": "2025-10-31T18:03:36.329Z"
+            },
+            {
+              "name": "Meses sin Intereses",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A13848838011%2Cp_n_deal_type%3A23565478011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933749&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3Aw4wDKtwsuw2F%2FLDRmOSW%2B3nKKoPrR5SC2TKrCRQi%2Bdg",
+              "expected_products": 25,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Ropa, Zapatos y Accesorios",
+                "Todos los descuentos",
+                "Meses sin Intereses"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-31T18:03:39.146Z"
+            }
+          ],
+          "created_at": "2025-10-31T18:03:44.333Z"
+        },
+        {
+          "name": "Meses sin Intereses",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A13848838011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933717&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3AqMuta%2BdSRg0Htwm7LNNor2fquLBrfjDKY5ZGelNkQvQ",
+          "expected_products": 25,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Ropa, Zapatos y Accesorios",
+            "Meses sin Intereses"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-31T18:03:47.060Z"
+        }
+      ],
+      "created_at": "2025-10-31T18:03:52.399Z"
+    }
+  ]
+}

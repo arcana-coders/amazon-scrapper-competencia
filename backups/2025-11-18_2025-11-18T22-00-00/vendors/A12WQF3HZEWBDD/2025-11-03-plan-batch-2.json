@@ -1,0 +1,495 @@
+{
+  "seller_id": "A12WQF3HZEWBDD",
+  "batch_number": 2,
+  "created_at": "2025-11-03T13:48:11.030Z",
+  "analysis_type": "recursive_hierarchical_batch",
+  "max_products_per_leaf": 320,
+  "max_recursion_depth": 10,
+  "max_products_per_batch": 1000,
+  "main_categories": [
+    "Alimentos y Bebidas",
+    "Automotriz y Motocicletas",
+    "Bebé",
+    "Belleza",
+    "Deportes y Aire libre",
+    "Electrónicos",
+    "Herramientas y Mejoras del Hogar",
+    "Hogar y Cocina",
+    "Industria, Empresas y Ciencia",
+    "Instrumentos Musicales",
+    "Jardín",
+    "Juguetes y Juegos",
+    "Libros",
+    "Oficina y Papelería",
+    "Productos para animales",
+    "Ropa, Zapatos y Accesorios",
+    "Salud y Cuidado Personal"
+  ],
+  "categories": [
+    {
+      "name": "Belleza",
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A11260452011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762177562&rnid=15997893011&ref=sr_nr_n_4&ds=v1%3AFbimBa4OA%2BA9tebVcPhHlteQt5K%2FIpl%2Bcfe4TuS5aO0",
+      "expected_products": 564,
+      "isLeaf": false,
+      "depth": 1,
+      "path": [
+        "Belleza"
+      ],
+      "status": "pending",
+      "subcategories": [
+        {
+          "name": "Baño y Cuerpo",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A11260452011%2Cn%3A10178362011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762177575&rnid=11260452011&ref=sr_nr_n_1&ds=v1%3AWv9L0JjGysHxqGCmDOiAJL%2BAcrijYDWmCtUuL3yDFgs",
+          "expected_products": 65,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Belleza",
+            "Baño y Cuerpo"
+          ],
+          "status": "pending",
+          "created_at": "2025-11-03T13:46:20.840Z"
+        },
+        {
+          "name": "Cosméticos",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A11260452011%2Cn%3A10178470011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762177575&rnid=11260452011&ref=sr_nr_n_2&ds=v1%3Aiwy5EONXP%2B68OduVTLoC1a3EJA4BxYjXc4kJNc631fE",
+          "expected_products": 95,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Belleza",
+            "Cosméticos"
+          ],
+          "status": "pending",
+          "created_at": "2025-11-03T13:46:23.586Z"
+        },
+        {
+          "name": "Cuidado de la Piel",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A11260452011%2Cn%3A10178562011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762177575&rnid=11260452011&ref=sr_nr_n_3&ds=v1%3AVAOWJT0E7vSNBcIs0RbOJzq5AcSE%2BTC2Sc6t1RlEkAc",
+          "expected_products": 200,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Belleza",
+            "Cuidado de la Piel"
+          ],
+          "status": "pending",
+          "created_at": "2025-11-03T13:46:26.333Z"
+        },
+        {
+          "name": "Cuidado del Cabello",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A11260452011%2Cn%3A10178402011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762177575&rnid=11260452011&ref=sr_nr_n_4&ds=v1%3A20Yc9mQ%2FQZ2mXAtX8WilXL%2F5YAbo7FTX4gzWXse2EdM",
+          "expected_products": 141,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Belleza",
+            "Cuidado del Cabello"
+          ],
+          "status": "pending",
+          "created_at": "2025-11-03T13:46:29.093Z"
+        },
+        {
+          "name": "Manicure y Pedicure",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A11260452011%2Cn%3A10178508011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762177575&rnid=11260452011&ref=sr_nr_n_5&ds=v1%3Anu6001IWtXcXwZ25L1fEpNIz2ORV3h7kHOMSipiXZys",
+          "expected_products": 41,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Belleza",
+            "Manicure y Pedicure"
+          ],
+          "status": "pending",
+          "created_at": "2025-11-03T13:46:31.866Z"
+        },
+        {
+          "name": "Perfumes y Fragancias",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A11260452011%2Cn%3A10178384011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762177575&rnid=11260452011&ref=sr_nr_n_6&ds=v1%3ACq9l3Q4sJm4QomnP8bY5CVv92hbic7XZknagJe2fYUA",
+          "expected_products": 25,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Belleza",
+            "Perfumes y Fragancias"
+          ],
+          "status": "pending",
+          "created_at": "2025-11-03T13:46:34.697Z"
+        },
+        {
+          "name": "Rasurado y Depilación",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A11260452011%2Cn%3A9845475011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762177575&rnid=11260452011&ref=sr_nr_n_7&ds=v1%3A2VAD1DtFTJB%2F346oA5H%2FM649eYZF12c1iZXPMCvqEaQ",
+          "expected_products": 22,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Belleza",
+            "Rasurado y Depilación"
+          ],
+          "status": "pending",
+          "created_at": "2025-11-03T13:46:37.553Z"
+        },
+        {
+          "name": "Utensilios de Belleza",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A11260452011%2Cn%3A10178655011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762177575&rnid=11260452011&ref=sr_nr_n_8&ds=v1%3A2D0i2W%2FqTXfXejXyWKU3qWuOvk7sx0mZMUe3%2Fk8I20U",
+          "expected_products": 32,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Belleza",
+            "Utensilios de Belleza"
+          ],
+          "status": "pending",
+          "created_at": "2025-11-03T13:46:40.313Z"
+        },
+        {
+          "name": "Todos los descuentos",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A11260452011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762177575&rnid=23565476011&ref=sr_nr_p_n_deal_type_1&ds=v1%3ALJWwQGxEIVgKztdOjfvELBv0MyQLc5QJGVDbSFdc8Qo",
+          "expected_products": 561,
+          "isLeaf": false,
+          "depth": 2,
+          "path": [
+            "Belleza",
+            "Todos los descuentos"
+          ],
+          "status": "pending",
+          "subcategories": [
+            {
+              "name": "Baño y Cuerpo",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A11260452011%2Cn%3A10178362011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762177600&rnid=11260452011&ref=sr_nr_n_1&ds=v1%3Aza3foRnJr3nyC%2F9vxJUqUMWGL%2BAYpiff10dEuWBBXpo",
+              "expected_products": 65,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Belleza",
+                "Todos los descuentos",
+                "Baño y Cuerpo"
+              ],
+              "status": "pending",
+              "created_at": "2025-11-03T13:46:45.743Z"
+            },
+            {
+              "name": "Cosméticos",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A11260452011%2Cn%3A10178470011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762177600&rnid=11260452011&ref=sr_nr_n_2&ds=v1%3AVc%2FV7eRMdJiuXCW94xCpoRMZzjvF7qvllS2CzCYrFNg",
+              "expected_products": 95,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Belleza",
+                "Todos los descuentos",
+                "Cosméticos"
+              ],
+              "status": "pending",
+              "created_at": "2025-11-03T13:46:48.441Z"
+            },
+            {
+              "name": "Cuidado de la Piel",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A11260452011%2Cn%3A10178562011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762177600&rnid=11260452011&ref=sr_nr_n_3&ds=v1%3AG%2FHCRnTXSuDUfOnxyJSEGb7smAQYKKVKUs7D5t%2F7Qww",
+              "expected_products": 198,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Belleza",
+                "Todos los descuentos",
+                "Cuidado de la Piel"
+              ],
+              "status": "pending",
+              "created_at": "2025-11-03T13:46:51.208Z"
+            },
+            {
+              "name": "Cuidado del Cabello",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A11260452011%2Cn%3A10178402011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762177600&rnid=11260452011&ref=sr_nr_n_4&ds=v1%3AW%2BVPC7coyKRsMpJgv4yWZX%2B89yboN%2FU3SWDnnyo0OGY",
+              "expected_products": 140,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Belleza",
+                "Todos los descuentos",
+                "Cuidado del Cabello"
+              ],
+              "status": "pending",
+              "created_at": "2025-11-03T13:46:53.927Z"
+            },
+            {
+              "name": "Manicure y Pedicure",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A11260452011%2Cn%3A10178508011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762177600&rnid=11260452011&ref=sr_nr_n_5&ds=v1%3ApbaoDnsRAxutkxrR2d1A94qNuSDtaynuMpvYJYXNb8Y",
+              "expected_products": 41,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Belleza",
+                "Todos los descuentos",
+                "Manicure y Pedicure"
+              ],
+              "status": "pending",
+              "created_at": "2025-11-03T13:46:56.687Z"
+            },
+            {
+              "name": "Perfumes y Fragancias",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A11260452011%2Cn%3A10178384011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762177600&rnid=11260452011&ref=sr_nr_n_6&ds=v1%3AVKBbmLmMwnTurN7PaD8G5nacLr%2BzdVaNgs5aRsywGMw",
+              "expected_products": 25,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Belleza",
+                "Todos los descuentos",
+                "Perfumes y Fragancias"
+              ],
+              "status": "pending",
+              "created_at": "2025-11-03T13:46:59.451Z"
+            },
+            {
+              "name": "Rasurado y Depilación",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A11260452011%2Cn%3A9845475011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762177600&rnid=11260452011&ref=sr_nr_n_7&ds=v1%3AZh5eJjbHBexY1EzI8OtzCqUmAhYPzO4p93kWFh6DcGY",
+              "expected_products": 22,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Belleza",
+                "Todos los descuentos",
+                "Rasurado y Depilación"
+              ],
+              "status": "pending",
+              "created_at": "2025-11-03T13:47:02.202Z"
+            },
+            {
+              "name": "Utensilios de Belleza",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A11260452011%2Cn%3A10178655011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762177600&rnid=11260452011&ref=sr_nr_n_8&ds=v1%3Ak1KHX%2FmAEYnApY7KL3qShnxf3BaxvAoqAZHEAkztKoM",
+              "expected_products": 32,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Belleza",
+                "Todos los descuentos",
+                "Utensilios de Belleza"
+              ],
+              "status": "pending",
+              "created_at": "2025-11-03T13:47:04.985Z"
+            },
+            {
+              "name": "Borrar",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A11260452011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762177600&ref=sr_ex_p_n_deal_type_0&ds=v1%3AoNZDg526hP4JQRg43luWsxNnNs2Qk1g%2BgoKJUaT0rXY",
+              "expected_products": 564,
+              "isLeaf": false,
+              "depth": 3,
+              "path": [
+                "Belleza",
+                "Todos los descuentos",
+                "Borrar"
+              ],
+              "status": "pending",
+              "subcategories": [
+                {
+                  "name": "Baño y Cuerpo",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A11260452011%2Cn%3A10178362011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762177624&rnid=11260452011&ref=sr_nr_n_1&ds=v1%3AlRk71zLfnk1OSoai%2BnKokAcVja2bDXUmEnPjVHd9L0o",
+                  "expected_products": 65,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Belleza",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Baño y Cuerpo"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-11-03T13:47:10.445Z"
+                },
+                {
+                  "name": "Cosméticos",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A11260452011%2Cn%3A10178470011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762177624&rnid=11260452011&ref=sr_nr_n_2&ds=v1%3Ax%2FsfCUNwKYBIKwoFbdhHkpWsOMftl1eSwtPrq7spht0",
+                  "expected_products": 95,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Belleza",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Cosméticos"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-11-03T13:47:13.104Z"
+                },
+                {
+                  "name": "Cuidado de la Piel",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A11260452011%2Cn%3A10178562011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762177624&rnid=11260452011&ref=sr_nr_n_3&ds=v1%3AqtCub5oo0Q88svco3cdR6KfSFgOLSpRdvikRqJDg4eA",
+                  "expected_products": 200,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Belleza",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Cuidado de la Piel"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-11-03T13:47:15.782Z"
+                },
+                {
+                  "name": "Cuidado del Cabello",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A11260452011%2Cn%3A10178402011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762177624&rnid=11260452011&ref=sr_nr_n_4&ds=v1%3AN%2FRNhIp2%2B3NdOjf4Mz23thHTqxk9x5SqqbrnR3ibKoI",
+                  "expected_products": 141,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Belleza",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Cuidado del Cabello"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-11-03T13:47:18.442Z"
+                },
+                {
+                  "name": "Manicure y Pedicure",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A11260452011%2Cn%3A10178508011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762177624&rnid=11260452011&ref=sr_nr_n_5&ds=v1%3A0oNr3YYXtyOFuFv3Iv%2BsIl%2F4TPguQY83oakhzQTWuUo",
+                  "expected_products": 41,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Belleza",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Manicure y Pedicure"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-11-03T13:47:21.201Z"
+                },
+                {
+                  "name": "Perfumes y Fragancias",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A11260452011%2Cn%3A10178384011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762177624&rnid=11260452011&ref=sr_nr_n_6&ds=v1%3AkwqzQSMg7FcscmTHGuPBzrrUwma96tPYuqqXK19JH8c",
+                  "expected_products": 25,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Belleza",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Perfumes y Fragancias"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-11-03T13:47:23.843Z"
+                },
+                {
+                  "name": "Rasurado y Depilación",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A11260452011%2Cn%3A9845475011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762177624&rnid=11260452011&ref=sr_nr_n_7&ds=v1%3AjPUyDgczDYiuaefIG6C2TjWARrVahG2rVyEVdYT0gfc",
+                  "expected_products": 22,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Belleza",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Rasurado y Depilación"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-11-03T13:47:26.557Z"
+                },
+                {
+                  "name": "Utensilios de Belleza",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A11260452011%2Cn%3A10178655011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762177624&rnid=11260452011&ref=sr_nr_n_8&ds=v1%3AxcuY2yef9KKqrljTLpuYME2DJwzch6ZjMBzi3gOXN%2FQ",
+                  "expected_products": 32,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Belleza",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Utensilios de Belleza"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-11-03T13:47:29.394Z"
+                },
+                {
+                  "name": "Meses sin Intereses",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A11260452011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762177624&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3AZJ%2BrM%2BsC0RZ9rV4R%2BM%2FRK3tcrO2AAoWYy%2FMGL3ZdtXw",
+                  "expected_products": 96,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Belleza",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Meses sin Intereses"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-11-03T13:47:32.123Z"
+                },
+                {
+                  "name": "Amazon Internacional",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A11260452011%2Cp_n_is-global-store-asin%3A23559285011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762177624&rnid=23559284011&ref=sr_nr_p_n_is-global-store-asin_1&ds=v1%3A7HZDUS5598FQcnlIz%2BCu4Bke1vSBGaGkR5NsF3AoNOk",
+                  "expected_products": 20,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Belleza",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Amazon Internacional"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-11-03T13:47:34.870Z"
+                }
+              ],
+              "created_at": "2025-11-03T13:47:42.350Z"
+            },
+            {
+              "name": "Meses sin Intereses",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A11260452011%2Cp_n_deal_type%3A23565478011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762177600&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3AswbAXilXzHxjf3B7N%2BQpKvA3XbpBK3%2FTJnhCTfiVWW4",
+              "expected_products": 94,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Belleza",
+                "Todos los descuentos",
+                "Meses sin Intereses"
+              ],
+              "status": "pending",
+              "created_at": "2025-11-03T13:47:45.102Z"
+            },
+            {
+              "name": "Amazon Internacional",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A11260452011%2Cp_n_deal_type%3A23565478011%2Cp_n_is-global-store-asin%3A23559285011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762177600&rnid=23559284011&ref=sr_nr_p_n_is-global-store-asin_1&ds=v1%3Ai2B9mfxPvHuaU%2F%2BKlaeOaQRpVf24yu6cX3suttNNANQ",
+              "expected_products": 19,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Belleza",
+                "Todos los descuentos",
+                "Amazon Internacional"
+              ],
+              "status": "pending",
+              "created_at": "2025-11-03T13:47:47.997Z"
+            }
+          ],
+          "created_at": "2025-11-03T13:47:55.458Z"
+        },
+        {
+          "name": "Meses sin Intereses",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A11260452011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762177575&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3AY%2F7NDuwCThClAmTqDEDduOjqYBJ%2BUBOKlWebNu2C8gg",
+          "expected_products": 96,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Belleza",
+            "Meses sin Intereses"
+          ],
+          "status": "pending",
+          "created_at": "2025-11-03T13:47:58.127Z"
+        },
+        {
+          "name": "Amazon Internacional",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A11260452011%2Cp_n_is-global-store-asin%3A23559285011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762177575&rnid=23559284011&ref=sr_nr_p_n_is-global-store-asin_1&ds=v1%3AYKdl0CF073e%2F778iS8vzQVR57qa0RKLz1kubxB3p3Ws",
+          "expected_products": 20,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Belleza",
+            "Amazon Internacional"
+          ],
+          "status": "pending",
+          "created_at": "2025-11-03T13:48:00.856Z"
+        }
+      ],
+      "created_at": "2025-11-03T13:48:08.290Z"
+    }
+  ]
+}

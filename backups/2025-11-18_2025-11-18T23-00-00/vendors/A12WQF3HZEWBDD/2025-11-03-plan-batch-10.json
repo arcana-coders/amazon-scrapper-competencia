@@ -1,0 +1,411 @@
+{
+  "seller_id": "A12WQF3HZEWBDD",
+  "batch_number": 10,
+  "created_at": "2025-11-03T14:01:51.284Z",
+  "analysis_type": "recursive_hierarchical_batch",
+  "max_products_per_leaf": 320,
+  "max_recursion_depth": 10,
+  "max_products_per_batch": 1000,
+  "main_categories": [
+    "Alimentos y Bebidas",
+    "Automotriz y Motocicletas",
+    "Bebé",
+    "Belleza",
+    "Deportes y Aire libre",
+    "Electrónicos",
+    "Herramientas y Mejoras del Hogar",
+    "Hogar y Cocina",
+    "Industria, Empresas y Ciencia",
+    "Instrumentos Musicales",
+    "Jardín",
+    "Juguetes y Juegos",
+    "Libros",
+    "Oficina y Papelería",
+    "Productos para animales",
+    "Ropa, Zapatos y Accesorios",
+    "Salud y Cuidado Personal"
+  ],
+  "categories": [
+    {
+      "name": "Salud y Cuidado Personal",
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A9482610011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762177562&rnid=15997893011&ref=sr_nr_n_17&ds=v1%3A24LdbNeyF6YRXv3bqZQLxL1igzCyGMddmu4Rk7UEjro",
+      "expected_products": 414,
+      "isLeaf": false,
+      "depth": 1,
+      "path": [
+        "Salud y Cuidado Personal"
+      ],
+      "status": "pending",
+      "subcategories": [
+        {
+          "name": "Baño y Cuerpo",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A9482610011%2Cn%3A10178362011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762178420&rnid=9482610011&ref=sr_nr_n_1&ds=v1%3ArmYMZe2tUFTJEvapvw82eUm5rt%2B7rPfD27hKYaVQfF8",
+          "expected_products": 65,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Salud y Cuidado Personal",
+            "Baño y Cuerpo"
+          ],
+          "status": "pending",
+          "created_at": "2025-11-03T14:00:25.721Z"
+        },
+        {
+          "name": "Bienestar y Relajación",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A9482610011%2Cn%3A9845550011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762178420&rnid=9482610011&ref=sr_nr_n_2&ds=v1%3ApGmqRBqXcRlpLwQiu0ycqdQ6TNKDP1ncVIdpmN23ThE",
+          "expected_products": 55,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Salud y Cuidado Personal",
+            "Bienestar y Relajación"
+          ],
+          "status": "pending",
+          "created_at": "2025-11-03T14:00:28.493Z"
+        },
+        {
+          "name": "Cuidado del Hogar y Limpieza",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A9482610011%2Cn%3A11525771011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762178420&rnid=9482610011&ref=sr_nr_n_3&ds=v1%3AgqvNBrTZHaJnl86FGyK%2F1%2FPoGGb4nlb5fm7udz7TeKI",
+          "expected_products": 79,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Salud y Cuidado Personal",
+            "Cuidado del Hogar y Limpieza"
+          ],
+          "status": "pending",
+          "created_at": "2025-11-03T14:00:31.201Z"
+        },
+        {
+          "name": "Cuidado para Bebes y Niños",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A9482610011%2Cn%3A9845549011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762178420&rnid=9482610011&ref=sr_nr_n_4&ds=v1%3AlGtXbZokLRtq548XH4%2FPFPIYR%2BhIKFRWKKKDECsygfg",
+          "expected_products": 19,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Salud y Cuidado Personal",
+            "Cuidado para Bebes y Niños"
+          ],
+          "status": "pending",
+          "created_at": "2025-11-03T14:00:34.117Z"
+        },
+        {
+          "name": "Salud y Tratamientos",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A9482610011%2Cn%3A9845666011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762178420&rnid=9482610011&ref=sr_nr_n_5&ds=v1%3AwRtkmKQiaVvzZG3EGWH2ae4cXkR%2BEwNFTBKs245F2Hc",
+          "expected_products": 87,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Salud y Cuidado Personal",
+            "Salud y Tratamientos"
+          ],
+          "status": "pending",
+          "created_at": "2025-11-03T14:00:36.912Z"
+        },
+        {
+          "name": "Vitaminas y Suplementos",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A9482610011%2Cn%3A9845682011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762178420&rnid=9482610011&ref=sr_nr_n_6&ds=v1%3ACt5%2BXOfZ%2B4r0gITi%2FQP%2BTqoUMUmWUZmGEJ5%2FCBB88Uk",
+          "expected_products": 10,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Salud y Cuidado Personal",
+            "Vitaminas y Suplementos"
+          ],
+          "status": "pending",
+          "created_at": "2025-11-03T14:00:39.634Z"
+        },
+        {
+          "name": "Todos los descuentos",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A9482610011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762178420&rnid=23565476011&ref=sr_nr_p_n_deal_type_1&ds=v1%3Ak2J%2BF8utcy0XLGztm36yIvAuUZjxWj4g466OH3zpRWk",
+          "expected_products": 413,
+          "isLeaf": false,
+          "depth": 2,
+          "path": [
+            "Salud y Cuidado Personal",
+            "Todos los descuentos"
+          ],
+          "status": "pending",
+          "subcategories": [
+            {
+              "name": "Baño y Cuerpo",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A9482610011%2Cn%3A10178362011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762178439&rnid=9482610011&ref=sr_nr_n_1&ds=v1%3AMfEp%2FdyY%2FznioIXKgg1SgSM8iXz%2BUs%2BScX%2FFskkAgLE",
+              "expected_products": 65,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Salud y Cuidado Personal",
+                "Todos los descuentos",
+                "Baño y Cuerpo"
+              ],
+              "status": "pending",
+              "created_at": "2025-11-03T14:00:45.161Z"
+            },
+            {
+              "name": "Bienestar y Relajación",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A9482610011%2Cn%3A9845550011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762178439&rnid=9482610011&ref=sr_nr_n_2&ds=v1%3ArPKczFeZ%2B6%2FPdWugjm2E5PUDRWutkIF49YO3RCfDRL0",
+              "expected_products": 55,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Salud y Cuidado Personal",
+                "Todos los descuentos",
+                "Bienestar y Relajación"
+              ],
+              "status": "pending",
+              "created_at": "2025-11-03T14:00:47.898Z"
+            },
+            {
+              "name": "Cuidado del Hogar y Limpieza",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A9482610011%2Cn%3A11525771011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762178439&rnid=9482610011&ref=sr_nr_n_3&ds=v1%3AfoyFNCqP4L1lZpSrTD8xXQhjXzR2uIEqhSKPgcsVfx0",
+              "expected_products": 79,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Salud y Cuidado Personal",
+                "Todos los descuentos",
+                "Cuidado del Hogar y Limpieza"
+              ],
+              "status": "pending",
+              "created_at": "2025-11-03T14:00:50.755Z"
+            },
+            {
+              "name": "Cuidado para Bebes y Niños",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A9482610011%2Cn%3A9845549011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762178439&rnid=9482610011&ref=sr_nr_n_4&ds=v1%3A4yvI7j8T2HkPsazOxfSNWXpOrneZt1kfx2SlMh80h2g",
+              "expected_products": 19,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Salud y Cuidado Personal",
+                "Todos los descuentos",
+                "Cuidado para Bebes y Niños"
+              ],
+              "status": "pending",
+              "created_at": "2025-11-03T14:00:53.571Z"
+            },
+            {
+              "name": "Salud y Tratamientos",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A9482610011%2Cn%3A9845666011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762178439&rnid=9482610011&ref=sr_nr_n_5&ds=v1%3A0c6H96%2FnGcDJ4RnVlgz01EojC6xCYZMJDW2H8J9%2Bt%2Fg",
+              "expected_products": 86,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Salud y Cuidado Personal",
+                "Todos los descuentos",
+                "Salud y Tratamientos"
+              ],
+              "status": "pending",
+              "created_at": "2025-11-03T14:00:56.272Z"
+            },
+            {
+              "name": "Vitaminas y Suplementos",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A9482610011%2Cn%3A9845682011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762178439&rnid=9482610011&ref=sr_nr_n_6&ds=v1%3A0lu043wedxOKNxJTNO0Fqar1C62yEDNi62zEzRw9ptU",
+              "expected_products": 10,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Salud y Cuidado Personal",
+                "Todos los descuentos",
+                "Vitaminas y Suplementos"
+              ],
+              "status": "pending",
+              "created_at": "2025-11-03T14:00:58.976Z"
+            },
+            {
+              "name": "Borrar",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A9482610011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762178439&ref=sr_ex_p_n_deal_type_0&ds=v1%3AM5LbaN2VLhol%2BVnqZsSno90kDP1abSvUdMifaoCIRvA",
+              "expected_products": 414,
+              "isLeaf": false,
+              "depth": 3,
+              "path": [
+                "Salud y Cuidado Personal",
+                "Todos los descuentos",
+                "Borrar"
+              ],
+              "status": "pending",
+              "subcategories": [
+                {
+                  "name": "Baño y Cuerpo",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A9482610011%2Cn%3A10178362011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762178458&rnid=9482610011&ref=sr_nr_n_1&ds=v1%3A5ikz6B1e7ENTKgbAzXI%2BfIsxe%2Fu8q9941ljMVrtYHnc",
+                  "expected_products": 65,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Salud y Cuidado Personal",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Baño y Cuerpo"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-11-03T14:01:04.378Z"
+                },
+                {
+                  "name": "Bienestar y Relajación",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A9482610011%2Cn%3A9845550011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762178458&rnid=9482610011&ref=sr_nr_n_2&ds=v1%3AVoom6EZbhH5XXz%2FJ0sTeqKz2r8aytgqqKEPDksm53Hw",
+                  "expected_products": 55,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Salud y Cuidado Personal",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Bienestar y Relajación"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-11-03T14:01:06.973Z"
+                },
+                {
+                  "name": "Cuidado del Hogar y Limpieza",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A9482610011%2Cn%3A11525771011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762178458&rnid=9482610011&ref=sr_nr_n_3&ds=v1%3AwuI%2BRxsNgsyXOrV7GFTgZ%2B1ThlbafSguikNIRoxsYAQ",
+                  "expected_products": 79,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Salud y Cuidado Personal",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Cuidado del Hogar y Limpieza"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-11-03T14:01:09.643Z"
+                },
+                {
+                  "name": "Cuidado para Bebes y Niños",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A9482610011%2Cn%3A9845549011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762178458&rnid=9482610011&ref=sr_nr_n_4&ds=v1%3ACqilH5zKtuxC9x7IUVGZpHmA98Sdn4ktPxkXL1UPKsc",
+                  "expected_products": 19,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Salud y Cuidado Personal",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Cuidado para Bebes y Niños"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-11-03T14:01:12.341Z"
+                },
+                {
+                  "name": "Salud y Tratamientos",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A9482610011%2Cn%3A9845666011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762178458&rnid=9482610011&ref=sr_nr_n_5&ds=v1%3AktvOgjxy8klY7kw%2B5qZV6n5zCFSoilXtEVfkdb66ybY",
+                  "expected_products": 87,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Salud y Cuidado Personal",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Salud y Tratamientos"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-11-03T14:01:14.924Z"
+                },
+                {
+                  "name": "Vitaminas y Suplementos",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A9482610011%2Cn%3A9845682011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762178458&rnid=9482610011&ref=sr_nr_n_6&ds=v1%3AXAkiP5ETSaaJ9k5kdwyV%2BqPRfxsdQh3ifLQ6A17pbls",
+                  "expected_products": 10,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Salud y Cuidado Personal",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Vitaminas y Suplementos"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-11-03T14:01:17.498Z"
+                },
+                {
+                  "name": "Meses sin Intereses",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A9482610011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762178458&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3AymvPrwoiG7XIKLcbsCTzeh4o%2FqsgXCaIEjSLUoX5dZ4",
+                  "expected_products": 82,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Salud y Cuidado Personal",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Meses sin Intereses"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-11-03T14:01:20.219Z"
+                },
+                {
+                  "name": "Amazon Internacional",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A9482610011%2Cp_n_is-global-store-asin%3A23559285011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762178458&rnid=23559284011&ref=sr_nr_p_n_is-global-store-asin_1&ds=v1%3AKMMQiLLSXLJszrKFGld%2FVy3ZMB3SFigp4yDwEO2t0ps",
+                  "expected_products": 28,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Salud y Cuidado Personal",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Amazon Internacional"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-11-03T14:01:22.973Z"
+                }
+              ],
+              "created_at": "2025-11-03T14:01:27.938Z"
+            },
+            {
+              "name": "Meses sin Intereses",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A9482610011%2Cp_n_deal_type%3A23565478011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762178439&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3Aks0CB3YXOUtjiZ7JZii1IzQI2KXd9GXoRW0qfpmuYzI",
+              "expected_products": 82,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Salud y Cuidado Personal",
+                "Todos los descuentos",
+                "Meses sin Intereses"
+              ],
+              "status": "pending",
+              "created_at": "2025-11-03T14:01:30.667Z"
+            },
+            {
+              "name": "Amazon Internacional",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A9482610011%2Cp_n_deal_type%3A23565478011%2Cp_n_is-global-store-asin%3A23559285011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762178439&rnid=23559284011&ref=sr_nr_p_n_is-global-store-asin_1&ds=v1%3AYv%2BPfyDYWWf7x%2Fr9t9x2ZV3fhkERoWLauZxVlM%2FdSSo",
+              "expected_products": 28,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Salud y Cuidado Personal",
+                "Todos los descuentos",
+                "Amazon Internacional"
+              ],
+              "status": "pending",
+              "created_at": "2025-11-03T14:01:33.428Z"
+            }
+          ],
+          "created_at": "2025-11-03T14:01:40.801Z"
+        },
+        {
+          "name": "Meses sin Intereses",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A9482610011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762178420&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3AE46ZIZX5OyWcbR0SpxQjJ72f3nPIV8OzxrpOFKQQvLo",
+          "expected_products": 82,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Salud y Cuidado Personal",
+            "Meses sin Intereses"
+          ],
+          "status": "pending",
+          "created_at": "2025-11-03T14:01:43.427Z"
+        },
+        {
+          "name": "Amazon Internacional",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A9482610011%2Cp_n_is-global-store-asin%3A23559285011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762178420&rnid=23559284011&ref=sr_nr_p_n_is-global-store-asin_1&ds=v1%3AHg60R2KZa7H4UzTA7M5IW2Wa%2B0zIKkKvmJhIvODOYUs",
+          "expected_products": 28,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Salud y Cuidado Personal",
+            "Amazon Internacional"
+          ],
+          "status": "pending",
+          "created_at": "2025-11-03T14:01:46.084Z"
+        }
+      ],
+      "created_at": "2025-11-03T14:01:51.281Z"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "seller_id": "A12WQF3HZEWBDD",
+  "batch_number": 5,
+  "created_at": "2025-11-03T13:59:14.378Z",
+  "analysis_type": "recursive_hierarchical_batch",
+  "max_products_per_leaf": 320,
+  "max_recursion_depth": 10,
+  "max_products_per_batch": 1000,
+  "main_categories": [
+    "Alimentos y Bebidas",
+    "Automotriz y Motocicletas",
+    "Bebé",
+    "Belleza",
+    "Deportes y Aire libre",
+    "Electrónicos",
+    "Herramientas y Mejoras del Hogar",
+    "Hogar y Cocina",
+    "Industria, Empresas y Ciencia",
+    "Instrumentos Musicales",
+    "Jardín",
+    "Juguetes y Juegos",
+    "Libros",
+    "Oficina y Papelería",
+    "Productos para animales",
+    "Ropa, Zapatos y Accesorios",
+    "Salud y Cuidado Personal"
+  ],
+  "categories": [
+    {
+      "name": "Herramientas y Mejoras del Hogar",
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A9482670011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762177562&rnid=15997893011&ref=sr_nr_n_7&ds=v1%3AAm0xhoLvR%2FRMmjjcXhKI19Gy2iKAd0S8MkEMv59t%2FxU",
+      "expected_products": 313,
+      "isLeaf": true,
+      "depth": 1,
+      "path": [
+        "Herramientas y Mejoras del Hogar"
+      ],
+      "status": "pending",
+      "created_at": "2025-11-03T13:57:08.923Z"
+    }
+  ]
+}

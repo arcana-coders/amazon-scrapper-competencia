@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "seller_id": "AE8MUNDUREHX7",
+    "category_name": "Deportes y Aire libre",
+    "date_scraped": "2025-10-13T15:36:15.071Z",
+    "processing_type": "intelligent_detection_v1",
+    "max_products_per_category": 320,
+    "max_depth": 3,
+    "expected_products": 675
+  },
+  "intelligence_stats": {
+    "loops_avoided": 0,
+    "filters_detected": 16
+  },
+  "subcategories": [
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482660011%2Cn%3A20687658011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760369775&rnid=9482660011&ref=sr_nr_n_1&ds=v1%3ApT6l1NONwURj6hrLFSSpHMGJNSwX%2FJnfWxT8BU2zE2s",
+      "name": "Accesorios Deportivos y de Recreación al Aire Libre",
+      "full_path": "Deportes y Aire libre > Accesorios Deportivos y de Recreación al Aire Libre",
+      "productCount": 27,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:36:25.769Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482660011%2Cn%3A9783947011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760369775&rnid=9482660011&ref=sr_nr_n_2&ds=v1%3ALhc8FAGliZB4mqsRH7f1u79PEmOGYHmUjSe7oJr9eY4",
+      "name": "Artes Marciales",
+      "full_path": "Deportes y Aire libre > Artes Marciales",
+      "productCount": 12,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:36:29.464Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482660011%2Cn%3A9786636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760369775&rnid=9482660011&ref=sr_nr_n_3&ds=v1%3Ar9y9BeiA3EPJod97hzVCEJkr7e38DZrJt9f8G4EoLIA",
+      "name": "Artículos para Fans",
+      "full_path": "Deportes y Aire libre > Artículos para Fans",
+      "productCount": 6,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:36:34.646Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482660011%2Cn%3A9784163011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760369775&rnid=9482660011&ref=sr_nr_n_4&ds=v1%3AeLwplydpUE0JX6BAoLgt3mIg7IUwxYp7UDREHxJgf%2F8",
+      "name": "Balonmano",
+      "full_path": "Deportes y Aire libre > Balonmano",
+      "productCount": 28,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:36:40.265Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482660011%2Cn%3A9784119011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760369775&rnid=9482660011&ref=sr_nr_n_5&ds=v1%3Asf5YSfeN%2BhlFQ7Jho2eo7jU%2B9IWQmtM3TUKboEUquTw",
+      "name": "Basquetbol",
+      "full_path": "Deportes y Aire libre > Basquetbol",
+      "productCount": 25,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:36:44.334Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482660011%2Cn%3A9784206011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760369775&rnid=9482660011&ref=sr_nr_n_6&ds=v1%3AIUBcuKJOdfx7TENdNh4E4luBQCrfkBzyj%2BM5zN847nk",
+      "name": "Béisbol",
+      "full_path": "Deportes y Aire libre > Béisbol",
+      "productCount": 24,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:36:50.025Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482660011%2Cn%3A9784332011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760369775&rnid=9482660011&ref=sr_nr_n_7&ds=v1%3AThc4JFEaiD6YSQkJq78fo1ZYhP89CGkIhhWwBSnsRNI",
+      "name": "Box",
+      "full_path": "Deportes y Aire libre > Box",
+      "productCount": 11,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:36:53.791Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482660011%2Cn%3A9784381011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760369775&rnid=9482660011&ref=sr_nr_n_8&ds=v1%3A%2F1GbOIVgnC6mfkRcSjqv1rK5rgU2axfokRv7m39TmfQ",
+      "name": "Calzado Deportivo",
+      "full_path": "Deportes y Aire libre > Calzado Deportivo",
+      "productCount": 10,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:36:58.743Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482660011%2Cn%3A9783688011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760369775&rnid=9482660011&ref=sr_nr_n_9&ds=v1%3AUv2c9rr%2FGUeN2kInUYJTncHZzrfjMIj7qwfuTnTh2jw",
+      "name": "Campismo y Senderismo",
+      "full_path": "Deportes y Aire libre > Campismo y Senderismo",
+      "productCount": 49,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:37:04.512Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482660011%2Cn%3A9784387011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760369775&rnid=9482660011&ref=sr_nr_n_10&ds=v1%3ApswzKDlNgmZ0jwNhlYYlumYz69ZvErXbyahGdkZpdLI",
+      "name": "Caza",
+      "full_path": "Deportes y Aire libre > Caza",
+      "productCount": 11,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:37:07.850Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482660011%2Cn%3A9784530011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760369775&rnid=9482660011&ref=sr_nr_n_11&ds=v1%3AdvX%2B2FKc4NJumlaiI0ww5tJXCV2OuSXnBLqEsKGQD5o",
+      "name": "Ciclismo",
+      "full_path": "Deportes y Aire libre > Ciclismo",
+      "productCount": 37,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:37:11.111Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482660011%2Cn%3A9790484011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760369775&rnid=9482660011&ref=sr_nr_n_12&ds=v1%3APLwrXV6aTRWZSUPYRpJ0%2Bu%2BiuHro%2FbGWg8TVSRg0Ki0",
+      "name": "Correr",
+      "full_path": "Deportes y Aire libre > Correr",
+      "productCount": 44,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:37:16.076Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482660011%2Cn%3A9785808011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760369775&rnid=9482660011&ref=sr_nr_n_13&ds=v1%3AsYaWZMwEm2soY83ujO7as2XnmIdyzL2A769fXyATNME",
+      "name": "Críquet",
+      "full_path": "Deportes y Aire libre > Críquet",
+      "productCount": 5,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:37:19.790Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482660011%2Cn%3A23501685011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760369775&rnid=9482660011&ref=sr_nr_n_14&ds=v1%3AhExc15IR8vq%2FBnAv6DUQgLdmYKct%2FxPi3w95c6GMMR0",
+      "name": "Deportes",
+      "full_path": "Deportes y Aire libre > Deportes",
+      "productCount": 15,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:37:24.246Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482660011%2Cn%3A9785900011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760369775&rnid=9482660011&ref=sr_nr_n_15&ds=v1%3ASu0s2kr2Snkw2IiomM7dhX1HkkNbj0bvcXcBryObhbU",
+      "name": "Deportes Acuáticos",
+      "full_path": "Deportes y Aire libre > Deportes Acuáticos",
+      "productCount": 35,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:37:27.377Z"
+    }
+  ]
+}

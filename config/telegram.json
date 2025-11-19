@@ -1,0 +1,26 @@
+{
+  "enabled": true,
+  "bot_token": "7953231163:AAGgInb8zVEeHOCb5vew2CFzMxhx3v56xzY",
+  "chat_id": "1213919376",
+  "notifications": {
+    "daily_summary": true,
+    "cookie_expiry_warning": true,
+    "critical_errors": true,
+    "vendor_completed": true
+  },
+  "_instructions": {
+    "how_to_setup": [
+      "1. Abrir Telegram y buscar @BotFather",
+      "2. Enviar el comando /newbot y seguir las instrucciones",
+      "3. Copiar el token del bot y pegarlo en 'bot_token'",
+      "4. Buscar @userinfobot en Telegram y enviar /start",
+      "5. Copiar tu chat_id y pegarlo en 'chat_id'",
+      "6. Cambiar 'enabled' a true",
+      "7. Ejecutar 'node automation/test-telegram.js' para probar"
+    ],
+    "example": {
+      "bot_token": "123456789:ABCdefGHIjklMNOpqrsTUVwxyz",
+      "chat_id": "987654321"
+    }
+  }
+}

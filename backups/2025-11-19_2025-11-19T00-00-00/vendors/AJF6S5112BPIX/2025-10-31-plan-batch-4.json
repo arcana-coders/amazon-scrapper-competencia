@@ -1,0 +1,581 @@
+{
+  "seller_id": "AJF6S5112BPIX",
+  "batch_number": 4,
+  "created_at": "2025-10-31T17:51:10.779Z",
+  "analysis_type": "recursive_hierarchical_batch",
+  "max_products_per_leaf": 320,
+  "max_recursion_depth": 10,
+  "max_products_per_batch": 1000,
+  "main_categories": [
+    "Alimentos y Bebidas",
+    "Automotriz y Motocicletas",
+    "Bebé",
+    "Belleza",
+    "Deportes y Aire libre",
+    "Electrónicos",
+    "Herramientas y Mejoras del Hogar",
+    "Hogar y Cocina",
+    "Industria, Empresas y Ciencia",
+    "Jardín",
+    "Juguetes y Juegos",
+    "Libros",
+    "Música",
+    "Oficina y Papelería",
+    "Productos para animales",
+    "Ropa, Zapatos y Accesorios",
+    "Salud y Cuidado Personal",
+    "Software",
+    "Videojuegos"
+  ],
+  "categories": [
+    {
+      "name": "Hogar y Cocina",
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482593011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761932814&rnid=15997893011&ref=sr_nr_n_8&ds=v1%3A6CUnv1GkIsWpGLHRwTgVeWNvEXGiY2dHok5LKeJFEoo",
+      "expected_products": 1000,
+      "isLeaf": false,
+      "depth": 1,
+      "path": [
+        "Hogar y Cocina"
+      ],
+      "status": "pending",
+      "subcategories": [
+        {
+          "name": "Almacenamiento y Organización",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482593011%2Cn%3A9756857011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761932943&rnid=9482593011&ref=sr_nr_n_1&ds=v1%3ASMWnwlX2GoejEzC2wiFb5nlxfM6pL3OvdXka3sGaQKU",
+          "expected_products": 55,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Hogar y Cocina",
+            "Almacenamiento y Organización"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-31T17:49:08.511Z"
+        },
+        {
+          "name": "Arte y Manualidades",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482593011%2Cn%3A10201738011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761932943&rnid=9482593011&ref=sr_nr_n_2&ds=v1%3AaIen9uu4zWWj8WTnHVEGnZ3u%2BtEzmYS%2FF%2BDrjD%2BRMe4",
+          "expected_products": 118,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Hogar y Cocina",
+            "Arte y Manualidades"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-31T17:49:11.281Z"
+        },
+        {
+          "name": "Aspiración, Limpieza y Planchado",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482593011%2Cn%3A9725297011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761932943&rnid=9482593011&ref=sr_nr_n_3&ds=v1%3Aqs9XhdguzBTVvJH%2BzGDz%2BPPtAao3Hbxs7Y9S4uteztc",
+          "expected_products": 43,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Hogar y Cocina",
+            "Aspiración, Limpieza y Planchado"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-31T17:49:14.030Z"
+        },
+        {
+          "name": "Baño",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482593011%2Cn%3A9756950011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761932943&rnid=9482593011&ref=sr_nr_n_4&ds=v1%3AWL2FukJxb4TXyV33xh2gADkKkIu1nmOSwB7f5X5ocyo",
+          "expected_products": 51,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Hogar y Cocina",
+            "Baño"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-31T17:49:16.753Z"
+        },
+        {
+          "name": "Blancos para el Hogar",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482593011%2Cn%3A9757431011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761932943&rnid=9482593011&ref=sr_nr_n_5&ds=v1%3Ar4aIM4Ho3yotP9gDJcQXtY0kFpmnqnp8akgnIrW4yFw",
+          "expected_products": 69,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Hogar y Cocina",
+            "Blancos para el Hogar"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-31T17:49:19.689Z"
+        },
+        {
+          "name": "Cocina",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482593011%2Cn%3A9721682011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761932943&rnid=9482593011&ref=sr_nr_n_6&ds=v1%3AtInZlG2txL8O5Hoggsdk%2Fp6uy97IqQ9jQCKSl%2BUsaMc",
+          "expected_products": 281,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Hogar y Cocina",
+            "Cocina"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-31T17:49:22.437Z"
+        },
+        {
+          "name": "Cuidado del Hogar y Limpieza",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482593011%2Cn%3A11525771011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761932943&rnid=9482593011&ref=sr_nr_n_7&ds=v1%3ACCcZKYI%2Fva3mv5llx8ycdVAqtsqchZfrvPNhCj%2FN8wE",
+          "expected_products": 64,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Hogar y Cocina",
+            "Cuidado del Hogar y Limpieza"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-31T17:49:25.153Z"
+        },
+        {
+          "name": "Decoración del Hogar",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482593011%2Cn%3A9757037011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761932943&rnid=9482593011&ref=sr_nr_n_8&ds=v1%3AoF7bp47AVdaihrIV2sjrtwk7VGpfj4tTJazeN1c6HkM",
+          "expected_products": 261,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Hogar y Cocina",
+            "Decoración del Hogar"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-31T17:49:27.974Z"
+        },
+        {
+          "name": "Iluminación",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482593011%2Cn%3A9939347011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761932943&rnid=9482593011&ref=sr_nr_n_9&ds=v1%3AkFOkXFu3oOxYQP5naGF7GnkAc9ir%2FOhCajInNNOn3%2Bc",
+          "expected_products": 24,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Hogar y Cocina",
+            "Iluminación"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-31T17:49:30.888Z"
+        },
+        {
+          "name": "Muebles",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482593011%2Cn%3A9757251011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761932943&rnid=9482593011&ref=sr_nr_n_10&ds=v1%3AwAWARoTCgeLel1zQ5Z1e3U2ahWIbsJ5xUpyLN6FFmeU",
+          "expected_products": 101,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Hogar y Cocina",
+            "Muebles"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-31T17:49:33.614Z"
+        },
+        {
+          "name": "Obras de Arte y Material Decorativo",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482593011%2Cn%3A9757416011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761932943&rnid=9482593011&ref=sr_nr_n_11&ds=v1%3ALEaZGPIeDEBU0QmqtQ%2F5mgAWxcEEsHF3ibVrYVHVgB8",
+          "expected_products": 34,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Hogar y Cocina",
+            "Obras de Arte y Material Decorativo"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-31T17:49:36.367Z"
+        },
+        {
+          "name": "Todos los descuentos",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482593011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761932943&rnid=23565476011&ref=sr_nr_p_n_deal_type_1&ds=v1%3A2TQqu85L9%2BwXE48e80SmYR26m%2BdS4K8lQGlgBeZ8Su0",
+          "expected_products": 1000,
+          "isLeaf": false,
+          "depth": 2,
+          "path": [
+            "Hogar y Cocina",
+            "Todos los descuentos"
+          ],
+          "status": "pending",
+          "subcategories": [
+            {
+              "name": "Almacenamiento y Organización",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482593011%2Cn%3A9756857011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761932976&rnid=9482593011&ref=sr_nr_n_1&ds=v1%3A98ZoGIX7JhgZSKL52wPv2Vw%2BqcLuKE%2Fq8wrKHGBp9qc",
+              "expected_products": 55,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Hogar y Cocina",
+                "Todos los descuentos",
+                "Almacenamiento y Organización"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-31T17:49:41.795Z"
+            },
+            {
+              "name": "Arte y Manualidades",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482593011%2Cn%3A10201738011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761932976&rnid=9482593011&ref=sr_nr_n_2&ds=v1%3ASRoNgvHz9SKwG%2Bda4FAL6qKIgUxS9ARiqRYr9MRtjzg",
+              "expected_products": 118,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Hogar y Cocina",
+                "Todos los descuentos",
+                "Arte y Manualidades"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-31T17:49:44.554Z"
+            },
+            {
+              "name": "Aspiración, Limpieza y Planchado",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482593011%2Cn%3A9725297011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761932976&rnid=9482593011&ref=sr_nr_n_3&ds=v1%3AF2f9eEjdh9eOAKY91syfyvN8W9%2FbrDiBiVWFVh6KpGY",
+              "expected_products": 43,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Hogar y Cocina",
+                "Todos los descuentos",
+                "Aspiración, Limpieza y Planchado"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-31T17:49:47.314Z"
+            },
+            {
+              "name": "Baño",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482593011%2Cn%3A9756950011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761932976&rnid=9482593011&ref=sr_nr_n_4&ds=v1%3AkJrli%2BljFfp4X70spm2cB6YbcFAopGgQfEDvhFGKem4",
+              "expected_products": 51,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Hogar y Cocina",
+                "Todos los descuentos",
+                "Baño"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-31T17:49:50.043Z"
+            },
+            {
+              "name": "Blancos para el Hogar",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482593011%2Cn%3A9757431011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761932976&rnid=9482593011&ref=sr_nr_n_5&ds=v1%3AWB%2Fb2siEM73pE%2FblnCyKIrFiusrnYkcC0%2FBQ%2BIc9cFk",
+              "expected_products": 69,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Hogar y Cocina",
+                "Todos los descuentos",
+                "Blancos para el Hogar"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-31T17:49:52.788Z"
+            },
+            {
+              "name": "Cocina",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482593011%2Cn%3A9721682011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761932976&rnid=9482593011&ref=sr_nr_n_6&ds=v1%3AmvgTeESPxys1iUx1CdWc5OtalHfK2hlPWbBR4QNoZeI",
+              "expected_products": 281,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Hogar y Cocina",
+                "Todos los descuentos",
+                "Cocina"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-31T17:49:55.485Z"
+            },
+            {
+              "name": "Cuidado del Hogar y Limpieza",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482593011%2Cn%3A11525771011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761932976&rnid=9482593011&ref=sr_nr_n_7&ds=v1%3APBhGuBqh%2FI7WWOsnSRtJBHGoTBFruLzn8Z5b4jfuBjM",
+              "expected_products": 64,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Hogar y Cocina",
+                "Todos los descuentos",
+                "Cuidado del Hogar y Limpieza"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-31T17:49:58.122Z"
+            },
+            {
+              "name": "Decoración del Hogar",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482593011%2Cn%3A9757037011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761932976&rnid=9482593011&ref=sr_nr_n_8&ds=v1%3AOqfG%2B9ZuKZN23yHR08P8OV0j0sksGnX%2Fo8ECoN2fxR0",
+              "expected_products": 261,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Hogar y Cocina",
+                "Todos los descuentos",
+                "Decoración del Hogar"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-31T17:50:00.912Z"
+            },
+            {
+              "name": "Iluminación",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482593011%2Cn%3A9939347011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761932976&rnid=9482593011&ref=sr_nr_n_9&ds=v1%3AfHlrxRfakhG%2BohRmCVwIC7zgT1PBktLFaIXv%2FHtrY6s",
+              "expected_products": 24,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Hogar y Cocina",
+                "Todos los descuentos",
+                "Iluminación"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-31T17:50:03.762Z"
+            },
+            {
+              "name": "Muebles",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482593011%2Cn%3A9757251011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761932976&rnid=9482593011&ref=sr_nr_n_10&ds=v1%3AlONBtX6I%2BZD6yMtwpAomhEIvGhUWQewJqw3WkanZu3M",
+              "expected_products": 101,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Hogar y Cocina",
+                "Todos los descuentos",
+                "Muebles"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-31T17:50:06.557Z"
+            },
+            {
+              "name": "Obras de Arte y Material Decorativo",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482593011%2Cn%3A9757416011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761932976&rnid=9482593011&ref=sr_nr_n_11&ds=v1%3AomrS9AKsFAcOa2PQ6xElZC8ZcQsPUwuLILHI%2BIMvMTA",
+              "expected_products": 34,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Hogar y Cocina",
+                "Todos los descuentos",
+                "Obras de Arte y Material Decorativo"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-31T17:50:09.401Z"
+            },
+            {
+              "name": "Borrar",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482593011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761932976&ref=sr_ex_p_n_deal_type_0&ds=v1%3Ak5biPqm6YFXHdpBvq258D9IPn%2B8%2FGK4%2FQRwAwydUipk",
+              "expected_products": 1000,
+              "isLeaf": false,
+              "depth": 3,
+              "path": [
+                "Hogar y Cocina",
+                "Todos los descuentos",
+                "Borrar"
+              ],
+              "status": "pending",
+              "subcategories": [
+                {
+                  "name": "Almacenamiento y Organización",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482593011%2Cn%3A9756857011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933009&rnid=9482593011&ref=sr_nr_n_1&ds=v1%3ApOg5JD6q9J%2B3ytJOwgXQl07KVJPzBm26AgypPL5F%2FC8",
+                  "expected_products": 55,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Hogar y Cocina",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Almacenamiento y Organización"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T17:50:14.804Z"
+                },
+                {
+                  "name": "Arte y Manualidades",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482593011%2Cn%3A10201738011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933009&rnid=9482593011&ref=sr_nr_n_2&ds=v1%3ALyjOoRTt0U88lLs6ptcL0HgiftZRWgr%2BtF1puN5wdP0",
+                  "expected_products": 118,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Hogar y Cocina",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Arte y Manualidades"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T17:50:17.549Z"
+                },
+                {
+                  "name": "Aspiración, Limpieza y Planchado",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482593011%2Cn%3A9725297011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933009&rnid=9482593011&ref=sr_nr_n_3&ds=v1%3AhAJiANWXTz0xRZLtAhiSfThIT8W5Q2wWK47Ll4zGR5g",
+                  "expected_products": 43,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Hogar y Cocina",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Aspiración, Limpieza y Planchado"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T17:50:20.257Z"
+                },
+                {
+                  "name": "Baño",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482593011%2Cn%3A9756950011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933009&rnid=9482593011&ref=sr_nr_n_4&ds=v1%3A%2FXIvVOrSIBCjm77G%2BR6SG5CSib%2BFy9fGXL5FIh0T7WY",
+                  "expected_products": 51,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Hogar y Cocina",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Baño"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T17:50:22.941Z"
+                },
+                {
+                  "name": "Blancos para el Hogar",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482593011%2Cn%3A9757431011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933009&rnid=9482593011&ref=sr_nr_n_5&ds=v1%3APedSpjx%2BD%2FWd%2FqXOsKzKqnp2%2BYblFDzJHAcYpZm0f5Y",
+                  "expected_products": 69,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Hogar y Cocina",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Blancos para el Hogar"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T17:50:25.679Z"
+                },
+                {
+                  "name": "Cocina",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482593011%2Cn%3A9721682011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933009&rnid=9482593011&ref=sr_nr_n_6&ds=v1%3AqFOc8iA%2BgkXAPn5ZZITnTA2VzdqMo5AR0kYv9ek74Qo",
+                  "expected_products": 281,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Hogar y Cocina",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Cocina"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T17:50:28.379Z"
+                },
+                {
+                  "name": "Cuidado del Hogar y Limpieza",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482593011%2Cn%3A11525771011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933009&rnid=9482593011&ref=sr_nr_n_7&ds=v1%3A1nClYEVRVCTRgoZfNMbLjIVldARj6SBgA4cvkw%2FPlBc",
+                  "expected_products": 64,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Hogar y Cocina",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Cuidado del Hogar y Limpieza"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T17:50:31.039Z"
+                },
+                {
+                  "name": "Decoración del Hogar",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482593011%2Cn%3A9757037011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933009&rnid=9482593011&ref=sr_nr_n_8&ds=v1%3AMKWHO4qpYz%2F33e7QOaYnhXmUAEVqHu87K6pX4PO%2Fs7A",
+                  "expected_products": 261,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Hogar y Cocina",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Decoración del Hogar"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T17:50:33.799Z"
+                },
+                {
+                  "name": "Iluminación",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482593011%2Cn%3A9939347011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933009&rnid=9482593011&ref=sr_nr_n_9&ds=v1%3A0N4s3VaFJll8JJjsNIKmgX54FzVgQON4JXcXuA8iNIQ",
+                  "expected_products": 24,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Hogar y Cocina",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Iluminación"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T17:50:36.479Z"
+                },
+                {
+                  "name": "Muebles",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482593011%2Cn%3A9757251011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933009&rnid=9482593011&ref=sr_nr_n_10&ds=v1%3A6lxm0gAziNF%2BJsWzoQ%2BFRxGje0WL62JqozE4hCyrKsc",
+                  "expected_products": 101,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Hogar y Cocina",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Muebles"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T17:50:39.172Z"
+                },
+                {
+                  "name": "Obras de Arte y Material Decorativo",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482593011%2Cn%3A9757416011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933009&rnid=9482593011&ref=sr_nr_n_11&ds=v1%3AXhz%2FfjMOXp1UkxZomXvWR41NfntBqSbZBAcfzgijstQ",
+                  "expected_products": 34,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Hogar y Cocina",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Obras de Arte y Material Decorativo"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T17:50:41.886Z"
+                },
+                {
+                  "name": "Meses sin Intereses",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482593011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933009&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3AiUDkj4oULdk4DQzL%2BIGFnSNsE%2F9TgIgvY6lh2I0h3mo",
+                  "expected_products": 84,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Hogar y Cocina",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Meses sin Intereses"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T17:50:44.661Z"
+                }
+              ],
+              "created_at": "2025-10-31T17:50:52.200Z"
+            },
+            {
+              "name": "Meses sin Intereses",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482593011%2Cp_n_deal_type%3A23565478011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761932976&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3Atlw4LqAikpiyNSXiOaOLRnexNyP9lEbQytWcCBB%2F6jg",
+              "expected_products": 84,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Hogar y Cocina",
+                "Todos los descuentos",
+                "Meses sin Intereses"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-31T17:50:54.986Z"
+            }
+          ],
+          "created_at": "2025-10-31T17:51:00.130Z"
+        },
+        {
+          "name": "Meses sin Intereses",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482593011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761932943&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3AobDtu07%2BDlUWEg%2BhXsJ15Q6kV3P%2BOzNZCBnl0P8pvLs",
+          "expected_products": 84,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Hogar y Cocina",
+            "Meses sin Intereses"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-31T17:51:03.000Z"
+        }
+      ],
+      "created_at": "2025-10-31T17:51:08.040Z"
+    }
+  ]
+}

@@ -1,0 +1,1279 @@
+{
+  "metadata": {
+    "seller_id": "A27UCZ6SHTD3J2",
+    "seller_url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A9482660011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761766132&rnid=15997893011&ref=sr_nr_n_4&ds=v1%3AfTL48e%2FgmSMctOAwGRP4xQaNZkLb%2B%2BQqsKaJgDvnJAc",
+    "category_name": "Deportes y Aire libre",
+    "total_products": 211,
+    "pages_processed": 14,
+    "extraction_date": "2025-10-29T22:07:00.348Z",
+    "script_version": "1.0"
+  },
+  "products": [
+    {
+      "asin": "B078Y61JXG",
+      "title": "Summit Chemical Co. - Mosquito Dunk (6 unidades)",
+      "price": "$574.98",
+      "extracted_at": "2025-10-29T22:04:24.675Z"
+    },
+    {
+      "asin": "1955710198",
+      "title": "Salud de los hombres, no requiere gimnasio: pesas rusas – logra una transformación de cuerpo completo cuando usas solo una pesa rusa",
+      "price": "$911.76",
+      "extracted_at": "2025-10-29T22:04:24.675Z"
+    },
+    {
+      "asin": "B08VD3GCW3",
+      "title": "AODULO Youth Long Sleeve T Shirts Kids Sun Shirts Hoodies Rash Guard UPF50+ Quick Dry Fit for Running Workout Playing",
+      "price": "$584.01",
+      "extracted_at": "2025-10-29T22:04:24.675Z"
+    },
+    {
+      "asin": "B0DZNKWR84",
+      "title": "COOTRY - Traje de baño de manga corta para mujer, 2 piezas, talla grande, protección contra erupciones, traje de baño y pantalones cortos, UPF 50+",
+      "price": "$1,140.90",
+      "extracted_at": "2025-10-29T22:04:24.675Z"
+    },
+    {
+      "asin": "B002VWH7RE",
+      "title": "Seals Cubierta de nailon para cabina",
+      "price": "$1,174.81",
+      "extracted_at": "2025-10-29T22:04:24.675Z"
+    },
+    {
+      "asin": "B0F2T433SW",
+      "title": "Kit de supervivencia, 262 piezas de equipo de supervivencia y suministros con bolsa de primeros auxilios y bolsa cruzada, kit de emergencia con tienda, martillo de hacha de campamento, pala de",
+      "price": "$1,473.59",
+      "extracted_at": "2025-10-29T22:04:24.675Z"
+    },
+    {
+      "asin": "B0CQ3MQR7C",
+      "title": "Transparent Labs Aislado de proteína de suero de leche alimentado con pasto: sabor natural, proteína de suero de leche en polvo sin gluten con 28 g de proteína por porción y 9 aminoácidos esenciales",
+      "price": "$1,706.23",
+      "extracted_at": "2025-10-29T22:04:24.675Z"
+    },
+    {
+      "asin": "B07K8WK8JD",
+      "title": "Swiftwick - Rendimiento cero (3 pares) calcetines para correr y golf, acolchados que no se muestran",
+      "price": "$1,121.64",
+      "extracted_at": "2025-10-29T22:04:24.676Z"
+    },
+    {
+      "asin": "B0D9MFQJQ6",
+      "title": "Feraricci Calcetines de vestir casuales de color sólido para hombre, calcetines coloridos y cómodos",
+      "price": "$524.40",
+      "extracted_at": "2025-10-29T22:04:24.676Z"
+    },
+    {
+      "asin": "B0CZ8B91CN",
+      "title": "Anoutway - Bomba de aire eléctrica recargable para bicicleta, máximo 120 PSI, mini bomba de neumático para bicicleta, con válvula Presta y Schrader para bicicleta eléctrica, bicicleta de montaña,",
+      "price": "$1,921.35",
+      "extracted_at": "2025-10-29T22:04:24.676Z"
+    },
+    {
+      "asin": "B07BH8GKFB",
+      "title": "Levels Nutrition Proteína De Suero De Leche En Polvo Alimentada Con Pasto Levels, Sin Ingredientes Artificiales, 24 G De Proteína, Sabor Vainilla Y Canela, 2 Libras 28 Porciones (Paquete De 1)",
+      "price": "$1,226.04",
+      "extracted_at": "2025-10-29T22:04:24.676Z"
+    },
+    {
+      "asin": "B09G6BTHST",
+      "title": "Biwisy Mens Swim Trunks Quick Dry Beach Shorts Mesh Lining Swimwear Bathing Suits with Pockets",
+      "price": "$553.65",
+      "extracted_at": "2025-10-29T22:04:24.676Z"
+    },
+    {
+      "asin": "B0DV4MH4NB",
+      "title": "Liventra - Bolsa de pecho para hombre, también para senderismo, ciclismo, trabajo y transporte diario, sistema MOLLE, bolsillos seguros, detalles reflectantes, resistente al agua, transpirable",
+      "price": "$940.09",
+      "extracted_at": "2025-10-29T22:04:24.676Z"
+    },
+    {
+      "asin": "B09B2TVKGB",
+      "title": "Aquatabs Tabletas de purificación de Agua de 49 MG (100 Unidades) Sistema de filtración de Agua para Senderismo, mochileros, Camping, emergencias, Supervivencia y Uso doméstico. Tratamiento y",
+      "price": "$683.55",
+      "extracted_at": "2025-10-29T22:04:24.676Z"
+    },
+    {
+      "asin": "B09HJNNZKY",
+      "title": "ANDROGENESIS Gel De Apoyo Natural Para Niveles Bajos De Testosterona: Potenciador De Testosterona Para Hombres: Recuperación Muscular, Refuerzo De Energía, Envejecimiento Saludable 4 Onzas Líquidas(Pa",
+      "price": "$1,687.48",
+      "extracted_at": "2025-10-29T22:04:24.676Z"
+    },
+    {
+      "asin": "B0CP5HV4VV",
+      "title": "COOTRY - Camisetas de entrenamiento para mujer, con abertura en la espalda, verano, yoga, casual, atlético, gimnasio, deporte",
+      "price": "$737.35",
+      "extracted_at": "2025-10-29T22:04:24.676Z"
+    },
+    {
+      "asin": "B0D2H6CMDC",
+      "title": "Kit de supervivencia, 262 piezas de equipo de supervivencia y suministros con bolsa de primeros auxilios y bolsa cruzada, kit de emergencia con tienda, martillo de hacha de campamento, pala de",
+      "price": "$1,509.74",
+      "extracted_at": "2025-10-29T22:04:38.055Z"
+    },
+    {
+      "asin": "B0DRFK9QVN",
+      "title": "Expansor de sombrero ajustado de vaquero: gorras para hombres, extensores de 4 vías, gorras de béisbol para gorras de gorras de fieltro moldeador",
+      "price": "$857.05",
+      "extracted_at": "2025-10-29T22:04:38.055Z"
+    },
+    {
+      "asin": "B0CP3WZYG8",
+      "title": "Equip- “Alimentos Prime Protein Powder | Limpio, Grass Fed Beef Protein Isolate | Carnivore Protein Powder | Pa",
+      "price": "$1,897.35",
+      "extracted_at": "2025-10-29T22:04:38.055Z"
+    },
+    {
+      "asin": "B08L6YYXZ3",
+      "title": "Levels Nutrition Proteína De Suero De Leche En Polvo Alimentada Con Pasto Levels, Sin Ingredientes Artificiales, 24 G De Proteína, Mantequilla De Maní Con Sabor A Chocolate, 2 Libras 26 Porciones(Paqu",
+      "price": "$1,230.04",
+      "extracted_at": "2025-10-29T22:04:38.055Z"
+    },
+    {
+      "asin": "B0D5HRJ38H",
+      "title": "Paquete de 60 parches de recuperación – Despierta refrescados y energizados con nuestro parche de ingredientes 100% naturales para fiestas, respetuoso con la piel e impermeable, aplicar antes de beber",
+      "price": "$714.16",
+      "extracted_at": "2025-10-29T22:04:38.055Z"
+    },
+    {
+      "asin": "B0F6V6WNTW",
+      "title": "LetsJoli - Sujetadores para mujer, sin costuras, sin costuras, sin costuras, talla grande para mujeres mayores",
+      "price": "$734.96",
+      "extracted_at": "2025-10-29T22:04:38.055Z"
+    },
+    {
+      "asin": "B09FFQN924",
+      "title": "Aquatabs - Tabletas de purificación de agua de 397 mg (100 unidades) Sistema de filtración de agua para camping, navegación, emergencias, supervivencia, vehículos recreativos y uso marino. Tratamiento",
+      "price": "$1,054.07",
+      "extracted_at": "2025-10-29T22:04:38.055Z"
+    },
+    {
+      "asin": "B0921QW6S8",
+      "title": "Nick & Hannah- Niveles de Proteína de Suero Alimentada con Hierba en Polvo, Sin Artificiales, 24G de Proteína, Doble Chocolate, 2LB",
+      "price": "$1,147.74",
+      "extracted_at": "2025-10-29T22:04:38.055Z"
+    },
+    {
+      "asin": "B0BHBYS1ML",
+      "title": "Stakt - Esterilla plegable multiusos para fitness y yoga con diseño patentado, alfombrilla de entrenamiento con superficie antideslizante, portátil y ligera, para uso en estudio y hogar, como se ve en",
+      "price": "$2,621.48",
+      "extracted_at": "2025-10-29T22:04:38.056Z"
+    },
+    {
+      "asin": "B0DN56KZ83",
+      "title": "JoyGirl - Falda plisada de tenis con pantalones cortos de cintura alta, falda de golf, falda de entrenamiento, falda atlética con bolsillos",
+      "price": "$979.05",
+      "extracted_at": "2025-10-29T22:04:38.056Z"
+    },
+    {
+      "asin": "B0DK91BF92",
+      "title": "Paquete de 4 Repelente de Arañas de Aceite de Menta para Interiores, Potente Repelente de Arañas con Ingredientes a Base de Plantas, Mantén la Araña lejos de Interior y Exterior, Sótano, cochera",
+      "price": "$688.72",
+      "extracted_at": "2025-10-29T22:04:38.056Z"
+    },
+    {
+      "asin": "B0D37KV755",
+      "title": "playera térmica de lana merino para hombre, ligera, resistente al olor + bolsa de lavandería adicional, lavable a máquina",
+      "price": "$1,191.00",
+      "extracted_at": "2025-10-29T22:04:38.056Z"
+    },
+    {
+      "asin": "B0DWK135K9",
+      "title": "RingConn Gen 2 Air, Ultrafino Smart Ring con IA, autonomía de 10 días, anillo inteligente para hombre y mujer, sueño, estrés y frecuencia cardíaca, iOS&Android compatible (Dune Gold, 8)",
+      "price": "$4,911.89",
+      "extracted_at": "2025-10-29T22:04:38.056Z"
+    },
+    {
+      "asin": "B016OA5YK0",
+      "title": "Hot to Go Paquetes de Calor Reutilizables: Compra 4 y obtén 4 Gratis",
+      "price": "$901.20",
+      "extracted_at": "2025-10-29T22:04:38.056Z"
+    },
+    {
+      "asin": "B0D3F1XQN7",
+      "title": "Adoreal - Soporte de pared para pistola modularidad, soporte para pistola de 120 libras para pared con 10 ganchos de montaje, estante para escopeta de rifle con almacenamiento adicional, montaje de",
+      "price": "$1,655.58",
+      "extracted_at": "2025-10-29T22:04:38.056Z"
+    },
+    {
+      "asin": "B0D97PBHY4",
+      "title": "BFONS - Falda de lentejuelas con borlas para danza del vientre, bufanda de cadera con oropel brillante, falda de flecos para fiestas de Halloween para mujeres",
+      "price": "$468.07",
+      "extracted_at": "2025-10-29T22:04:38.056Z"
+    },
+    {
+      "asin": "B07VNN2ZDR",
+      "title": "UltraHealth- Ascent 100% Proteína de Suero en Polvo Aislado de Proteína de Suero Post Entrenamiento, Cero Sabores Artificiales y Dulces",
+      "price": "$2,231.77",
+      "extracted_at": "2025-10-29T22:04:48.921Z"
+    },
+    {
+      "asin": "B08D2S33XB",
+      "title": "Tabletas limpiadoras de botellas de agua – Paquete de 36 unidades, biodegradables, sin cloro y sin olor, hidratación de la vejiga y limpieza de botellas de agua, elimina manchas y olores difíciles",
+      "price": "$508.48",
+      "extracted_at": "2025-10-29T22:04:48.922Z"
+    },
+    {
+      "asin": "B0F293GFS3",
+      "title": "Roadbox UPF 50+ - Camisas de pesca para hombre, manga larga, protección solar UV, con máscara/sin máscara, camisas de senderismo al aire última intervensión",
+      "price": "$632.25",
+      "extracted_at": "2025-10-29T22:04:48.922Z"
+    },
+    {
+      "asin": "B0DWJG2TD8",
+      "title": "RingConn Anillo Inteligente Ultrafino Air de 2.ª generación con IA, batería de 10 días de duración, Monitor de Actividad física, sueño, estrés y frecuencia cardíaca para Mujeres y Hombres, sin Cargos",
+      "price": "$4,911.89",
+      "extracted_at": "2025-10-29T22:04:48.922Z"
+    },
+    {
+      "asin": "B0DYK3LXSW",
+      "title": "Tabla de equilibrio de tobillo ajustable con 2 tablas de tobillo Sidekick y 6 barras de equilibrio, fortalecedor de tobillo versátil para estabilidad, rehabilitación y alivio del dolor",
+      "price": "$596.96",
+      "extracted_at": "2025-10-29T22:04:48.922Z"
+    },
+    {
+      "asin": "B0DMS5JXM8",
+      "title": "Paquete de 7 pantalones cortos deportivos para hombre, gimnasio, baloncesto, correr, entrenamiento, secado rápido, color negro con bolsillos para un rendimiento casual",
+      "price": "$1,474.10",
+      "extracted_at": "2025-10-29T22:04:48.922Z"
+    },
+    {
+      "asin": "B0DNZ41KFV",
+      "title": "Ghosthorn - Soporte para caña de pescar para cochera, soporte para hasta 10 cañas, organizador de madera, para caña de pescar, equipo de almacenamiento de equipo de pesca (3 niveles)",
+      "price": "$1,430.34",
+      "extracted_at": "2025-10-29T22:04:48.922Z"
+    },
+    {
+      "asin": "B0D2QYY7Z3",
+      "title": "Kugnala Mens Lightweight Waterproof Jacket Windproof Rain Hooded jackets for Men Hiking Cycling Travel M-5XL",
+      "price": "$1,238.94",
+      "extracted_at": "2025-10-29T22:04:48.922Z"
+    },
+    {
+      "asin": "B0BLVT2Y9N",
+      "title": "Blukar - Linterna LED recargable, 2000 L de alto lumen superbrillante regulable con sensor de movimiento, 8 modos, foco y reflector, IPX5 impermeable para camping, senderismo, correr, pesca, paquete",
+      "price": "$621.37",
+      "extracted_at": "2025-10-29T22:04:48.922Z"
+    },
+    {
+      "asin": "B0DT4JQKB2",
+      "title": "FB - Bolsa magnética para gimnasio",
+      "price": "$1,240.53",
+      "extracted_at": "2025-10-29T22:04:48.922Z"
+    },
+    {
+      "asin": "B0F18HRWBQ",
+      "title": "Chaleco salvavidas inflable automático, chaleco salvavidas para adultos, perfil bajo PFD, soporta hasta 350 libras (YSH701)",
+      "price": "$1,850.90",
+      "extracted_at": "2025-10-29T22:04:48.923Z"
+    },
+    {
+      "asin": "B0D3V4VGWR",
+      "title": "MAOYSSEN - chamarra de esquí impermeable para hombre, chamarra de nieve cálida, resistente al viento, con capucha",
+      "price": "$1,478.27",
+      "extracted_at": "2025-10-29T22:04:48.923Z"
+    },
+    {
+      "asin": "B0D7CV4L5T",
+      "title": "APEXUP - Pelota para yoga y pilates, antideslizante, resistente, para ejercicios de fitness, equilibrio y core",
+      "price": "$766.12",
+      "extracted_at": "2025-10-29T22:04:48.923Z"
+    },
+    {
+      "asin": "B0DYJKK83M",
+      "title": "NORTHYARD - Camisa con capucha para hombre, manga larga, protección contra erupciones, para pesca, con capucha, UPF 50, senderismo, SPF UV, ligera, con capucha",
+      "price": "$817.77",
+      "extracted_at": "2025-10-29T22:04:48.923Z"
+    },
+    {
+      "asin": "B0D2HBDRX7",
+      "title": "AIRHAS - Zapatos descalzos para hombre, sin gota, minimalistas, para gimnasio, para hombre, peso muerto, entrenamiento cruzado",
+      "price": "$1,353.42",
+      "extracted_at": "2025-10-29T22:04:48.923Z"
+    },
+    {
+      "asin": "B0DQKV4NHG",
+      "title": "RXRXCOCO - Conjuntos de entrenamiento sin costuras para mujer, 2 piezas, sujetadores deportivos con tirantes, pantalones cortos de yoga a juego",
+      "price": "$942.50",
+      "extracted_at": "2025-10-29T22:04:48.923Z"
+    },
+    {
+      "asin": "B071FVB86H",
+      "title": "Levels Nutrition Proteína De Suero De Leche En Polvo Alimentada Con Pasto Levels, Sin Ingredientes Artificiales, 24 G De Proteína, Chocolate Moca, 5 Lb 71 Porciones (Paquete De 1)",
+      "price": "$2,262.24",
+      "extracted_at": "2025-10-29T22:05:04.495Z"
+    },
+    {
+      "asin": "B0DYN6X32B",
+      "title": "ATTRACO Traje de baño de una pieza con bloques de color para mujer, traje de baño deportivo con espalda cruzada",
+      "price": "$1,026.38",
+      "extracted_at": "2025-10-29T22:05:04.496Z"
+    },
+    {
+      "asin": "B0DMFJW4ZJ",
+      "title": "SANYETS - Casco de airsoft, casco táctico negro con accesorios de airsoft, equipo táctico de airsoft",
+      "price": "$1,101.28",
+      "extracted_at": "2025-10-29T22:05:04.496Z"
+    },
+    {
+      "asin": "B0DLKZZSQT",
+      "title": "Niorasen - Calcetines de vestir para hombre, 6 pares de calcetines de rayón de bambú suaves y transpirables, calcetines clásicos de media pantorrilla para hombres con exquisita caja",
+      "price": "$635.49",
+      "extracted_at": "2025-10-29T22:05:04.496Z"
+    },
+    {
+      "asin": "B0DQQ3KTFP",
+      "title": "HQGZQL - Juego de tablas de Cornhole de madera maciza con 8 bolsas de frijoles, juegos portátiles para exteriores e interiores, juegos de lanzamiento de agujeros de maíz para niños, adultos y equipos",
+      "price": "$1,603.97",
+      "extracted_at": "2025-10-29T22:05:04.496Z"
+    },
+    {
+      "asin": "B0D8PW2SLZ",
+      "title": "NORTHYARD 2.0™ - playera deportiva para hombre",
+      "price": "$774.00",
+      "extracted_at": "2025-10-29T22:05:04.496Z"
+    },
+    {
+      "asin": "B0D8HNNFYF",
+      "title": "APEXUP - Pelota para yoga y pilates, antideslizante, resistente, para ejercicios de fitness, equilibrio y core",
+      "price": "$945.77",
+      "extracted_at": "2025-10-29T22:05:04.496Z"
+    },
+    {
+      "asin": "B0CFX53CL2",
+      "title": "MobileDetect - Kit de prueba de detección de residuos de múltiples fármacos - Detector rápido de residuos de superficie",
+      "price": "$574.77",
+      "extracted_at": "2025-10-29T22:05:04.496Z"
+    },
+    {
+      "asin": "B0DYDS8WXQ",
+      "title": "NORTHYARD - Pantalones cortos deportivos para correr para hombre, secado rápido, 7 pulgadas, 5 pulgadas, 9 pulgadas, ligeros, deportivos, gimnasio, baloncesto, senderismo",
+      "price": "$855.07",
+      "extracted_at": "2025-10-29T22:05:04.496Z"
+    },
+    {
+      "asin": "B0BSXK2144",
+      "title": "Aquatabs Tabletas de purificación de agua para beber – 100 tabletas + 2 tiras de prueba de cloro – Kit de iniciación purificador de agua – para tanques de barco y RV – por Aquamarine Water Solutions",
+      "price": "$1,038.89",
+      "extracted_at": "2025-10-29T22:05:04.496Z"
+    },
+    {
+      "asin": "B0DPZLJGTQ",
+      "title": "Doumlop - Traje de baño de una pieza para niñas, con falda de malla, con volantes, traje de baño para niñas, traje de baño de 9 a 16 años",
+      "price": "$632.25",
+      "extracted_at": "2025-10-29T22:05:04.497Z"
+    },
+    {
+      "asin": "B0D8HMSMJM",
+      "title": "Potente panel de hielo ArcticGlide para hockey",
+      "price": "$5,628.23",
+      "extracted_at": "2025-10-29T22:05:04.497Z"
+    },
+    {
+      "asin": "B0DS6WFXFZ",
+      "title": "KUANG QUAN MMA Guantes abiertos de palma y guantes de agarre, artes marciales para hombres y mujeres, deportes de combate, MMA, boxeo, Muay Thai, kickboxing",
+      "price": "$764.36",
+      "extracted_at": "2025-10-29T22:05:04.497Z"
+    },
+    {
+      "asin": "B0D66GMBNK",
+      "title": "Darong - Conjunto de 2 piezas para mujer, conjuntos de ropa de otoño de manga larga y pierna ancha, conjunto casual de descanso a juego",
+      "price": "$1,084.12",
+      "extracted_at": "2025-10-29T22:05:04.497Z"
+    },
+    {
+      "asin": "B0DT68LNGN",
+      "title": "2 soportes magnéticos para cigarros, práctico soporte para cigarros con imán y diseño ajustable, apto para golf, parrilla, pesca, viajes y aventuras al aire última intervensión (negro + azul)",
+      "price": "$608.82",
+      "extracted_at": "2025-10-29T22:05:04.497Z"
+    },
+    {
+      "asin": "B0D254LHFG",
+      "title": "Inno Women's Plus Size Rash Guard Shirt Short Sleeve UPF 50+ Swimwear Workout Top 0X-6X",
+      "price": "$994.84",
+      "extracted_at": "2025-10-29T22:05:04.497Z"
+    },
+    {
+      "asin": "B0CM7Y376N",
+      "title": "NC NATURAL CURES Parches De Recuperación Para Fiestas: Paquete De 42 Parches Para Fiestas Nocturnas: Despiértate Renovado Y Con Energía Con Un Parche Que No Daña La Piel; Adhesivo Fuerte Para Un Ajust",
+      "price": "$503.58",
+      "extracted_at": "2025-10-29T22:05:19.905Z"
+    },
+    {
+      "asin": "B0D8WLBW1P",
+      "title": "HovSiyla - Paquete de 5 camisetas de manga larga para mujer, para correr, protección contra rayos UV, casual, protección solar, entrenamiento, senderismo, camisetas para mujer",
+      "price": "$923.76",
+      "extracted_at": "2025-10-29T22:05:19.905Z"
+    },
+    {
+      "asin": "B0F5Q1J44R",
+      "title": "ITOWE - anteojos de natación para niños con correa de tela para niños de 3 a 15, a prueba de fugas, cubierta de nariz de 180° de visión clara",
+      "price": "$513.09",
+      "extracted_at": "2025-10-29T22:05:19.906Z"
+    },
+    {
+      "asin": "B0DH78V9KH",
+      "title": "Sir Henry NASSR Riyadh Al Away #7 2024/2025 - Conjunto de regalo para aficionados, tallas juveniles",
+      "price": "$1,095.25",
+      "extracted_at": "2025-10-29T22:05:19.906Z"
+    },
+    {
+      "asin": "B0DB1B2RM6",
+      "title": "Marucci Sports Swift",
+      "price": "$1,671.24",
+      "extracted_at": "2025-10-29T22:05:19.906Z"
+    },
+    {
+      "asin": "B0D9XVSRFG",
+      "title": "Closemate Calcetines Antideslizantes Futbol 3 Pares Medias Futbol Hombre Calcetines Deporte Altos Calcetines Largos Calcetines Antiampollas Transpirables Baloncesto",
+      "price": "$647.02",
+      "extracted_at": "2025-10-29T22:05:19.906Z"
+    },
+    {
+      "asin": "B0C727NTZ8",
+      "title": "CCDCC - Vitrina de aluminio con marco de jersey de 1 paquete, marco de jersey de metal ligero y duradero con estera, tablero, plexiglás inastillable y kit para colgar para fútbol, béisbol, baloncesto,",
+      "price": "$1,462.77",
+      "extracted_at": "2025-10-29T22:05:19.906Z"
+    },
+    {
+      "asin": "B0CX54J93X",
+      "title": "Barra de yoga para el hogar y el gimnasio, barra de ejercicio de bambú para una gama completa de movimiento, incluyendo estiramiento, ejercicio, terapia física y más, barra de postura perfecta, barra",
+      "price": "$841.28",
+      "extracted_at": "2025-10-29T22:05:19.906Z"
+    },
+    {
+      "asin": "B0DM6BCGQK",
+      "title": "Mens Swim Trunks Quick Dry Board Shorts with Mesh Lining, Breathable Fit Hawaii Beach Shorts Swimwear Bathing Suits",
+      "price": "$850.56",
+      "extracted_at": "2025-10-29T22:05:19.906Z"
+    },
+    {
+      "asin": "B0BRVG5R8Q",
+      "title": "GUIIYLGG Soporte de pared Katana para espadas, soporte acolchado de terciopelo para samurái, soporte para todas las espadas Tanto yin y yang de 1 nivel",
+      "price": "$577.66",
+      "extracted_at": "2025-10-29T22:05:19.906Z"
+    },
+    {
+      "asin": "B0CY1ZVHH2",
+      "title": "NORTHYARD - Camisetas atléticas para correr, de secado rápido, camisetas de entrenamiento de manga corta, camisetas deportivas de gimnasio de rendimiento",
+      "price": "$766.51",
+      "extracted_at": "2025-10-29T22:05:19.906Z"
+    },
+    {
+      "asin": "B0DFYJ2HXL",
+      "title": "Threlaco 25 Unidades De Intercambiadores De Calor Y Humedad Hme Para Traqueotomía, Paquete Individual, Humidificador Para Traqueotomía, Suministros Para Traqueotomía",
+      "price": "$1,094.66",
+      "extracted_at": "2025-10-29T22:05:19.907Z"
+    },
+    {
+      "asin": "B0DD4DRNVD",
+      "title": "EnigmaSoul - Soporte para barra de piscina, 7 soportes de pared con soporte para tacos y soporte para bolas, organizador de equipos de accesorios de mesa de billar para sala de juegos, cueva, color",
+      "price": "$1,147.00",
+      "extracted_at": "2025-10-29T22:05:19.907Z"
+    },
+    {
+      "asin": "B0DZNGMSLV",
+      "title": "NORTHYARD - playera de manga larga con capucha para hombre, protección solar, pesca, correr, natación, camisetas ligeras de secado rápido, UPF 50+ para exteriores",
+      "price": "$766.51",
+      "extracted_at": "2025-10-29T22:05:19.907Z"
+    },
+    {
+      "asin": "B0BVDSQTTD",
+      "title": "Pathline - Palo de Billar de Arce Canadiense de 13 mm de Punta de Arce Canadiense",
+      "price": "$1,491.65",
+      "extracted_at": "2025-10-29T22:05:19.907Z"
+    },
+    {
+      "asin": "B0D3BXSG4T",
+      "title": "XIEERDUO Conjunto de descanso para mujer 2025, conjunto de 2 piezas, sudadera de pierna ancha, pantalón deportivo a juego",
+      "price": "$1,585.74",
+      "extracted_at": "2025-10-29T22:05:19.907Z"
+    },
+    {
+      "asin": "B0DT3P5Q19",
+      "title": "LET'S WANDER World Explorer Adventure - Botella de agua con 50 pegatinas impermeables – Acero inoxidable aislado a prueba de fugas con pajita – Botella de regalo para objetivos de viaje (azul)",
+      "price": "$1,226.04",
+      "extracted_at": "2025-10-29T22:05:29.118Z"
+    },
+    {
+      "asin": "B0CMXJ2Q2X",
+      "title": "STFOCE - Parche adhesivo para embeber con aceite de ricino, de algodón orgánico autoadhesivo y antiderrames, no requiere lavado, portátil (no se incluye el aceite), 1 paquete de 20 unidades",
+      "price": "$492.09",
+      "extracted_at": "2025-10-29T22:05:29.118Z"
+    },
+    {
+      "asin": "B0C1NJ5W3G",
+      "title": "SAGA SPORTS Guantes de motocross juveniles - Protección profesional para motociclistas de cross y BMX | Equipo de alto rendimiento para niños y niñas",
+      "price": "$613.83",
+      "extracted_at": "2025-10-29T22:05:29.118Z"
+    },
+    {
+      "asin": "B0D3D2MDJS",
+      "title": "Juego de 300 fichas de póquer con denominaciones, juego de fichas de póquer numeradas para Texas Holdem, fichas de casino profesionales, arcilla de 11.5 gramos con funda de aluminio para Texas Hold'em",
+      "price": "$1,464.28",
+      "extracted_at": "2025-10-29T22:05:29.118Z"
+    },
+    {
+      "asin": "B0CQC7M8WR",
+      "title": "LeIsfIt - Zapatos de agua para mujeres y hombres, zapatos anchos para nadar en la playa, zapatos descalzos de secado rápido, calcetines de agua para piscina, buceo, barco, río, yoga, lago surf",
+      "price": "$541.95",
+      "extracted_at": "2025-10-29T22:05:29.119Z"
+    },
+    {
+      "asin": "B094NB8BW8",
+      "title": "RAW Black King size, conos prerolados, preroll",
+      "price": "$2,834.10",
+      "extracted_at": "2025-10-29T22:05:29.119Z"
+    },
+    {
+      "asin": "B0D5VF5QRB",
+      "title": "ProMix Nutrition- Promix Electrolito Limón Lima Simple Porción en Barra Paquetes 30ct",
+      "price": "$1,309.39",
+      "extracted_at": "2025-10-29T22:05:29.119Z"
+    },
+    {
+      "asin": "B0DCZCLMBT",
+      "title": "NORTHYARD - Camisa de correr para hombre, de manga larga, con cierre y cuarto de cierre, de secado rápido, atlética",
+      "price": "$878.53",
+      "extracted_at": "2025-10-29T22:05:29.119Z"
+    },
+    {
+      "asin": "B0BRD2MX15",
+      "title": "Cuadrados de arranque de fuego 64 - Arrancadores de fuego para chimenea, chimenea, parrilla de barbacoa, fuego de camping, estufa de leña, resistente al agua y seguro, sin olor, accesorios de camping",
+      "price": "$532.38",
+      "extracted_at": "2025-10-29T22:05:29.119Z"
+    },
+    {
+      "asin": "B0DHXTRVJM",
+      "title": "Tapete verde para golf para interiores y exteriores, con retorno automático de pelota, tapete de práctica de golf de 9.84 pies con 3 pelotas de golf, pelota de putter, regalos para el hogar, la",
+      "price": "$1,714.47",
+      "extracted_at": "2025-10-29T22:05:29.119Z"
+    },
+    {
+      "asin": "B0D14RVRFT",
+      "title": "Tfovorlein - Camisas de recuperación de cirugía de posthombro para hombre, manga corta, cierre completo, apertura lateral, diálisis, quimioterapia",
+      "price": "$765.41",
+      "extracted_at": "2025-10-29T22:05:29.119Z"
+    },
+    {
+      "asin": "B0CVXKVWWC",
+      "title": "Pure Vie Premium - Tabla de entrenamiento de fútbol de doble cara con borrado, bolígrafo y equipo de entrenamiento para entrenadores y planes de juego",
+      "price": "$679.25",
+      "extracted_at": "2025-10-29T22:05:29.119Z"
+    },
+    {
+      "asin": "B0DNLXZ4ZK",
+      "title": "Tdopsxyxw - 2 gorros de novia y novio 2025 para hombres y mujeres, divertidos y ajustables bordados, para parejas",
+      "price": "$721.94",
+      "extracted_at": "2025-10-29T22:05:29.119Z"
+    },
+    {
+      "asin": "B0BDJG7HTH",
+      "title": "BLITZU - Cinturón de hernia umbilical para hombres y mujeres, carpeta abdominal ajustable con 2 almohadillas de compresión para naval, ventral, incisional, epigástrica, hernias de ombligo,",
+      "price": "$934.96",
+      "extracted_at": "2025-10-29T22:05:29.119Z"
+    },
+    {
+      "asin": "B0DHXYVVRR",
+      "title": "XIEERDUO Conjunto de descanso para mujer 2025, conjunto de 2 piezas, sudadera de pierna ancha, pantalón deportivo a juego, Empalme negro, Small",
+      "price": "$1,364.76",
+      "extracted_at": "2025-10-29T22:05:29.120Z"
+    },
+    {
+      "asin": "B0DZNR7F6D",
+      "title": "Freela - anteojos de natación para adultos con cubierta para la nariz, vidrio templado, antivaho, impermeable, 180°, transparente, visión amplia para hombres y mujeres",
+      "price": "$678.49",
+      "extracted_at": "2025-10-29T22:05:29.120Z"
+    },
+    {
+      "asin": "B0F21PYD4Y",
+      "title": "NORTHYARD - Pantalones cortos tipo cargo para hombre, ligeros, 9 pulgadas, senderismo, golf, trabajo, secado rápido, camping, viajes al aire última intervensión, pesca, con 7 bolsillos",
+      "price": "$1,092.20",
+      "extracted_at": "2025-10-29T22:05:40.218Z"
+    },
+    {
+      "asin": "B0DJ5GC7DH",
+      "title": "Caña de pescar",
+      "price": "$1,314.57",
+      "extracted_at": "2025-10-29T22:05:40.218Z"
+    },
+    {
+      "asin": "B0C23XT6Q2",
+      "title": "ANTSANG Calcetines altos hasta la rodilla para niños y niñas, 6 pares de botas largas con patrón de animales, calcetines divertidos y de 3 a 12 años",
+      "price": "$669.90",
+      "extracted_at": "2025-10-29T22:05:40.219Z"
+    },
+    {
+      "asin": "B0DKZ32L6Q",
+      "title": "Slock Master Mini dardos de alta velocidad, calibre 625, dardos afilados con cuchillas de acero de alta calidad, el paquete contiene 20 dardos mortales precisos y afilados",
+      "price": "$849.67",
+      "extracted_at": "2025-10-29T22:05:40.219Z"
+    },
+    {
+      "asin": "B0CLHVMC4W",
+      "title": "Zapatilla de viaje para hombre, bolsa de viaje para zapatos con 3 compartimentos ajustables, bolsa de baloncesto, deportes al aire libre, gimnasio",
+      "price": "$1,210.92",
+      "extracted_at": "2025-10-29T22:05:40.219Z"
+    },
+    {
+      "asin": "B0DLW7D8TJ",
+      "title": "Codera para hombres y mujeres, codo para tendinitis, codo de tenis y codo de golfista, correa de codo ajustable (negro, M/L)",
+      "price": "$739.63",
+      "extracted_at": "2025-10-29T22:05:40.219Z"
+    },
+    {
+      "asin": "B0D6W62L3P",
+      "title": "EASY BW - Bolsa de viaje grande de 65 L, mochila táctica militar, Verde oliva, 55L",
+      "price": "$1,338.69",
+      "extracted_at": "2025-10-29T22:05:40.219Z"
+    },
+    {
+      "asin": "B0B5R3VQJ3",
+      "title": "heat it - Sanador electrónico de picaduras de insectos para el tratamiento inteligente de picaduras de insectos con calor | Trata la picazón y el dolor de abejas, avispas, picaduras de moscas de caballo y picaduras de mosquitos (Apple iPhones)",
+      "price": "$1,200.37",
+      "extracted_at": "2025-10-29T22:05:40.219Z"
+    },
+    {
+      "asin": "B0D89TLD75",
+      "title": "AIRDYNAM - playera de béisbol para hombre, manga 3/4, cuello redondo, casual, suave, clásico, entrenamiento, atlética, clásica, ajustada",
+      "price": "$619.36",
+      "extracted_at": "2025-10-29T22:05:40.219Z"
+    },
+    {
+      "asin": "B0DK9JTYPJ",
+      "title": "Godfrey - Almohadilla de asiento de remo, antideslizante y cómoda, para barco y máquina de remo, clip opcional para barco, perfecto para Concept2, Peloton, Hydrow y Remeros de agua",
+      "price": "$1,140.90",
+      "extracted_at": "2025-10-29T22:05:40.219Z"
+    },
+    {
+      "asin": "B0CTS46LN6",
+      "title": "ORGBRAIN Barcelona Home Leo #10 clásico 2009/2010 Retro Edición Limitada Fútbol Niños Jersey Shorts Conjunto de Calcetines Juveniles Tallas Multicolor Niños Masculino Conjunto de Ropa Infantil",
+      "price": "$1,134.34",
+      "extracted_at": "2025-10-29T22:05:40.219Z"
+    },
+    {
+      "asin": "B00LFMUHI2",
+      "title": "Paquete doble de cera de tejo Sun-Glo #5 Speed",
+      "price": "$717.57",
+      "extracted_at": "2025-10-29T22:05:40.219Z"
+    },
+    {
+      "asin": "B0F4MD7P2L",
+      "title": "ATTRACO - Vestidos de tenis para mujer con bolsillos cortos y brasier con cuello en V y espalda cruzada",
+      "price": "$1,232.83",
+      "extracted_at": "2025-10-29T22:05:40.220Z"
+    },
+    {
+      "asin": "B0BN2XST2P",
+      "title": "Matericuo Cobertura Completa Ajuste Personalizado para 2 y 2+2 Club Cart Modelos Precedent 2004-2022/Villager & V4L (2019-2022 Golf Cart Floor Liner Mat Red",
+      "price": "$1,742.69",
+      "extracted_at": "2025-10-29T22:05:40.220Z"
+    },
+    {
+      "asin": "B0CXSNK5C7",
+      "title": "NORTHYARD - playera sin mangas para hombre, atlética, para correr, gimnasio, sin mangas, de secado rápido, ligera, para entrenamiento deportivo",
+      "price": "$771.17",
+      "extracted_at": "2025-10-29T22:05:40.220Z"
+    },
+    {
+      "asin": "B0DDPKDS6V",
+      "title": "Manta de playa turca de gran tamaño, tamaño XXL, de algodón, a prueba de arena, tejido bohemio, extra grande, sin arena, manta gigante, manta gruesa, colcha grande, XL, picnic, camping, necesidades de",
+      "price": "$1,062.29",
+      "extracted_at": "2025-10-29T22:05:40.220Z"
+    },
+    {
+      "asin": "B0C8ZPQ8JT",
+      "title": "Andean Trails, pantalones MTB, pantalones de bicicleta de montaña, pantalones de enduro, pantalones de descenso, repelente al agua",
+      "price": "$1,588.98",
+      "extracted_at": "2025-10-29T22:05:53.254Z"
+    },
+    {
+      "asin": "B0CLD1CZXP",
+      "title": "ATTRACO - Traje de baño atlético de una pieza para mujer, traje de baño con espalda cruzada",
+      "price": "$1,165.55",
+      "extracted_at": "2025-10-29T22:05:53.255Z"
+    },
+    {
+      "asin": "B0CX8SVF2W",
+      "title": "50/75-6.1 Ruedas de repuesto para neumáticos y tubos de vástago de curvatura",
+      "price": "$773.48",
+      "extracted_at": "2025-10-29T22:05:53.255Z"
+    },
+    {
+      "asin": "B09VGHF81R",
+      "title": "HYOUT Traje de camuflaje con capucha Ghillie con diseño de bosque y bosque, francotirador militar 3D, ropa de hojas verdes para caza de selva, tiro, airsoft, fiesta de vida silvestre",
+      "price": "$1,745.06",
+      "extracted_at": "2025-10-29T22:05:53.255Z"
+    },
+    {
+      "asin": "B0D3HG27P2",
+      "title": "Bellcoco - Camisas tipo polo para mujer, manga 3/4 de largo, cuello en V, para verano, negocios, trabajo, casual, para el trabajo, 2025",
+      "price": "$703.08",
+      "extracted_at": "2025-10-29T22:05:53.255Z"
+    },
+    {
+      "asin": "B0D929DTL5",
+      "title": "LITIAN - Raqueta de tenis rosa para niños de 2 a 10 años, ligera y duradera, 17 pulgadas, 19 pulgadas, 21 pulgadas, 23 pulgadas, 25 pulgadas, raquetas de tenis para niños pequeños y jóvenes",
+      "price": "$909.69",
+      "extracted_at": "2025-10-29T22:05:53.255Z"
+    },
+    {
+      "asin": "B07RCZ862F",
+      "title": "Mojo Compression Socks - USA Made Knee-High Closed Toe Support Hose for Varicose Veins, DVT, Lymphedema - 20-30mmHg, Opaque, Unisex",
+      "price": "$734.96",
+      "extracted_at": "2025-10-29T22:05:53.255Z"
+    },
+    {
+      "asin": "B0B46BTJF1",
+      "title": "Adoreal - Juego de 2 estantes para armas para almacenamiento, accesorio seguro para rifles y escopetas, soporte en gabinete, reposo de rifle, material de espuma con tira magnética",
+      "price": "$814.43",
+      "extracted_at": "2025-10-29T22:05:53.255Z"
+    },
+    {
+      "asin": "B0C5RF23G9",
+      "title": "ArcRidge Reflective Safety Vest for Men and Women - Class 2 High Visibility Construction Vest - Dual Tone Reflective Strips",
+      "price": "$763.64",
+      "extracted_at": "2025-10-29T22:05:53.255Z"
+    },
+    {
+      "asin": "B0CRG5LR4L",
+      "title": "Arizona Ice - Bolsas de hielo industriales grandes | Sustituye a 10 libras de hielo | -16 °F (-8 °C) | Ranuras más profundas | Puede congelar bebidas | USA Company | 12 x 9 pulgadas | Paquete de dos",
+      "price": "$992.43",
+      "extracted_at": "2025-10-29T22:05:53.255Z"
+    },
+    {
+      "asin": "B0CRDW649W",
+      "title": "Dovio UPF 50+ - Mallas de natación para niños y niñas, protección solar",
+      "price": "$876.53",
+      "extracted_at": "2025-10-29T22:05:53.256Z"
+    },
+    {
+      "asin": "B0CTNXCB9K",
+      "title": "MODL Infinity Tool 2.0 Correas modulares (Paquete de 4) – Multiherramienta Flexible, Correa de Engranaje, Dispositivo portátil para Aventuras al Aire última intervensión, Supervivencia, Camping",
+      "price": "$1,103.42",
+      "extracted_at": "2025-10-29T22:05:53.256Z"
+    },
+    {
+      "asin": "B0DGM1FRB8",
+      "title": "Sezzit - Paquete de 2 camisetas térmicas Henley para niño, acogedoras, transpirables, de manga larga para la escuela y el juego, tallas 4-18",
+      "price": "$657.28",
+      "extracted_at": "2025-10-29T22:05:53.256Z"
+    },
+    {
+      "asin": "B08XK1L3QW",
+      "title": "Chaleco de natación de neopreno para niños con correa de seguridad ajustable para niños de 1 a 3 y 3 a 6 años",
+      "price": "$1,065.78",
+      "extracted_at": "2025-10-29T22:05:53.256Z"
+    },
+    {
+      "asin": "B09V6G7GNG",
+      "title": "Swiftwick - Calcetines FLITE XT FIVE para correr y golf, fitness, máxima estabilidad, calcetines antideslizantes",
+      "price": "$881.53",
+      "extracted_at": "2025-10-29T22:05:53.256Z"
+    },
+    {
+      "asin": "B0BQB52BXL",
+      "title": "Rhino Wax - Kit completo de mantenimiento de guantes de béisbol - Incluye: limpiador de guantes de béisbol (8 onzas), aceite de guante de béisbol (8 onzas), acondicionador de guantes (4 onzas), 2 cepillos de pelo de caballo y toalla de microfibra",
+      "price": "$1,228.82",
+      "extracted_at": "2025-10-29T22:05:53.256Z"
+    },
+    {
+      "asin": "B0CSDDWPQB",
+      "title": "Mulisky - Traje de baño sexy de una pieza para mujer con control de abdomen y cintura alta",
+      "price": "$1,085.51",
+      "extracted_at": "2025-10-29T22:06:04.806Z"
+    },
+    {
+      "asin": "B0DXP6J98F",
+      "title": "Maxcatch - Anillos de pesca con mosca, 2.0 mm, 100 unidades, para conector de línea Leader y Tippet",
+      "price": "$518.01",
+      "extracted_at": "2025-10-29T22:06:04.807Z"
+    },
+    {
+      "asin": "B0BKM35CYP",
+      "title": "Pantalones convertibles de senderismo para hombre, impermeables, ligeros, de secado rápido, con cierre, para pesca, al aire última intervensión, trabajo, trekking",
+      "price": "$994.84",
+      "extracted_at": "2025-10-29T22:06:04.807Z"
+    },
+    {
+      "asin": "B0CXLRPTH6",
+      "title": "ENLUNTRA- “Cinturones de Hernia para Hombre，Cinturón de Soporte para Hernia Inguinal Ajustable para Hombres y Mujeres con 4 P de Compresión",
+      "price": "$886.57",
+      "extracted_at": "2025-10-29T22:06:04.807Z"
+    },
+    {
+      "asin": "B0CNVRR6JH",
+      "title": "Regalos de cumpleaños 50 para hombres y mujeres, sombreros clásico de 1974, gorra de béisbol de 1974, para mujeres de 50 años, regalos de cumpleaños para hombres",
+      "price": "$650.15",
+      "extracted_at": "2025-10-29T22:06:04.808Z"
+    },
+    {
+      "asin": "B0CMYX53KM",
+      "title": "bindrz - Carpeta de carga superior de 9 bolsillos, capacidad para 252 cargadores superiores, álbum de cierre sin anillo, bolsillos laterales para CCG TCG MTG y tarjetas deportivas en soportes de",
+      "price": "$1,101.57",
+      "extracted_at": "2025-10-29T22:06:04.808Z"
+    },
+    {
+      "asin": "B0DNJRRFC1",
+      "title": "ATTRACO Traje de baño de una pieza para mujer, traje de baño atlético con bloques de color y cierre",
+      "price": "$1,081.26",
+      "extracted_at": "2025-10-29T22:06:04.808Z"
+    },
+    {
+      "asin": "B001H8FJIW",
+      "title": "All Weather Whistles Silbato de Seguridad, Silbato para Todo Tipo de Clima, Silbato de Supervivencia de tormenta, fácil de sostener y Extremadamente Fuerte.",
+      "price": "$497.75",
+      "extracted_at": "2025-10-29T22:06:04.808Z"
+    },
+    {
+      "asin": "B07CPZP7PY",
+      "title": "SILKWORLD Men's Swim Trunks Quick Dry Beach Shorts with Pockets",
+      "price": "$737.35",
+      "extracted_at": "2025-10-29T22:06:04.808Z"
+    },
+    {
+      "asin": "B0C9QQ742H",
+      "title": "Kanayu Set de Boxeo de 14 Piezas Que Incluye Casco de Boxeo Guantes para Saco de Boxeo Vendas para Manos de Boxeo Protectores Bucales Deportivos para Adultos Principiantes (Negro, Azul)",
+      "price": "$1,493.22",
+      "extracted_at": "2025-10-29T22:06:04.808Z"
+    },
+    {
+      "asin": "B0DXZF3R1V",
+      "title": "BECOJADDE - Mochila de senderismo pequeña de 15 L/20 L para hombres y mujeres, mochila plegable de luz para senderismo para viajes y camping",
+      "price": "$1,002.18",
+      "extracted_at": "2025-10-29T22:06:04.808Z"
+    },
+    {
+      "asin": "B07HHBNKRD",
+      "title": "AirBlades – Pala de ping pong profesional para principiantes/intermedios/avanzados, pala de tenis con diseño ergonómico de mango inclinado, incluye funda para pong, blanco, rojo, negro",
+      "price": "$1,440.57",
+      "extracted_at": "2025-10-29T22:06:04.809Z"
+    },
+    {
+      "asin": "B0C99LXK4P",
+      "title": "ABIRAM - Calcetines de yoga antideslizantes sin dedos, para pilates, barra, ballet, motociclismo, entrenamiento para mujer",
+      "price": "$715.59",
+      "extracted_at": "2025-10-29T22:06:04.809Z"
+    },
+    {
+      "asin": "B0D1QGNBD6",
+      "title": "Bomba eléctrica pequeña para bicicleta de 130 PSI, portátil, con manómetro, apagado automático, batería recargable, para bicicletas de montaña, carretera y ciudad, con válvulas Presta y Schrader",
+      "price": "$1,038.89",
+      "extracted_at": "2025-10-29T22:06:04.809Z"
+    },
+    {
+      "asin": "B0DN9M3NRG",
+      "title": "Jinhiteam - Maillot de gimnasia para niñas, talla 2-9 años, multicolor, sin mangas, para niños pequeños",
+      "price": "$734.96",
+      "extracted_at": "2025-10-29T22:06:04.809Z"
+    },
+    {
+      "asin": "B0DS8JJSHQ",
+      "title": "BOXOB 10 Pares de Clips Magnéticos para Dorsales de Carrera, Hebillas para Número de Carrera de Maratón Clips de Fijación para Dorsales de Carrera para Corredores Triatlón Ciclismo Competición",
+      "price": "$630.21",
+      "extracted_at": "2025-10-29T22:06:04.809Z"
+    },
+    {
+      "asin": "B0DCBMTBG1",
+      "title": "AHA SELECTED - Pantalones deportivos para hombre que se mantienen frescos, de canalé alto, pantalones deportivos para fitness y correr",
+      "price": "$1,192.92",
+      "extracted_at": "2025-10-29T22:06:20.037Z"
+    },
+    {
+      "asin": "B0C61M9M7L",
+      "title": "Funda para bolsa de pelota de golf, bolsa organizadora de golf para accesorios de golf, marcador de pelota de tee, llave de teléfono celular, caja protectora de objetos de valor de golf, estuche duro",
+      "price": "$761.18",
+      "extracted_at": "2025-10-29T22:06:20.038Z"
+    },
+    {
+      "asin": "B0CFR49KBM",
+      "title": "Oxford - Zapatos deportivos para caminar ligeros y casuales con cordones para hombre",
+      "price": "$1,023.27",
+      "extracted_at": "2025-10-29T22:06:20.038Z"
+    },
+    {
+      "asin": "B0CVXMJLC2",
+      "title": "DAGM - Cinturón de empuje de cadera para mancuernas, entrenador de glúteos pesado y seguro con acolchado adicional antideslizante, úsalo con pesas rusas, mancuernas y discos, soporta hasta 500 libras",
+      "price": "$703.90",
+      "extracted_at": "2025-10-29T22:06:20.038Z"
+    },
+    {
+      "asin": "B0DGT2NPQT",
+      "title": "Wakefeet - Calcetines de compresión para mujeres y hombres, 3 pares, medias de compresión, calcetines de vuelo de fragancia para viajar sentado",
+      "price": "$925.61",
+      "extracted_at": "2025-10-29T22:06:20.038Z"
+    },
+    {
+      "asin": "B0C8CPFMTX",
+      "title": "gagaiuco- “Cinturón de Hernia Umbilical para Hombre y Mujer Soporte Hernia para Hombres con 2 Almohadilla de Compresión (inguinal,",
+      "price": "$804.76",
+      "extracted_at": "2025-10-29T22:06:20.038Z"
+    },
+    {
+      "asin": "B0CM368JFL",
+      "title": "JOYSTREAM - Maillot de gimnasia para niñas con pantalones cortos, cierre de ballet brillante, cierre de baile en la espalda",
+      "price": "$1,010.32",
+      "extracted_at": "2025-10-29T22:06:20.038Z"
+    },
+    {
+      "asin": "B07R61Z2PG",
+      "title": "Core Balance - Pelota de Ejercicio para Entrenamientos, antiestallidos y Antideslizante, Pelota de Yoga Suiza para Embarazo, Estabilidad, Fitness y Terapia física, 4 tamaños, con Bomba",
+      "price": "$807.65",
+      "extracted_at": "2025-10-29T22:06:20.038Z"
+    },
+    {
+      "asin": "B09CPMRV1B",
+      "title": "OTU chamarra impermeable ligera con capucha para hombre, para exteriores, senderismo, viajes",
+      "price": "$1,117.17",
+      "extracted_at": "2025-10-29T22:06:20.038Z"
+    },
+    {
+      "asin": "B0F4XG3WRF",
+      "title": "Kabinka Commander - Caja de cubierta para MTG con emblema de metal, caja de tarjeta con bandeja de dados, capacidad para 100 tarjetas de doble manga para PTCG, estuche de almacenamiento de tarjetas",
+      "price": "$1,002.09",
+      "extracted_at": "2025-10-29T22:06:20.038Z"
+    },
+    {
+      "asin": "B0CSWJ6WGN",
+      "title": "HovSiyla - Paquete de 1/5 camisetas deportivas para correr, para hombre, ajuste seco, para gimnasio, transpirables, para entrenamiento",
+      "price": "$927.02",
+      "extracted_at": "2025-10-29T22:06:20.039Z"
+    },
+    {
+      "asin": "B0C2CXFTGQ",
+      "title": "Belloxis - Calcetines de fútbol para niños de 8 a 12 años, calcetines de fútbol, regalos de baloncesto, regalos de béisbol para niños de 8 a 12 años, Baloncesto multicolor, 8-12 Años",
+      "price": "$573.12",
+      "extracted_at": "2025-10-29T22:06:20.039Z"
+    },
+    {
+      "asin": "B0D941FXMY",
+      "title": "DEFUNX - Funda para botella de agua de 64 onzas, soporte para jarra de agua con correa para botella de cuerpo cruzado con sistema MOLLE bolsa táctica de estilo militar",
+      "price": "$779.82",
+      "extracted_at": "2025-10-29T22:06:20.039Z"
+    },
+    {
+      "asin": "B0D3PW2FXL",
+      "title": "BAGPARKK - Mochila de viaje ligera y plegable de 35 litros",
+      "price": "$678.49",
+      "extracted_at": "2025-10-29T22:06:20.039Z"
+    },
+    {
+      "asin": "B0C5YL8JYJ",
+      "title": "Fitgriff® Correas de tracción (Acolchadas) para Entrenamiento de Fuerza, Culturismo, Fitness, Correas de Peso Muerto, para Mujeres y Hombres",
+      "price": "$566.51",
+      "extracted_at": "2025-10-29T22:06:20.039Z"
+    },
+    {
+      "asin": "B0DNNQ1BHG",
+      "title": "Vantage Apparel - Polo Universitario de Malla de poliéster para Hombre",
+      "price": "$1,336.53",
+      "extracted_at": "2025-10-29T22:06:20.039Z"
+    },
+    {
+      "asin": "B002GOVIZO",
+      "title": "Brampton Epoxy PRO-FIX 5&15 Quick Cure - Golf Club Repair",
+      "price": "$744.38",
+      "extracted_at": "2025-10-29T22:06:32.926Z"
+    },
+    {
+      "asin": "B0B4K4MZMH",
+      "title": "BRONAX - Tenis para Correr de Carretera con Puntera Ancha para Mujer, Tenis Deportivos Anchos con Suela de Goma",
+      "price": "$1,521.54",
+      "extracted_at": "2025-10-29T22:06:32.926Z"
+    },
+    {
+      "asin": "B0DPQ3XR9J",
+      "title": "Underwood Aggregator - Bastones de senderismo plegables – Paquete de 2 palos de senderismo ajustables de aluminio, bastones ligeros para mujeres, hombres, personas mayores, niños, bastones de",
+      "price": "$957.03",
+      "extracted_at": "2025-10-29T22:06:32.927Z"
+    },
+    {
+      "asin": "B0CNDBN7PJ",
+      "title": "CALOMED Scrub Cap for Women and Men, Euro Style Scrub Caps, Working Hat, Head Cover with Buttons, Long or Short Hair",
+      "price": "$721.94",
+      "extracted_at": "2025-10-29T22:06:32.927Z"
+    },
+    {
+      "asin": "B0DGHPW3LL",
+      "title": "Natruveda- ¿Por qué el bálsamo para la vulva de Natruveda es duro y no cremoso? R: El bálsamo para la vulva de Natruveda está elaborado con ingredientes 100% naturales, como aceite de coco virgen y c",
+      "price": "$692.08",
+      "extracted_at": "2025-10-29T22:06:32.927Z"
+    },
+    {
+      "asin": "B0F84D1JY4",
+      "title": "Hulongo 40L/60L/90L - Mochila grande impermeable para hombre, mochila de lona para viajes, resistente",
+      "price": "$1,830.73",
+      "extracted_at": "2025-10-29T22:06:32.927Z"
+    },
+    {
+      "asin": "B0CZ8H464W",
+      "title": "Nitial - Paquete de 12 botellas de agua de fútbol a granel, reutilizables de 20 onzas, botellas de agua para apretar, botellas de plástico para deportes con tapa superior, vasos de regalo para viajes",
+      "price": "$1,214.87",
+      "extracted_at": "2025-10-29T22:06:32.927Z"
+    },
+    {
+      "asin": "B0C6TBQSZS",
+      "title": "Just Girl Who Loves Horse Hat Gorra de béisbol para mujer, ajustable, de algodón",
+      "price": "$614.70",
+      "extracted_at": "2025-10-29T22:06:32.927Z"
+    },
+    {
+      "asin": "B0D5JV6X65",
+      "title": "VELOMIX - Paquete de 4 tazas cocteleras de 28 onzas para batidos de proteínas, 4 batidores de alambre, botellas cocteleras de proteínas a prueba de fugas para mezclas de proteínas, paquete de botellas",
+      "price": "$712.06",
+      "extracted_at": "2025-10-29T22:06:32.927Z"
+    },
+    {
+      "asin": "B0CCNNMCVK",
+      "title": "NORTHYARD - Camisetas de manga corta con protección solar UV UPF 50+ para hombre, de secado rápido, SPF, para senderismo, pesca, natación, protección contra erupciones",
+      "price": "$801.69",
+      "extracted_at": "2025-10-29T22:06:32.928Z"
+    },
+    {
+      "asin": "B0CJ91FFSL",
+      "title": "KJK - Cámara de rastro WiFi 4K 48MP con tarjeta SD de 64 GB, cámara de juego con visión nocturna, activada por movimiento de 0.05 s, IP67, impermeable, 100 pies, 130 °, gran angular, 42 luces LED",
+      "price": "$1,441.46",
+      "extracted_at": "2025-10-29T22:06:32.928Z"
+    },
+    {
+      "asin": "B092S9BP7K",
+      "title": "Andonone - Zapatos de baile latino para mujer",
+      "price": "$1,151.74",
+      "extracted_at": "2025-10-29T22:06:32.928Z"
+    },
+    {
+      "asin": "B0B64HYDVR",
+      "title": "Levels Nutrition- “Niveles de Proteína de Suero Alimentada con Hierba en Polvo, Sin Artificiales, 24G de Proteína, Doble Chocolate, 1LB",
+      "price": "$880.38",
+      "extracted_at": "2025-10-29T22:06:32.928Z"
+    },
+    {
+      "asin": "B0DSCTYCP3",
+      "title": "ATTRACO Traje de baño deportivo de una pieza para mujer, traje de baño competitivo",
+      "price": "$1,019.58",
+      "extracted_at": "2025-10-29T22:06:32.928Z"
+    },
+    {
+      "asin": "B0B7R5N3CQ",
+      "title": "BLUSLM LAT - Barra desplegable para máquina de cables, accesorios de tracción LAT con barra en T, barra en V, mango de entrenamiento de fuerza",
+      "price": "$1,033.74",
+      "extracted_at": "2025-10-29T22:06:32.928Z"
+    },
+    {
+      "asin": "B0CDC2Z7DQ",
+      "title": "RUIDENG - Tenis de Plataforma para Mujer, cojín de Aire, Zapatos de Caminar para Mujer, cómodos Todo el día, Parte Inferior Gruesa",
+      "price": "$1,277.81",
+      "extracted_at": "2025-10-29T22:06:32.929Z"
+    },
+    {
+      "asin": "B0D8Y5F2V6",
+      "title": "Topcrown - Funda de bicicleta impermeable para almacenamiento al aire última intervensión para bicicletas de 1/2/3, funda de bicicleta, para lluvia, sol, UV, polvo, viento, con bolsa de almacenamiento",
+      "price": "$694.31",
+      "extracted_at": "2025-10-29T22:06:40.491Z"
+    },
+    {
+      "asin": "B07G7HQQKZ",
+      "title": "Stivali Father Son Matching Swim Trunks - Flamingo Modern Swimming Trunk Set with Elastic Waistband - Daddy Son Bathing Suits",
+      "price": "$1,093.54",
+      "extracted_at": "2025-10-29T22:06:40.492Z"
+    },
+    {
+      "asin": "B09SBHLB12",
+      "title": "Guantes de ciclismo, guantes de bicicleta, guantes de bicicleta para hombres y mujeres con acolchado XRD de 3 mm, guantes clásicos para bicicleta de montaña, guantes de equitación en carretera MTB con visualización táctil",
+      "price": "$690.59",
+      "extracted_at": "2025-10-29T22:06:40.492Z"
+    },
+    {
+      "asin": "B0DZNT8L7D",
+      "title": "anteojos de natación polarizadas, antirayos UV y niebla para adultos, unisex, sin fugas, para hombres, mujeres y jóvenes",
+      "price": "$542.50",
+      "extracted_at": "2025-10-29T22:06:40.492Z"
+    },
+    {
+      "asin": "B0D266SMGD",
+      "title": "HovSiyla 1/5 unidades de camisetas de entrenamiento para hombres, atléticas, correr, gimnasio, secado rápido, manga corta, rendimiento que absorbe la humedad",
+      "price": "$889.26",
+      "extracted_at": "2025-10-29T22:06:40.492Z"
+    },
+    {
+      "asin": "B0BZGXLXBJ",
+      "title": "Handadsume FB811-29 - Riñonera de lona resistente al agua + piel para senderismo, viaje, viaje, riñonera pequeña para hombres y mujeres, 100% piel-café, Mediano, Estilo retro clásico sin calle",
+      "price": "$1,075.03",
+      "extracted_at": "2025-10-29T22:06:40.492Z"
+    },
+    {
+      "asin": "B0CLDZ5KJD",
+      "title": "Tapete de yoga extra grueso de 9 mm, tapete de ejercicio de alta densidad, antideslizante para entrenamiento en casa, tapete de pilates con correa para mujeres y hombres, tapete ecológico grueso (9",
+      "price": "$1,160.24",
+      "extracted_at": "2025-10-29T22:06:40.492Z"
+    },
+    {
+      "asin": "B0CRHBJ6XG",
+      "title": "JOYSTREAM - Maillot de gimnasia para niñas con pantalones cortos brillantes de ballet",
+      "price": "$971.95",
+      "extracted_at": "2025-10-29T22:06:40.492Z"
+    },
+    {
+      "asin": "B0DZBKPWG8",
+      "title": "EGOSKY - Cuerda de saltar para niños, de 7 pies, ajustable, de algodón, con mango de madera, para niños, niñas, fitness, actividades al aire última intervensión",
+      "price": "$465.38",
+      "extracted_at": "2025-10-29T22:06:40.492Z"
+    },
+    {
+      "asin": "B07QK9R13S",
+      "title": "anteojos de ciclismo con lentes intercambiables, anteojos de sol polarizadas para hombre y mujer, anteojos de sol deportivas para correr de béisbol",
+      "price": "$865.31",
+      "extracted_at": "2025-10-29T22:06:40.492Z"
+    },
+    {
+      "asin": "B0CWL3TXZV",
+      "title": "DRQ - Chaleco de natación para niños pequeños, flotadores para niños de 22 a 65 libras, chaleco salvavidas para niños con correa de entrepierna y arnés de hombro, alas de brazo para niñas y niños de",
+      "price": "$870.50",
+      "extracted_at": "2025-10-29T22:06:40.492Z"
+    },
+    {
+      "asin": "B0DD6M1YG3",
+      "title": "playera de manga corta con diseño de hada de castillo para mujer, estilo casual, día festivo, día festivo, día festivo, manga corta",
+      "price": "$765.07",
+      "extracted_at": "2025-10-29T22:06:40.493Z"
+    },
+    {
+      "asin": "B07RQGRKGW",
+      "title": "CALI SPORTS Push Up Bars Calisthenics Equipment, Solid Wood Push Up Handles for Floor Use, Perfect Pushup Bar and Handstand Parallettes Bars for Men and Women, Includes Wrist Wraps",
+      "price": "$1,474.81",
+      "extracted_at": "2025-10-29T22:06:40.493Z"
+    },
+    {
+      "asin": "B07QK7R32H",
+      "title": "Pantalones cargo para niños, estilo informal, para exteriores, secado rápido, impermeables, para senderismo, escalada, convertibles",
+      "price": "$1,161.36",
+      "extracted_at": "2025-10-29T22:06:40.493Z"
+    },
+    {
+      "asin": "B09MDTLZZQ",
+      "title": "Gorilla Force - Cartuchos de CO2 roscados | para infladores de neumáticos de bicicleta",
+      "price": "$1,798.33",
+      "extracted_at": "2025-10-29T22:06:40.493Z"
+    },
+    {
+      "asin": "B07QV78XZH",
+      "title": "CLOZOZ Women's Halter V Neck Sleeveless Backless Basic Crop Top",
+      "price": "$625.30",
+      "extracted_at": "2025-10-29T22:06:40.493Z"
+    },
+    {
+      "asin": "B0CQ4W7ZK9",
+      "title": "Kinghardcase - Funda impermeable para munición 5.56/223 – Caja de almacenamiento redonda con cierre de bala de 200 unidades, caja de almacenamiento Mil-Spec para 5.56 y 223 munición/bala",
+      "price": "$1,196.58",
+      "extracted_at": "2025-10-29T22:06:50.443Z"
+    },
+    {
+      "asin": "B06VV45YN5",
+      "title": "TICK BAN by Yaya Organics - Extra Strength Tick Repellent, DEET-Free, All-Natural, Proven Effective and Safe for Adults and Kids (16 ounce Spray)",
+      "price": "$749.82",
+      "extracted_at": "2025-10-29T22:06:50.443Z"
+    },
+    {
+      "asin": "B0BRWNC44R",
+      "title": "NIeyook - Traje de baño Tankini para Mujer, Talla Grande, 2024, Dos Piezas, Control de Abdomen, Vestido de natación con Pantalones Cortos",
+      "price": "$1,232.54",
+      "extracted_at": "2025-10-29T22:06:50.443Z"
+    },
+    {
+      "asin": "B01N54YTDA",
+      "title": "Hockey Revolution Dryland Bodenfliesen – Glatte ineinandergreifende Trainingsfläche Zum Aufkleben, Schießen, Vorbeigehen – geeignet für den Innen- und Außenbereich",
+      "price": "$2,332.75",
+      "extracted_at": "2025-10-29T22:06:50.443Z"
+    },
+    {
+      "asin": "B0CVXH2BQN",
+      "title": "Paquete de bolsa de lona plegable de 45 l, resistente al agua, bolsa de gimnasio deportiva portátil, ligera para viajes, fitness y camping, Azul marino, Bolsa de lona plegable de 45 l",
+      "price": "$958.89",
+      "extracted_at": "2025-10-29T22:06:50.443Z"
+    },
+    {
+      "asin": "B07ZH7R17H",
+      "title": "Rymora Calf Mangas de compresión para hombres y mujeres (para deportes, correr, espinilleras)",
+      "price": "$633.99",
+      "extracted_at": "2025-10-29T22:06:50.443Z"
+    },
+    {
+      "asin": "B0B4JXNK2F",
+      "title": "BRONAX Tenis anchos acolchados para correr de carretera para mujer, tenis deportivos con puntera ancha, suela de goma, Vino, 8 Wide",
+      "price": "$1,549.80",
+      "extracted_at": "2025-10-29T22:06:50.444Z"
+    },
+    {
+      "asin": "B00915AS70",
+      "title": "15.2cm Rigged Cedar Plugs - 6 Pcs w/Lure Bag",
+      "price": "$1,487.03",
+      "extracted_at": "2025-10-29T22:06:50.444Z"
+    },
+    {
+      "asin": "B07R5ZWTMJ",
+      "title": "Core Balance - Bola de Embarazo con Bomba de Aire, Ideal para Yoga prenatal, Pilates, y Ejercicios de Maternidad, se dobla como Silla de Oficina, Entrenamiento de Estabilidad y Equilibrio, Equipo de",
+      "price": "$784.53",
+      "extracted_at": "2025-10-29T22:06:50.444Z"
+    },
+    {
+      "asin": "B09P1LC672",
+      "title": "Belltop - Cinturón de hernia umbilical para mujeres y hombres - Soporte de hernia para hombres con almohadilla de compresión (inguinal, ventral, ombligo) - Carpeta abdominal para hernia postcirugía y",
+      "price": "$789.10",
+      "extracted_at": "2025-10-29T22:06:50.444Z"
+    },
+    {
+      "asin": "B082BGW7VF",
+      "title": "EarthKind Stay Away - Repelente de insectos de mosquitos a base de plantas, sin perfume con picaridina, protección de hasta 14 horas, seguro para niños cuando se utiliza según las indicaciones, 4",
+      "price": "$640.74",
+      "extracted_at": "2025-10-29T22:06:50.444Z"
+    },
+    {
+      "asin": "B09PNS3G7H",
+      "title": "FDLS Soporte de dardos montado en la pared que muestra 15 dardos de punta de acero o punta blanda, organizador de dardos para pared con gancho de metal, viene con marcador de línea de lanzamiento de dardos, bolsa de accesorios y afilador de dardos",
+      "price": "$795.55",
+      "extracted_at": "2025-10-29T22:06:50.444Z"
+    },
+    {
+      "asin": "B07K7257FK",
+      "title": "KINGGEAR Walking Cane for Women & Men, Lightweight & Sturdy Offset Walking Stick, Walking cane with Autonomous Standing, Large Quad Base Cane for Seniors, Walking Crutches for People with Leg Injuries",
+      "price": "$825.45",
+      "extracted_at": "2025-10-29T22:06:50.444Z"
+    },
+    {
+      "asin": "B0BS8YV7T6",
+      "title": "gagaiuco Cinturón De Hernia Umbilical Para Hombres Y Mujeres - Carpeta De Soporte Abdominal Con Almohadilla De Compresión - Ombligo Ventral Epigástrico Incisional Y Ombligo Hernias Cirugía Prevención",
+      "price": "$844.78",
+      "extracted_at": "2025-10-29T22:06:50.444Z"
+    },
+    {
+      "asin": "B076HC4LJX",
+      "title": "Mejor tobillera de compresión de cobre con soporte de tobillo de silicona con cobre antimicrobiano. Fascitis plantar, zanahoria y alivia el dolor de tendón de Aquiles. Previene y soporta lesiones en el tobillo y dolor",
+      "price": "$862.45",
+      "extracted_at": "2025-10-29T22:06:50.444Z"
+    },
+    {
+      "asin": "B07HF4MNR9",
+      "title": "AirBlades – Pala de ping pong profesional para principiantes/intermedios/avanzados, pala de tenis con diseño ergonómico de mango inclinado, incluye funda para pong",
+      "price": "$1,209.37",
+      "extracted_at": "2025-10-29T22:06:50.445Z"
+    },
+    {
+      "asin": "B0CT3VB62K",
+      "title": "Flexelent - Par de bloques de cuña para sentadillas, tabla inclinada para sentadillas, bloque de elevación de pantorrillas, cuña elevada, talón antideslizante, equipo ATG, inclinación de 17°, 3.5 x",
+      "price": "$1,360.59",
+      "extracted_at": "2025-10-29T22:07:00.333Z"
+    },
+    {
+      "asin": "B0D1FSQBKR",
+      "title": "WALITO Kit de barra de pilates con bandas de resistencia",
+      "price": "$856.14",
+      "extracted_at": "2025-10-29T22:07:00.333Z"
+    },
+    {
+      "asin": "B074XD7HQG",
+      "title": "Alice Browning Extractor de balas de impacto fácil con collets",
+      "price": "$581.61",
+      "extracted_at": "2025-10-29T22:07:00.333Z"
+    }
+  ]
+}

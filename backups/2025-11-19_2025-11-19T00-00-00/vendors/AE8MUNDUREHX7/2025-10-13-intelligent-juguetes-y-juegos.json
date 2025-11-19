@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "seller_id": "AE8MUNDUREHX7",
+    "category_name": "Juguetes y Juegos",
+    "date_scraped": "2025-10-13T15:48:02.768Z",
+    "processing_type": "intelligent_detection_v1",
+    "max_products_per_category": 320,
+    "max_depth": 3,
+    "expected_products": 665
+  },
+  "intelligence_stats": {
+    "loops_avoided": 0,
+    "filters_detected": 14
+  },
+  "subcategories": [
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260442011%2Cn%3A11337412011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370483&rnid=11260442011&ref=sr_nr_n_1&ds=v1%3A3SxLlN6pMv2RIdyZ2cwLdlzf0GIRx9NYF%2F6JI17QSas",
+      "name": "Aire Libre y Deportes",
+      "full_path": "Juguetes y Juegos > Aire Libre y Deportes",
+      "productCount": 39,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:48:10.402Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260442011%2Cn%3A11337413011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370483&rnid=11260442011&ref=sr_nr_n_2&ds=v1%3ADFQ0zzcXO0dp0SOT5lAPBunVD1NqPnqXBCRLgIzWm68",
+      "name": "Artes y Manualidades",
+      "full_path": "Juguetes y Juegos > Artes y Manualidades",
+      "productCount": 91,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:48:16.260Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260442011%2Cn%3A11337414011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370483&rnid=11260442011&ref=sr_nr_n_3&ds=v1%3A%2F6i3QrQbTJ9xaXcfE1SNnz92nWsr3JJDmla7%2FGlrn44",
+      "name": "Artículos para Fiesta",
+      "full_path": "Juguetes y Juegos > Artículos para Fiesta",
+      "productCount": 231,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:48:21.916Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260442011%2Cn%3A11337421011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370483&rnid=11260442011&ref=sr_nr_n_4&ds=v1%3Avt7flGYwQ720CXv%2Fhn0EtLv0OkOEtNkC42ajVT4x3yk",
+      "name": "Juegos de Construcción",
+      "full_path": "Juguetes y Juegos > Juegos de Construcción",
+      "productCount": 17,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:48:25.267Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260442011%2Cn%3A11337422011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370483&rnid=11260442011&ref=sr_nr_n_5&ds=v1%3AV%2B%2FUSMWY1O%2FboKKFDx97%2Bx%2Bo6ichKTVt3WxrJ6rVfpU",
+      "name": "Juegos de Imitación",
+      "full_path": "Juguetes y Juegos > Juegos de Imitación",
+      "productCount": 44,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:48:29.630Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260442011%2Cn%3A11337420011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370483&rnid=11260442011&ref=sr_nr_n_6&ds=v1%3A3wOtwwr%2FQ4qh1vEN51QW1VStSFHcH3IDLtCsal00Whc",
+      "name": "Juegos y Accesorios para Juegos",
+      "full_path": "Juguetes y Juegos > Juegos y Accesorios para Juegos",
+      "productCount": 54,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:48:33.277Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260442011%2Cn%3A20940159011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370483&rnid=11260442011&ref=sr_nr_n_7&ds=v1%3AbqEBoHvOnayvWPFABS%2BY3STLQZyjf%2BeTODy0gChlr0A",
+      "name": "Juguetes Coleccionables",
+      "full_path": "Juguetes y Juegos > Juguetes Coleccionables",
+      "productCount": 13,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:48:39.223Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260442011%2Cn%3A11337424011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370483&rnid=11260442011&ref=sr_nr_n_8&ds=v1%3Aa3PUTfZXYQ0dvqLYT4U0qu%2BkaZvzHA52kIGLR3R826s",
+      "name": "Juguetes Educativos",
+      "full_path": "Juguetes y Juegos > Juguetes Educativos",
+      "productCount": 32,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:48:42.672Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260442011%2Cn%3A11337425011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370483&rnid=11260442011&ref=sr_nr_n_9&ds=v1%3A1I8tm3Nlx7r37Dov3jPkLloLTKnyLJJ9da5FvpS%2B7yc",
+      "name": "Juguetes Electrónicos",
+      "full_path": "Juguetes y Juegos > Juguetes Electrónicos",
+      "productCount": 8,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:48:46.675Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260442011%2Cn%3A11337429011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370483&rnid=11260442011&ref=sr_nr_n_10&ds=v1%3AqkjadYsoHVdw0RY8phbR0pisF5y1ums8E24x6tetV%2BM",
+      "name": "Muñecos, Figuras y Sets de Juego",
+      "full_path": "Juguetes y Juegos > Muñecos, Figuras y Sets de Juego",
+      "productCount": 11,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:48:51.617Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260442011%2Cn%3A11337430011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370483&rnid=11260442011&ref=sr_nr_n_11&ds=v1%3Aj35LuB4dju5qbA1g4Dn7AxtQqlMCaDBSgBws7xKY7yM",
+      "name": "Peluches",
+      "full_path": "Juguetes y Juegos > Peluches",
+      "productCount": 33,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:48:56.344Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260442011%2Cn%3A11337432011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370483&rnid=11260442011&ref=sr_nr_n_12&ds=v1%3ATql2S5pfd9cHVNsUTpBRRHsoIrFh6uOXF%2B9BsrcsuiY",
+      "name": "Títeres y Escenarios para Títeres",
+      "full_path": "Juguetes y Juegos > Títeres y Escenarios para Títeres",
+      "productCount": 1,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:49:01.014Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260442011%2Cn%3A11337433011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370483&rnid=11260442011&ref=sr_nr_n_13&ds=v1%3AKEK59v9DhjkJX7DYbKCPv67%2BW2VyuAx0MTbt7KYsdU0",
+      "name": "Vehículos de Juguete",
+      "full_path": "Juguetes y Juegos > Vehículos de Juguete",
+      "productCount": 20,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:49:06.847Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260442011%2Cp_n_g-1004151746091%3A11338006011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370483&rnid=11337999011&ref=sr_nr_p_n_g-1004151746091_1&ds=v1%3AecWqprqe3h7yUfgrA0mOejuJDeLNrq9V8eYSP%2BL4P3w",
+      "name": "0 a 1 Años",
+      "full_path": "Juguetes y Juegos > 0 a 1 Años",
+      "productCount": 31,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:49:12.036Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260442011%2Cp_n_g-1004151746091%3A11338000011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370483&rnid=11337999011&ref=sr_nr_p_n_g-1004151746091_2&ds=v1%3AtAU2lqlCNTppkQlco2MdDpaPEBK%2BCn7iuWDsYLOVGgg",
+      "name": "1 a 2 Años",
+      "full_path": "Juguetes y Juegos > 1 a 2 Años",
+      "productCount": 70,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:49:16.063Z"
+    }
+  ]
+}

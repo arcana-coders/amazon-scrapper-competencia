@@ -1,0 +1,349 @@
+{
+  "metadata": {
+    "seller_id": "AE8MUNDUREHX7",
+    "seller_url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260452011%2Cn%3A10178562011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760369704&rnid=11260452011&ref=sr_nr_n_3&ds=v1%3A5jgkMsxL6zxgxzlevefDFT6g9Y7Hd6m0Ie5hiNArjiA",
+    "category_name": "belleza-cuidado-de-la-piel",
+    "total_products": 56,
+    "pages_processed": 4,
+    "extraction_date": "2025-10-17T16:26:55.541Z",
+    "script_version": "1.0"
+  },
+  "products": [
+    {
+      "asin": "B0D8W2W8C2",
+      "title": "EQQUALBERRY Suero reafirmante Bakuchiol: minimizador de poros y arrugas con bakuchiol | Alternativa al retinol para pieles sensibles | Mejora la firmeza y la elasticidad con ceramidas y péptidos, 1,01 oz/30 ml",
+      "price": "$749.79",
+      "extracted_at": "2025-10-17T16:26:20.614Z"
+    },
+    {
+      "asin": "B08DTJG5FL",
+      "title": "Cinturón Obi para mujer, clásico, ancho, elástico, ajustable, elástico, Bronceado, Talla única",
+      "price": "$671.00",
+      "extracted_at": "2025-10-17T16:26:20.614Z"
+    },
+    {
+      "asin": "B01FSZQU50",
+      "title": "Vinilin (Shostakovsky Balsam) 50g/1.8oz",
+      "price": "$626.73",
+      "extracted_at": "2025-10-17T16:26:20.614Z"
+    },
+    {
+      "asin": "B08W57Z24N",
+      "title": "O!GETi Vitamin C Serum Mist | Vitamin C, Hyaluronic acid, Moisturizing mist for face, all skin type, Korean skincare, for men and women, 2.70 Fl.Oz (80ml)",
+      "price": "$682.07",
+      "extracted_at": "2025-10-17T16:26:20.614Z"
+    },
+    {
+      "asin": "B0CLKXXGYJ",
+      "title": "Amallow Sebo de res alimentado con pasto al 100% para el cuidado de la piel, rostro y cuerpo, humectante batido, loción natural, 4 fl. oz. (vainilla y lavanda)",
+      "price": "$1,245.27",
+      "extracted_at": "2025-10-17T16:26:20.614Z"
+    },
+    {
+      "asin": "B00B3Q8QZ6",
+      "title": "Medimix Face Wash 100ml by Medimix",
+      "price": "$430.16",
+      "extracted_at": "2025-10-17T16:26:20.614Z"
+    },
+    {
+      "asin": "B01N9C2OYN",
+      "title": "Spray protector para la piel, 4 onzas, paquete de 2, Original Version",
+      "price": "$736.71",
+      "extracted_at": "2025-10-17T16:26:20.614Z"
+    },
+    {
+      "asin": "B0C4NWGVTF",
+      "title": "Taimand Parches Debajo de Los Ojos (30 Pares), Oro 24K Mascarilla para Ojos Hinchados, Ojeras, Bolsas y Arrugas Con Colágeno, Alivia La Presión y Reduce Arrugas, Revitaliza y Refresca Tu Piel",
+      "price": "$466.45",
+      "extracted_at": "2025-10-17T16:26:20.614Z"
+    },
+    {
+      "asin": "B0CR2XVH7Y",
+      "title": "RBUGR- Paquete de 39 bálsamos labiales, 12 bálsamos labiales con sabor a granel, juego de bálsamos labiales naturales, cera de abejas hidratante y calmante",
+      "price": "$515.81",
+      "extracted_at": "2025-10-17T16:26:20.614Z"
+    },
+    {
+      "asin": "B0D5M7LKBW",
+      "title": "Dongyu- Crema de cafeína para los ojos contra las ojeras: suero para las bolsas debajo de los ojos Cuidado diario antes de las citas",
+      "price": "$580.71",
+      "extracted_at": "2025-10-17T16:26:20.614Z"
+    },
+    {
+      "asin": "B09XM9VFKS",
+      "title": "ANKOOY Pacote com 12 conjuntos de creme para as mãos para mulheres e meninas, creme hidratante para as mãos com fragrância de plantas para mãos secas e rachadas, conjunto de mini loção para",
+      "price": "$489.41",
+      "extracted_at": "2025-10-17T16:26:20.615Z"
+    },
+    {
+      "asin": "B001LEYER4",
+      "title": "DermaSwim Pro 8 Ounce Tube Pre-Swimming Lotion",
+      "price": "No disponible",
+      "extracted_at": "2025-10-17T16:26:20.615Z"
+    },
+    {
+      "asin": "B08JQQKY5L",
+      "title": "Hematix 15g, Crema Unisex Adulto, Blanco (White), 30 Ml Paquete De 1",
+      "price": "$651.25",
+      "extracted_at": "2025-10-17T16:26:20.615Z"
+    },
+    {
+      "asin": "B01M5JP7TK",
+      "title": "BONUS SIZE Vitamin E Cream 42,000 I.U. - 50% MORE FREE 6 oz. by Colonial Dames",
+      "price": "$736.86",
+      "extracted_at": "2025-10-17T16:26:20.615Z"
+    },
+    {
+      "asin": "B0B1ZF9DZH",
+      "title": "Maskiss 24k Gold Under Eye Patches (30 Pairs), eye mask, Collagen Skin Care Products, Eye Patches for Puffy Eyes, eye masks for dark circles and puffiness",
+      "price": "$741.61",
+      "extracted_at": "2025-10-17T16:26:20.615Z"
+    },
+    {
+      "asin": "B08DJDGRH1",
+      "title": "Toallitas corporales Busy Co XL | Limpieza sin ducha | Base vegetal, sin aluminio, natural | Todos los tipos de piel | Vegano | Sin crueldad | Sin parabenos | Sin aroma (Refresh sin perfume, 10 toallitas)",
+      "price": "$646.46",
+      "extracted_at": "2025-10-17T16:26:20.615Z"
+    },
+    {
+      "asin": "B0CRDVZQWV",
+      "title": "BAINTA Mascarilla Para Debajo De Los Ojos, Mascarilla De Colágeno Para Ojos 60 Pzas, Extracto De Té Verde Parches Debajo De Los Ojos, Mascarilla Para Ojos Inflados, Tratamientos Para",
+      "price": "$529.55",
+      "extracted_at": "2025-10-17T16:26:30.963Z"
+    },
+    {
+      "asin": "B071NF7Q6B",
+      "title": "Korean Natural BOTONIX Age Defying Cream 24K Gold and 8 Peptides Effect Lifting and Firming Skin Regenerating Collagen â€\" 50 ml/1.7 oz. Bundle with 1 Mud Mask - 30 gm Randomly Picked Flavor",
+      "price": "$1,981.77",
+      "extracted_at": "2025-10-17T16:26:30.963Z"
+    },
+    {
+      "asin": "B0C8HZCD6G",
+      "title": "Chemist at Play Exfoliating Body Scrub For Removing Tan & Dead Skin Cells | Rough & Bumpy Skin, Tanned & Pigmented Skin | For Smooth, Soft & Bright Skin | Natural AHAs | Coffee | For Men & Women | 75g",
+      "price": "$477.24",
+      "extracted_at": "2025-10-17T16:26:30.963Z"
+    },
+    {
+      "asin": "B07C2BRK19",
+      "title": "Nella Oneday Whitener, White Snow Whitening and Brightening Ferment Cream, Radiant Tone-Up, Korean Beauty, 1.76 Ounce",
+      "price": "$847.39",
+      "extracted_at": "2025-10-17T16:26:30.963Z"
+    },
+    {
+      "asin": "B07L128X19",
+      "title": "White Tone Crema Facial Suave Y Tersa - 50 G (1,76 Oz)",
+      "price": "$423.58",
+      "extracted_at": "2025-10-17T16:26:30.963Z"
+    },
+    {
+      "asin": "B07C5WZLWL",
+      "title": "Cupra Cr Manos 75ml",
+      "price": "$403.65",
+      "extracted_at": "2025-10-17T16:26:30.963Z"
+    },
+    {
+      "asin": "B0CLYSY4SK",
+      "title": "NOVIIML low Balm - Beef Tallow For Skin Care, Tallow Moisturizer, Face Cream, Lotion & Cream (Vanilla, Grass-Fed Tallow)",
+      "price": "No disponible",
+      "extracted_at": "2025-10-17T16:26:30.963Z"
+    },
+    {
+      "asin": "B00M541YMM",
+      "title": "Inis the Energy of the Sea Nourishing Hand Cream, 2.6 Fluid Ounce",
+      "price": "$704.70",
+      "extracted_at": "2025-10-17T16:26:30.963Z"
+    },
+    {
+      "asin": "B0015R4AUS",
+      "title": "ProActive Tite Grip II All-Sport Loción tópica antiperspirante para Manos/Antideslizante Que Mejora el Agarre",
+      "price": "$590.37",
+      "extracted_at": "2025-10-17T16:26:30.964Z"
+    },
+    {
+      "asin": "B0D8HW19VJ",
+      "title": "Aivoch 10 Pares De 20 Parches Dorados De 24 K Para Debajo De Los Ojos, Máscaras De Colágeno Para Ojeras E Hinchazón, Reducen Las Arrugas Y Los Ojos Hinchados, Refresca Tu Piel, Produ",
+      "price": "$428.49",
+      "extracted_at": "2025-10-17T16:26:30.964Z"
+    },
+    {
+      "asin": "B0CZSD2RZR",
+      "title": "ChapChamp - Bálsamo labial para hombres - 6 bálsamos labiales naturales con vitamina E y cera de abejas - Hidratante y protector de labios - Mate - 0.15 onzas - 2.5 x 0.2 pulgadas",
+      "price": "$686.00",
+      "extracted_at": "2025-10-17T16:26:30.964Z"
+    },
+    {
+      "asin": "B07V4C4FCP",
+      "title": "Soothe - Crema de ojos para tratamiento de reparación intensa para ojeras y hinchazón, bolsas de ojos y arrugas con ácido hialurónico antienvejecimiento, reafirmante, péptidos y cafeína para hombres y mujeres sin edad 0.5 onzas",
+      "price": "$651.25",
+      "extracted_at": "2025-10-17T16:26:30.964Z"
+    },
+    {
+      "asin": "B0BGX38NP9",
+      "title": "Moart Lab. Vegan Low pH Foaming Oil Cleanser",
+      "price": "$867.70",
+      "extracted_at": "2025-10-17T16:26:30.964Z"
+    },
+    {
+      "asin": "B0CCNWY13J",
+      "title": "ZUMBA Face Cleanser - 8.5 Fl Oz - Gentle Face Cleanser for All Skin Types - Face Wash For Oily Skin & Hydrating Water Based Cleanser - Fomulated with 1% Salicylic Acid & 1% Niacinamide Cleanser",
+      "price": "$696.11",
+      "extracted_at": "2025-10-17T16:26:30.964Z"
+    },
+    {
+      "asin": "B0D7JWMCZN",
+      "title": "AQILUN Mascarilla De Colágeno Profundo Anti Arrugas, Mascarilla De Colágeno Coco Beauty, Mascarilla De Hidrogel Reafirmante De Hidratación Profunda Para La Noche, Minimización De Por",
+      "price": "$970.33",
+      "extracted_at": "2025-10-17T16:26:30.964Z"
+    },
+    {
+      "asin": "B00EFIJJD2",
+      "title": "Limpiador mineral 100% natural y orgánico para nutrir y renovar la piel estresada, congestionada y desnutrida. Contiene clorella, espirulina, fruta de noni, Kelp. Un lavado facial favorito profesional.",
+      "price": "$1,050.18",
+      "extracted_at": "2025-10-17T16:26:30.964Z"
+    },
+    {
+      "asin": "B01MY0UFRB",
+      "title": "[Leaders Insolution] Daily Wonders Too Mucho Diversión en el Sol calmante cara de algodón máscara de hoja 10 unidades",
+      "price": "$1,421.30",
+      "extracted_at": "2025-10-17T16:26:42.636Z"
+    },
+    {
+      "asin": "B0D42V53V5",
+      "title": "Good Light- Leche para labios Taste of Space, hidratación de labios, ayuda a suavizar y nutrir los labios, se absorbe rápidamente, bálsamo labial vegano",
+      "price": "$849.08",
+      "extracted_at": "2025-10-17T16:26:42.636Z"
+    },
+    {
+      "asin": "B0CQLZPYSB",
+      "title": "Ditoi - Toallas faciales limpias, desechables biodegradables, tela facial súper suave y grueso para el cuidado de la piel, toallitas secas desmaquillantes, paño de lavado facial sin pelusa para piel",
+      "price": "$530.35",
+      "extracted_at": "2025-10-17T16:26:42.636Z"
+    },
+    {
+      "asin": "B09NQNF76B",
+      "title": "Body Cream Tahitian Vanilla Saavy Naturals, Clean Plant-Based Ingredients| Made In USA | Absorbent Shea Butter Vegan, Thick and Creamy Body Moisturizer, Body Lotion for Dry Skin- 8.5 Fl Oz, 2 Pack",
+      "price": "$998.70",
+      "extracted_at": "2025-10-17T16:26:42.637Z"
+    },
+    {
+      "asin": "B08MPY42PH",
+      "title": "Bálsamo labial orgánico USDA de Earth's Daughter, paquete de 4 – sabor cremoso de coco, cera de abejas, aceite de coco, vitamina E – mejor barra de reparación de labios para labios secos agrietados",
+      "price": "$483.45",
+      "extracted_at": "2025-10-17T16:26:42.637Z"
+    },
+    {
+      "asin": "B00ULLOJA0",
+      "title": "Hawaii Forever Florals Body Lotion 4 Bottles 4 oz. Each Plumeria by Forever Florals",
+      "price": "$1,541.41",
+      "extracted_at": "2025-10-17T16:26:42.637Z"
+    },
+    {
+      "asin": "B073R78BPV",
+      "title": "Novu Derm- Pro Collagen Serum- Significally Increase Collagen Production Safely and Efficiently- Natural Luxurious Formula To Hydrate and Diminish Wri",
+      "price": "$938.84",
+      "extracted_at": "2025-10-17T16:26:42.637Z"
+    },
+    {
+      "asin": "B06XD31CVL",
+      "title": "Hydroxatone 90 Second Wrinkle Reducer 0.33 Fl. Oz Tube",
+      "price": "$751.90",
+      "extracted_at": "2025-10-17T16:26:42.637Z"
+    },
+    {
+      "asin": "B01NBBWJ8O",
+      "title": "Simply Divine Botanicals Black Velvet Facial Cleanser 4 fl. oz. by Simply Divine Botanicals",
+      "price": "$1,056.41",
+      "extracted_at": "2025-10-17T16:26:42.637Z"
+    },
+    {
+      "asin": "B01M9DAZ3V",
+      "title": "4 fl oz 100% Pure Calendula Oil - for Body, Nails & Hair - Perfect Natural Skin Moisturizer - Also Ideal Natural Skin Care Antioxidant Serum",
+      "price": "$754.02",
+      "extracted_at": "2025-10-17T16:26:42.637Z"
+    },
+    {
+      "asin": "B01ISIU16I",
+      "title": "Citrus & Green Tea Hand & Body Lotion - 30 oz by Good Seed",
+      "price": "$1,082.91",
+      "extracted_at": "2025-10-17T16:26:42.637Z"
+    },
+    {
+      "asin": "B01D2M4GFM",
+      "title": "Alpha Skin Care - Essential Facial Moisturizer, with Hyaluronic Acid| Fragrance-Free and Paraben-Free| 2-Ounce (Packaging May Vary)",
+      "price": "$743.51",
+      "extracted_at": "2025-10-17T16:26:42.637Z"
+    },
+    {
+      "asin": "B0150GP1SO",
+      "title": "Indigo Wild Zum Face Gentle Face Cleanser, 8 Fluid Ounce",
+      "price": "$751.62",
+      "extracted_at": "2025-10-17T16:26:42.637Z"
+    },
+    {
+      "asin": "B00L9RQH5U",
+      "title": "Elizabeth W Vetiver Hand Lotion by elizabeth W",
+      "price": "$1,040.78",
+      "extracted_at": "2025-10-17T16:26:42.637Z"
+    },
+    {
+      "asin": "B015X3CUCE",
+      "title": "elizabethW Vetiver Body Lotion 6.75 oz (200 g) by elizabeth W",
+      "price": "$1,130.99",
+      "extracted_at": "2025-10-17T16:26:42.638Z"
+    },
+    {
+      "asin": "B07B7MHLFB",
+      "title": "[Berrisom] SOS! Essence Lip Patch (30pcs)",
+      "price": "$773.34",
+      "extracted_at": "2025-10-17T16:26:42.638Z"
+    },
+    {
+      "asin": "B079CQQT1Q",
+      "title": "Inis Energy of The Sea Mineral Moisturizing Hand Lotion, 10 Fluid Ounce",
+      "price": "$870.06",
+      "extracted_at": "2025-10-17T16:26:55.521Z"
+    },
+    {
+      "asin": "B01F7RP370",
+      "title": "Dark Circles Under Eye Treatment- Tackles Puffiness, Wrinkles and Bags - Natural Organic Eye Brightening Gel for Under and Around Eyes, suits Men & Wo",
+      "price": "$1,058.17",
+      "extracted_at": "2025-10-17T16:26:55.522Z"
+    },
+    {
+      "asin": "B07KFCGFR5",
+      "title": "Tanceuticals Self Tanning Mousse - Healthy Ingredients and Fresh Coconut Scent Gives Instant, Long-Lasting Sunless Tan - Self Tanner in Dark Shade - 6.7 oz",
+      "price": "$1,113.96",
+      "extracted_at": "2025-10-17T16:26:55.522Z"
+    },
+    {
+      "asin": "B006QNVA4A",
+      "title": "Organic Bio Damascena Anti-Wrinkle Eye Contour Cream",
+      "price": "$1,693.38",
+      "extracted_at": "2025-10-17T16:26:55.522Z"
+    },
+    {
+      "asin": "B071X7W4J8",
+      "title": "Ibiza Sun Organic Self Tanner, Self Tanning Towelettes, 8 count -Natural Ingredients Paraben Free,Sunless Tanning Wipes for Face and Body, Odorless, Cruelty Free.Golden Tan Bronzer.For all skin tones.",
+      "price": "$1,183.60",
+      "extracted_at": "2025-10-17T16:26:55.522Z"
+    },
+    {
+      "asin": "B00H3PZEXS",
+      "title": "Caviar of Switzerland Revitalizing Eye Cream...Amazing Brightener 15ml",
+      "price": "$4,797.61",
+      "extracted_at": "2025-10-17T16:26:55.522Z"
+    },
+    {
+      "asin": "B07YHHW17Q",
+      "title": "Leotart Cinta de carrocería de colores – Paquete variado – 12 colores 10 yardas x 1 pulgada rollos de cinta adhesiva multicolor divertida DIY kit de arte para arte, etiquetado, decoraciones de aula",
+      "price": "$929.32",
+      "extracted_at": "2025-10-17T16:26:55.522Z"
+    },
+    {
+      "asin": "B00BB0ZZG2",
+      "title": "Beauty Pro Toalla de envolver facial, 6 piezas",
+      "price": "$929.32",
+      "extracted_at": "2025-10-17T16:26:55.522Z"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "last_run": "2025-11-19T00:30:52.545Z",
+  "current_vendor": "A12WQF3HZEWBDD",
+  "current_batch": null,
+  "current_phase": "verify_usa",
+  "vendors_processed_today": [],
+  "total_products_published": 0,
+  "errors": [],
+  "next_run": null,
+  "statistics": {
+    "total_runs": 14,
+    "total_vendors_processed": 1,
+    "total_products_published": 0,
+    "total_errors": 8
+  }
+}

@@ -1,0 +1,565 @@
+{
+  "metadata": {
+    "seller_id": "AE8MUNDUREHX7",
+    "seller_url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260442011%2Cn%3A11337413011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370483&rnid=11260442011&ref=sr_nr_n_2&ds=v1%3ADFQ0zzcXO0dp0SOT5lAPBunVD1NqPnqXBCRLgIzWm68",
+    "category_name": "juguetes-y-juegos-artes-y-manualidades",
+    "total_products": 92,
+    "pages_processed": 6,
+    "extraction_date": "2025-10-20T00:04:09.738Z",
+    "script_version": "1.0"
+  },
+  "products": [
+    {
+      "asin": "B0DV4BD3H2",
+      "title": "Schylling NeeDoh - Juguete sensorial con una Mezcla de Colores única y arremolinos, a Partir de 3 años, el Color Puede Variar; un cubeta por Paquete",
+      "price": "$451.12",
+      "extracted_at": "2025-10-20T00:03:01.321Z"
+    },
+    {
+      "asin": "B0D3BR2HPM",
+      "title": "Libros para colorear para adultos, libro de colorear para mujeres, en espiral, diseño de una cara, regalos de arte y manualidades para mujeres para relajarse, ansiedad y depresión, 30 coloridas",
+      "price": "$566.29",
+      "extracted_at": "2025-10-20T00:03:01.321Z"
+    },
+    {
+      "asin": "B0BRYH4B2N",
+      "title": "Star Wars Deluxe Imperial Star Destroyer - Kit de modelo 3D, colección de fantasía para adultos, para edades de 12 años en adelante",
+      "price": "$872.04",
+      "extracted_at": "2025-10-20T00:03:01.322Z"
+    },
+    {
+      "asin": "B0CX57S4HF",
+      "title": "ADEVIAN Coloring Books for Adult Coloring Book for Women Spiral Bound Page One Sided Design Gifts Arts and Crafts for Women to Relax, Anxiety and Depression 30 Colorful Coloring Pages of DREAM GARDEN",
+      "price": "$522.87",
+      "extracted_at": "2025-10-20T00:03:01.322Z"
+    },
+    {
+      "asin": "B0CR6T68WL",
+      "title": "Tarjetas premium para rascar de las 50 mejores películas de terror - Regalos de películas de miedo - Completa el desafío del fanático del terror",
+      "price": "$755.86",
+      "extracted_at": "2025-10-20T00:03:01.322Z"
+    },
+    {
+      "asin": "B0C2T43FGS",
+      "title": "Ykimok 2 Pack College Ruled Notebook, Soft Black Cover Spiral Notebook, Memo Notepad Sketchbook, Students Office Business Diary Spiral Book Journal,100 Pages, 50 Sheets, 7.48 x 5.11 Inches",
+      "price": "$389.66",
+      "extracted_at": "2025-10-20T00:03:01.322Z"
+    },
+    {
+      "asin": "B0D7MJYWMT",
+      "title": "Simgoing - Juego de 20 piezas de pintura de Navidad para pintar tu propio muñeco de nieve, Papá Noel, árbol de Navidad, estatuas de pingüino, estatuas de yeso, pinceles de pintura acrílica, bolsas de",
+      "price": "$901.15",
+      "extracted_at": "2025-10-20T00:03:01.322Z"
+    },
+    {
+      "asin": "B0FKML9LMS",
+      "title": "100 pegatinas de estética para niñas, pegatinas de vinilo para botella de agua",
+      "price": "$493.00",
+      "extracted_at": "2025-10-20T00:03:01.322Z"
+    },
+    {
+      "asin": "B0D9QQCRWS",
+      "title": "xackcme - Juego de 48 pegatinas de pintura de diamante para niños, diseño de flores y diamantes, diseño de mosaico, para niños, regalo para niños y niñas de 4 a 8 a 10 a 12 años",
+      "price": "$520.64",
+      "extracted_at": "2025-10-20T00:03:01.322Z"
+    },
+    {
+      "asin": "B07FD7QRPG",
+      "title": "Honeysticks - Ceras para tina de cera de abeja para niños y bebés, no tóxicas, lavables y fáciles de limpiar, solubles en agua, divertidas, pigmentos de grado alimenticio, hechas a mano en Nueva Zelanda (paquete de 7)",
+      "price": "$756.71",
+      "extracted_at": "2025-10-20T00:03:01.322Z"
+    },
+    {
+      "asin": "B0D5WGP4MY",
+      "title": "KipiPol 52 Pcs pista de tren de madera",
+      "price": "$1,107.98",
+      "extracted_at": "2025-10-20T00:03:01.322Z"
+    },
+    {
+      "asin": "B0BY2G619M",
+      "title": "Tableta de escritura LCD, tablero de garabato recargable con pantalla colorida de 16 pulgadas, juguetes educativos para niños de 3, 4, 5, 6 años, niños, niñas, reutilizable, portátil, tableta,",
+      "price": "$884.39",
+      "extracted_at": "2025-10-20T00:03:01.323Z"
+    },
+    {
+      "asin": "B0F2B1X4Q4",
+      "title": "Paquete de 2 tabletas de escritura LCD para niños, tabletas de dibujo de tablero de garabato de 6.5 pulgadas, juguetes educativos para niños, juguetes de dinosaurio para niños de 3, 4, 5, 6, 7, 8 años",
+      "price": "$540.80",
+      "extracted_at": "2025-10-20T00:03:01.323Z"
+    },
+    {
+      "asin": "B0DT3Q5SRL",
+      "title": "ZHOC - Juego de pintura con agua para colorear para niños, juegos de pintura de acuarela sin desorden de bolsillo para niños de 3, 4, 5, 6, 7, 8 +, juego de pintura de color de agua, arte y",
+      "price": "$436.03",
+      "extracted_at": "2025-10-20T00:03:01.323Z"
+    },
+    {
+      "asin": "B0FCMK218V",
+      "title": "Rueda de cerámica para niños, niñas juguetes de artes y manualidades para niños de 8 a 12 años, kit de manualidades de cerámica con 3 unidades de arcilla seca al aire, suministros de arte para niños",
+      "price": "$1,143.80",
+      "extracted_at": "2025-10-20T00:03:01.323Z"
+    },
+    {
+      "asin": "B09N3YZPWW",
+      "title": "Pegatinas de baloncesto para zapatos de baloncesto, 50 unidades, elegantes calcomanías de vinilo para equipaje, coche, portátil, monopatín, teclado, calcomanías personalizadas (Dodger-LA-50 piezas)",
+      "price": "$451.12",
+      "extracted_at": "2025-10-20T00:03:01.323Z"
+    },
+    {
+      "asin": "B0BLVMS2FH",
+      "title": "CBETF Kids Just A Girl Who Loves Slime Delantal para niñas, impermeable, regalos de cocina, Just a Girl Who Loves Slime, Talla única",
+      "price": "$450.82",
+      "extracted_at": "2025-10-20T00:03:16.491Z"
+    },
+    {
+      "asin": "B0CZ3HG53R",
+      "title": "ANGUJC 60 pegatinas Kawaii Chiikawa impermeables de vinilo, para niños y adolescentes, decoraciones para botellas de agua, tarjetas, dispositivos y más, estilo moderno y divertido",
+      "price": "$431.11",
+      "extracted_at": "2025-10-20T00:03:16.491Z"
+    },
+    {
+      "asin": "B0D62S827F",
+      "title": "RAINFLOW Arena blanca fina de 45 ml para manualidades, arena decorativa de cuarzo Zen para jardín, para floreros, ceremonia de unidad de boda, quemador de incienso, acuario",
+      "price": "$455.01",
+      "extracted_at": "2025-10-20T00:03:16.491Z"
+    },
+    {
+      "asin": "B0BF5GZP3D",
+      "title": "Kit de lámpara de luna para pintar tu propia luna, regalos geniales, luz de noche de luna 3D, artes y manualidades para niños de 8 a 12 años, suministros de arte espacial, kits de manualidades",
+      "price": "$652.12",
+      "extracted_at": "2025-10-20T00:03:16.492Z"
+    },
+    {
+      "asin": "B0CWQ866TM",
+      "title": "BOUBONI Delantal para niños a granel con 2 bolsillos ajustables para cocinar, manualidades, para cocinar, hornear, pintar",
+      "price": "$630.31",
+      "extracted_at": "2025-10-20T00:03:16.492Z"
+    },
+    {
+      "asin": "B0D9VXM4Y5",
+      "title": "JZILU - Pintura con libros de agua",
+      "price": "$546.61",
+      "extracted_at": "2025-10-20T00:03:16.492Z"
+    },
+    {
+      "asin": "B0CM3F2QLT",
+      "title": "MUYINGZHUO - Pegatinas de ballet, 50 unidades, calcomanías de vinilo para bailarina y calcomanías para portátil, botella de agua, coche de parachoques, calcomanías para niños, niños pequeños, adolescentes (ballet)",
+      "price": "$378.70",
+      "extracted_at": "2025-10-20T00:03:16.492Z"
+    },
+    {
+      "asin": "B0CWGCWQLQ",
+      "title": "Paint Your Own Unicorn Lamp Kit, suministros de arte, kit de pintura de unicornio para niños, artes y manualidades para niños de 6 a 12 años, juguetes de unicornio, regalos de cumpleaños de Navidad",
+      "price": "$504.77",
+      "extracted_at": "2025-10-20T00:03:16.492Z"
+    },
+    {
+      "asin": "B0DFPYD2RW",
+      "title": "SPROUT & SPARK STUDIO - Kit de costura para niños a partir de 5 años | Juguetes de manualidades para niñas con 7 proyectos de fieltro fáciles | Juego de iniciación de ganchillo y tejer | Muñecas de",
+      "price": "$730.41",
+      "extracted_at": "2025-10-20T00:03:16.492Z"
+    },
+    {
+      "asin": "B0DF2G1JPK",
+      "title": "BlissfulBlend - Tapete de agua de 160 x 40 pulgadas, para colorear para niños, sin ensuciar, para colorear y dibujar, lona mágico de color agua, juguetes educativos para niños pequeños, 3, 4, 5, 6, 7,",
+      "price": "$662.12",
+      "extracted_at": "2025-10-20T00:03:16.492Z"
+    },
+    {
+      "asin": "B0D9NK9B6Y",
+      "title": "Realspring - 60 máscaras de papel para rascar héroes de animales del océano, máscaras de papel, kit de manualidades para vestir Mardi Gras fiesta decoración debajo del mar, decoración de actividades",
+      "price": "$634.51",
+      "extracted_at": "2025-10-20T00:03:16.492Z"
+    },
+    {
+      "asin": "B07Y1PWMBJ",
+      "title": "Calypso Studios by First & Main - Cruz de Arcilla reconfortante Notre Dame",
+      "price": "$791.02",
+      "extracted_at": "2025-10-20T00:03:16.492Z"
+    },
+    {
+      "asin": "B0D967NY5F",
+      "title": "GWAHSA - 30 imanes de madera para manualidades, suministros de arte de madera que brillan en la oscuridad, kit de pintura para actividades infantiles, recuerdos de fiesta para niños y niñas de 4 a 8 a",
+      "price": "$576.40",
+      "extracted_at": "2025-10-20T00:03:16.492Z"
+    },
+    {
+      "asin": "B0D62TL7BX",
+      "title": "YEGEER - Lápices de colores a granel, 12 colores surtidos, juego de lápices de colores preafilados, para niños y adultos, premios esenciales para el aula de maestros, suministros para el regreso a la",
+      "price": "$899.88",
+      "extracted_at": "2025-10-20T00:03:16.493Z"
+    },
+    {
+      "asin": "B0D59K97W4",
+      "title": "Paquete de 4 kits de arte de diamante para niños, animales de dibujos animados, kits de pintura de diamantes para niños principiantes, kits de mosaico para niños DIY taladro completo de puntos de",
+      "price": "$475.71",
+      "extracted_at": "2025-10-20T00:03:16.493Z"
+    },
+    {
+      "asin": "B0D4TTSWG3",
+      "title": "Moucuny - Kit de 470 piezas de manualidades de Halloween, kit de manualidades para niños, decoración de coronas de Halloween con fantasma, murciélagos, calabaza, gato, calcomanías para el hogar, aula,",
+      "price": "$691.82",
+      "extracted_at": "2025-10-20T00:03:16.493Z"
+    },
+    {
+      "asin": "B0D3VGN39K",
+      "title": "GLEEHAPY - Tabla de dibujo de mosaico",
+      "price": "$1,074.86",
+      "extracted_at": "2025-10-20T00:03:29.342Z"
+    },
+    {
+      "asin": "B0D9498VNH",
+      "title": "Motipuns - 80 tarjetas de Halloween para rascar, arcoíris, kit de manualidades de Halloween, adornos de Halloween, manualidades para niños, suministros de fiesta de Halloween, regalos de cumpleaños,",
+      "price": "$546.61",
+      "extracted_at": "2025-10-20T00:03:29.343Z"
+    },
+    {
+      "asin": "B0CZ9BS2BL",
+      "title": "Chiisong - Kit de 24 juegos de luces de Jesús The Way para niños, lámpara de aceite, papel de seda, manualidades a granel, kit de manualidades religiosas para acampar, aventura, escuela dominical,",
+      "price": "$648.48",
+      "extracted_at": "2025-10-20T00:03:29.343Z"
+    },
+    {
+      "asin": "B0D3DMK26K",
+      "title": "Kit de abalorio fusibles para niños, 11000 abalorio fusibles, 20 colores de 5 mm, juego de abalorio con caja de almacenamiento, tableros de clavijas, papel de planchado y accesorios, juego de artes y",
+      "price": "$859.57",
+      "extracted_at": "2025-10-20T00:03:29.343Z"
+    },
+    {
+      "asin": "B09WVJV55D",
+      "title": "Eersida - 750 pegatinas aromáticas de recompensa para niños en el aula, calcomanías motivacionales para postres y frutas para maestros, suministros escolares y aulas, premios para estudiantes (aromas",
+      "price": "$503.97",
+      "extracted_at": "2025-10-20T00:03:29.343Z"
+    },
+    {
+      "asin": "B0D2KRPBCW",
+      "title": "Wakhow - Kit de prensa de flores para adultos y niños, 11.02 x 11.02 pulgadas, kit de marcadores de flores secas, cómo presionar flores, kit de arte de flores prensadas para niños, diario de prensado",
+      "price": "$1,095.68",
+      "extracted_at": "2025-10-20T00:03:29.343Z"
+    },
+    {
+      "asin": "B0D1NQWN8M",
+      "title": "lona predibujado para niños para pintar, 12 paquetes de paneles de lona de 8 x 10 pulgadas, tablero de pintura acrílica para fiestas, regreso a clases y tiempo familiar (Happy Beach)",
+      "price": "$929.38",
+      "extracted_at": "2025-10-20T00:03:29.343Z"
+    },
+    {
+      "asin": "B0D25TF56W",
+      "title": "Juego de 24 libros para colorear para niños a granel con 24 lápices apilables, mini libros para colorear a granel para edades de 2 a 4 a 8 a 12 años, libros de actividades pequeños para regalos de",
+      "price": "$893.69",
+      "extracted_at": "2025-10-20T00:03:29.343Z"
+    },
+    {
+      "asin": "B0CT29QT8W",
+      "title": "407 pegatinas de gemas para niños, pegatinas autoadhesivas de joyas, joyas acrílicas, pegatinas de diamantes de imitación grandes para manualidades, gemas adhesivas de piedras preciosas muticolor para",
+      "price": "$440.86",
+      "extracted_at": "2025-10-20T00:03:29.343Z"
+    },
+    {
+      "asin": "B0CWGM25WX",
+      "title": "Janlaugh 36 marcadores rojos lavables para colorear a granel, rotuladores de línea ancha para niños, bolígrafo de dibujo de punta cónica roja para suministros escolares, arte de viaje, baby shower,",
+      "price": "$678.91",
+      "extracted_at": "2025-10-20T00:03:29.344Z"
+    },
+    {
+      "asin": "B08V48782P",
+      "title": "almohadillas para orejas de acuarela para ojos artísticos de 9 x 12 pulgadas, paquete de 2 (60 hojas), encuadernadas con pegamento, papel sin ácidos, 150 libras (300 g/m²), perfectas para la mayoría",
+      "price": "$883.93",
+      "extracted_at": "2025-10-20T00:03:29.344Z"
+    },
+    {
+      "asin": "B07H37Z8RL",
+      "title": "Lazy Days Barbie Live Life with Love - Libro para colorear y actividades (96 páginas)",
+      "price": "$357.88",
+      "extracted_at": "2025-10-20T00:03:29.344Z"
+    },
+    {
+      "asin": "B0D14DB97M",
+      "title": "Jumlys - 24 cajas lavables con 12 colores, marcador de color a granel para el aula escolar, 288 marcadores de punta ancha para niños, artículos imprescindibles en el aula",
+      "price": "$1,512.72",
+      "extracted_at": "2025-10-20T00:03:29.344Z"
+    },
+    {
+      "asin": "B0CSN886Y9",
+      "title": "Gemscream - Juego de 6 kits de pintura de animales, juego de manualidades y artes de Halloween, zoológico de safari, juguete de animales salvajes, arte y manualidades, cerámica para pintar para",
+      "price": "$761.93",
+      "extracted_at": "2025-10-20T00:03:29.344Z"
+    },
+    {
+      "asin": "B0CS6R77ZQ",
+      "title": "VercanMonth - Juego de 30 kits de arte de arena de animales oceánicos para niños, manualidades, pintura de arena, juego de tarjetas de pintura de colores para niños, manualidades, artes y actividades",
+      "price": "$793.99",
+      "extracted_at": "2025-10-20T00:03:29.344Z"
+    },
+    {
+      "asin": "B0CSPG67Z5",
+      "title": "GOMIMEOR Borradores de animales para niños, 35 piezas de borrador de lápiz a granel, mini borradores de computadora para mascotas, caja del tesoro, juguetes para el aula, premios escolares, regalos de",
+      "price": "$625.87",
+      "extracted_at": "2025-10-20T00:03:29.345Z"
+    },
+    {
+      "asin": "B0CLZQ5VYJ",
+      "title": "yzohu Asoxt Sensory Bin for Boy Girl Kid Toy - 43pcs Play Sand Art Kit with Sandbox, 4lb Color Sand, 17 Molds, Sensory Toy Birthday Gift for Girl Toddler Ages 3-8, AS001",
+      "price": "$1,179.12",
+      "extracted_at": "2025-10-20T00:03:43.012Z"
+    },
+    {
+      "asin": "B01LBLBVQS",
+      "title": "Pinwheel Crafts Girls Jewelry Making Necklace Kit DIY Custom Glass Pendant Necklace Accessory Set for Kids or Teens to Make 8 Necklaces with Step-by-Step Instructions and Craft Supplies",
+      "price": "$933.33",
+      "extracted_at": "2025-10-20T00:03:43.013Z"
+    },
+    {
+      "asin": "B083SBPRTY",
+      "title": "Artisto Juego de libros de bocetos premium de 9 x 12 pulgadas, encuadernado en espiral, paquete de 2, 200 hojas (100 g/m2), papel de dibujo sin ácidos, ideal para niños, adolescentes y adultos.",
+      "price": "$859.34",
+      "extracted_at": "2025-10-20T00:03:43.013Z"
+    },
+    {
+      "asin": "B0CZNXGPYM",
+      "title": "UEXINGOO - Lápices de colores multicolor con forma de huevo, lavables, para niños y niñas",
+      "price": "$490.93",
+      "extracted_at": "2025-10-20T00:03:43.013Z"
+    },
+    {
+      "asin": "B0CQCRQ34F",
+      "title": "Jumlys - Kit de terrario de unicornio iluminado para niñas, kit de arte y manualidades de unicornio, ideal para Navidad, regalos de cumpleaños para niños de 4 a 12 años",
+      "price": "$707.71",
+      "extracted_at": "2025-10-20T00:03:43.013Z"
+    },
+    {
+      "asin": "B0CZ3DK6QR",
+      "title": "Paquete de 3 tabletas de escritura LCD de 16 pulgadas para niños y adultos, juguetes para niños pequeños, 3, 4, 5, 6, tablero de garabato, juguetes sensoriales para niños pequeños, viajes por",
+      "price": "$1,302.55",
+      "extracted_at": "2025-10-20T00:03:43.013Z"
+    },
+    {
+      "asin": "B075DPKD46",
+      "title": "(8x8) - illo Sketchbook, Large, Square, Sketch Book, (8x8), Premium, 60kg Paper, Hardcover Notebook, Lay Flat, Smooth Paper, Thick Paper, Elastic Enclosure and Ribbon Marker",
+      "price": "$732.07",
+      "extracted_at": "2025-10-20T00:03:43.013Z"
+    },
+    {
+      "asin": "B0CNCC79MH",
+      "title": "YXOTJHS - Pintura con libros de agua, libros de acuarela para colorear para niños de 4 a 8 años, libro de pintura de agua sin desorden para niños de 2 a 4 años, artes y manualidades para niños de 4 a 6 años",
+      "price": "$444.62",
+      "extracted_at": "2025-10-20T00:03:43.013Z"
+    },
+    {
+      "asin": "B0C9G376HZ",
+      "title": "Idea Liftoff - Juego de 12 libros para colorear para adultos, paquete con 12 libros para colorear para adultos, para mujeres, hombres con mandalas y más, libros avanzados para colorear a granel",
+      "price": "$908.28",
+      "extracted_at": "2025-10-20T00:03:43.013Z"
+    },
+    {
+      "asin": "B0DSP76JYM",
+      "title": "Artes y Manualidades",
+      "price": "$1,181.50",
+      "extracted_at": "2025-10-20T00:03:43.013Z"
+    },
+    {
+      "asin": "B0CZTXB96Y",
+      "title": "ALNETI - Pintura con libros de agua para niños (papel artístico, dinosaurios)",
+      "price": "$549.23",
+      "extracted_at": "2025-10-20T00:03:43.013Z"
+    },
+    {
+      "asin": "B0C7QXYPVQ",
+      "title": "Juguetes para niños pequeños de 1 a 2,10 pulgadas, tablet de dibujo con visualización LCD para niños, juguetes de aprendizaje para niños de 1, 2, 3, 4, 5, 6, 7, 8 años, regalos de Navidad, cumpleaños",
+      "price": "$531.34",
+      "extracted_at": "2025-10-20T00:03:43.014Z"
+    },
+    {
+      "asin": "B09DPHPMGH",
+      "title": "faentwc - Kits de pintura de dinosaurios y coches de extracción 2 en 1, artes y manualidades de dinosaurios para niños pequeños",
+      "price": "$692.21",
+      "extracted_at": "2025-10-20T00:03:43.014Z"
+    },
+    {
+      "asin": "B0BY6LDQ1W",
+      "title": "Berstuk Kit de prensa de flores en miniatura para adultos, el kit de conservación de flores pequeñas incluye dos prensas de 3 x 3 pulgadas, regalo ideal para los amantes de las artes y las manualidades",
+      "price": "$863.25",
+      "extracted_at": "2025-10-20T00:03:43.014Z"
+    },
+    {
+      "asin": "B0DG8SLN3G",
+      "title": "Caballete para niños, juguetes de caballete de arte para niños pequeños de 2 a 4 a 5 a 7 años, juguetes de 2, 3, 4, 5, 6, 7, 8 y 9 años, pizarrón blanca magnética de doble cara y pizarrón de gis con",
+      "price": "$1,919.26",
+      "extracted_at": "2025-10-20T00:03:43.014Z"
+    },
+    {
+      "asin": "B0BDQTR776",
+      "title": "Paquete de 50 pegatinas clásico de Halloween para portátil poción de botellas de etiquetas para adolescentes, calcomanías impermeables para botellas de agua, calcomanías para regalos de trucos o golosinas para niños, recuerdos de fiesta de Halloween",
+      "price": "$426.77",
+      "extracted_at": "2025-10-20T00:03:43.014Z"
+    },
+    {
+      "asin": "B0919BBYBR",
+      "title": "EDIFON - Arcilla de modelado mágico, 24 colores con herramientas de escultura, arcilla suave no tóxica, autosecante para niños y adultos, regalo para niños y niñas",
+      "price": "$537.06",
+      "extracted_at": "2025-10-20T00:03:53.576Z"
+    },
+    {
+      "asin": "B0BX9P15R7",
+      "title": "tablet de escritura LCD de 12 pulgadas, [2 unidades] pizarrón de dibujo colorida, pizarrón de dibujo con función de bloqueo y borrado, juguetes portátiles y regalos para niños y adultos en casa, escuela, color rosa y azul",
+      "price": "$597.20",
+      "extracted_at": "2025-10-20T00:03:53.576Z"
+    },
+    {
+      "asin": "B0BPSMV9GK",
+      "title": "FanVean - Juego de lápices de colores de 50 unidades para adultos, suministros escolares, regalos para niños y adultos",
+      "price": "$516.99",
+      "extracted_at": "2025-10-20T00:03:53.576Z"
+    },
+    {
+      "asin": "B0B29KNHP4",
+      "title": "Juego de 3 piezas de arte de papel para rayar para niños, colorido libro de dibujo mágico para niños y niñas, libro de pintura de manualidades con 3 bolígrafos para juegos de fiesta de cumpleaños, kits de proyectos de bricolaje, regalos de manualidades",
+      "price": "$571.73",
+      "extracted_at": "2025-10-20T00:03:53.576Z"
+    },
+    {
+      "asin": "B09C28NGB7",
+      "title": "Juego de marcadores de doble cara para niños Happido, juego de 24 marcadores no tóxicos a base de agua con estuche, grandes suministros escolares, arte y papelería para volver a la escuela",
+      "price": "$667.29",
+      "extracted_at": "2025-10-20T00:03:53.576Z"
+    },
+    {
+      "asin": "B09NR6PR37",
+      "title": "DLUCKY 208 piezas de suministros de arte, kit de arte de dibujo para niños y adultos, juego de arte con caballete triple de doble cara, pasteles al óleo, crayones, lápices de colores, bolígrafos de acuarela, regalo para niñas y niños, artistas, rosa",
+      "price": "$776.68",
+      "extracted_at": "2025-10-20T00:03:53.576Z"
+    },
+    {
+      "asin": "B097625LGQ",
+      "title": "Honeysticks Natural Jumbo - Pinceles de pintura (3",
+      "price": "$690.56",
+      "extracted_at": "2025-10-20T00:03:53.576Z"
+    },
+    {
+      "asin": "B08DV3BM88",
+      "title": "Lupa de mano 10X lupa de vidrio óptico con escala de luz, lupa de joyería con escala de medida",
+      "price": "$744.25",
+      "extracted_at": "2025-10-20T00:03:53.576Z"
+    },
+    {
+      "asin": "B09VZ19SGT",
+      "title": "Gushu 1500 Pegatinas de Espuma para Pared y Niños, 10 Colores Autoadhesivos, Calcomanías Geométricas con Ojos Brillantes, Suministros de Manualidades Preescolares (Círculo)",
+      "price": "$633.06",
+      "extracted_at": "2025-10-20T00:03:53.576Z"
+    },
+    {
+      "asin": "B08XP9DXJZ",
+      "title": "1405 piezas de suministros de arte y manualidades para niños, kit de arte de manualidades para niños pequeños, incluye limpiaparabrisas, pompones, plumas, caja de almacenamiento plegable, todo en uno para manualidades de bricolaje (caja verde)",
+      "price": "$1,101.58",
+      "extracted_at": "2025-10-20T00:03:53.577Z"
+    },
+    {
+      "asin": "B0826XFBZZ",
+      "title": "I&Art - Libros de arte para rascar para niños, papel de arte de arañar arco iris para los mejores regalos",
+      "price": "$448.62",
+      "extracted_at": "2025-10-20T00:03:53.577Z"
+    },
+    {
+      "asin": "B0DF2T87QR",
+      "title": "Alfombrilla de dibujo extragrande, de 60 x 40 pulgadas, con mochila con cordón, juguetes educativos para niños y niñas de 3-4 años, regalos de cumpleaños de Navidad, pintura sin desorden",
+      "price": "$1,031.88",
+      "extracted_at": "2025-10-20T00:03:53.577Z"
+    },
+    {
+      "asin": "B077B5P91L",
+      "title": "bluegarlic Round Felt Circles Felt Pads Mixed Color Felt for DIY and Sewing Handcraft (1.0\"-1000pcs)",
+      "price": "$496.42",
+      "extracted_at": "2025-10-20T00:03:53.577Z"
+    },
+    {
+      "asin": "B0D8BK6V6Z",
+      "title": "Cinnvoice - 60 piezas de manualidades de Navidad de madera para niños, decoración de Navidad en blanco, sin acabar, recortes de madera, rebanadas, adornos colgantes para árbol de Navidad, decoración",
+      "price": "$775.10",
+      "extracted_at": "2025-10-20T00:03:53.577Z"
+    },
+    {
+      "asin": "B0DD32S74Z",
+      "title": "Esterilla de agua para niños con pintura al agua para dibujo de garabato, juguete para escribir sin líos, colorear, juguetes educativos mágicos extra grandes para niños y niñas de 2, 3, 4, 5, 6, 7, 8",
+      "price": "$569.70",
+      "extracted_at": "2025-10-20T00:03:53.577Z"
+    },
+    {
+      "asin": "B0D8B97YH5",
+      "title": "Buscar y buscar: 22 actividades de aprendizaje preescolar para niños de 3 a 8 años | Juegos de viaje para coche y avión | Juguetes de aprendizaje para niños | Libro de juegos de mesa y actividades",
+      "price": "$804.60",
+      "extracted_at": "2025-10-20T00:03:53.577Z"
+    },
+    {
+      "asin": "B0D7GH5LN7",
+      "title": "Memorywuu - Juego de 36 juegos de manualidades para otoño, marcos de fotos de otoño, calcomanías de fiesta de Acción de Gracias, calabaza, hoja de arce, pino, cono, marcos de fotos para decoración",
+      "price": "$618.91",
+      "extracted_at": "2025-10-20T00:04:09.720Z"
+    },
+    {
+      "asin": "B0D73JPS8T",
+      "title": "WinnerWhy - Juego de 32 adornos de Halloween que brillan en la oscuridad, kit de manualidades de pintura para ventana, incluye 200 abalorio acrílicas, 2 pigmentos luminiscentes, 32 ganchos adhesivos",
+      "price": "$517.23",
+      "extracted_at": "2025-10-20T00:04:09.720Z"
+    },
+    {
+      "asin": "B0D674XCHY",
+      "title": "WinnerWhy Casa encantada con marcadores de colores, kit de manualidades de pintura de Halloween, manualidades de graffiti de madera, bricolaje, calabaza, bruja, fantasma, casa encantada para niños (18",
+      "price": "$1,070.22",
+      "extracted_at": "2025-10-20T00:04:09.721Z"
+    },
+    {
+      "asin": "B0767F9T3K",
+      "title": "Maosifang 10 Pieces Assorted Colored Paint Brushes Set in 10 Colors and 8 Pieces Spill Proof Paint Cups",
+      "price": "$584.88",
+      "extracted_at": "2025-10-20T00:04:09.721Z"
+    },
+    {
+      "asin": "B06X6H6H29",
+      "title": "Bassion Pack of 2 Kids Art Smocks, Children Waterproof Artist Painting Aprons Long Sleeve with 3 Pockets for Age 2-6 Years",
+      "price": "$448.14",
+      "extracted_at": "2025-10-20T00:04:09.721Z"
+    },
+    {
+      "asin": "B0CP8S1D9J",
+      "title": "Bassion - Delantales de pintura para niños pequeños, impermeables, manga larga con 3 bolsillos para niños de 2 a 6 años, Rosado, Large",
+      "price": "$521.53",
+      "extracted_at": "2025-10-20T00:04:09.721Z"
+    },
+    {
+      "asin": "B0CYLG37BF",
+      "title": "Kit de actividades de manualidades para niños, kit de manualidades de papel, kit de juguetes para niñas con pintura de diamantes y juego de disfraces de princesa, ideal para cumpleaños, fiesta de",
+      "price": "$584.33",
+      "extracted_at": "2025-10-20T00:04:09.721Z"
+    },
+    {
+      "asin": "B0CTH7CJMB",
+      "title": "Hockvill - tablet de escritura LCD para niños de 12 pulgadas, juguetes de aprendizaje para niños y niñas, tablero de garabato borrable para niños pequeños de 3, 4, 5, 6, 7, 8 años, artículos",
+      "price": "$639.67",
+      "extracted_at": "2025-10-20T00:04:09.721Z"
+    },
+    {
+      "asin": "B0CF48G4CQ",
+      "title": "Hristmas - 504 pegatinas de Navidad, muñeco de nieve, elfo, campanas, nieve, renos, calcomanías de Navidad para niños, para manualidades, decoración y suministros de fiesta de Navidad (color A)",
+      "price": "$396.27",
+      "extracted_at": "2025-10-20T00:04:09.721Z"
+    },
+    {
+      "asin": "B0BYZJ4QJS",
+      "title": "EDIFON Kit de arcilla seca al aire, arcilla de modelado de 36 colores con herramientas, ultraligera, segura y no tóxica, regalo ideal para niños (más de 36 colores)",
+      "price": "$539.04",
+      "extracted_at": "2025-10-20T00:04:09.721Z"
+    },
+    {
+      "asin": "B09T2QB3MZ",
+      "title": "DEUXPER Kits de fieltro de aguja para principiantes, juego de bricolaje de materiales de dragón de fieltro de lana para adultos y niños, regalo para mujeres y hombres",
+      "price": "$788.39",
+      "extracted_at": "2025-10-20T00:04:09.721Z"
+    },
+    {
+      "asin": "B07YSGLFGC",
+      "title": "Chenille tallos coloridos tubos limpiadores a granel suministros fácil de doblar, juguetes perfectos para niños, creativo, proyectos de manualidades, arte escolar y clase de manualidades (6 mm 12 pulgadas), 1050 piezas (30 colores), 1",
+      "price": "$810.40",
+      "extracted_at": "2025-10-20T00:04:09.722Z"
+    }
+  ]
+}

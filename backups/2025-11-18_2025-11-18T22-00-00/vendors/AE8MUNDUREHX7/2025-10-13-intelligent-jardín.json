@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "seller_id": "AE8MUNDUREHX7",
+    "category_name": "Jardín",
+    "date_scraped": "2025-10-13T15:46:39.562Z",
+    "processing_type": "intelligent_detection_v1",
+    "max_products_per_category": 320,
+    "max_depth": 3,
+    "expected_products": 370
+  },
+  "intelligence_stats": {
+    "loops_avoided": 0,
+    "filters_detected": 15
+  },
+  "subcategories": [
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A16215357011%2Cn%3A20949695011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370400&rnid=16215357011&ref=sr_nr_n_1&ds=v1%3Asj8tNFh4oe2UZcq4kwF3A5KGUz0gQ3KUrtxtiu6FdLc",
+      "name": "Asadores y Comedor en Exteriores",
+      "full_path": "Jardín > Asadores y Comedor en Exteriores",
+      "productCount": 45,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:46:49.393Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A16215357011%2Cn%3A20949680011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370400&rnid=16215357011&ref=sr_nr_n_2&ds=v1%3AW5ScXW5J%2BAlpWonjgnsUwKXAgCYfiokWWKN32VGV9LE",
+      "name": "Cortadoras y Herramientas Eléctricas",
+      "full_path": "Jardín > Cortadoras y Herramientas Eléctricas",
+      "productCount": 33,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:46:54.678Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A16215357011%2Cn%3A20949684011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370400&rnid=16215357011&ref=sr_nr_n_3&ds=v1%3AzQS3LELqZwzq9xgCPdwXtNIcD%2B7RU2Vk9m%2Bs8bIwgSY",
+      "name": "Cuidado de Césped y Plantas",
+      "full_path": "Jardín > Cuidado de Césped y Plantas",
+      "productCount": 14,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:47:00.358Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A16215357011%2Cn%3A20949693011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370400&rnid=16215357011&ref=sr_nr_n_4&ds=v1%3AFoa20ZqquT7qsKoNLsCoE2tjtmxNyUaiO%2FvZva8%2BWNk",
+      "name": "Decoración para Exteriores",
+      "full_path": "Jardín > Decoración para Exteriores",
+      "productCount": 60,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:47:04.805Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A16215357011%2Cn%3A20949691011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370400&rnid=16215357011&ref=sr_nr_n_5&ds=v1%3AyzVqNAj2nVvqDNTk8TkAmQMmc5kLGA%2BRRgEUjIawKOE",
+      "name": "Estructuras y Equipo de Germinación",
+      "full_path": "Jardín > Estructuras y Equipo de Germinación",
+      "productCount": 29,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:47:09.552Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A16215357011%2Cn%3A20949683011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370400&rnid=16215357011&ref=sr_nr_n_6&ds=v1%3AtblaLElywDbj1EIaJXmthirVx88E%2BfhNerEyRaDcplw",
+      "name": "Herramientas de Jardín y Equipo de Riego",
+      "full_path": "Jardín > Herramientas de Jardín y Equipo de Riego",
+      "productCount": 62,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:47:13.968Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A16215357011%2Cn%3A9886232011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370400&rnid=16215357011&ref=sr_nr_n_7&ds=v1%3AWVIxqyZKAupEzAIxF2QCObwb%2Bi57PiKrneKY65xb%2Fks",
+      "name": "Iluminación de Exterior",
+      "full_path": "Jardín > Iluminación de Exterior",
+      "productCount": 63,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:47:17.756Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A16215357011%2Cn%3A20949685011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370400&rnid=16215357011&ref=sr_nr_n_8&ds=v1%3AIHypcBfvWeKnqdccarHWvVXBX%2FI32V6oS%2FyXvR8AoAE",
+      "name": "Muebles de Patio y Accesorios",
+      "full_path": "Jardín > Muebles de Patio y Accesorios",
+      "productCount": 18,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:47:22.659Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A16215357011%2Cn%3A20949694011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370400&rnid=16215357011&ref=sr_nr_n_9&ds=v1%3AlV2rjn0dyqZDiYwaRIEoBeMr5zEMeS42GtF5Va9qlZw",
+      "name": "Piscinas, Jacuzzis y Suministros",
+      "full_path": "Jardín > Piscinas, Jacuzzis y Suministros",
+      "productCount": 16,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:47:26.363Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A16215357011%2Cn%3A20949692011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370400&rnid=16215357011&ref=sr_nr_n_10&ds=v1%3AbEK%2BuKE6JWyJoTVyUYlmn8tkaywkOukQSMvn2E42otY",
+      "name": "Termómetros e Instrumentos Meteorológicos",
+      "full_path": "Jardín > Termómetros e Instrumentos Meteorológicos",
+      "productCount": 6,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:47:30.888Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A16215357011%2Cn%3A9829766011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370400&rnid=16215357011&ref=sr_nr_n_11&ds=v1%3A3L%2BbSzlk4SYDkNnaLYY2CyjKlsPZ3Lb6nFIhULm6YCw",
+      "name": "Terrazas de Madera y Cercas",
+      "full_path": "Jardín > Terrazas de Madera y Cercas",
+      "productCount": 6,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:47:35.803Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A16215357011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370400&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3AjUiQIR0ozMtgQhB6xT8ZGo05uG9HyIK7d%2Be11Dea5cY",
+      "name": "Meses sin Intereses",
+      "full_path": "Jardín > Meses sin Intereses",
+      "productCount": 17,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:47:40.277Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A16215357011%2Cp_n_is-global-store-asin%3A23559285011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370400&rnid=23559284011&ref=sr_nr_p_n_is-global-store-asin_1&ds=v1%3AX2rb9thghPVBJIYNh7VUttrfrfeK5T2crn3JJW2rT9s",
+      "name": "Amazon Internacional",
+      "full_path": "Jardín > Amazon Internacional",
+      "productCount": 49,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:47:45.425Z"
+    }
+  ]
+}

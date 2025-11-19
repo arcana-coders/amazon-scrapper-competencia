@@ -1,0 +1,398 @@
+{
+  "seller_id": "AE8MUNDUREHX7",
+  "batch_number": 2,
+  "created_at": "2025-10-13T03:50:36.366Z",
+  "analysis_type": "recursive_hierarchical_batch",
+  "max_products_per_leaf": 320,
+  "max_recursion_depth": 10,
+  "max_products_per_batch": 1000,
+  "main_categories": [
+    "Alimentos y Bebidas",
+    "Automotriz y Motocicletas",
+    "Bebé",
+    "Belleza",
+    "Deportes y Aire libre",
+    "Electrónicos",
+    "Herramientas y Mejoras del Hogar",
+    "Hogar y Cocina",
+    "Industria, Empresas y Ciencia",
+    "Instrumentos Musicales",
+    "Jardín",
+    "Juguetes y Juegos",
+    "Libros",
+    "Oficina y Papelería",
+    "Películas y Series de TV",
+    "Productos para animales",
+    "Ropa, Zapatos y Accesorios",
+    "Salud y Cuidado Personal",
+    "Videojuegos"
+  ],
+  "categories": [
+    {
+      "name": "Belleza",
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260452011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327198&rnid=15997893011&ref=sr_nr_n_4&ds=v1%3ADVGkNIm42%2FWfR0BfbVRlhqp%2FJLZrrcXYWD%2FyEnoKXas",
+      "expected_products": 418,
+      "isLeaf": false,
+      "depth": 1,
+      "path": [
+        "Belleza"
+      ],
+      "status": "completed",
+      "subcategories": [
+        {
+          "name": "Baño y Cuerpo",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260452011%2Cn%3A10178362011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327234&rnid=11260452011&ref=sr_nr_n_1&ds=v1%3AENyCMGfxyW72No%2FigoUstKnOX62AFggZw00%2FcIWereE",
+          "expected_products": 35,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Belleza",
+            "Baño y Cuerpo"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:47:20.751Z"
+        },
+        {
+          "name": "Cosméticos",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260452011%2Cn%3A10178470011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327234&rnid=11260452011&ref=sr_nr_n_2&ds=v1%3AqLdnFYkA%2BVJCJvz8y7NHm7T44d4boTBTIyVf%2BPoNagI",
+          "expected_products": 84,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Belleza",
+            "Cosméticos"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:47:23.645Z"
+        },
+        {
+          "name": "Cuidado de la Piel",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260452011%2Cn%3A10178562011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327234&rnid=11260452011&ref=sr_nr_n_3&ds=v1%3AEhqKBOs8iTtsObkX5Lbqsnk8GnxQyeZ14R%2FNPrEpIuE",
+          "expected_products": 59,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Belleza",
+            "Cuidado de la Piel"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:47:26.368Z"
+        },
+        {
+          "name": "Cuidado del Cabello",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260452011%2Cn%3A10178402011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327234&rnid=11260452011&ref=sr_nr_n_4&ds=v1%3AKO2CL0abPpGGJ%2Fi6B6JUtulNP7ksmaZ14mQRssFtCWc",
+          "expected_products": 124,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Belleza",
+            "Cuidado del Cabello"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:47:29.180Z"
+        },
+        {
+          "name": "Perfumes y Fragancias",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260452011%2Cn%3A10178384011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327234&rnid=11260452011&ref=sr_nr_n_5&ds=v1%3Au4hhXv7VCKcunmnqKwdQjTywQH4gyS%2BpHq%2BaqUcHk8k",
+          "expected_products": 17,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Belleza",
+            "Perfumes y Fragancias"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:47:32.006Z"
+        },
+        {
+          "name": "Rasurado y Depilación",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260452011%2Cn%3A9845475011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327234&rnid=11260452011&ref=sr_nr_n_6&ds=v1%3AQ%2FBnfUs6uvQhhP8W55SVcHgNvrhEW%2F%2BGnNH3wYBFlcQ",
+          "expected_products": 15,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Belleza",
+            "Rasurado y Depilación"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:47:34.857Z"
+        },
+        {
+          "name": "Utensilios de Belleza",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260452011%2Cn%3A10178655011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327234&rnid=11260452011&ref=sr_nr_n_7&ds=v1%3AZuvFKo9vIoZZQApp7Z1KvIUH2LLaXawdecM3yG2s8gU",
+          "expected_products": 95,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Belleza",
+            "Utensilios de Belleza"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:47:37.673Z"
+        },
+        {
+          "name": "Meses sin Intereses",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260452011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327234&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3AkJrpIEYFuJa1RYPjQUpFzPSZRYT%2Fnmq8jyUpZ2LEQXE",
+          "expected_products": 27,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Belleza",
+            "Meses sin Intereses"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:47:40.481Z"
+        },
+        {
+          "name": "Amazon Internacional",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260452011%2Cp_n_is-global-store-asin%3A23559285011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327234&rnid=23559284011&ref=sr_nr_p_n_is-global-store-asin_1&ds=v1%3AIMhM6zvNnQ5lSTkwSMJer2opW2MMhyd%2FhN3SVB77sgA",
+          "expected_products": 26,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Belleza",
+            "Amazon Internacional"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:47:43.216Z"
+        }
+      ],
+      "created_at": "2025-10-13T03:47:50.592Z",
+      "started_at": "2025-10-13T15:35:03.506Z",
+      "completed_at": "2025-10-13T15:36:09.414Z",
+      "file_path": "2025-10-13-intelligent-belleza.json",
+      "validation_result": {
+        "total_subcategories": 9,
+        "total_products": 479,
+        "loops_avoided": 0,
+        "filters_detected": 14,
+        "expected_vs_found": {
+          "expected": 418,
+          "found": 479
+        }
+      }
+    },
+    {
+      "name": "Deportes y Aire libre",
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482660011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327198&rnid=15997893011&ref=sr_nr_n_5&ds=v1%3ANyEujtrit4w0NtJcJKClX2tan2F7QFXx7aJKeGZ1cUw",
+      "expected_products": 675,
+      "isLeaf": false,
+      "depth": 1,
+      "path": [
+        "Deportes y Aire libre"
+      ],
+      "status": "completed",
+      "subcategories": [
+        {
+          "name": "Accesorios Deportivos y de Recreación al Aire Libre",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482660011%2Cn%3A20687658011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327270&rnid=9482660011&ref=sr_nr_n_1&ds=v1%3Afr82zeH0fS2HKjesqwg0q%2BOUt01VP3y56JeoJb5kqHE",
+          "expected_products": 28,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Deportes y Aire libre",
+            "Accesorios Deportivos y de Recreación al Aire Libre"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:47:55.984Z"
+        },
+        {
+          "name": "Artes Marciales",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482660011%2Cn%3A9783947011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327270&rnid=9482660011&ref=sr_nr_n_2&ds=v1%3ApSwJBs%2BzWYkb7cMtyJgA%2FOEi7Ge80mCFQ2v4s4FQv%2BY",
+          "expected_products": 12,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Deportes y Aire libre",
+            "Artes Marciales"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:47:58.729Z"
+        },
+        {
+          "name": "Artículos para Fans",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482660011%2Cn%3A9786636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327270&rnid=9482660011&ref=sr_nr_n_3&ds=v1%3AiEn%2F3RZ2D9UI3Czl%2BB3jOYHzjeiI%2FNUWj%2BMkvQ3CxKc",
+          "expected_products": 6,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Deportes y Aire libre",
+            "Artículos para Fans"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:48:01.416Z"
+        },
+        {
+          "name": "Balonmano",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482660011%2Cn%3A9784163011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327270&rnid=9482660011&ref=sr_nr_n_4&ds=v1%3AMSJhhuTLaeN9RP%2BfLyAHS8%2FiQXo84GiMxxumzfUJqjQ",
+          "expected_products": 28,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Deportes y Aire libre",
+            "Balonmano"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:48:04.152Z"
+        },
+        {
+          "name": "Basquetbol",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482660011%2Cn%3A9784119011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327270&rnid=9482660011&ref=sr_nr_n_5&ds=v1%3AB3vMNCwKC9WbiqWiQpZmbNIP6XkNLDjZDsWRm9OxOcY",
+          "expected_products": 25,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Deportes y Aire libre",
+            "Basquetbol"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:48:06.852Z"
+        },
+        {
+          "name": "Béisbol",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482660011%2Cn%3A9784206011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327270&rnid=9482660011&ref=sr_nr_n_6&ds=v1%3AIAYuQ96PhIXRi1qIgVdnalip5C3q1yVFwyWKMJZB4jY",
+          "expected_products": 24,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Deportes y Aire libre",
+            "Béisbol"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:48:09.568Z"
+        },
+        {
+          "name": "Box",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482660011%2Cn%3A9784332011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327270&rnid=9482660011&ref=sr_nr_n_7&ds=v1%3A8W1pYJJutpgiNnNFDSPA7fTCLFPyr%2BpJL%2FJfI3jpnHY",
+          "expected_products": 11,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Deportes y Aire libre",
+            "Box"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:48:12.259Z"
+        },
+        {
+          "name": "Calzado Deportivo",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482660011%2Cn%3A9784381011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327270&rnid=9482660011&ref=sr_nr_n_8&ds=v1%3AxTcZs7fMXPupSmubXXSmh1f3Giv7U5EOCLvklo7p6nM",
+          "expected_products": 10,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Deportes y Aire libre",
+            "Calzado Deportivo"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:48:14.954Z"
+        },
+        {
+          "name": "Campismo y Senderismo",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482660011%2Cn%3A9783688011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327270&rnid=9482660011&ref=sr_nr_n_9&ds=v1%3AW4LLlJP9py0q0yHubHRnXZekj6voB22TxXW%2BSs2qUYo",
+          "expected_products": 50,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Deportes y Aire libre",
+            "Campismo y Senderismo"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:48:17.646Z"
+        },
+        {
+          "name": "Caza",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482660011%2Cn%3A9784387011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327270&rnid=9482660011&ref=sr_nr_n_10&ds=v1%3AupB44UO086issYjvs88dKCf7KaussjE6EbXLh9koDow",
+          "expected_products": 11,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Deportes y Aire libre",
+            "Caza"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:48:20.347Z"
+        },
+        {
+          "name": "Ciclismo",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482660011%2Cn%3A9784530011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327270&rnid=9482660011&ref=sr_nr_n_11&ds=v1%3AOEc7AY5kpeU3RjkPGujw94A%2BLmt2bx8wRmD1VrbaoMM",
+          "expected_products": 37,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Deportes y Aire libre",
+            "Ciclismo"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:48:23.020Z"
+        },
+        {
+          "name": "Correr",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482660011%2Cn%3A9790484011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327270&rnid=9482660011&ref=sr_nr_n_12&ds=v1%3AhAbatSmmRD1gu2IUXZI7BM4BjnZoZGjC8Yy8QBQckP8",
+          "expected_products": 44,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Deportes y Aire libre",
+            "Correr"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:48:25.755Z"
+        },
+        {
+          "name": "Críquet",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482660011%2Cn%3A9785808011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327270&rnid=9482660011&ref=sr_nr_n_13&ds=v1%3Aiu4MU32Ng%2BiZ5bopxh7uasp6XhOE%2BlpxD6KvMz%2FpOOM",
+          "expected_products": 5,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Deportes y Aire libre",
+            "Críquet"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:48:28.481Z"
+        },
+        {
+          "name": "Deportes",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482660011%2Cn%3A23501685011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327270&rnid=9482660011&ref=sr_nr_n_14&ds=v1%3AS6uWtyGwRiMOoUDbKNN1RyyBJSYo2UbkcxsvQt9gnYg",
+          "expected_products": 15,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Deportes y Aire libre",
+            "Deportes"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:48:31.258Z"
+        },
+        {
+          "name": "Deportes Acuáticos",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482660011%2Cn%3A9785900011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327270&rnid=9482660011&ref=sr_nr_n_15&ds=v1%3A%2BeD61BeheLN7X5jAgWS7xLJ3GMnSvdf5GMAktqMg%2FCs",
+          "expected_products": 35,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Deportes y Aire libre",
+            "Deportes Acuáticos"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:48:34.002Z"
+        }
+      ],
+      "created_at": "2025-10-13T03:48:34.002Z",
+      "started_at": "2025-10-13T15:36:14.443Z",
+      "completed_at": "2025-10-13T15:37:27.379Z",
+      "file_path": "2025-10-13-intelligent-deportes-y-aire-libre.json",
+      "validation_result": {
+        "total_subcategories": 15,
+        "total_products": 339,
+        "loops_avoided": 0,
+        "filters_detected": 16,
+        "expected_vs_found": {
+          "expected": 675,
+          "found": 339
+        }
+      }
+    }
+  ]
+}

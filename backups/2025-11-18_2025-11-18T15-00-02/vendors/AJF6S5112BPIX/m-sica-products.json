@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "seller_id": "AJF6S5112BPIX",
+    "seller_url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482620011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761932814&rnid=15997893011&ref=sr_nr_n_13&ds=v1%3AWle3KPGhOQee4X%2FutG8acFiVDunHeXQBz39RN9ycAHM",
+    "category_name": "Música",
+    "total_products": 12,
+    "pages_processed": 1,
+    "extraction_date": "2025-10-31T20:38:15.940Z",
+    "script_version": "1.0"
+  },
+  "products": [
+    {
+      "asin": "B09B7CWR7J",
+      "title": "JYP Ent Álbum de STRAY KIDS - NOEASY [Versión normal Vol.2) álbum + juego de tarjetas de fotos adicionales (versión aleatoria)",
+      "price": "$829.82",
+      "extracted_at": "2025-10-31T20:38:15.916Z"
+    },
+    {
+      "asin": "B09R3LQQ1X",
+      "title": "Moving Pictures [CD]",
+      "price": "$680.63",
+      "extracted_at": "2025-10-31T20:38:15.916Z"
+    },
+    {
+      "asin": "B00DPKQEPW",
+      "title": "Very Best of 30 Cuts [Importado]",
+      "price": "$752.14",
+      "extracted_at": "2025-10-31T20:38:15.916Z"
+    },
+    {
+      "asin": "B0BRRJBZZQ",
+      "title": "Big Hit Entertainment TOMORROW X TOGETHER TXT - THE NAME CHAPTER : TEMPTATION [Lullaby ver.] Album (5 ver. SET)",
+      "price": "$1,484.86",
+      "extracted_at": "2025-10-31T20:38:15.916Z"
+    },
+    {
+      "asin": "B09R8X825J",
+      "title": "My Everything [CD]",
+      "price": "$560.90",
+      "extracted_at": "2025-10-31T20:38:15.916Z"
+    },
+    {
+      "asin": "B0CYZNKPBM",
+      "title": "Pegatinas clásico",
+      "price": "$397.59",
+      "extracted_at": "2025-10-31T20:38:15.916Z"
+    },
+    {
+      "asin": "B0898MQ34H",
+      "title": "Paramore",
+      "price": "$608.66",
+      "extracted_at": "2025-10-31T20:38:15.916Z"
+    },
+    {
+      "asin": "B097QBD1JK",
+      "title": "YUAKUOD I Love Me/Still Have Me - Exclusive Limited Edition Red Transparent Colored Vinyl LP",
+      "price": "$969.87",
+      "extracted_at": "2025-10-31T20:38:15.916Z"
+    },
+    {
+      "asin": "B09Z2G7VH7",
+      "title": "Valueflag ONEUS TRICKSTER 7º contenido del álbum y seguimiento sellado (JOKER)",
+      "price": "$878.31",
+      "extracted_at": "2025-10-31T20:38:15.916Z"
+    },
+    {
+      "asin": "B08DT8DWQY",
+      "title": "frijoles (Farro)",
+      "price": "$1,314.41",
+      "extracted_at": "2025-10-31T20:38:15.916Z"
+    },
+    {
+      "asin": "B01AZDMPRC",
+      "title": "22 Greatest Hits",
+      "price": "$489.49",
+      "extracted_at": "2025-10-31T20:38:15.916Z"
+    },
+    {
+      "asin": "B000OPOCGO",
+      "title": "35th Anniversario [Importado]",
+      "price": "$656.41",
+      "extracted_at": "2025-10-31T20:38:15.916Z"
+    }
+  ]
+}

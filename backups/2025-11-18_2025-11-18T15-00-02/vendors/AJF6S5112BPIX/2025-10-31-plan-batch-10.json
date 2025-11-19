@@ -1,0 +1,56 @@
+{
+  "seller_id": "AJF6S5112BPIX",
+  "batch_number": 10,
+  "created_at": "2025-10-31T18:05:50.766Z",
+  "analysis_type": "recursive_hierarchical_batch",
+  "max_products_per_leaf": 320,
+  "max_recursion_depth": 10,
+  "max_products_per_batch": 1000,
+  "main_categories": [
+    "Alimentos y Bebidas",
+    "Automotriz y Motocicletas",
+    "Bebé",
+    "Belleza",
+    "Deportes y Aire libre",
+    "Electrónicos",
+    "Herramientas y Mejoras del Hogar",
+    "Hogar y Cocina",
+    "Industria, Empresas y Ciencia",
+    "Jardín",
+    "Juguetes y Juegos",
+    "Libros",
+    "Música",
+    "Oficina y Papelería",
+    "Productos para animales",
+    "Ropa, Zapatos y Accesorios",
+    "Salud y Cuidado Personal",
+    "Software",
+    "Videojuegos"
+  ],
+  "categories": [
+    {
+      "name": "Software",
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482690011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761932814&rnid=15997893011&ref=sr_nr_n_18&ds=v1%3AJwuqn%2FKHw%2BEWB1azcDswCDUqkfl4rtgW5JxokZvqnEw",
+      "expected_products": 13,
+      "isLeaf": true,
+      "depth": 1,
+      "path": [
+        "Software"
+      ],
+      "status": "pending",
+      "created_at": "2025-10-31T18:05:48.007Z"
+    },
+    {
+      "name": "Videojuegos",
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482640011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761932814&rnid=15997893011&ref=sr_nr_n_19&ds=v1%3AhU6F4C8ig9t90q4DAYMNji8Nexxw6xGw86cYmGOosZg",
+      "expected_products": 155,
+      "isLeaf": true,
+      "depth": 1,
+      "path": [
+        "Videojuegos"
+      ],
+      "status": "pending",
+      "created_at": "2025-10-31T18:05:50.766Z"
+    }
+  ]
+}

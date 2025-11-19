@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "seller_id": "AJF6S5112BPIX",
+    "seller_url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482690011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761932814&rnid=15997893011&ref=sr_nr_n_18&ds=v1%3AJwuqn%2FKHw%2BEWB1azcDswCDUqkfl4rtgW5JxokZvqnEw",
+    "category_name": "Software",
+    "total_products": 13,
+    "pages_processed": 1,
+    "extraction_date": "2025-10-31T20:50:38.654Z",
+    "script_version": "1.0"
+  },
+  "products": [
+    {
+      "asin": "B0CSMBV2K8",
+      "title": "Clasificado: France '44 - Xbox Series X",
+      "price": "$512.93",
+      "extracted_at": "2025-10-31T20:50:38.631Z"
+    },
+    {
+      "asin": "B0CGMMK9C6",
+      "title": "Quicken Classic Deluxe, Personal Finance Software - Take control of your finances - 1 Year Subscription (Windows/Mac) [Key Card]",
+      "price": "$1,949.57",
+      "extracted_at": "2025-10-31T20:50:38.631Z"
+    },
+    {
+      "asin": "1950578143",
+      "title": "Aprendizaje sin lágrimas - Guía de preparación y escritura para profesores de prekínder (edición actual) - Prepárate para la serie escolar - Libro de escritura prekínder - Habilidades de preescritura - para uso escolar o doméstico",
+      "price": "$1,052.81",
+      "extracted_at": "2025-10-31T20:50:38.631Z"
+    },
+    {
+      "asin": "B0C9PJH7K1",
+      "title": "Farming Simulator 22: Premium Edition - PlayStation 4",
+      "price": "$1,763.15",
+      "extracted_at": "2025-10-31T20:50:38.631Z"
+    },
+    {
+      "asin": "B00OZTHYGU",
+      "title": "JumpStart 3rd Grade",
+      "price": "$703.47",
+      "extracted_at": "2025-10-31T20:50:38.631Z"
+    },
+    {
+      "asin": "B0CDS6LK1N",
+      "title": "Pixy Canvas-Marco flotante de 10 x 20 para pinturas sobre lienzo de 1-1/2 (1,5) pulgadas de profundidad/impresiones sobre lienzo/paneles de lienzo de madera/arte de pared/decoración de pared/decoració",
+      "price": "$1,592.47",
+      "extracted_at": "2025-10-31T20:50:38.631Z"
+    },
+    {
+      "asin": "B001647LUG",
+      "title": "Backyard Football",
+      "price": "$512.93",
+      "extracted_at": "2025-10-31T20:50:38.631Z"
+    },
+    {
+      "asin": "B0B6JPTM7L",
+      "title": "Print Checks Deluxe - Cheque Printing Software for Windows 10/11",
+      "price": "$1,479.99",
+      "extracted_at": "2025-10-31T20:50:38.631Z"
+    },
+    {
+      "asin": "B0CB7Y11VC",
+      "title": "Server 2019 64 bit DVD | 16 core Standard | English",
+      "price": "$2,342.78",
+      "extracted_at": "2025-10-31T20:50:38.631Z"
+    },
+    {
+      "asin": "B01N295BCM",
+      "title": "Mint Linux LTS Version",
+      "price": "$584.89",
+      "extracted_at": "2025-10-31T20:50:38.632Z"
+    },
+    {
+      "asin": "B00GR51830",
+      "title": "MY SOFTWARE - INVOICES",
+      "price": "$704.39",
+      "extracted_at": "2025-10-31T20:50:38.632Z"
+    },
+    {
+      "asin": "B07YYKT1F8",
+      "title": "Print Checks Pro - Check Printing Software for Windows 10",
+      "price": "$1,014.41",
+      "extracted_at": "2025-10-31T20:50:38.632Z"
+    },
+    {
+      "asin": "B009AYHI8O",
+      "title": "System Mechanic - Unlimited PCs (NEW version 11)",
+      "price": "$1,210.37",
+      "extracted_at": "2025-10-31T20:50:38.632Z"
+    }
+  ]
+}

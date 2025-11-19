@@ -1,0 +1,163 @@
+{
+  "metadata": {
+    "seller_id": "AE8MUNDUREHX7",
+    "seller_url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482660011%2Cn%3A9784206011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760369775&rnid=9482660011&ref=sr_nr_n_6&ds=v1%3AIUBcuKJOdfx7TENdNh4E4luBQCrfkBzyj%2BM5zN847nk",
+    "category_name": "deportes-y-aire-libre-b-isbol",
+    "total_products": 25,
+    "pages_processed": 2,
+    "extraction_date": "2025-10-17T16:33:11.625Z",
+    "script_version": "1.0"
+  },
+  "products": [
+    {
+      "asin": "B09M3NJXTC",
+      "title": "NIMENJOJA - Pantalones cortos de algodón para hombre, 7 pulgadas, para entrenamiento, gimnasio, para relajarse, con bolsillos con cierre",
+      "price": "$976.06",
+      "extracted_at": "2025-10-17T16:33:00.287Z"
+    },
+    {
+      "asin": "B0DYDSDBHX",
+      "title": "NORTHYARD - Pantalones cortos deportivos para correr para hombre, secado rápido, 7 pulgadas, 5 pulgadas, 9 pulgadas, ligeros, deportivos, gimnasio, baloncesto, senderismo",
+      "price": "$879.49",
+      "extracted_at": "2025-10-17T16:33:00.287Z"
+    },
+    {
+      "asin": "B08R8BWPSH",
+      "title": "Leidowei - Pantalones cortos de entrenamiento 2 en 1 para hombre, ligeros, para entrenamiento, yoga, gimnasio, 7 pulgadas, con bolsillos con cierre",
+      "price": "$882.91",
+      "extracted_at": "2025-10-17T16:33:00.287Z"
+    },
+    {
+      "asin": "B0DNMM94QV",
+      "title": "Leafigure - Paquete de 2 pantalones cortos para mujer con bolsillos, pantalones cortos de yoga de cintura alta para mujer, correr, gimnasio y entrenamiento",
+      "price": "$623.88",
+      "extracted_at": "2025-10-17T16:33:00.287Z"
+    },
+    {
+      "asin": "B0DBFFCMN2",
+      "title": "Waycel - Manoplas deslizantes de béisbol para jóvenes, guante deslizante de helado, béisbol, softball",
+      "price": "$1,735.42",
+      "extracted_at": "2025-10-17T16:33:00.288Z"
+    },
+    {
+      "asin": "B0CYL5ZW2N",
+      "title": "Swdarz - Pantalones cortos de voleibol para niñas, para gimnasia, danza, atletismo, pantalones cortos de elastano para niños, deportes de equipo, Negro mate (matt black), 11-12 Años",
+      "price": "$652.76",
+      "extracted_at": "2025-10-17T16:33:00.288Z"
+    },
+    {
+      "asin": "B09DF2VCBG",
+      "title": "Gorra de béisbol de mezclilla lavada de gran tamaño, tamaño XXL, de perfil bajo, para cabezas grandes, de 23.5 a 25.5 pulgadas, sombrero de papá teñido con pigmento grande",
+      "price": "$841.09",
+      "extracted_at": "2025-10-17T16:33:00.288Z"
+    },
+    {
+      "asin": "B0CZ3XK2Z5",
+      "title": "Swdarz - Pantalones cortos de voleibol para niñas, para gimnasia, danza, atletismo, pantalones cortos de elastano para niños, deportes de equipo, Rojo -, 11-12 Años",
+      "price": "$750.34",
+      "extracted_at": "2025-10-17T16:33:00.288Z"
+    },
+    {
+      "asin": "B0CPTSB8VG",
+      "title": "Tacoesha - Gorra de béisbol para mujer, bordado ajustable de algodón para golf, regalo de mamá",
+      "price": "$714.54",
+      "extracted_at": "2025-10-17T16:33:00.288Z"
+    },
+    {
+      "asin": "B0CHMMRZC1",
+      "title": "NORTHYARD - Pantalones cortos deportivos para correr para hombre, secado rápido, 7 pulgadas, 5 pulgadas, 9 pulgadas, ligeros, deportivos, gimnasio, baloncesto, senderismo, azul (Seablue), 3X-Large",
+      "price": "$904.10",
+      "extracted_at": "2025-10-17T16:33:00.288Z"
+    },
+    {
+      "asin": "B0CBTYS4GL",
+      "title": "Pitrungo Red de práctica de béisbol y sóftbol, 7 x 7 pies, red portátil de entrenamiento de bateo y lanzamiento, red de béisbol con zona de ataque y marco de arco y bolsa de transporte, equipo de entrenamiento de béisbol",
+      "price": "$2,879.44",
+      "extracted_at": "2025-10-17T16:33:00.288Z"
+    },
+    {
+      "asin": "B0BDBRLCP9",
+      "title": "Nukem Cap Company - I Support Drinking during The Day - Gorra de camionero estilo retro clásico, Completamente rojo, Talla única",
+      "price": "$956.40",
+      "extracted_at": "2025-10-17T16:33:00.288Z"
+    },
+    {
+      "asin": "B0CHMMLD86",
+      "title": "NORTHYARD - Pantalones cortos deportivos para correr para hombre, secado rápido, 7 pulgadas, 5 pulgadas, 9 pulgadas, ligeros, deportivos, gimnasio, baloncesto, senderismo, Azul oscuro, X-Large",
+      "price": "$863.26",
+      "extracted_at": "2025-10-17T16:33:00.288Z"
+    },
+    {
+      "asin": "B0BCV111CS",
+      "title": "Aurefin High Waisted Athletic Shorts for Women, Womens Plus Size Running Workout Shorts with Liner and Zip Pocket 4 Inch",
+      "price": "$1,001.45",
+      "extracted_at": "2025-10-17T16:33:00.288Z"
+    },
+    {
+      "asin": "B09CKLL8L4",
+      "title": "Zylioo Sujetador de encaje sin costuras push-up sin costuras de seda de morera 100% para mujer",
+      "price": "$835.93",
+      "extracted_at": "2025-10-17T16:33:00.288Z"
+    },
+    {
+      "asin": "B09DLFW5N9",
+      "title": "NIMENJOJA Pantalones cortos deportivos para hombre de 5.5 pulgadas, de algodón, para entrenamiento, sala de estar, con cierre, bolsillo",
+      "price": "$809.65",
+      "extracted_at": "2025-10-17T16:33:00.289Z"
+    },
+    {
+      "asin": "B09DFRTBQ2",
+      "title": "Zylioo XL/XXL Vintage Basecap Kappe Für Großen Kopf Pigment Baseballkappe Washed Cotton Used Look Baseball Cap Waschbare Cappy",
+      "price": "$834.89",
+      "extracted_at": "2025-10-17T16:33:11.606Z"
+    },
+    {
+      "asin": "B08JV1X68D",
+      "title": "Profectors Men's Athletic Shorts with Pockets and Elastic Waistband Quick Dry Activewear Workout Shorts for Men",
+      "price": "$1,389.73",
+      "extracted_at": "2025-10-17T16:33:11.606Z"
+    },
+    {
+      "asin": "B08BLJZZ3N",
+      "title": "ONLYSHE Pantalones Cortos Casuales con cordón para Mujer, Pantalones Cortos de Verano con Cintura elástica y Bolsillos",
+      "price": "$879.61",
+      "extracted_at": "2025-10-17T16:33:11.607Z"
+    },
+    {
+      "asin": "B07DHVD23S",
+      "title": "Luso The Sports Hat",
+      "price": "$820.25",
+      "extracted_at": "2025-10-17T16:33:11.607Z"
+    },
+    {
+      "asin": "B0CW9N79PN",
+      "title": "Gorra de béisbol clásico de algodón lavado, para hombres y mujeres, gorra de béisbol ajustable para papá",
+      "price": "$809.75",
+      "extracted_at": "2025-10-17T16:33:11.607Z"
+    },
+    {
+      "asin": "B0BVGNPZ78",
+      "title": "NORTHYARD - Pantalones cortos deportivos de baloncesto para hombre, 5 pulgadas, 7 pulgadas, de 10 pulgadas, para entrenamiento, gimnasio, secado rápido, pantalones cortos ligeros de malla para correr, tenis",
+      "price": "$777.19",
+      "extracted_at": "2025-10-17T16:33:11.607Z"
+    },
+    {
+      "asin": "B0BPHG4RL5",
+      "title": "DYCBNESS Working Cap with Sweatband Adjustable Bouffant Hat Cap Elastic Bandage Tie Back Hats Hair Covers for Women Men",
+      "price": "$540.27",
+      "extracted_at": "2025-10-17T16:33:11.607Z"
+    },
+    {
+      "asin": "B08NJJ4QQV",
+      "title": "ONLYSHE - Sudadera de cuello redondo para mujer, estilo casual, holgada, de manga larga",
+      "price": "$875.62",
+      "extracted_at": "2025-10-17T16:33:11.607Z"
+    },
+    {
+      "asin": "B07SSTRBGY",
+      "title": "Fasbys Military Army Cadet Hat Men Women Unisex Cotton Flat Top Camo Baseball Cap Adjustable Daily Sports Camping Hat",
+      "price": "$692.81",
+      "extracted_at": "2025-10-17T16:33:11.607Z"
+    }
+  ]
+}

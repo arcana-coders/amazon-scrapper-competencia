@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "seller_id": "AE8MUNDUREHX7",
+    "category_name": "Automotriz y Motocicletas",
+    "date_scraped": "2025-10-13T15:29:37.023Z",
+    "processing_type": "intelligent_detection_v1",
+    "max_products_per_category": 320,
+    "max_depth": 3,
+    "expected_products": 384
+  },
+  "intelligence_stats": {
+    "loops_avoided": 0,
+    "filters_detected": 14
+  },
+  "subcategories": [
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A13848848011%2Cn%3A14327167011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760369377&rnid=13848848011&ref=sr_nr_n_1&ds=v1%3AIbjRkaeZWjzdJPfx%2BSX5iGY93fL7JtIP3wwVOBq133U",
+      "name": "Accesorios para Coche",
+      "full_path": "Automotriz y Motocicletas > Accesorios para Coche",
+      "productCount": 110,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:29:46.683Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A13848848011%2Cn%3A14327169011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760369377&rnid=13848848011&ref=sr_nr_n_2&ds=v1%3A6W3cpfYYBDkwPiXs8ZmXheBlSY0Ixqcw9ZBbJqO1zwg",
+      "name": "Cuidado de Coche y Moto",
+      "full_path": "Automotriz y Motocicletas > Cuidado de Coche y Moto",
+      "productCount": 33,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:29:49.822Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A13848848011%2Cn%3A14327172011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760369377&rnid=13848848011&ref=sr_nr_n_3&ds=v1%3APK4QhP2YNMJ9fqPeCcLq1c803ZjwBSalSKPQRyAXZmM",
+      "name": "Herramientas para Coche",
+      "full_path": "Automotriz y Motocicletas > Herramientas para Coche",
+      "productCount": 35,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:29:54.656Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A13848848011%2Cn%3A14327174011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760369377&rnid=13848848011&ref=sr_nr_n_4&ds=v1%3A8mH7UZTPZjZSzW%2BCAUdB5cwcQywZr46sy8XNvGQ34wM",
+      "name": "Llantas y Rines para Coche",
+      "full_path": "Automotriz y Motocicletas > Llantas y Rines para Coche",
+      "productCount": 46,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:30:00.623Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A13848848011%2Cn%3A14327173011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760369377&rnid=13848848011&ref=sr_nr_n_5&ds=v1%3AyWzl9IiYxMvq8OEu7yqfQKGNG%2BoMGJp2XCsFtroT1As",
+      "name": "Motos, Accesorios y Piezas",
+      "full_path": "Automotriz y Motocicletas > Motos, Accesorios y Piezas",
+      "productCount": 12,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:30:04.071Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A13848848011%2Cn%3A14327176011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760369377&rnid=13848848011&ref=sr_nr_n_6&ds=v1%3Ajv8rVmwkDp8FrTQU5BlA3zqld4aLTNh%2FGbN1%2FCGADa0",
+      "name": "Partes y Refacciones",
+      "full_path": "Automotriz y Motocicletas > Partes y Refacciones",
+      "productCount": 100,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:30:07.177Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?rnid=15997893011&af=%7B%22vehicle%22%3A%222005-54-2623-49--1-6-5-8026-4963-1-1-3079---%22%7D&i=merchant-items&content-id=amzn1.sym.2166debc-8cfe-4a8b-8846-942a09c10a67:amzn1.sym.2166debc-8cfe-4a8b-8846-942a09c10a67&qid=1760369377&marketplaceID=A1AM78C64UM0Y8&pf_rd_p=2166debc-8cfe-4a8b-8846-942a09c10a67&rh=n%3A13848848011&pf_rd_r=4HHN5CP23GF6CW90HEAE&pd_rd_wg=zKUmV&me=AE8MUNDUREHX7&pd_rd_w=0Eby7&pd_rd_r=73ab4155-6a37-4f72-ab48-16e90e0a870e&dc=&ref_=sxts_pf_dsk_ftr_2_1_2166debc-8cfe-4a8b-8846-942a09c10a67",
+      "name": "Filtrar resultados",
+      "full_path": "Automotriz y Motocicletas > Filtrar resultados",
+      "productCount": 380,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:30:10.479Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A13848848011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760369377&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3AzH2pYXIxc0Ysj2%2Fmg6AubaJCWtT2wYVh9fc%2F%2Bnzg3LU",
+      "name": "Meses sin Intereses",
+      "full_path": "Automotriz y Motocicletas > Meses sin Intereses",
+      "productCount": 17,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:30:14.896Z"
+    }
+  ]
+}

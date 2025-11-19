@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "seller_id": "AE8MUNDUREHX7",
+    "seller_url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260442011%2Cn%3A11337425011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370483&rnid=11260442011&ref=sr_nr_n_9&ds=v1%3A1I8tm3Nlx7r37Dov3jPkLloLTKnyLJJ9da5FvpS%2B7yc",
+    "category_name": "juguetes-y-juegos-juguetes-electr-nicos",
+    "total_products": 10,
+    "pages_processed": 1,
+    "extraction_date": "2025-10-20T00:10:06.053Z",
+    "script_version": "1.0"
+  },
+  "products": [
+    {
+      "asin": "B0DY5HNPGH",
+      "title": "Bat Walkie Talkies para niños con luces intermitentes, diseño de dardos alados y nave espacial, paquete de 2 unidades de radio de 2 vías 3-12 años de edad, juguetes de senderismo al aire última",
+      "price": "$756.01",
+      "extracted_at": "2025-10-20T00:10:06.026Z"
+    },
+    {
+      "asin": "B0D8HPK8CW",
+      "title": "Funda de silicona compatible con Anbernic RG556, antiarañazos, lavable, a prueba de golpes, funda protectora de silicona para consola de juegos de mano retro RG556, color negro",
+      "price": "$633.26",
+      "extracted_at": "2025-10-20T00:10:06.026Z"
+    },
+    {
+      "asin": "B0D4R1NJDX",
+      "title": "Dog-E Interactive Robot Luces LED Coloridas, más de 200 Sonidos y reacciones, aplicación conectada (Mayores de 6 años)",
+      "price": "$908.87",
+      "extracted_at": "2025-10-20T00:10:06.026Z"
+    },
+    {
+      "asin": "B0D4JVBXJ6",
+      "title": "STEM Toys - Kits de manualidades para niños y niñas de 5 a 7 a 8 a 13 a 8 a 10 a 12 a 14 años, kits de construcción de bricolaje para actividades infantiles, walkie talkies, regalos de cumpleaños para",
+      "price": "$656.44",
+      "extracted_at": "2025-10-20T00:10:06.026Z"
+    },
+    {
+      "asin": "B0CB7LTQWQ",
+      "title": "Walkie Talkies - Juguetes para niñas: comedyfun Mini robots Walkies Talkies rosa, paquete de 2 regalos de cumpleaños de Navidad para niñas de 3, 4, 5, 6, 7, 8 años, juguetes para nietos de 4, 5, 6, 7",
+      "price": "$597.30",
+      "extracted_at": "2025-10-20T00:10:06.027Z"
+    },
+    {
+      "asin": "B0DHS6MJNN",
+      "title": "Walkie Talkies Juguetes para niños y niñas: paquete de 3 regalos de cumpleaños para niños de 3, 4, 5, 6, 7, 8, 9, 10 años, niños y niñas, juguete de radio de 2 vías para niños y niñas de 3 a 4 años, 4",
+      "price": "$859.63",
+      "extracted_at": "2025-10-20T00:10:06.027Z"
+    },
+    {
+      "asin": "B0D6Z8HQRB",
+      "title": "Walkie Talkies para niños de 3 a 8 años: juguetes de Navidad, regalos para niños de 3, 4, 5, 6, 7, 8, 9, 10 años de edad, niños al aire última intervensión, camping, juguete de radio de 2 vías, regalo",
+      "price": "$648.48",
+      "extracted_at": "2025-10-20T00:10:06.027Z"
+    },
+    {
+      "asin": "B0D16V2KY3",
+      "title": "Walkie Talkies Juguetes para niños: regalos de Pascua para niños de 3, 4, 5, 6, 7, 8, 9, 10, Walkie Talkies para niños, paquete de 2 juguetes de senderismo al aire última intervensión para niños de 5",
+      "price": "$666.88",
+      "extracted_at": "2025-10-20T00:10:06.027Z"
+    },
+    {
+      "asin": "B0DFV8KTRH",
+      "title": "Cámara para niños, regalos de cumpleaños de Navidad para niños, regalos de niña de 3, 4, 5, 6, 7, 8 años, juguetes para niñas, cámara digital multifuncional con carcasa de silicona suave, tarjeta de",
+      "price": "$780.29",
+      "extracted_at": "2025-10-20T00:10:06.027Z"
+    },
+    {
+      "asin": "B0CPXXNM36",
+      "title": "Cámara para niños, cámara digital de dinosaurios para niños y niñas, regalos de cumpleaños de Navidad, cámara selfie 1080P para juguetes de 3, 4, 5, 6, 7, 8, 9 años, azul oscuro",
+      "price": "$806.95",
+      "extracted_at": "2025-10-20T00:10:06.027Z"
+    }
+  ]
+}

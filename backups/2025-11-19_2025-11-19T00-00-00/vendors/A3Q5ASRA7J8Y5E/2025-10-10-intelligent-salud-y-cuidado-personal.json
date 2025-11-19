@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "seller_id": "A3Q5ASRA7J8Y5E",
+    "category_name": "Salud y Cuidado Personal",
+    "date_scraped": "2025-10-10T13:45:32.897Z",
+    "processing_type": "intelligent_detection_v1",
+    "max_products_per_category": 320,
+    "max_depth": 3,
+    "expected_products": 22
+  },
+  "intelligence_stats": {
+    "loops_avoided": 0,
+    "filters_detected": 0
+  },
+  "subcategories": [
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A3Q5ASRA7J8Y5E&rh=n%3A9482610011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760103752&rnid=15997893011&ref=sr_nr_n_7&ds=v1%3AWK1ZawzxbgWGJS1Pkre%2Byw%2F2cw0j9Zfg2Dj2IiisM5k",
+      "name": "Salud y Cuidado Personal",
+      "full_path": "Salud y Cuidado Personal",
+      "productCount": 22,
+      "isLeaf": true,
+      "depth": 1,
+      "timestamp": "2025-10-10T13:45:38.877Z"
+    }
+  ]
+}

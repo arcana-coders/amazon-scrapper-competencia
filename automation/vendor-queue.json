@@ -1,0 +1,32 @@
+{
+  "vendors": [
+    {
+      "seller_id": "A27UCZ6SHTD3J2",
+      "added_at": "2025-11-19T00:18:09.647Z",
+      "registered_date": "2025-11-19T00:18:09.647Z",
+      "priority": "normal",
+      "status": "completed",
+      "batches_completed": [],
+      "total_batches": 5,
+      "auto_synced": true,
+      "phase": 5,
+      "phase_label": "✅ Oportunidades generadas",
+      "started_at": "2025-11-19T00:18:10.755Z",
+      "completed_at": "2025-11-19T00:22:32.823Z"
+    },
+    {
+      "seller_id": "A12WQF3HZEWBDD",
+      "added_at": "2025-11-19T00:18:09.677Z",
+      "registered_date": "2025-11-19T00:18:09.677Z",
+      "priority": "normal",
+      "status": "processing",
+      "batches_completed": [],
+      "total_batches": 10,
+      "auto_synced": true,
+      "phase": 3,
+      "phase_label": "🔄 Verificando MX (1405/2245)",
+      "started_at": "2025-11-19T00:30:53.773Z"
+    }
+  ],
+  "last_updated": "2025-11-19T00:30:53.773Z"
+}

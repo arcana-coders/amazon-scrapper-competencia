@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "seller_id": "A27UCZ6SHTD3J2",
+    "seller_url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A9482630011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761766132&rnid=15997893011&ref=sr_nr_n_14&ds=v1%3ABLP6pT7g5hHWop0xf8nXFm5Qs4xSsmRgTbWKOzdhU84",
+    "category_name": "Películas y Series de TV",
+    "total_products": 11,
+    "pages_processed": 1,
+    "extraction_date": "2025-10-29T22:19:30.493Z",
+    "script_version": "1.0"
+  },
+  "products": [
+    {
+      "asin": "B0B4SS94M6",
+      "title": "Warhammer 40000: Darktide",
+      "price": "$737.35",
+      "extracted_at": "2025-10-29T22:19:30.469Z"
+    },
+    {
+      "asin": "B0B4SV3MSF",
+      "title": "Warhammer 40000: Darktide Imperial Edition",
+      "price": "$1,176.28",
+      "extracted_at": "2025-10-29T22:19:30.469Z"
+    },
+    {
+      "asin": "B077MQ593C",
+      "title": "Birdman & The Galaxy Trio: The Complete Series",
+      "price": "$816.99",
+      "extracted_at": "2025-10-29T22:19:30.469Z"
+    },
+    {
+      "asin": "B06XT5X8YK",
+      "title": "Xiaolin Showdown: The Complete Third Season",
+      "price": "$934.48",
+      "extracted_at": "2025-10-29T22:19:30.469Z"
+    },
+    {
+      "asin": "B07289G4PK",
+      "title": "Ozzy & Drix: The Complete Series",
+      "price": "$896.00",
+      "extracted_at": "2025-10-29T22:19:30.469Z"
+    },
+    {
+      "asin": "B06XBCQ5GN",
+      "title": "The Zeta Project: The Complete Second Season",
+      "price": "$875.15",
+      "extracted_at": "2025-10-29T22:19:30.470Z"
+    },
+    {
+      "asin": "B081BFJVQR",
+      "title": "McQ",
+      "price": "$643.85",
+      "extracted_at": "2025-10-29T22:19:30.470Z"
+    },
+    {
+      "asin": "B077MX8NVW",
+      "title": "Kizumonogatari Part 3 Reiketsu Blu-ray",
+      "price": "$2,824.29",
+      "extracted_at": "2025-10-29T22:19:30.470Z"
+    },
+    {
+      "asin": "B09WW1CVMS",
+      "title": "The Most Reluctant Convert: The Untold Story of C. S. Lewis",
+      "price": "$761.75",
+      "extracted_at": "2025-10-29T22:19:30.470Z"
+    },
+    {
+      "asin": "B07DJWH1MV",
+      "title": "Fresh Off the Boat: The Complete Fourth Season",
+      "price": "$1,013.25",
+      "extracted_at": "2025-10-29T22:19:30.470Z"
+    },
+    {
+      "asin": "B01LTHXM1G",
+      "title": "FitzPatrick Traveltalks: Volume 3",
+      "price": "$932.81",
+      "extracted_at": "2025-10-29T22:19:30.470Z"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "seller_id": "A3Q5ASRA7J8Y5E",
+    "seller_url": "https://www.amazon.com.mx/s?i=merchant-items&me=A3Q5ASRA7J8Y5E&rh=n%3A9482593011%2Cp_n_date%3A7073868011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760103831&rnid=7073860011&ref=sr_nr_p_n_date_1&ds=v1%3A0Gv1kGHJUTd6UfF37yjlx79rdJYZU0hiVKE84R9OG1A",
+    "category_name": "Últimos 90 Días",
+    "total_products": 6,
+    "pages_processed": 1,
+    "extraction_date": "2025-10-10T17:11:52.357Z",
+    "script_version": "1.0"
+  },
+  "products": [
+    {
+      "asin": "B0FFM7T35T",
+      "title": "XSHINOVA - Soporte para cápsulas de café Nespresso Vertuo, paquete de 3 unidades, capacidad para 21 cápsulas, montaje modular en pared o gabinete, estante para cápsulas de café con tiras adhesivas 3M",
+      "price": "$921.31",
+      "extracted_at": "2025-10-10T17:11:52.328Z"
+    },
+    {
+      "asin": "B0FF4WKFYR",
+      "title": "LAMU - Soporte para animales de peluche, zoológico de madera con cordones elásticos, organizador de juguetes para ahorrar espacio, organizador de animales de peluche de capacidad extragrande para sala",
+      "price": "$2,326.85",
+      "extracted_at": "2025-10-10T17:11:52.328Z"
+    },
+    {
+      "asin": "B0F9FLWRHM",
+      "title": "Almacenamiento de animales de peluche sobre la puerta para niños, organizador de fieltro con clips para mostrar arte y bolsillos de malla para rellenos, libros y más, diseño colgante que ahorra",
+      "price": "$1,324.62",
+      "extracted_at": "2025-10-10T17:11:52.328Z"
+    },
+    {
+      "asin": "B0F8QN9NDS",
+      "title": "TBMax - Contenedor de almacenamiento de harina de arroz con tapa abatible automática de 25 libras | 12.68 cuartos de galón, contenedor de harina de almacenamiento de alimentos alto y estrecho para",
+      "price": "$2,077.47",
+      "extracted_at": "2025-10-10T17:11:52.328Z"
+    },
+    {
+      "asin": "B0FH4J3XBN",
+      "title": "YLQLA 9 paquetes de bolsas grandes de almacenamiento de juguetes, organizador de juguetes para niños con cierre y etiquetas, almacenamiento de juegos de mesa de PVC transparente, bolsas organizadoras",
+      "price": "$1,684.48",
+      "extracted_at": "2025-10-10T17:11:52.329Z"
+    },
+    {
+      "asin": "B0FD2N3ZGZ",
+      "title": "PatioPerk - Sistema organizador de clóset integrado con 6 estantes y 3 varillas extensibles para colgar, sistemas de almacenamiento para recámara",
+      "price": "$6,769.64",
+      "extracted_at": "2025-10-10T17:11:52.329Z"
+    }
+  ]
+}

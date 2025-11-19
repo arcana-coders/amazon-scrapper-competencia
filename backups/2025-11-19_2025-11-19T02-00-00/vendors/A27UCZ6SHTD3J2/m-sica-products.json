@@ -1,0 +1,211 @@
+{
+  "metadata": {
+    "seller_id": "A27UCZ6SHTD3J2",
+    "seller_url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A9482620011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761766132&rnid=15997893011&ref=sr_nr_n_12&ds=v1%3AH4JHh9MkxAPqn%2FBwaoVKBtWVQDJqqfy9TE4PjoI5yNo",
+    "category_name": "Música",
+    "total_products": 33,
+    "pages_processed": 3,
+    "extraction_date": "2025-10-29T22:17:35.149Z",
+    "script_version": "1.0"
+  },
+  "products": [
+    {
+      "asin": "B01ESAU7QY",
+      "title": "Roosevelt (Vinyl)",
+      "price": "$836.79",
+      "extracted_at": "2025-10-29T22:17:07.951Z"
+    },
+    {
+      "asin": "1955710198",
+      "title": "Salud de los hombres, no requiere gimnasio: pesas rusas – logra una transformación de cuerpo completo cuando usas solo una pesa rusa",
+      "price": "$911.76",
+      "extracted_at": "2025-10-29T22:17:07.951Z"
+    },
+    {
+      "asin": "B000PSJDUK",
+      "title": "Ma Fleur (Vinyl) [Importado]",
+      "price": "$1,105.10",
+      "extracted_at": "2025-10-29T22:17:07.951Z"
+    },
+    {
+      "asin": "B097QBD1JK",
+      "title": "YUAKUOD I Love Me/Still Have Me - Exclusive Limited Edition Red Transparent Colored Vinyl LP",
+      "price": "$940.76",
+      "extracted_at": "2025-10-29T22:17:07.951Z"
+    },
+    {
+      "asin": "B07JZGCTZV",
+      "title": "Outer Peace (Vinyl)",
+      "price": "$969.59",
+      "extracted_at": "2025-10-29T22:17:07.951Z"
+    },
+    {
+      "asin": "B07GJJW53N",
+      "title": "Skull Snaps",
+      "price": "$886.92",
+      "extracted_at": "2025-10-29T22:17:07.951Z"
+    },
+    {
+      "asin": "B08BRGVP32",
+      "title": "Transitus",
+      "price": "$1,180.35",
+      "extracted_at": "2025-10-29T22:17:07.951Z"
+    },
+    {
+      "asin": "B0BT8BL94G",
+      "title": "Ariane et Bacchus",
+      "price": "$753.41",
+      "extracted_at": "2025-10-29T22:17:07.951Z"
+    },
+    {
+      "asin": "B0CTKSLXHJ",
+      "title": "Hovikodden 1971",
+      "price": "$1,406.45",
+      "extracted_at": "2025-10-29T22:17:07.951Z"
+    },
+    {
+      "asin": "B0898MQ34H",
+      "title": "Paramore",
+      "price": "$598.18",
+      "extracted_at": "2025-10-29T22:17:07.951Z"
+    },
+    {
+      "asin": "B07P61QRML",
+      "title": "Atlantic Oscillations (Vinyl)",
+      "price": "$611.11",
+      "extracted_at": "2025-10-29T22:17:07.951Z"
+    },
+    {
+      "asin": "B07GW2PHRM",
+      "title": "It Won't Be Like This All The Time (Vinyl)",
+      "price": "$969.46",
+      "extracted_at": "2025-10-29T22:17:07.951Z"
+    },
+    {
+      "asin": "B0D9648S1K",
+      "title": "Patterns in Repeat",
+      "price": "$798.05",
+      "extracted_at": "2025-10-29T22:17:07.952Z"
+    },
+    {
+      "asin": "B00004RCCA",
+      "title": "Cowboy Bebop: Blue [Importado]",
+      "price": "$1,238.85",
+      "extracted_at": "2025-10-29T22:17:07.952Z"
+    },
+    {
+      "asin": "B0C71RNJSK",
+      "title": "Act II (Vinyl)",
+      "price": "$1,101.04",
+      "extracted_at": "2025-10-29T22:17:07.952Z"
+    },
+    {
+      "asin": "B09ZCBK891",
+      "title": "Dawn FM - Exclusive Limited Edition Silver Colored Vinyl 2 LP",
+      "price": "$829.24",
+      "extracted_at": "2025-10-29T22:17:07.952Z"
+    },
+    {
+      "asin": "B0000047D9",
+      "title": "With Oscar Peterson Trio [Importado]",
+      "price": "$722.31",
+      "extracted_at": "2025-10-29T22:17:22.564Z"
+    },
+    {
+      "asin": "B00HZ8J1M8",
+      "title": "Three Classic Albums [Importado]",
+      "price": "$731.53",
+      "extracted_at": "2025-10-29T22:17:22.564Z"
+    },
+    {
+      "asin": "B008C3AZ4S",
+      "title": "Rhythm of Youth (Vinyl) [Importado]",
+      "price": "$737.54",
+      "extracted_at": "2025-10-29T22:17:22.564Z"
+    },
+    {
+      "asin": "B0CZPHDNWX",
+      "title": "FUN (AQUA VINYL)",
+      "price": "$1,096.24",
+      "extracted_at": "2025-10-29T22:17:22.565Z"
+    },
+    {
+      "asin": "B00GV8B0HM",
+      "title": "Mtv Unplugged [Importado]",
+      "price": "$555.92",
+      "extracted_at": "2025-10-29T22:17:22.565Z"
+    },
+    {
+      "asin": "B000002LNC",
+      "title": "Immaculate Collection (Vinyl) [Importado]",
+      "price": "$1,482.70",
+      "extracted_at": "2025-10-29T22:17:22.565Z"
+    },
+    {
+      "asin": "B09CGMTGLR",
+      "title": "Somewhere in Time (Expanded Original Soundtrack)",
+      "price": "$1,688.17",
+      "extracted_at": "2025-10-29T22:17:22.565Z"
+    },
+    {
+      "asin": "B093VMHPGZ",
+      "title": "TXT - The Chaos Chapter: FREEZE [World ver.] (The 2nd Album) [Pre Order] CD+Photobook+Folded Poster+Others with Tracking, Extra Decorative Stickers, Photocards",
+      "price": "$860.38",
+      "extracted_at": "2025-10-29T22:17:22.565Z"
+    },
+    {
+      "asin": "B08B7LNQ89",
+      "title": "Escape: Expanded Edition (Vinyl)",
+      "price": "$778.13",
+      "extracted_at": "2025-10-29T22:17:22.565Z"
+    },
+    {
+      "asin": "B0000AGWET",
+      "title": "So Far From Real [Importado]",
+      "price": "$1,004.97",
+      "extracted_at": "2025-10-29T22:17:22.565Z"
+    },
+    {
+      "asin": "B07MZHXHFV",
+      "title": "Better Oblivion Community Center (Vinyl)",
+      "price": "$753.82",
+      "extracted_at": "2025-10-29T22:17:22.565Z"
+    },
+    {
+      "asin": "B00AG0D45M",
+      "title": "Live Dates [Importado]",
+      "price": "$865.31",
+      "extracted_at": "2025-10-29T22:17:22.565Z"
+    },
+    {
+      "asin": "B00B2TUKI0",
+      "title": "Blue Room [Importado]",
+      "price": "$600.57",
+      "extracted_at": "2025-10-29T22:17:22.565Z"
+    },
+    {
+      "asin": "B0BZDRLZRY",
+      "title": "xikers - HOUSE OF TRICKY : Doorbell Ringing (HIKER VER)",
+      "price": "$668.92",
+      "extracted_at": "2025-10-29T22:17:22.565Z"
+    },
+    {
+      "asin": "B00PC83Q2O",
+      "title": "I Used To Spend So Much Time Alone (Vinyl)",
+      "price": "$678.87",
+      "extracted_at": "2025-10-29T22:17:22.565Z"
+    },
+    {
+      "asin": "B000UDUMOQ",
+      "title": "Traditional Delta Blues [Importado]",
+      "price": "$625.96",
+      "extracted_at": "2025-10-29T22:17:22.565Z"
+    },
+    {
+      "asin": "B0044YN9CE",
+      "title": "Ost: Lone Gunmen/Harsh Realm",
+      "price": "$1,227.93",
+      "extracted_at": "2025-10-29T22:17:35.132Z"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "seller_id": "AE8MUNDUREHX7",
+    "category_name": "Industria, Empresas y Ciencia",
+    "date_scraped": "2025-10-13T15:45:06.819Z",
+    "processing_type": "intelligent_detection_v1",
+    "max_products_per_category": 320,
+    "max_depth": 3,
+    "expected_products": 793
+  },
+  "intelligence_stats": {
+    "loops_avoided": 0,
+    "filters_detected": 18
+  },
+  "subcategories": [
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11076223011%2Cn%3A12499346011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370307&rnid=11076223011&ref=sr_nr_n_1&ds=v1%3Aak3fZPafL8bk%2FA2yUfgUHHnwEjVLwuEK5GuDepXWOok",
+      "name": "Afianzadores",
+      "full_path": "Industria, Empresas y Ciencia > Afianzadores",
+      "productCount": 14,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:45:17.311Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11076223011%2Cn%3A12499360011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370307&rnid=11076223011&ref=sr_nr_n_2&ds=v1%3APuD8L4gep7851QqPkh%2Bwd6gCq5fvqCk%2FK%2BxeVJmE6HU",
+      "name": "Ferretería Industrial",
+      "full_path": "Industria, Empresas y Ciencia > Ferretería Industrial",
+      "productCount": 16,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:45:20.685Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11076223011%2Cn%3A12499356011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370307&rnid=11076223011&ref=sr_nr_n_3&ds=v1%3AONAtIxEdULn5FPkEGkpk6lkfmDygh8OSrGUkbGfAPwo",
+      "name": "Herramientas Eléctricas y de Mano",
+      "full_path": "Industria, Empresas y Ciencia > Herramientas Eléctricas y de Mano",
+      "productCount": 48,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:45:25.276Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11076223011%2Cn%3A12569832011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370307&rnid=11076223011&ref=sr_nr_n_4&ds=v1%3A43BsA1G9u4Z%2F4WXX4FC%2FurNAzkON%2FA82K6Sab54RMJ0",
+      "name": "Herramientas y Ferretería",
+      "full_path": "Industria, Empresas y Ciencia > Herramientas y Ferretería",
+      "productCount": 559,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:45:28.659Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11076223011%2Cn%3A12499368011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370307&rnid=11076223011&ref=sr_nr_n_5&ds=v1%3AtIlinzHpmt6K44Ga%2F7H8H41YChfmXHAKArRO9fk01eQ",
+      "name": "Higiene y Seguridad Laboral",
+      "full_path": "Industria, Empresas y Ciencia > Higiene y Seguridad Laboral",
+      "productCount": 31,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:45:32.097Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11076223011%2Cn%3A12499366011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370307&rnid=11076223011&ref=sr_nr_n_6&ds=v1%3A6BAaVmonfFcxRbWHH9dYiAFD78iREGCt%2Bvpvduiksp0",
+      "name": "Impresión 3D",
+      "full_path": "Industria, Empresas y Ciencia > Impresión 3D",
+      "productCount": 8,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:45:35.619Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11076223011%2Cn%3A12499362011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370307&rnid=11076223011&ref=sr_nr_n_7&ds=v1%3AdYB0ZuebuL46wczsemioVqRBBEulOWmrxyVnEKvQRFg",
+      "name": "Medición y Test",
+      "full_path": "Industria, Empresas y Ciencia > Medición y Test",
+      "productCount": 14,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:45:40.733Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11076223011%2Cn%3A24002904011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370307&rnid=11076223011&ref=sr_nr_n_8&ds=v1%3AEU2A1Y45urCnCJezANGqItnBj6cj2RjfCEpN4gIDgnU",
+      "name": "Energía Solar y Eólica",
+      "full_path": "Industria, Empresas y Ciencia > Energía Solar y Eólica",
+      "productCount": 3,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:45:45.774Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11076223011%2Cn%3A12499371011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370307&rnid=11076223011&ref=sr_nr_n_9&ds=v1%3Aj2T9aKFTVE%2BswMqzK9TTa2mm96%2Ft3dD39HGOvs4%2BOaA",
+      "name": "Productos de Laboratorio y Ciencias",
+      "full_path": "Industria, Empresas y Ciencia > Productos de Laboratorio y Ciencias",
+      "productCount": 12,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:45:49.869Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11076223011%2Cn%3A12499387011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370307&rnid=11076223011&ref=sr_nr_n_10&ds=v1%3AZB10Frv7dEIzRyd6Pcj6PJZvHgGuGjgcj1csyBlwDN8",
+      "name": "Suministros de Limpieza y Saneamiento",
+      "full_path": "Industria, Empresas y Ciencia > Suministros de Limpieza y Saneamiento",
+      "productCount": 38,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:45:55.825Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11076223011%2Cn%3A24002907011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370307&rnid=11076223011&ref=sr_nr_n_11&ds=v1%3AcjEYTRHMqlBhpDCYJeYvo8FQXDvChLu2%2F8Z44RuIU14",
+      "name": "Accesorios y equipos para tiendas minoristas",
+      "full_path": "Industria, Empresas y Ciencia > Accesorios y equipos para tiendas minoristas",
+      "productCount": 3,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:45:58.898Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11076223011%2Cn%3A24002906011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370307&rnid=11076223011&ref=sr_nr_n_12&ds=v1%3AGFuumS%2F6%2Fa8yLEmO4Dp46bRY556cwHuq1LUTL8MhbaY",
+      "name": "Eléctrica industrial",
+      "full_path": "Industria, Empresas y Ciencia > Eléctrica industrial",
+      "productCount": 23,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:46:04.347Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11076223011%2Cn%3A9828027011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370307&rnid=11076223011&ref=sr_nr_n_13&ds=v1%3AC1CiFEm7BGV%2Fg91Sc%2FmgN2FkWo6ZoMl0t67TV027ix0",
+      "name": "Adhesivos y Selladores",
+      "full_path": "Industria, Empresas y Ciencia > Adhesivos y Selladores",
+      "productCount": 17,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:46:09.567Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11076223011%2Cn%3A9829597011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370307&rnid=11076223011&ref=sr_nr_n_14&ds=v1%3ADnWs5qnz0qW3zO6C0DxSPEvW0T%2FtvcqvnczAip8Oj30",
+      "name": "Material y Accesorios de Seguridad Laboral",
+      "full_path": "Industria, Empresas y Ciencia > Material y Accesorios de Seguridad Laboral",
+      "productCount": 20,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:46:13.533Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11076223011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370307&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3AuDLoe6cOk5YQuKpGWgs1oose%2BtuE9fy4ZVv3BkFZSNw",
+      "name": "Meses sin Intereses",
+      "full_path": "Industria, Empresas y Ciencia > Meses sin Intereses",
+      "productCount": 42,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:46:18.191Z"
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "metadata": {
+    "seller_id": "AE8MUNDUREHX7",
+    "seller_url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260442011%2Cp_n_g-1004151746091%3A11338006011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370483&rnid=11337999011&ref=sr_nr_p_n_g-1004151746091_1&ds=v1%3AecWqprqe3h7yUfgrA0mOejuJDeLNrq9V8eYSP%2BL4P3w",
+    "category_name": "juguetes-y-juegos-0-a-1-a-os",
+    "total_products": 46,
+    "pages_processed": 3,
+    "extraction_date": "2025-10-20T01:34:48.342Z",
+    "script_version": "1.0"
+  },
+  "products": [
+    {
+      "asin": "B07HDGLR6N",
+      "title": "Glow Wholesale Elfie (niño) y Elvie (niña) - Juego de 2 Piezas de Elfos Divertidos y juguetones Que se comportan Mal con Cuerpo Suave y Cara de Vinilo, Color Rojo",
+      "price": "$590.99",
+      "extracted_at": "2025-10-20T01:34:19.893Z"
+    },
+    {
+      "asin": "B0D8HPK8CW",
+      "title": "Funda de silicona compatible con Anbernic RG556, antiarañazos, lavable, a prueba de golpes, funda protectora de silicona para consola de juegos de mano retro RG556, color negro",
+      "price": "$633.26",
+      "extracted_at": "2025-10-20T01:34:19.893Z"
+    },
+    {
+      "asin": "B0BL8MZJJY",
+      "title": "Disney Jazm n Mu eca de peluche Aladd n 14 1/2 pulgadas",
+      "price": "$1,072.48",
+      "extracted_at": "2025-10-20T01:34:19.893Z"
+    },
+    {
+      "asin": "B0DTDJFKDL",
+      "title": "Zendstanding - Juguetes de asiento de coche para bebés, 0 a 6 meses, juguete de actividad para carriola de bebé negro y blanco en espiral, juguetes de felpa para recién nacidos de alto contraste",
+      "price": "$664.05",
+      "extracted_at": "2025-10-20T01:34:19.893Z"
+    },
+    {
+      "asin": "B0BL9JHP19",
+      "title": "Disney Store - Muñeca de peluche oficial de princesa, Moana, mediana de 36 cm, suave felpa con características bordadas, muñecas de Disney, animales de peluche para niñas",
+      "price": "$1,050.08",
+      "extracted_at": "2025-10-20T01:34:19.893Z"
+    },
+    {
+      "asin": "B07HCNJZ2F",
+      "title": "BrickShield - Pegamento calcomanía de plástico para ladrillos, bloques y multiusos, ideal para manualidades, Lego, peso neto de 2.5 onzas, no tóxico, fabricado en Estados Unidos",
+      "price": "$651.25",
+      "extracted_at": "2025-10-20T01:34:19.893Z"
+    },
+    {
+      "asin": "B0B84BGYN1",
+      "title": "Disney - Peluche oficial de Minnie Mouse, mediano, de 43 cm, personaje icónico de juguete en vestido y moño de lunares rojos, cuenta con orejas estructuradas y detalles bordados, para todas las edades",
+      "price": "$1,056.13",
+      "extracted_at": "2025-10-20T01:34:19.893Z"
+    },
+    {
+      "asin": "B0B83Q246L",
+      "title": "Disney - Peluche oficial de Winnie The Pooh, peluche de tamaño mediano de 30 cm, fabricado con tela suave al tacto con detalles bordados y lleva una playera roja clásica, para todas las edades",
+      "price": "$1,165.66",
+      "extracted_at": "2025-10-20T01:34:19.893Z"
+    },
+    {
+      "asin": "B0DQ8HFX6Y",
+      "title": "Baby Bouncer - Barra de juguete de madera compatible con Baby Bjorn, accesorio de juguete de gorila, ajuste apretado y seguro, tan divertido de ver, tocar y girar para bebés de todas las edades (búho",
+      "price": "$1,047.39",
+      "extracted_at": "2025-10-20T01:34:19.894Z"
+    },
+    {
+      "asin": "B0CBCVD2K9",
+      "title": "Disney Merida Plush Doll Brave Medium 15 3/4 Inch",
+      "price": "$1,056.60",
+      "extracted_at": "2025-10-20T01:34:19.894Z"
+    },
+    {
+      "asin": "B0FDQYG53K",
+      "title": "Globos rosa y verde, globos de confeti retro de 12 pulgadas, color verde salvia, rosa, nude dorado, metálico, con globo de papel de corazón para niños y niñas, selva, bosque, cumpleaños, safari",
+      "price": "$526.30",
+      "extracted_at": "2025-10-20T01:34:19.894Z"
+    },
+    {
+      "asin": "B0DVZ5WR71",
+      "title": "Tarjetas de tarot de rosas moradas",
+      "price": "$906.71",
+      "extracted_at": "2025-10-20T01:34:19.894Z"
+    },
+    {
+      "asin": "B0CB1D62TQ",
+      "title": "Suministros de fiesta que brillan en la oscuridad para niños y adultos, recuerdos de fiesta iluminados con 57 juguetes de luz LED, 100 varillas brillantes a granel, collares brillantes, pulseras, diadema, suministros de fiesta de neón y decoraciones",
+      "price": "$807.29",
+      "extracted_at": "2025-10-20T01:34:19.894Z"
+    },
+    {
+      "asin": "B0D8VV3VYJ",
+      "title": "Kit de arco de globo azul polvoriento, 126 piezas de guirnalda de arco de globo azul claro y blanco, incluye globos de macarrón para boda, cumpleaños, baby shower, decoración de novia",
+      "price": "$521.22",
+      "extracted_at": "2025-10-20T01:34:19.894Z"
+    },
+    {
+      "asin": "B0CJ6TWY8S",
+      "title": "Juego de 2 lanzadores de muñeca Spider Web Shooters para niños",
+      "price": "$689.59",
+      "extracted_at": "2025-10-20T01:34:19.894Z"
+    },
+    {
+      "asin": "B07FD7QRPG",
+      "title": "Honeysticks - Ceras para tina de cera de abeja para niños y bebés, no tóxicas, lavables y fáciles de limpiar, solubles en agua, divertidas, pigmentos de grado alimenticio, hechas a mano en Nueva Zelanda (paquete de 7)",
+      "price": "$756.71",
+      "extracted_at": "2025-10-20T01:34:19.894Z"
+    },
+    {
+      "asin": "B0CXSLRS5W",
+      "title": "TiAaihion Globos de Bloque de Construcción, 8 Piezas, Amarillo, Rojo, Azul, Estrella, Válvula Autosellante, Cumpleaños, Niños, Unisex",
+      "price": "$678.87",
+      "extracted_at": "2025-10-20T01:34:34.816Z"
+    },
+    {
+      "asin": "B0D9PX8DJW",
+      "title": "HILAVO 12 globos de estrella dorada, globos de estrella de explosión dorada, globos de aluminio para cumpleaños, despedida de soltera, Año Nuevo, decoraciones de fiesta de graduación",
+      "price": "$475.71",
+      "extracted_at": "2025-10-20T01:34:34.816Z"
+    },
+    {
+      "asin": "B08D6S9RB9",
+      "title": "Peppa Pig - Libro para colorear y actividades \"Pretty Little Peppa - 80 páginas",
+      "price": "$467.73",
+      "extracted_at": "2025-10-20T01:34:34.816Z"
+    },
+    {
+      "asin": "B09ZHR3RX3",
+      "title": "Kinnex Collections by Amanda Quince Anos Quinceañera - Oso de peluche con vestido (centro de mesa) B16631-5 (lavanda 1)",
+      "price": "$2,231.73",
+      "extracted_at": "2025-10-20T01:34:34.816Z"
+    },
+    {
+      "asin": "B0D2KQWMLN",
+      "title": "Party Inspo - Decoración de cumpleaños para niña, vaca rosa, decoración de primera fiesta, guirnalda de globos mensual, foto de silla alta, póster de corona recortada, 100 unidades",
+      "price": "$1,125.97",
+      "extracted_at": "2025-10-20T01:34:34.817Z"
+    },
+    {
+      "asin": "B07TW2FYNV",
+      "title": "LLMoose Hover Balón de fútbol",
+      "price": "$792.84",
+      "extracted_at": "2025-10-20T01:34:34.817Z"
+    },
+    {
+      "asin": "B0C3CH6XLP",
+      "title": "Juguetes para bebés 6 en 1 de 6 a 12 meses, juguete Montessori para niños pequeños de 1 a 3, juguetes para dentición infantil, bloques apilables, anillos, tirar, clasificador de juguetes",
+      "price": "$1,209.48",
+      "extracted_at": "2025-10-20T01:34:34.817Z"
+    },
+    {
+      "asin": "B0DK46KVSP",
+      "title": "Lilly's Love - Peluche con peso de 5 libras | Peluche sensorial con peso para niños y adultos | Peluches lavables a máquina con interior extraíble | Animales de peluche con peso calmante para la",
+      "price": "$1,514.78",
+      "extracted_at": "2025-10-20T01:34:34.817Z"
+    },
+    {
+      "asin": "B09TXGP4JQ",
+      "title": "JANNIRESS Juguetes eléctricos de Bolas de Gel, Juguetes ecológicos de Bolas salpicadas, Juguetes automáticos para Juegos al Aire Libre para Actividades, Juegos en Equipo Verde Rosa",
+      "price": "$1,065.90",
+      "extracted_at": "2025-10-20T01:34:34.817Z"
+    },
+    {
+      "asin": "B07DRLT7TL",
+      "title": "(Black) - 2018 New Tree Swing Hanging Straps Kit Holds 1000kg 1.5m Extra Long Safer Lock Snap Carabiner Hooks Perfect for Tree Swing & Hammocks Carry Pouch Bag Heavy Duty",
+      "price": "$737.72",
+      "extracted_at": "2025-10-20T01:34:34.817Z"
+    },
+    {
+      "asin": "B0F3HK1FDN",
+      "title": "Juguetes musicales para regalos de niña de 1 año, juguetes bilingües para bebés de 6 a 12 a 18 meses, regalos para niñas de primer cumpleaños para niños, niños pequeños y educativos para niños de 1",
+      "price": "$1,191.26",
+      "extracted_at": "2025-10-20T01:34:34.817Z"
+    },
+    {
+      "asin": "B0CWTRVP2Q",
+      "title": "Decoraciones de cumpleaños 21 para niñas y ella, juego de decoración de cumpleaños 21 con pancarta, globos número 21 para fiesta de cumpleaños de 21 años",
+      "price": "$650.90",
+      "extracted_at": "2025-10-20T01:34:34.817Z"
+    },
+    {
+      "asin": "B0D3LP886F",
+      "title": "3 unidades de arco grande con diseño de lazo rosa macarón, fiesta de cumpleaños, baby shower niña decoración de fiesta",
+      "price": "$444.62",
+      "extracted_at": "2025-10-20T01:34:34.817Z"
+    },
+    {
+      "asin": "B0D3LMXJH2",
+      "title": "3 unidades de arco grande con diseño de lazo azul macarón, fiesta de cumpleaños, baby shower niña decoración de fiesta",
+      "price": "$461.60",
+      "extracted_at": "2025-10-20T01:34:34.818Z"
+    },
+    {
+      "asin": "B0D2K5BBCR",
+      "title": "Party Inspo Sweet One - Decoración para fiesta de cumpleaños para niña, 156 piezas de decoraciones para el primer cumpleaños para niña, decoración de donas coloridas, decoración de primera fiesta,",
+      "price": "$1,107.86",
+      "extracted_at": "2025-10-20T01:34:34.818Z"
+    },
+    {
+      "asin": "B0D6NMRKMJ",
+      "title": "Disney Store Olaf - Juguete suave mediano para niños, personaje de peluche con textura borrosa y detalles bordados, dientes de satén, felpa de Disney, adecuado para todas las edades",
+      "price": "$1,306.92",
+      "extracted_at": "2025-10-20T01:34:34.818Z"
+    },
+    {
+      "asin": "B0B3Y3F5QH",
+      "title": "SplashEZ Juguetes de baño sin molde de Navidad para bebés y niños pequeños, juguetes de baño sin agujeros, regalo para niños, sin moho para tina, playa, piscina, sin BPA, aptos para lavaplatos,",
+      "price": "$680.26",
+      "extracted_at": "2025-10-20T01:34:48.320Z"
+    },
+    {
+      "asin": "B0CLGWQCQV",
+      "title": "YESGIRL - Animales de peluche con peso de gato de 26.5 pulgadas, 5 libras, animales de felpa grandes con peso, bonita almohada de juguete de peluche, suave regalo de peluche kawaii para adultos,",
+      "price": "$1,397.52",
+      "extracted_at": "2025-10-20T01:34:48.320Z"
+    },
+    {
+      "asin": "B0F2M6FK7F",
+      "title": "Café café 2 Número Globo",
+      "price": "$517.11",
+      "extracted_at": "2025-10-20T01:34:48.320Z"
+    },
+    {
+      "asin": "B0C1BW374S",
+      "title": "Berry Sweet One - Decoración de fiesta de cumpleaños, decoración de fiesta de primer cumpleaños de bayas Fiesec, decoración de fiesta de primer cumpleaños, guirnalda de globos mensual, foto de silla",
+      "price": "$997.62",
+      "extracted_at": "2025-10-20T01:34:48.320Z"
+    },
+    {
+      "asin": "B0DG8MQBFQ",
+      "title": "SINBEE-Globos con números de color verde oscuro de 40 pulgadas, globos con números de helio y lámina de mylar para cumpleaños, globo número 3 para decoraciones de fiestas, celebraciones, graduaciones,",
+      "price": "$487.32",
+      "extracted_at": "2025-10-20T01:34:48.320Z"
+    },
+    {
+      "asin": "B0BC23W95L",
+      "title": "Juego de 6 piezas de madera para rampa de coche, rampa de coche, juguete de repuesto para rampa de coche, accesorios para fiestas de carreras",
+      "price": "$439.33",
+      "extracted_at": "2025-10-20T01:34:48.320Z"
+    },
+    {
+      "asin": "B0B156MJ3D",
+      "title": "Paquete de 3 lanzadores de avión, avión LED de espuma de 12.6 pulgadas, 2 modos de vuelo de catapulta de avión con 3 calcomanías de bricolaje, juguetes voladores deportivos al aire libre para niños, regalos para niños de 4, 5, 6, 7, 8, 9, 10, 12 años",
+      "price": "$870.08",
+      "extracted_at": "2025-10-20T01:34:48.320Z"
+    },
+    {
+      "asin": "B0D8B97YH5",
+      "title": "Buscar y buscar: 22 actividades de aprendizaje preescolar para niños de 3 a 8 años | Juegos de viaje para coche y avión | Juguetes de aprendizaje para niños | Libro de juegos de mesa y actividades",
+      "price": "$804.60",
+      "extracted_at": "2025-10-20T01:34:48.320Z"
+    },
+    {
+      "asin": "B078JFSH8P",
+      "title": "Juguetes para niños de 3 a 8 años, prismáticos para niños, nuevos juguetes populares de Pascua al aire última intervensión para niños de 5 a 7 a 6 a 10 años, regalos para niños de 4 a 8 años, juguete",
+      "price": "$679.49",
+      "extracted_at": "2025-10-20T01:34:48.321Z"
+    },
+    {
+      "asin": "B06X6H6H29",
+      "title": "Bassion Pack of 2 Kids Art Smocks, Children Waterproof Artist Painting Aprons Long Sleeve with 3 Pockets for Age 2-6 Years",
+      "price": "$448.14",
+      "extracted_at": "2025-10-20T01:34:48.321Z"
+    },
+    {
+      "asin": "B07T9HCXBK",
+      "title": "BEKILOLE - Juguetes de bicicleta de equilibrio para niños y niñas de 1 año, entrena a tu bebé de pie a correr, ideal como regalo de primera bicicleta y primer cumpleaños",
+      "price": "$1,598.37",
+      "extracted_at": "2025-10-20T01:34:48.321Z"
+    },
+    {
+      "asin": "B07587YF1F",
+      "title": "Kiddy Dough Kit de Herramientas para niños, Paquete de Fiesta con Formas de Animales, Incluye 24 cortadores de Colores, moldes y Accesorios para Arcilla Seca al Aire y Masa",
+      "price": "$669.91",
+      "extracted_at": "2025-10-20T01:34:48.321Z"
+    },
+    {
+      "asin": "B085LLRX4H",
+      "title": "Cartas de globos de plata de feliz cumpleaños (letras 3D plateadas) de lámina de Mylar | Decoración inflable de fiesta y decoración de eventos para niños y adultos, reutilizable, diversión ecológica",
+      "price": "$513.45",
+      "extracted_at": "2025-10-20T01:34:48.321Z"
+    },
+    {
+      "asin": "B000AQT8R0",
+      "title": "Suretrack Clips 14 Count",
+      "price": "$943.75",
+      "extracted_at": "2025-10-20T01:34:48.321Z"
+    }
+  ]
+}

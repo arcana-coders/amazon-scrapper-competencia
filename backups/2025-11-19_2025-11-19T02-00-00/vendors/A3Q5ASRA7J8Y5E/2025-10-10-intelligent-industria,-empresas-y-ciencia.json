@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "seller_id": "A3Q5ASRA7J8Y5E",
+    "category_name": "Industria, Empresas y Ciencia",
+    "date_scraped": "2025-10-10T13:44:58.416Z",
+    "processing_type": "intelligent_detection_v1",
+    "max_products_per_category": 320,
+    "max_depth": 3,
+    "expected_products": 36
+  },
+  "intelligence_stats": {
+    "loops_avoided": 0,
+    "filters_detected": 0
+  },
+  "subcategories": [
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A3Q5ASRA7J8Y5E&rh=n%3A11076223011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760103752&rnid=15997893011&ref=sr_nr_n_4&ds=v1%3AtSV%2B3AzKKvwgRDF%2FYzbM41shwKqBD6YVywCKDxgEBHM",
+      "name": "Industria, Empresas y Ciencia",
+      "full_path": "Industria, Empresas y Ciencia",
+      "productCount": 36,
+      "isLeaf": true,
+      "depth": 1,
+      "timestamp": "2025-10-10T13:45:03.247Z"
+    }
+  ]
+}

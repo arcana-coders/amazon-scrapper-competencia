@@ -1,0 +1,809 @@
+{
+  "seller_id": "AE8MUNDUREHX7",
+  "batch_number": 5,
+  "created_at": "2025-10-13T03:55:06.407Z",
+  "analysis_type": "recursive_hierarchical_batch",
+  "max_products_per_leaf": 320,
+  "max_recursion_depth": 10,
+  "max_products_per_batch": 1000,
+  "main_categories": [
+    "Alimentos y Bebidas",
+    "Automotriz y Motocicletas",
+    "Bebé",
+    "Belleza",
+    "Deportes y Aire libre",
+    "Electrónicos",
+    "Herramientas y Mejoras del Hogar",
+    "Hogar y Cocina",
+    "Industria, Empresas y Ciencia",
+    "Instrumentos Musicales",
+    "Jardín",
+    "Juguetes y Juegos",
+    "Libros",
+    "Oficina y Papelería",
+    "Películas y Series de TV",
+    "Productos para animales",
+    "Ropa, Zapatos y Accesorios",
+    "Salud y Cuidado Personal",
+    "Videojuegos"
+  ],
+  "categories": [
+    {
+      "name": "Hogar y Cocina",
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327198&rnid=15997893011&ref=sr_nr_n_8&ds=v1%3Af9RkfIPVMZuxC5P7ggLex2L4Rz3xtv4Sgjlh%2B4NgFK0",
+      "expected_products": 3000,
+      "isLeaf": false,
+      "depth": 1,
+      "path": [
+        "Hogar y Cocina"
+      ],
+      "status": "completed",
+      "subcategories": [
+        {
+          "name": "Almacenamiento y Organización",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A9756857011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327474&rnid=9482593011&ref=sr_nr_n_1&ds=v1%3A1bbY8nYJLQzoN%2BotREup9H9ldBD0XUrLbdyg7ZwpdZA",
+          "expected_products": 182,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Hogar y Cocina",
+            "Almacenamiento y Organización"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:51:20.259Z"
+        },
+        {
+          "name": "Arte y Manualidades",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A10201738011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327474&rnid=9482593011&ref=sr_nr_n_2&ds=v1%3Ae%2B036Hrbr0Kl%2B0raaGIdvgtzsSv9qzb59wpD9vz3eQQ",
+          "expected_products": 275,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Hogar y Cocina",
+            "Arte y Manualidades"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:51:23.001Z"
+        },
+        {
+          "name": "Aspiración, Limpieza y Planchado",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A9725297011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327474&rnid=9482593011&ref=sr_nr_n_3&ds=v1%3A2QK3u2%2BKvYVyezMBPyg85o9jd4AKSuAyAqJZawDKFmM",
+          "expected_products": 72,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Hogar y Cocina",
+            "Aspiración, Limpieza y Planchado"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:51:25.727Z"
+        },
+        {
+          "name": "Baño",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A9756950011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327474&rnid=9482593011&ref=sr_nr_n_4&ds=v1%3AstRF28WLVNpeX4gDw97xcYY%2BKksTNkeMO7v15OnXuC8",
+          "expected_products": 101,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Hogar y Cocina",
+            "Baño"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:51:28.468Z"
+        },
+        {
+          "name": "Blancos para el Hogar",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A9757431011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327474&rnid=9482593011&ref=sr_nr_n_5&ds=v1%3AYOcZuF4VCQBUqaFh%2F5TZHNAI6pSAsly1a1jDYJw697o",
+          "expected_products": 167,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Hogar y Cocina",
+            "Blancos para el Hogar"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:51:31.319Z"
+        },
+        {
+          "name": "Climatización y Calefacción",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A9725442011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327474&rnid=9482593011&ref=sr_nr_n_6&ds=v1%3AWLOLdJ8htXle06aOI6aSGIMSfoYlCMI2rydkKy2rL%2B4",
+          "expected_products": 40,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Hogar y Cocina",
+            "Climatización y Calefacción"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:51:34.167Z"
+        },
+        {
+          "name": "Cocina",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A9721682011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327474&rnid=9482593011&ref=sr_nr_n_7&ds=v1%3At%2FUT99hYwZeWr3%2B6L9GXolA2WwzEEcVv8byjNOAPwho",
+          "expected_products": 867,
+          "isLeaf": false,
+          "depth": 2,
+          "path": [
+            "Hogar y Cocina",
+            "Cocina"
+          ],
+          "status": "pending",
+          "subcategories": [
+            {
+              "name": "Almacenamiento de Cocina y Despensa",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A9721682011%2Cn%3A9725234011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327493&rnid=9721682011&ref=sr_nr_n_1&ds=v1%3AYChOsmhg6HBhYlIJ60fCFKlRkFMT%2F7jiAvYpSRrBB0E",
+              "expected_products": 320,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Hogar y Cocina",
+                "Cocina",
+                "Almacenamiento de Cocina y Despensa"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-13T03:51:39.560Z"
+            },
+            {
+              "name": "Café y Té",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A9721682011%2Cn%3A9725377011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327493&rnid=9721682011&ref=sr_nr_n_2&ds=v1%3AXz1ODI2i4q1Ta7%2FFSQnwxu0WAepoZZ7kqOiNixvLKBg",
+              "expected_products": 18,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Hogar y Cocina",
+                "Cocina",
+                "Café y Té"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-13T03:51:42.337Z"
+            },
+            {
+              "name": "Cubertería, Vajilla y Cristalería",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A9721682011%2Cn%3A9725479011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327493&rnid=9721682011&ref=sr_nr_n_3&ds=v1%3AuvD3RJCdMw05rcoaS0t%2BLSXsi8d5pATBcUUgge5L4AA",
+              "expected_products": 133,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Hogar y Cocina",
+                "Cocina",
+                "Cubertería, Vajilla y Cristalería"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-13T03:51:45.052Z"
+            },
+            {
+              "name": "Electrodomésticos",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A9721682011%2Cn%3A9725772011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327493&rnid=9721682011&ref=sr_nr_n_4&ds=v1%3AM%2B%2BM5fHlbLGdZB2mTR%2FlypuSwZRQvmD4eNK0F6%2Bd0b8",
+              "expected_products": 28,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Hogar y Cocina",
+                "Cocina",
+                "Electrodomésticos"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-13T03:51:47.756Z"
+            },
+            {
+              "name": "Fabricación de Cerveza y Vino",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A9721682011%2Cn%3A9725663011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327493&rnid=9721682011&ref=sr_nr_n_5&ds=v1%3A9WC1aURb1AhSGsIhM9%2BldDEkl702kwgBJ7T%2F9UwUhfo",
+              "expected_products": 17,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Hogar y Cocina",
+                "Cocina",
+                "Fabricación de Cerveza y Vino"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-13T03:51:50.593Z"
+            },
+            {
+              "name": "Línea Blanca",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A9721682011%2Cn%3A16354794011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327493&rnid=9721682011&ref=sr_nr_n_6&ds=v1%3Afg63mq0KMrScR4T18DDh5kf%2BuTsJxjLdfnOz%2FQC7iEQ",
+              "expected_products": 16,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Hogar y Cocina",
+                "Cocina",
+                "Línea Blanca"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-13T03:51:53.333Z"
+            },
+            {
+              "name": "Materiales de Cocina",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A9721682011%2Cn%3A9725713011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327493&rnid=9721682011&ref=sr_nr_n_7&ds=v1%3A4G1gYgbB1JVDtIiIR11Jt9OUvzzzJY9DS68jilZnLG0",
+              "expected_products": 23,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Hogar y Cocina",
+                "Cocina",
+                "Materiales de Cocina"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-13T03:51:56.076Z"
+            },
+            {
+              "name": "Repostería",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A9721682011%2Cn%3A9725886011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327493&rnid=9721682011&ref=sr_nr_n_8&ds=v1%3AM%2B2QX6DEE7yI5XUadJB4rkDtyR3v2MQ8EOU3MqgUzQA",
+              "expected_products": 47,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Hogar y Cocina",
+                "Cocina",
+                "Repostería"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-13T03:51:58.798Z"
+            },
+            {
+              "name": "Utensilios",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A9721682011%2Cn%3A9725934011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327493&rnid=9721682011&ref=sr_nr_n_9&ds=v1%3AwHm0hiSOTZKCuUsxt9l8xRICdl97Ty4jw4hFJ%2FXIOMg",
+              "expected_products": 224,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Hogar y Cocina",
+                "Cocina",
+                "Utensilios"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-13T03:52:01.554Z"
+            },
+            {
+              "name": "Meses sin Intereses",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327493&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3AoVYB4PlnBKi%2BMKH%2F%2BQ%2FWGjsg3rml4uC5LYFu4d2rAp4",
+              "expected_products": 152,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Hogar y Cocina",
+                "Cocina",
+                "Meses sin Intereses"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-13T03:52:04.309Z"
+            }
+          ],
+          "created_at": "2025-10-13T03:52:11.677Z"
+        },
+        {
+          "name": "Cuidado del Hogar y Limpieza",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A11525771011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327474&rnid=9482593011&ref=sr_nr_n_8&ds=v1%3ALlS4JakWXDEAn6k84O6FIgGZXULCFQVnu1qEY%2BYlkLk",
+          "expected_products": 85,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Hogar y Cocina",
+            "Cuidado del Hogar y Limpieza"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:52:14.356Z"
+        },
+        {
+          "name": "Decoración del Hogar",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A9757037011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327474&rnid=9482593011&ref=sr_nr_n_9&ds=v1%3A98%2B7KLbPD2BPTb4EH0ww2t%2BNYvf%2B9a1VmRNLBV%2BLdeg",
+          "expected_products": 1000,
+          "isLeaf": false,
+          "depth": 2,
+          "path": [
+            "Hogar y Cocina",
+            "Decoración del Hogar"
+          ],
+          "status": "pending",
+          "subcategories": [
+            {
+              "name": "Accesorios Decorativos",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A9757037011%2Cn%3A9757038011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327533&rnid=9757037011&ref=sr_nr_n_1&ds=v1%3AkSYNC%2Bxx9Tbsuu8bl6MaViHj8NWABzjUlQyH5nrkaDo",
+              "expected_products": 433,
+              "isLeaf": false,
+              "depth": 3,
+              "path": [
+                "Hogar y Cocina",
+                "Decoración del Hogar",
+                "Accesorios Decorativos"
+              ],
+              "status": "pending",
+              "subcategories": [
+                {
+                  "name": "Adornos Colgantes",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A9757037011%2Cn%3A9757038011%2Cn%3A9757039011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327536&rnid=9757038011&ref=sr_nr_n_1&ds=v1%3AMFIKYQJdic2NK9zPokUXRGTDYBOgGBW%2BRQsH9LOPt6Q",
+                  "expected_products": 64,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Hogar y Cocina",
+                    "Decoración del Hogar",
+                    "Accesorios Decorativos",
+                    "Adornos Colgantes"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-13T03:52:22.824Z"
+                },
+                {
+                  "name": "Borlas",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A9757037011%2Cn%3A9757038011%2Cn%3A9757041011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327536&rnid=9757038011&ref=sr_nr_n_2&ds=v1%3A2S1CjQ6SL1HFplmqO92yRRAiq1e5nhoW5KtQUJvlx5Q",
+                  "expected_products": 2,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Hogar y Cocina",
+                    "Decoración del Hogar",
+                    "Accesorios Decorativos",
+                    "Borlas"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-13T03:52:25.576Z"
+                },
+                {
+                  "name": "Cajas",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A9757037011%2Cn%3A9757038011%2Cn%3A9757042011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327536&rnid=9757038011&ref=sr_nr_n_3&ds=v1%3AS4yX0CNO72nEXFJjJzDutMGxQxOde7PqqyixEFGZtQ8",
+                  "expected_products": 16,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Hogar y Cocina",
+                    "Decoración del Hogar",
+                    "Accesorios Decorativos",
+                    "Cajas"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-13T03:52:28.347Z"
+                },
+                {
+                  "name": "Cajas Musicales",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A9757037011%2Cn%3A9757038011%2Cn%3A9757043011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327536&rnid=9757038011&ref=sr_nr_n_4&ds=v1%3ApQ9AgrcYBVbs8lZBWtvEC8rrw61FO7yTjSkNK%2BiSYxU",
+                  "expected_products": 8,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Hogar y Cocina",
+                    "Decoración del Hogar",
+                    "Accesorios Decorativos",
+                    "Cajas Musicales"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-13T03:52:31.115Z"
+                },
+                {
+                  "name": "Calcomanías",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A9757037011%2Cn%3A9757038011%2Cn%3A9757065011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327536&rnid=9757038011&ref=sr_nr_n_5&ds=v1%3AAzys6QLIIsTSQWi43nW6%2BWgYlCFCbSOx7CZ4wQ09s60",
+                  "expected_products": 14,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Hogar y Cocina",
+                    "Decoración del Hogar",
+                    "Accesorios Decorativos",
+                    "Calcomanías"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-13T03:52:33.939Z"
+                },
+                {
+                  "name": "Coleccionables",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A9757037011%2Cn%3A9757038011%2Cn%3A9757044011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327536&rnid=9757038011&ref=sr_nr_n_6&ds=v1%3A9KxzzyECFbzcaRfTxMWrrSc%2BOaE6%2FQcF1jIfJywgxyg",
+                  "expected_products": 15,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Hogar y Cocina",
+                    "Decoración del Hogar",
+                    "Accesorios Decorativos",
+                    "Coleccionables"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-13T03:52:36.728Z"
+                },
+                {
+                  "name": "Coronas",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A9757037011%2Cn%3A9757038011%2Cn%3A9757050011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327536&rnid=9757038011&ref=sr_nr_n_7&ds=v1%3Ad2BLCqAM0entrNp10TXkEij4WhfTpSbFyJqe3SmQVN0",
+                  "expected_products": 14,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Hogar y Cocina",
+                    "Decoración del Hogar",
+                    "Accesorios Decorativos",
+                    "Coronas"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-13T03:52:39.496Z"
+                },
+                {
+                  "name": "Cruces y Crucifijos de Pared",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A9757037011%2Cn%3A9757038011%2Cn%3A9757051011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327536&rnid=9757038011&ref=sr_nr_n_8&ds=v1%3AlV68pVJLloHuDqHC2AUxnnmIowyKz3udwaHbzF7cwdg",
+                  "expected_products": 12,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Hogar y Cocina",
+                    "Decoración del Hogar",
+                    "Accesorios Decorativos",
+                    "Cruces y Crucifijos de Pared"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-13T03:52:42.322Z"
+                },
+                {
+                  "name": "Esculturas",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A9757037011%2Cn%3A9757038011%2Cn%3A9757052011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327536&rnid=9757038011&ref=sr_nr_n_9&ds=v1%3AUtXQOuRQ6Qu%2BdYiij9ZZyZeaaC9wqzFRDdpguhHnPw0",
+                  "expected_products": 46,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Hogar y Cocina",
+                    "Decoración del Hogar",
+                    "Accesorios Decorativos",
+                    "Esculturas"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-13T03:52:45.157Z"
+                },
+                {
+                  "name": "Esferas de Nieve",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A9757037011%2Cn%3A9757038011%2Cn%3A9757060011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327536&rnid=9757038011&ref=sr_nr_n_10&ds=v1%3AfU79Aa%2Fb0YoB2TvhTN7Qr%2FSYBIxaXOFQCbEym240g0Q",
+                  "expected_products": 1,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Hogar y Cocina",
+                    "Decoración del Hogar",
+                    "Accesorios Decorativos",
+                    "Esferas de Nieve"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-13T03:52:47.786Z"
+                },
+                {
+                  "name": "Exhibidores",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A9757037011%2Cn%3A9757038011%2Cn%3A9757057011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327536&rnid=9757038011&ref=sr_nr_n_11&ds=v1%3Ar5CI0IDEfnVXg8hXJ4P7lTnGHjJsgpNe%2B9AiPJ%2BJpyA",
+                  "expected_products": 13,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Hogar y Cocina",
+                    "Decoración del Hogar",
+                    "Accesorios Decorativos",
+                    "Exhibidores"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-13T03:52:50.532Z"
+                },
+                {
+                  "name": "Frontones Decorativos",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A9757037011%2Cn%3A9757038011%2Cn%3A9757058011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327536&rnid=9757038011&ref=sr_nr_n_12&ds=v1%3Akr0wgpMPjNv2me0YvUWWZy3gwKroq94ZAOo2%2FDd39mI",
+                  "expected_products": 63,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Hogar y Cocina",
+                    "Decoración del Hogar",
+                    "Accesorios Decorativos",
+                    "Frontones Decorativos"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-13T03:52:53.330Z"
+                },
+                {
+                  "name": "Platos Conmemorativos",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A9757037011%2Cn%3A9757038011%2Cn%3A9757070011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327536&rnid=9757038011&ref=sr_nr_n_13&ds=v1%3Aw9Ri21ZYqoN7mSxNJmFYG%2FKW79HV46CaM%2F3h5cy%2Fn2c",
+                  "expected_products": 1,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Hogar y Cocina",
+                    "Decoración del Hogar",
+                    "Accesorios Decorativos",
+                    "Platos Conmemorativos"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-13T03:52:56.031Z"
+                },
+                {
+                  "name": "Portavasos",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A9757037011%2Cn%3A9757038011%2Cn%3A9726047011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327536&rnid=9757038011&ref=sr_nr_n_14&ds=v1%3Adgsqb9Cwp3js3AhMi%2BA0svzRHw4p6Ub070L4239k7Z0",
+                  "expected_products": 23,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Hogar y Cocina",
+                    "Decoración del Hogar",
+                    "Accesorios Decorativos",
+                    "Portavasos"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-13T03:52:58.777Z"
+                },
+                {
+                  "name": "Señales y Placas",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A9757037011%2Cn%3A9757038011%2Cn%3A9757069011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327536&rnid=9757038011&ref=sr_nr_n_15&ds=v1%3AZ3%2BmgwKJpQDIOdqJEbL4viEHwS9Qo0YlJArgTbwvwks",
+                  "expected_products": 104,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Hogar y Cocina",
+                    "Decoración del Hogar",
+                    "Accesorios Decorativos",
+                    "Señales y Placas"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-13T03:53:01.558Z"
+                }
+              ],
+              "created_at": "2025-10-13T03:53:01.558Z"
+            },
+            {
+              "name": "Accesorios para Fuentes de Interior",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A9757037011%2Cn%3A9757086011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327533&rnid=9757037011&ref=sr_nr_n_2&ds=v1%3AuNydAb8MxwZOhZJspo%2FFujx8DdgABFBW3LE1lfvJY7I",
+              "expected_products": 4,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Hogar y Cocina",
+                "Decoración del Hogar",
+                "Accesorios para Fuentes de Interior"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-13T03:53:04.278Z"
+            },
+            {
+              "name": "Álbumes de Fotos, Marcos y Accesorios",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A9757037011%2Cn%3A23503295011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327533&rnid=9757037011&ref=sr_nr_n_3&ds=v1%3A1C0gyI71mCQBq35fLdsCXlV5cA991NBtM8rm%2BpQk9Bg",
+              "expected_products": 110,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Hogar y Cocina",
+                "Decoración del Hogar",
+                "Álbumes de Fotos, Marcos y Accesorios"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-13T03:53:07.114Z"
+            },
+            {
+              "name": "Atrapasueños",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A9757037011%2Cn%3A24426817011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327533&rnid=9757037011&ref=sr_nr_n_4&ds=v1%3A2KsPsshZ6wr8fHVqvEkrIW8Yzk%2FGewUZCvb61KaEaEY",
+              "expected_products": 2,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Hogar y Cocina",
+                "Decoración del Hogar",
+                "Atrapasueños"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-13T03:53:09.822Z"
+            },
+            {
+              "name": "Cortinas, Persianas y Contraventanas",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A9757037011%2Cn%3A9757101011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327533&rnid=9757037011&ref=sr_nr_n_5&ds=v1%3AlUidGx9ix2a7MRMZO09yBE%2BBZOHU70mqWaduEUXxFTY",
+              "expected_products": 29,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Hogar y Cocina",
+                "Decoración del Hogar",
+                "Cortinas, Persianas y Contraventanas"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-13T03:53:12.571Z"
+            },
+            {
+              "name": "Decoración de Temporada",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A9757037011%2Cn%3A9757119011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327533&rnid=9757037011&ref=sr_nr_n_6&ds=v1%3Algja9XGzPri7T%2Fzc2ux1RR80BrH0W2ShOMRDiHBG750",
+              "expected_products": 111,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Hogar y Cocina",
+                "Decoración del Hogar",
+                "Decoración de Temporada"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-13T03:53:15.294Z"
+            },
+            {
+              "name": "Decoración Infantil",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A9757037011%2Cn%3A9757145011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327533&rnid=9757037011&ref=sr_nr_n_7&ds=v1%3AFvjGTibTuctkcg86Vgo9IJlwmZug4kp6m1mSsLY9fVs",
+              "expected_products": 14,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Hogar y Cocina",
+                "Decoración del Hogar",
+                "Decoración Infantil"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-13T03:53:18.035Z"
+            },
+            {
+              "name": "Espejos",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A9757037011%2Cn%3A9757154011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327533&rnid=9757037011&ref=sr_nr_n_8&ds=v1%3AsAIxC3d3gB18sKqZBtyehYWf9FsoODqR8tPSEokrFBg",
+              "expected_products": 8,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Hogar y Cocina",
+                "Decoración del Hogar",
+                "Espejos"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-13T03:53:20.845Z"
+            },
+            {
+              "name": "Fragancias para el Hogar",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A9757037011%2Cn%3A9757160011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327533&rnid=9757037011&ref=sr_nr_n_9&ds=v1%3AqXZbghLiF8y9z6YxBHIPXYl8zxZN3iC7E2u18bCUvKQ",
+              "expected_products": 16,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Hogar y Cocina",
+                "Decoración del Hogar",
+                "Fragancias para el Hogar"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-13T03:53:23.554Z"
+            },
+            {
+              "name": "Fundas",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A9757037011%2Cn%3A9757172011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327533&rnid=9757037011&ref=sr_nr_n_10&ds=v1%3Ay01OJtWJrLKxA%2F65%2FZTvcqHX6IccXKDHQ%2F%2Bd%2BBDBTM0",
+              "expected_products": 27,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Hogar y Cocina",
+                "Decoración del Hogar",
+                "Fundas"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-13T03:53:26.365Z"
+            },
+            {
+              "name": "Jarrones",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A9757037011%2Cn%3A9757183011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327533&rnid=9757037011&ref=sr_nr_n_11&ds=v1%3A%2FhydcON7aWHNRM0nKRvb3SoPicTewHelMvRhKakGkls",
+              "expected_products": 5,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Hogar y Cocina",
+                "Decoración del Hogar",
+                "Jarrones"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-13T03:53:29.155Z"
+            },
+            {
+              "name": "Letreros y placas",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A9757037011%2Cn%3A24426815011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327533&rnid=9757037011&ref=sr_nr_n_12&ds=v1%3AWacJEX9uEZztqv9yo%2B0PA9e%2FYaJ6Vs7nlzXqrQUuH4A",
+              "expected_products": 131,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Hogar y Cocina",
+                "Decoración del Hogar",
+                "Letreros y placas"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-13T03:53:31.923Z"
+            },
+            {
+              "name": "Plantas y Flores Artificiales",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A9757037011%2Cn%3A9757188011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327533&rnid=9757037011&ref=sr_nr_n_13&ds=v1%3AX%2BfT5TGtEQFt2wJX0yxf4HpnFjK4zAcuKwIhlDeJBd4",
+              "expected_products": 33,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Hogar y Cocina",
+                "Decoración del Hogar",
+                "Plantas y Flores Artificiales"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-13T03:53:34.712Z"
+            },
+            {
+              "name": "Relojes y Despertadores",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A9757037011%2Cn%3A9757196011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327533&rnid=9757037011&ref=sr_nr_n_14&ds=v1%3A5QPMw%2FUzoZ1L2RubarSBFSaKBTLPmnoTp%2FOyt6kv2WA",
+              "expected_products": 10,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Hogar y Cocina",
+                "Decoración del Hogar",
+                "Relojes y Despertadores"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-13T03:53:37.544Z"
+            },
+            {
+              "name": "Velas y Candelabros",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A9757037011%2Cn%3A9757214011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327533&rnid=9757037011&ref=sr_nr_n_15&ds=v1%3Awp8EZONMyJltDrqRyiBLVQ5X%2BQXVBckQGZYFQvjyMwA",
+              "expected_products": 49,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Hogar y Cocina",
+                "Decoración del Hogar",
+                "Velas y Candelabros"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-13T03:53:40.276Z"
+            }
+          ],
+          "created_at": "2025-10-13T03:53:40.276Z"
+        },
+        {
+          "name": "Iluminación",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A9939347011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327474&rnid=9482593011&ref=sr_nr_n_10&ds=v1%3AYjShC7dR8cJ3BaWJDpOmLhHxiF3pBx3khXYVazHptlI",
+          "expected_products": 225,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Hogar y Cocina",
+            "Iluminación"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:53:42.967Z"
+        },
+        {
+          "name": "Muebles",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A9757251011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327474&rnid=9482593011&ref=sr_nr_n_11&ds=v1%3Aayfu%2Bv4%2FdFg%2BMYSMCoX3F9Lr1fpk5efgxPA%2BZcC%2FIgU",
+          "expected_products": 130,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Hogar y Cocina",
+            "Muebles"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:53:45.711Z"
+        },
+        {
+          "name": "Obras de Arte y Material Decorativo",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cn%3A9757416011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327474&rnid=9482593011&ref=sr_nr_n_12&ds=v1%3AyyEE6Hg3Y%2FdLcsCKi9cOguE9buQW1dyGHCCD6QwTFG4",
+          "expected_products": 159,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Hogar y Cocina",
+            "Obras de Arte y Material Decorativo"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:53:48.443Z"
+        },
+        {
+          "name": "Meses sin Intereses",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482593011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327474&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3AfTyQgNX8lyxjAll5BvVSEZ9VooAElPPm3EbWnYdqljI",
+          "expected_products": 152,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Hogar y Cocina",
+            "Meses sin Intereses"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:53:51.091Z"
+        }
+      ],
+      "created_at": "2025-10-13T03:53:55.996Z",
+      "started_at": "2025-10-13T15:43:42.865Z",
+      "completed_at": "2025-10-13T15:44:57.014Z",
+      "file_path": "2025-10-13-intelligent-hogar-y-cocina.json",
+      "validation_result": {
+        "total_subcategories": 13,
+        "total_products": 3443,
+        "loops_avoided": 0,
+        "filters_detected": 14,
+        "expected_vs_found": {
+          "expected": 3000,
+          "found": 3443
+        }
+      }
+    }
+  ]
+}

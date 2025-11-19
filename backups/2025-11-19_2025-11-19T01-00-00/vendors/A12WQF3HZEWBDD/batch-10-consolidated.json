@@ -1,0 +1,3019 @@
+{
+  "metadata": {
+    "seller_id": "A12WQF3HZEWBDD",
+    "batch_number": 10,
+    "consolidation_date": "2025-11-03T15:23:53.147Z",
+    "categories_in_batch": [
+      "Salud y Cuidado Personal"
+    ],
+    "source_files": [
+      "salud-y-cuidado-personal-products.json"
+    ],
+    "total_products": 306,
+    "duplicates_removed": 0,
+    "categories_processed": 1
+  },
+  "categories": [
+    {
+      "name": "Salud y Cuidado Personal",
+      "products_count": 306,
+      "source_file": "salud-y-cuidado-personal-products.json"
+    }
+  ],
+  "all_products": [
+    {
+      "asin": "B09PR99NRQ",
+      "title": "KUKKA essential oils Kukka Aceite De Clavo Para El Cuidado Bucal, Dientes Y Encías Aceite Esencial De Clavo - Aceite Esencial De Clavo 100% Natural Para El Cuidado Bucal - Aceite De Clavo Na",
+      "price": "$613.45",
+      "extracted_at": "2025-11-03T15:20:08.154Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": [],
+      "url_mx": "https://www.amazon.com.mx/dp/B09PR99NRQ",
+      "precio_actual_mx": 591.57,
+      "vendedor_actual_mx": "MARVEL INC.",
+      "disponibilidad_mx": "disponible",
+      "fecha_verificacion_mx": "2025-11-19T00:42:20.201Z",
+      "error_verificacion_mx": null
+    },
+    {
+      "asin": "B07ZG8F8QZ",
+      "title": "Gold Standard Premium - Spray protector de zapatos repelente al agua - 5 oz. Protector de zapatos de gamuza con fórmula impermeable",
+      "price": "$662.84",
+      "extracted_at": "2025-11-03T15:20:08.154Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": [],
+      "url_mx": "https://www.amazon.com.mx/dp/B07ZG8F8QZ",
+      "precio_actual_mx": 596.01,
+      "vendedor_actual_mx": "SHERIFF EXPRESS",
+      "disponibilidad_mx": "disponible",
+      "fecha_verificacion_mx": "2025-11-19T00:42:28.524Z",
+      "error_verificacion_mx": null
+    },
+    {
+      "asin": "B093QLDBQW",
+      "title": "Veggie Wash - Lavado de frutas y verduras, 16 Fl Oz (Pack of 2)",
+      "price": "$640.93",
+      "extracted_at": "2025-11-03T15:20:08.155Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": [],
+      "url_mx": "https://www.amazon.com.mx/dp/B093QLDBQW",
+      "precio_actual_mx": 741.23,
+      "vendedor_actual_mx": "✨Aurorix A",
+      "disponibilidad_mx": "disponible",
+      "fecha_verificacion_mx": "2025-11-19T00:42:37.000Z",
+      "error_verificacion_mx": null
+    },
+    {
+      "asin": "B0DJMJS2Y3",
+      "title": "Aceite de ricino 16 fl oz (botella de vidrio) Original sin refinar Una enorme botella de vidrio con bomba Aceite para el cabello y el cuerpo 100% puro y natural, prensado en frío y sin hexano",
+      "price": "$532.19",
+      "extracted_at": "2025-11-03T15:20:08.155Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": [],
+      "url_mx": "https://www.amazon.com.mx/dp/B0DJMJS2Y3",
+      "precio_actual_mx": 457,
+      "vendedor_actual_mx": "Valley Hills MX",
+      "disponibilidad_mx": "disponible",
+      "fecha_verificacion_mx": "2025-11-19T00:42:46.189Z",
+      "error_verificacion_mx": null
+    },
+    {
+      "asin": "B07Y2NGPJT",
+      "title": "ThinOptics - anteojos de lectura rectangulares",
+      "price": "$1,543.10",
+      "extracted_at": "2025-11-03T15:20:08.155Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": [],
+      "url_mx": "https://www.amazon.com.mx/dp/B07Y2NGPJT",
+      "precio_actual_mx": 1517.4,
+      "vendedor_actual_mx": "New Shire LLC",
+      "disponibilidad_mx": "disponible",
+      "fecha_verificacion_mx": "2025-11-19T00:42:54.767Z",
+      "error_verificacion_mx": null
+    },
+    {
+      "asin": "B09F7PZV4Q",
+      "title": "WELCOS KWAILNARA Milk Body Lotion 560 g / 19.75 oz. (Strawberry)",
+      "price": "$708.39",
+      "extracted_at": "2025-11-03T15:20:08.155Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": [],
+      "url_mx": "https://www.amazon.com.mx/dp/B09F7PZV4Q",
+      "precio_actual_mx": 651.86,
+      "vendedor_actual_mx": "DUKKI LLC",
+      "disponibilidad_mx": "disponible",
+      "fecha_verificacion_mx": "2025-11-19T00:43:02.395Z",
+      "error_verificacion_mx": null
+    },
+    {
+      "asin": "B0BNC86YDN",
+      "title": "Bastón de madera hecho a mano para hombres y mujeres, elegantes bastones de madera natural con correa de muñeca y puntas de goma, 36 pulgadas",
+      "price": "$1,444.82",
+      "extracted_at": "2025-11-03T15:20:08.155Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": [],
+      "url_mx": "https://www.amazon.com.mx/dp/B0BNC86YDN",
+      "precio_actual_mx": 1345.31,
+      "vendedor_actual_mx": "Luna Local",
+      "disponibilidad_mx": "disponible",
+      "fecha_verificacion_mx": "2025-11-19T00:43:10.059Z",
+      "error_verificacion_mx": null
+    },
+    {
+      "asin": "B08DNG8XQZ",
+      "title": "Reshoevn8r Premium Shoe and Sneaker Cleaner Solution, for Suede, Whites, Leather, Nubuck and Most Materials, 8 Oz",
+      "price": "$862.05",
+      "extracted_at": "2025-11-03T15:20:08.155Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": [],
+      "url_mx": "https://www.amazon.com.mx/dp/B08DNG8XQZ",
+      "precio_actual_mx": 868.98,
+      "vendedor_actual_mx": "GREENJIN",
+      "disponibilidad_mx": "disponible",
+      "fecha_verificacion_mx": "2025-11-19T00:43:18.273Z",
+      "error_verificacion_mx": null
+    },
+    {
+      "asin": "B0DM2284X8",
+      "title": "VOERUY- 【EXFOLIANTE DETOX PARA AXILAS】¡Dígale adiós a la acumulación persistente, los olores desagradables y el tono de piel desigual con nuestro exfoliante para axilas con árbol de té y menta! Diseña",
+      "price": "$563.35",
+      "extracted_at": "2025-11-03T15:20:08.155Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": [],
+      "url_mx": "https://www.amazon.com.mx/dp/B0DM2284X8",
+      "precio_actual_mx": 502.8,
+      "vendedor_actual_mx": "M&H Customer Friendly Store",
+      "disponibilidad_mx": "disponible",
+      "fecha_verificacion_mx": "2025-11-19T00:43:25.712Z",
+      "error_verificacion_mx": null
+    },
+    {
+      "asin": "B08TFDN7F3",
+      "title": "Reshoevn8r - Protector de zapatos impermeable para agua y manchas, repelente al agua para tenis, gamuza, lona, piel o zapatos blancos, Transparente, 6.5 Oz",
+      "price": "$889.36",
+      "extracted_at": "2025-11-03T15:20:08.155Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": [],
+      "url_mx": "https://www.amazon.com.mx/dp/B08TFDN7F3",
+      "precio_actual_mx": 871.72,
+      "vendedor_actual_mx": "Red Pure",
+      "disponibilidad_mx": "disponible",
+      "fecha_verificacion_mx": "2025-11-19T00:43:34.056Z",
+      "error_verificacion_mx": null
+    },
+    {
+      "asin": "B071ZLPCYY",
+      "title": "Samsara Herbs Polen de pino en polvo cosechado salvaje – 99% de pared celular agrietada (4 onzas/114 g)",
+      "price": "$813.38",
+      "extracted_at": "2025-11-03T15:20:08.155Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": [],
+      "url_mx": "https://www.amazon.com.mx/dp/B071ZLPCYY",
+      "precio_actual_mx": 783.74,
+      "vendedor_actual_mx": "MARVEL INC.",
+      "disponibilidad_mx": "disponible",
+      "fecha_verificacion_mx": "2025-11-19T00:43:42.459Z",
+      "error_verificacion_mx": null
+    },
+    {
+      "asin": "B07P15RVRP",
+      "title": "SmellWell Desodorantes para zapatos, carbón de bambú activado + minerales, inserto de ambientador natural para zapatos, bolsos, guantes y más, Perfumado - Black Zebra, 2 Count (Pack of 1)",
+      "price": "$538.18",
+      "extracted_at": "2025-11-03T15:20:08.156Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": [],
+      "url_mx": "https://www.amazon.com.mx/dp/B07P15RVRP",
+      "precio_actual_mx": 507,
+      "vendedor_actual_mx": "Brownstone Brooklyn",
+      "disponibilidad_mx": "disponible",
+      "fecha_verificacion_mx": "2025-11-19T00:43:51.908Z",
+      "error_verificacion_mx": null
+    },
+    {
+      "asin": "B0DZMT9YCR",
+      "title": "JZBRAIN Leg shiasu",
+      "price": "$3,731.31",
+      "extracted_at": "2025-11-03T15:20:08.156Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": [],
+      "url_mx": "https://www.amazon.com.mx/dp/B0DZMT9YCR",
+      "precio_actual_mx": 4644.37,
+      "vendedor_actual_mx": "BROWN LEAVES LLC",
+      "disponibilidad_mx": "disponible",
+      "fecha_verificacion_mx": "2025-11-19T00:44:00.095Z",
+      "error_verificacion_mx": null
+    },
+    {
+      "asin": "B000IYYLC6",
+      "title": "Hagerty Silver Foam: Esmalte de Plata Suave, Elimina Suavemente el deslustre de la esterlina, la Placa de Plata y el Oro, 36 onzas",
+      "price": "$743.73",
+      "extracted_at": "2025-11-03T15:20:08.156Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": [],
+      "url_mx": "https://www.amazon.com.mx/dp/B000IYYLC6",
+      "precio_actual_mx": 747,
+      "vendedor_actual_mx": "Marca: Hagerty",
+      "disponibilidad_mx": "disponible",
+      "fecha_verificacion_mx": "2025-11-19T00:44:06.996Z",
+      "error_verificacion_mx": null
+    },
+    {
+      "asin": "B0DQKYJWKN",
+      "title": "ANNICEE Toallitas Húmedas Mini Tamaño De Viaje Paquete De 8 64 Unidades En Total",
+      "price": "$538.18",
+      "extracted_at": "2025-11-03T15:20:08.156Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": [],
+      "url_mx": "https://www.amazon.com.mx/dp/B0DQKYJWKN",
+      "precio_actual_mx": 520.17,
+      "vendedor_actual_mx": "SRKSB LLC",
+      "disponibilidad_mx": "disponible",
+      "fecha_verificacion_mx": "2025-11-19T00:44:15.872Z",
+      "error_verificacion_mx": null
+    },
+    {
+      "asin": "B002PLPSG8",
+      "title": "Saphir Etalon Noir Jabón – Limpia, restaura y protege el piel de la silla de montar con glicerina – 3.2 onzas, Claro, 100ml",
+      "price": "$856.29",
+      "extracted_at": "2025-11-03T15:20:08.156Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": [],
+      "url_mx": "https://www.amazon.com.mx/dp/B002PLPSG8",
+      "precio_actual_mx": 425,
+      "vendedor_actual_mx": "Cuida Tu Calzado",
+      "disponibilidad_mx": "disponible",
+      "fecha_verificacion_mx": "2025-11-19T00:44:23.899Z",
+      "error_verificacion_mx": null
+    },
+    {
+      "asin": "B08L9G71ZV",
+      "title": "LMNOOP “Lmnoop Pomada Reparadora Perianal: Tratamientos Para Fístula Anal, Fisura Anal, Absceso Perianal, Alivio Rápido Del Dolor, Ardor, Picazón, Hinchazón, Sangrado E Incomodidad Por Tiña",
+      "price": "$1,191.43",
+      "extracted_at": "2025-11-03T15:20:17.658Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": [],
+      "url_mx": "https://www.amazon.com.mx/dp/B08L9G71ZV",
+      "precio_actual_mx": 1144,
+      "vendedor_actual_mx": "Most Amazing Brands",
+      "disponibilidad_mx": "disponible",
+      "fecha_verificacion_mx": "2025-11-19T00:44:31.267Z",
+      "error_verificacion_mx": null
+    },
+    {
+      "asin": "B0F2MJYL49",
+      "title": "New Fi Bug Zapper - Zapper para Exteriores, mosquiteros con luz LED, para Interiores y Exteriores, trampas eléctricas para Moscas de Insectos, enchufa el Asesino de Mosquitos para Patio y Patio",
+      "price": "$1,419.65",
+      "extracted_at": "2025-11-03T15:20:17.658Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": [],
+      "url_mx": "https://www.amazon.com.mx/dp/B0F2MJYL49",
+      "precio_actual_mx": 1267.45,
+      "vendedor_actual_mx": "SRKSB LLC",
+      "disponibilidad_mx": "disponible",
+      "fecha_verificacion_mx": "2025-11-19T00:44:39.037Z",
+      "error_verificacion_mx": null
+    },
+    {
+      "asin": "B0C3KW5VJR",
+      "title": "Amallow- Hidrata y nutre profundamente: nuestra crema de sebo de res natural contiene una rica fuente de vitaminas A, D, E y K, que son esenciales para mantener una piel saludable. Cuando se aplica de",
+      "price": "$1,291.87",
+      "extracted_at": "2025-11-03T15:20:17.659Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": [],
+      "url_mx": "https://www.amazon.com.mx/dp/B0C3KW5VJR",
+      "precio_actual_mx": 1211.83,
+      "vendedor_actual_mx": "GREENN SKY",
+      "disponibilidad_mx": "disponible",
+      "fecha_verificacion_mx": "2025-11-19T00:44:48.041Z",
+      "error_verificacion_mx": null
+    },
+    {
+      "asin": "B07GR8M67K",
+      "title": "Vivishine 150ml - Vividress 250ml Combo - for Latex Clothing",
+      "price": "$1,738.48",
+      "extracted_at": "2025-11-03T15:20:17.659Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": [],
+      "url_mx": "https://www.amazon.com.mx/dp/B07GR8M67K",
+      "precio_actual_mx": 1693.29,
+      "vendedor_actual_mx": "New Shire LLC",
+      "disponibilidad_mx": "disponible",
+      "fecha_verificacion_mx": "2025-11-19T00:44:56.633Z",
+      "error_verificacion_mx": null
+    },
+    {
+      "asin": "B0DDQHLWFN",
+      "title": "Truvani Proteína de guisante vegana en polvo | Vainilla | 20 g de proteína vegetal orgánica | 18 porciones | Cetogénica | Sin gluten ni lácteos | Baja en carbohidratos | Sin azúcares añadidos",
+      "price": "$1,436.91",
+      "extracted_at": "2025-11-03T15:20:17.659Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": [],
+      "url_mx": "https://www.amazon.com.mx/dp/B0DDQHLWFN",
+      "precio_actual_mx": 1357.77,
+      "vendedor_actual_mx": "DUKKI LLC",
+      "disponibilidad_mx": "disponible",
+      "fecha_verificacion_mx": "2025-11-19T00:56:22.500Z",
+      "error_verificacion_mx": null
+    },
+    {
+      "asin": "B0DRSKBQJL",
+      "title": "Difusor sin agua para el hogar, negro",
+      "price": "$1,311.29",
+      "extracted_at": "2025-11-03T15:20:17.659Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": [],
+      "url_mx": "https://www.amazon.com.mx/dp/B0DRSKBQJL",
+      "precio_actual_mx": 1272.35,
+      "vendedor_actual_mx": "Binglu",
+      "disponibilidad_mx": "disponible",
+      "fecha_verificacion_mx": "2025-11-19T00:56:31.135Z",
+      "error_verificacion_mx": null
+    },
+    {
+      "asin": "B00B6FGOTO",
+      "title": "Leather Luster Hi Gloss Brilliant Patent Leather Finish 4 Ounce - Black",
+      "price": "$764.24",
+      "extracted_at": "2025-11-03T15:20:17.659Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": [],
+      "url_mx": "https://www.amazon.com.mx/dp/B00B6FGOTO",
+      "precio_actual_mx": 706.08,
+      "vendedor_actual_mx": "PRCOM",
+      "disponibilidad_mx": "disponible",
+      "fecha_verificacion_mx": "2025-11-19T00:56:39.172Z",
+      "error_verificacion_mx": null
+    },
+    {
+      "asin": "B0CQ8L9KLH",
+      "title": "Friymbex- “Glicinato de Magnesio Glicinato 500mg | Gomitas de Magnesio Relajación Calma | Sin Azúcar | Sin OGM | Glut",
+      "price": "$613.45",
+      "extracted_at": "2025-11-03T15:20:17.659Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": [],
+      "url_mx": "https://www.amazon.com.mx/dp/B0CQ8L9KLH",
+      "precio_actual_mx": 613.09,
+      "vendedor_actual_mx": "SURE_FIRE",
+      "disponibilidad_mx": "disponible",
+      "fecha_verificacion_mx": "2025-11-19T00:56:46.973Z",
+      "error_verificacion_mx": null
+    },
+    {
+      "asin": "B0BJY897DZ",
+      "title": "Seroflora- Crema para el tratamiento del acné en glúteos y muslos: crema para eliminar el acné en glúteos, espinillas, granitos causados por afeitado y manchas oscuras",
+      "price": "$814.58",
+      "extracted_at": "2025-11-03T15:20:17.659Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": [],
+      "url_mx": "https://www.amazon.com.mx/dp/B0BJY897DZ",
+      "precio_actual_mx": 793.56,
+      "vendedor_actual_mx": "M&H Customer Friendly Store",
+      "disponibilidad_mx": "disponible",
+      "fecha_verificacion_mx": "2025-11-19T00:56:54.790Z",
+      "error_verificacion_mx": null
+    },
+    {
+      "asin": "B0131JCHVQ",
+      "title": "Silk Scarf Scarves for Women 64\" x 18\" Blue Louis C. Tiffany Iris Design",
+      "price": "$2,214.57",
+      "extracted_at": "2025-11-03T15:20:17.659Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": [],
+      "url_mx": "https://www.amazon.com.mx/dp/B0131JCHVQ",
+      "precio_actual_mx": 1762.35,
+      "vendedor_actual_mx": "Amazon Estados Unidos",
+      "disponibilidad_mx": "disponible",
+      "fecha_verificacion_mx": "2025-11-19T00:57:03.556Z",
+      "error_verificacion_mx": null
+    },
+    {
+      "asin": "B07T3CQV8M",
+      "title": "Wine Away Limpiador de manchas de vino tinto – Solución perfecta para tapicería de tela y limpiador de alfombras – Elimina las manchas de vino – Rocíe y lava la ropa para desaparecer las manchas – Wine Out – 12 y 2 onzas",
+      "price": "$733.56",
+      "extracted_at": "2025-11-03T15:20:17.660Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": [],
+      "url_mx": "https://www.amazon.com.mx/dp/B07T3CQV8M",
+      "precio_actual_mx": 655.35,
+      "vendedor_actual_mx": "GUTTIDIRECT",
+      "disponibilidad_mx": "disponible",
+      "fecha_verificacion_mx": "2025-11-19T00:57:10.985Z",
+      "error_verificacion_mx": null
+    },
+    {
+      "asin": "B00H597TJO",
+      "title": "Anastasia Beverly Hills - Dipbrow Pomade - Chocolate",
+      "price": "$915.27",
+      "extracted_at": "2025-11-03T15:20:17.660Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": [],
+      "url_mx": "https://www.amazon.com.mx/dp/B00H597TJO",
+      "precio_actual_mx": 229,
+      "vendedor_actual_mx": "Marca: ANASTASIA Beverly Hills",
+      "disponibilidad_mx": "disponible",
+      "fecha_verificacion_mx": "2025-11-19T00:57:19.717Z",
+      "error_verificacion_mx": null
+    },
+    {
+      "asin": "B07PQ3DDHF",
+      "title": "Endoten Control Loción para Adulto Unisex 200 Ml",
+      "price": "$1,342.22",
+      "extracted_at": "2025-11-03T15:20:17.660Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": [],
+      "url_mx": "https://www.amazon.com.mx/dp/B07PQ3DDHF",
+      "precio_actual_mx": 1269.79,
+      "vendedor_actual_mx": "OMSAN TRADE",
+      "disponibilidad_mx": "disponible",
+      "fecha_verificacion_mx": "2025-11-19T00:57:27.628Z",
+      "error_verificacion_mx": null
+    },
+    {
+      "asin": "B0DQD4KB3M",
+      "title": "Difusor de aceite esencial sin agua, difusor de aceite, difusores de aromaterapia, difusores de olor para el hogar, habitación grande, difusor de aroma de hotel, 1000 pies cuadrados, difusores de",
+      "price": "$2,535.80",
+      "extracted_at": "2025-11-03T15:20:17.660Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": [],
+      "url_mx": "https://www.amazon.com.mx/dp/B0DQD4KB3M",
+      "precio_actual_mx": 3293.72,
+      "vendedor_actual_mx": "Novayu",
+      "disponibilidad_mx": "disponible",
+      "fecha_verificacion_mx": "2025-11-19T00:57:36.994Z",
+      "error_verificacion_mx": null
+    },
+    {
+      "asin": "B0CXTGVTQG",
+      "title": "EnduroShield Kit de Tratamiento para Vidrios - Protección Avanzada para Superficies de Vidrio - Repele Residuos de Jabón, Mugre Y Suciedad Sin Químicos Agresivos - 118 Ml",
+      "price": "$1,435.95",
+      "extracted_at": "2025-11-03T15:20:17.660Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": [],
+      "url_mx": "https://www.amazon.com.mx/dp/B0CXTGVTQG",
+      "precio_actual_mx": 1366.68,
+      "vendedor_actual_mx": "Felizmente1",
+      "disponibilidad_mx": "disponible",
+      "fecha_verificacion_mx": "2025-11-19T00:57:45.665Z",
+      "error_verificacion_mx": null
+    },
+    {
+      "asin": "B08L36KW7F",
+      "title": "MyDeal Products - Varillas de cobre macizo y latón con movimiento suave para rastrear energía espiritual Chi, caza de fantasmas, adivinar agua, encontrar oro, localizar objetos perdidos o responder",
+      "price": "$789.41",
+      "extracted_at": "2025-11-03T15:20:17.660Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": [],
+      "url_mx": "https://www.amazon.com.mx/dp/B08L36KW7F",
+      "precio_actual_mx": 360,
+      "vendedor_actual_mx": "ADDY ESOTÉRICA",
+      "disponibilidad_mx": "disponible",
+      "fecha_verificacion_mx": "2025-11-19T00:57:54.483Z",
+      "error_verificacion_mx": null
+    },
+    {
+      "asin": "B002CO6ISU",
+      "title": "dr. brandt Pores No More Pore Refiner, 1 fl. oz.",
+      "price": "$1,612.39",
+      "extracted_at": "2025-11-03T15:20:26.977Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": [],
+      "url_mx": "https://www.amazon.com.mx/dp/B002CO6ISU",
+      "precio_actual_mx": 727.51,
+      "vendedor_actual_mx": "ScentedMonkey",
+      "disponibilidad_mx": "disponible",
+      "fecha_verificacion_mx": "2025-11-19T00:58:03.230Z",
+      "error_verificacion_mx": null
+    },
+    {
+      "asin": "B0F8N5J2BJ",
+      "title": "Baterías recargables AAA de litio con cargador rápido, 1300 mWh de alta capacidad, 1.5 V, baterías AAA recargables, 2000 ciclos de larga duración, baterías de iones de litio triple a",
+      "price": "$731.16",
+      "extracted_at": "2025-11-03T15:20:26.977Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": [],
+      "url_mx": "https://www.amazon.com.mx/dp/B0F8N5J2BJ",
+      "precio_actual_mx": 923.5,
+      "vendedor_actual_mx": "SURE_FIRE",
+      "disponibilidad_mx": "disponible",
+      "fecha_verificacion_mx": "2025-11-19T00:58:10.806Z",
+      "error_verificacion_mx": null
+    },
+    {
+      "asin": "B0D2DC82BB",
+      "title": "CMWGKBC Aceite Anticelulítico Aceite De Masaje Para Terapia De Masaje, Aceite Corporal Para Estiramiento De La Piel Y Removedor De Celulitis En Muslos Y Glúteos, Aceite De Masaje Para Tratam",
+      "price": "$538.18",
+      "extracted_at": "2025-11-03T15:20:26.977Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": [],
+      "url_mx": "https://www.amazon.com.mx/dp/B0D2DC82BB",
+      "precio_actual_mx": 515.47,
+      "vendedor_actual_mx": "M&H Customer Friendly Store",
+      "disponibilidad_mx": "disponible",
+      "fecha_verificacion_mx": "2025-11-19T00:58:19.744Z",
+      "error_verificacion_mx": null
+    },
+    {
+      "asin": "B000ULP856",
+      "title": "Mavala MAVALA Eye-Lite Double-lash (0.3 oz.)",
+      "price": "$1,188.55",
+      "extracted_at": "2025-11-03T15:20:26.977Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": [],
+      "url_mx": "https://www.amazon.com.mx/dp/B000ULP856",
+      "precio_actual_mx": 850,
+      "vendedor_actual_mx": "Lookge",
+      "disponibilidad_mx": "disponible",
+      "fecha_verificacion_mx": "2025-11-19T00:58:28.435Z",
+      "error_verificacion_mx": null
+    },
+    {
+      "asin": "B0F9W5CTYT",
+      "title": "CYCLENBATT - Batería de litio de 12 V 10 Ah, más de 5000 ciclos LiFePO4 12 V 10 Ah batería incorporada 10 A BMS, batería de litio de 12 V adecuada para ruedas de alimentación, buscador de peces, UPS",
+      "price": "$1,130.78",
+      "extracted_at": "2025-11-03T15:20:26.977Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": [],
+      "url_mx": "https://www.amazon.com.mx/dp/B0F9W5CTYT",
+      "precio_actual_mx": 1030.74,
+      "vendedor_actual_mx": "ONSA LLC",
+      "disponibilidad_mx": "disponible",
+      "fecha_verificacion_mx": "2025-11-19T00:58:36.410Z",
+      "error_verificacion_mx": null
+    },
+    {
+      "asin": "B0842YT632",
+      "title": "Vinilin (Shostakovsky Balsam) 200g/7.05 oz Value Size",
+      "price": "$1,359.25",
+      "extracted_at": "2025-11-03T15:20:26.977Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": [],
+      "url_mx": "https://www.amazon.com.mx/dp/B0842YT632",
+      "precio_actual_mx": 1309.73,
+      "vendedor_actual_mx": "Novayu",
+      "disponibilidad_mx": "disponible",
+      "fecha_verificacion_mx": "2025-11-19T00:58:44.594Z",
+      "error_verificacion_mx": null
+    },
+    {
+      "asin": "B07DLYXS49",
+      "title": "MAXCLINIC Hyaluron Vita - Espuma de aceite",
+      "price": "$688.97",
+      "extracted_at": "2025-11-03T15:20:26.978Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": [],
+      "url_mx": "https://www.amazon.com.mx/dp/B07DLYXS49",
+      "precio_actual_mx": 589,
+      "vendedor_actual_mx": "K-ALL BEAUTY",
+      "disponibilidad_mx": "disponible",
+      "fecha_verificacion_mx": "2025-11-19T00:58:53.365Z",
+      "error_verificacion_mx": null
+    },
+    {
+      "asin": "B0DJX4XJ4N",
+      "title": "Aceite de Cyperus rotundus, Cyperus, aceite natural 100% puro para reducir el crecimiento del vello corporal (2 PAQUETES)",
+      "price": "$588.28",
+      "extracted_at": "2025-11-03T15:20:26.978Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": [],
+      "url_mx": "https://www.amazon.com.mx/dp/B0DJX4XJ4N",
+      "precio_actual_mx": 565.68,
+      "vendedor_actual_mx": "M&H Customer Friendly Store",
+      "disponibilidad_mx": "disponible",
+      "fecha_verificacion_mx": "2025-11-19T00:59:02.386Z",
+      "error_verificacion_mx": null
+    },
+    {
+      "asin": "B01MU75O63",
+      "title": "Repolarizador Lehit Coctel 8 en 1 - Damaged Hair Repolarizer Lehit 8 in 1 Cocktail",
+      "price": "$703.31",
+      "extracted_at": "2025-11-03T15:20:26.978Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B076MSD71Q",
+      "title": "BELLA AURORA BELLA AUROPRA DOBLE FUERZA CREMA ANTI-MANCHAS MATE PIEL MIXTA 30ML",
+      "price": "$688.97",
+      "extracted_at": "2025-11-03T15:20:26.978Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0DFYN1PCF",
+      "title": "Crema orgánica de ñame silvestre para equilibrio hormonal, 4 onzas de crema natural de ñame salvaje para mujeres PMS y alivio de la menopausia, crema de extracto de raíz de ñame silvestre",
+      "price": "$688.97",
+      "extracted_at": "2025-11-03T15:20:26.978Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0DHS35863",
+      "title": "GALINAND Máquina de terapia de frío, máquina de hielo para el cuidado de la rodilla después de la cirugía, paquete de ayuda para la recuperación del reemplazo de rodilla, sistema de crioterapia con",
+      "price": "$3,013.09",
+      "extracted_at": "2025-11-03T15:20:26.978Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B005GXQ02I",
+      "title": "Pfb Vanish + Chromabright Tratamiento de 118.29 ml (4 oz)",
+      "price": "$1,237.01",
+      "extracted_at": "2025-11-03T15:20:26.978Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0DP9JNJMM",
+      "title": "QONS Kit Limpiador Y Protector de Monedas: Solución para Limpiar Todo Tipo de Monedas, Desde Oro Y Plata Hasta Monedas Antiguas. Suministros para Coleccionistas.",
+      "price": "$1,115.92",
+      "extracted_at": "2025-11-03T15:20:26.978Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0CWLN6XR1",
+      "title": "Xentrawave - Barra de cama doble para adultos mayores de seguridad con bolsillo de almacenamiento, riel de ayuda para cama para personas mayores para entrar y salir fácilmente de la cama, rieles de",
+      "price": "$1,442.18",
+      "extracted_at": "2025-11-03T15:20:26.978Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0DGRHXMH8",
+      "title": "B-Experts GEL FENOGRECO 250g, GEL TONIFICANTE FENOGRECO 250g Senos & Gluteos 100% Original",
+      "price": "$588.52",
+      "extracted_at": "2025-11-03T15:20:26.979Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0C749W35J",
+      "title": "tovaginsh- \"Hierbas Yoni para mujeres que limpian, equilibran el pH y rejuvenecen a las mujeres, hierbas 100% naturales para cocinar al vapor",
+      "price": "$510.01",
+      "extracted_at": "2025-11-03T15:20:39.226Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0B4J7RZGV",
+      "title": "VOGSIG- “Pasta de dientes de espuma para niños, pasta de dientes para niños pequeños con bajo fluoruro, pasta de dientes de espuma para niños para dientes en forma de U",
+      "price": "$638.63",
+      "extracted_at": "2025-11-03T15:20:39.226Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B00FGDXB6Q",
+      "title": "GLO GERM Kit de experimentos, gel de 8 onzas, polvo de 1.9 onzas",
+      "price": "$1,933.38",
+      "extracted_at": "2025-11-03T15:20:39.226Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0D1Z247C1",
+      "title": "Lifebox Essentials Aceite De Masaje Muscular Para Dolores De Árnica - 100% Puro Y Natural - Terapia De Masaje Para Músculos Y Articulaciones - Aceite Corporal Infundido Con Extracto De Árnic",
+      "price": "$538.18",
+      "extracted_at": "2025-11-03T15:20:39.227Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B099J6P744",
+      "title": "Übersilk Lubricante Corporal 275 ml para Adultos",
+      "price": "$662.84",
+      "extracted_at": "2025-11-03T15:20:39.227Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0CM7Y376N",
+      "title": "NC NATURAL CURES Parches De Recuperación Para Fiestas: Paquete De 42 Parches Para Fiestas Nocturnas: Despiértate Renovado Y Con Energía Con Un Parche Que No Daña La Piel; Adhesivo Fuerte Para Un Ajust",
+      "price": "$537.70",
+      "extracted_at": "2025-11-03T15:20:39.227Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0716PC6ZY",
+      "title": "Reuzel tónico fortalecer el cabello - Tratamiento para hombres con aceite, ingredientes naturales y orgánicos - Suero puro y vegano que fortalece e hidrata - Aroma a manzana y menta - 100 ml",
+      "price": "$500.78",
+      "extracted_at": "2025-11-03T15:20:39.227Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0DL5NX1G8",
+      "title": "Yadool Kit para Eliminar Rayones de Acero Inoxidable, Ideal para Acero Inoxidable Sin Revestimiento, Ideal para Refrigeradores, Estufas, Fregaderos, Puertas de Lavavajillas Y Electrodomésticos. Repara",
+      "price": "$1,341.02",
+      "extracted_at": "2025-11-03T15:20:39.227Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0CR2ZXJR9",
+      "title": "resdam- Crema para varices Elimina las varices, mejora las arañas vasculares y la pesadez, crema relajante para las piernas",
+      "price": "$515.12",
+      "extracted_at": "2025-11-03T15:20:39.227Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0DLB7WW5P",
+      "title": "UNIMADE - Paquete de 100 toallas faciales (12 x 12 pulgadas), paños de lavado y toallas de mano altamente suaves, paños de limpieza de microfibra multiusos de secado rápido para baño, hotel, spa y",
+      "price": "$1,014.03",
+      "extracted_at": "2025-11-03T15:20:39.227Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B00CTQ0EUY",
+      "title": "Deluxe Collagen Eye Mask Collagen Pads For Women By Purederm 2 Pack Of 30 Sheets/Natural Eye Patches With Anti-aging and Wrinkle Care Properties/Help Reduce Dark Circles and Puffiness",
+      "price": "$475.40",
+      "extracted_at": "2025-11-03T15:20:39.227Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0DF6Q29ZV",
+      "title": "Wrath & Remedy Sebo de res orgánico batido hecho a mano para la piel - 4 oz (eucalipto) - Humectante de sebo de res alimentado con pasto y bálsamo de miel para pieles sensibles y sedosas, con eczem",
+      "price": "$1,166.26",
+      "extracted_at": "2025-11-03T15:20:39.227Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0CBJZF5V4",
+      "title": "Carril de seguridad para inodoro, marco de seguridad médica desmontable ajustable para ancianos y discapacitados, asas resistentes, se adapta a la mayoría de inodoros",
+      "price": "$1,622.21",
+      "extracted_at": "2025-11-03T15:20:39.228Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B09MQ9JW6V",
+      "title": "ATOPALM- LOCIÓN PARA BEBÉS PARA PIEL SENSIBLE Y BARRERA CUTÁNEA PARA BEBÉS: La piel de los bebés es más fina, sensible y delicada que la de los adultos. Por eso, el fortalecimiento de la barrera cután",
+      "price": "$940.01",
+      "extracted_at": "2025-11-03T15:20:39.228Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B09BW23S83",
+      "title": "NO TOX LIFE - Bloque de platos vegano de 6 onzas - Un jabón de platos sólido para una limpieza eficaz de platos, ollas y sartenes, fórmula biodegradable ultra concentrada, sin fragancia y colorante, paquete de 2",
+      "price": "$901.84",
+      "extracted_at": "2025-11-03T15:20:39.228Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0DL4Q38PF",
+      "title": "Pack JUMBO de gel de baño íntimo para hombres | con repuesto | para 180 días | 14,2 fl. oz | gel de baño espumoso con pH equilibrado | previene el mal olor | con aceite de árbol de té | gel de baño",
+      "price": "$1,110.40",
+      "extracted_at": "2025-11-03T15:20:39.228Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B01MR4Y0CZ",
+      "title": "ASAKUKI 500ml Premium, Essential Oil Diffuser, 5 In 1 Ultrasonic Aromatherapy Fragrant Oil Vaporizer Humidifier, Timer and Auto-Off Safety Switch, 7 LED Light Colors",
+      "price": "$934.45",
+      "extracted_at": "2025-11-03T15:20:50.237Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0F7RK2JR8",
+      "title": "MIFOYO - Extractor de leche portátil, extractor de leche eléctrico, extractor de leche manos libres con 4 modos y 9 niveles, bomba de leche recargable, visualización inteligente para mamás, 24 mm",
+      "price": "$2,900.18",
+      "extracted_at": "2025-11-03T15:20:50.237Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0F18QBCMR",
+      "title": "CUNQN Cinta Para Cerrar Heridas Cutáneas(24 Unidades) Tiras De Sutura Para Heridas, Dispositivo De Cierre De Heridas De Emergencia, Kit Para Laceraciones, Reparación De Heridas Sin Puntos, 12 X 100 Mm",
+      "price": "$436.54",
+      "extracted_at": "2025-11-03T15:20:50.237Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0F47XGVP5",
+      "title": "RIKE Shiatsu - Masajeador de cuello con calor, masajeador 3D para cuello, hombros y espalda, con adaptador de red y coche, masaje de amasado profundo, regalo para hombres y mujeres",
+      "price": "$1,895.02",
+      "extracted_at": "2025-11-03T15:20:50.237Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B012Y5NI1Q",
+      "title": "Bella Terra BB Cream 3-in-1 Tinted Moisturizer - Buildable Coverage - Light to Dark Skin Tones- with Natural SPF- Mineral Makeup Foundation- Hypoallergenic (1.69 Oz) (Medium b 104)",
+      "price": "$1,518.17",
+      "extracted_at": "2025-11-03T15:20:50.238Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0C8MQ74J2",
+      "title": "SCENTEMOTION My Way Difusor de aceite inspirado en el aroma de Miami Beach, aceite difusor de aroma con notas de cardamomo, piel, limón e iris, fragancia de aromaterapia, mezcla de aceites esenciales",
+      "price": "$1,416.53",
+      "extracted_at": "2025-11-03T15:20:50.238Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B08LXTR194",
+      "title": "Turn On Turn On Lubricante Sexual A Base De Silicona 12 Onzas Premium Lubricante Personal - Vegano Seguro, Ph Balanceado, Hipoalergénico, Sin Glicerina Ni Parabenos, Mejora A Base De Agua Pa",
+      "price": "$650.61",
+      "extracted_at": "2025-11-03T15:20:50.238Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0D2587QXX",
+      "title": "PRIMALS - Cepillo de dientes de cerdas de jabalí y bambú (paquete de 4) - Cerdas de jabalí 100% auténticas, sin plástico y nailon",
+      "price": "$1,015.47",
+      "extracted_at": "2025-11-03T15:20:50.238Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0D5B7LST9",
+      "title": "Couleurs Paquete de hielo para niños, almohadilla de gel frío o caliente, reutilizable para lesiones, salud médica, hinchazón y alivio del dolor, ojos cansados, lesiones infantiles, dolor de cabeza,",
+      "price": "$597.63",
+      "extracted_at": "2025-11-03T15:20:50.238Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0BJVDRKHD",
+      "title": "yonisayo- \"2 paquetes de aceite Yoni, desodorante íntimo con aceite femenino totalmente natural para mujeres, elimina el olor, pH equilibrado,",
+      "price": "$513.01",
+      "extracted_at": "2025-11-03T15:20:50.238Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0C794ZQN6",
+      "title": "THE MAGIC SCENT The Magic Scent Heaven Hotel Scent Difusor Aceite - Fragancia De Aire Frío Y Ultrasónico Aceite Para Difusor Inspirado En The Aria Hotel, Las Vegas - Aceites Esenciales Para",
+      "price": "$2,038.85",
+      "extracted_at": "2025-11-03T15:20:50.238Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B09CNY24G3",
+      "title": "Hairitage Champú diario suave sin sulfatos y sin crueldad- Shampoo Outta My Hair - Gentle Clarifying - 384 ml",
+      "price": "$539.88",
+      "extracted_at": "2025-11-03T15:20:50.238Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0C655VWBC",
+      "title": "Juego de 2 cepillos de limpieza para inodoro, para baño, sin montaje y sin rascarse, mango antioxidante 304",
+      "price": "$653.49",
+      "extracted_at": "2025-11-03T15:20:50.238Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B084ZJ6541",
+      "title": "Sensodyne Sensitivity & Gum Whitening Toothpaste, Toothpaste for Sensitive Teeth & Gum Problems, 3.4 Ounces (Pack of 3)",
+      "price": "$745.30",
+      "extracted_at": "2025-11-03T15:20:50.239Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0CC5B8V74",
+      "title": "Máquina de aire inteligente con aroma para el hogar, hotel, spa y oficina, difusor de aroma HVAC de 850 ml para aceites esenciales, difusor de aromaterapia sin agua, sistema de difusión nebulizante, cubre hasta 4500 pies cuadrados",
+      "price": "$3,198.40",
+      "extracted_at": "2025-11-03T15:20:50.239Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0CQMW49ML",
+      "title": "Innmily Absorbente de olores de carbón activado, paquete grande de 12 con ganchos, eliminador de olores natural para olores fuertes, bolsas purificadoras de aire de carbón de bambú, absorbentes de hum",
+      "price": "$737.39",
+      "extracted_at": "2025-11-03T15:20:50.239Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B000S82BX8",
+      "title": "Herbatint Hair Color, 7N Blonde, 4.56 Fluid Ounce",
+      "price": "$740.73",
+      "extracted_at": "2025-11-03T15:21:02.666Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0C74T5V7R",
+      "title": "Encendedor eléctrico USB XJB YFC, retráctil de 27.6 pulgadas, resistente al viento y a la lluvia, adecuado para velas, barbacoas, chimeneas, etc.",
+      "price": "$663.80",
+      "extracted_at": "2025-11-03T15:21:02.666Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B09HC1CQRX",
+      "title": "HIQILI Hiqili Aceite Esencial De Mirra, Para La Piel, Massge, Alivio Del Dolor, 100% Puro Y Natural - 3.38 Fl Oz",
+      "price": "$641.51",
+      "extracted_at": "2025-11-03T15:21:02.666Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B07NFQTB5G",
+      "title": "Aussie, Hairspray, with Jojoba & Sea Kelp , Strong Hold, 10 l oz, Triple Pack",
+      "price": "$758.97",
+      "extracted_at": "2025-11-03T15:21:02.667Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0DHVYLZJH",
+      "title": "Euthymol Set de viaje de pasta de dientes original EUTHYMOL (1,4 fl oz)",
+      "price": "$736.91",
+      "extracted_at": "2025-11-03T15:21:02.667Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0C63BHRBH",
+      "title": "Park Scents Aceite Esencial Santal Para Difusor - Inspirado En Santal 33 De Le Labo Aroma, Aceite Difusor Con Euro Gotero - Fragancia Aromática Lujosa, Artesanal En Usa - Frasco De Vidrio, 1",
+      "price": "$663.80",
+      "extracted_at": "2025-11-03T15:21:02.667Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0B1JBQZDT",
+      "title": "Irvy - Vaginal Tightening Gel Cream for Vag - Feminine Care Vaginial Tightening Products (5 Pack)",
+      "price": "$990.30",
+      "extracted_at": "2025-11-03T15:21:02.667Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B00B4S4134",
+      "title": "Air Max ® | Dilatador nasal que realmente se detiene ronquidos. se abre su nariz así que usted puede conseguir fácilmente más oxígeno en el interior. Dos tamaños (pequeño y mediano). Mejora la respiración a través de la nariz. Especialmente Desarrollado para personas que tienen dificultades para respiración a través de la nariz. hace que el Ronquidos se detiene. votado mejor producto antirronquidos en Europa. Probar ahora, podrás dormir mejor con y equipada para despertar. Usted y Su Pareja se ya no sufren de Ronquidos sonido., Two pack Medium",
+      "price": "$739.31",
+      "extracted_at": "2025-11-03T15:21:02.667Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0CX1KPKWV",
+      "title": "Bmkousg - Pasta de pulido de mármol, compuesto de pulido de mármol, kit de pulido de mármol, encimera limpiador de mármol, pulido de cuarzo, sellador de mármol y protector de 2.2 libras (1 unidad)",
+      "price": "$1,206.05",
+      "extracted_at": "2025-11-03T15:21:02.667Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B08X7KHLB1",
+      "title": "AleveX Pain Relieving Spray, Fast Acting & Fast Drying for Targeted Pain Relief, 3.2oz Spray by Aleve",
+      "price": "$662.60",
+      "extracted_at": "2025-11-03T15:21:02.667Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B00EJMQP3Q",
+      "title": "Aesop Reverence Aromatique Hand Wash, 16.9 Ounce",
+      "price": "$1,462.32",
+      "extracted_at": "2025-11-03T15:21:02.667Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0CMF56C1V",
+      "title": "Aromely ARO Bliss - Difusor de aceite con enchufe inteligente, difusor de aroma Bluetooth inteligente, aromaterapia sin agua, ideal para habitaciones de hotel, baños y oficinas pequeñas, difusor de",
+      "price": "$2,190.60",
+      "extracted_at": "2025-11-03T15:21:02.667Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B002ZAKOJK",
+      "title": "Las Manos secas \"El Último solución de Agarre\" All-Sport tópico Lotion- 56.7 gram",
+      "price": "$736.19",
+      "extracted_at": "2025-11-03T15:21:02.668Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0CSSLZ72J",
+      "title": "MAXWALK- “Andadores para Adultos Mayores, Andador Rodador con Asiento, Andador Rodador Todo Terreno con Ruedas Grandes de Goma de 12”",
+      "price": "$6,246.73",
+      "extracted_at": "2025-11-03T15:21:02.668Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B01C7X6G3C",
+      "title": "DHARMA RESEARCH Polvo de pómez dental, bolsa de 1 libra – Abrasivo multiusos para limpieza, pulido, productos de belleza, trabajo de laboratorio dental y caída de rocas",
+      "price": "$682.49",
+      "extracted_at": "2025-11-03T15:21:02.668Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0CSSMPMND",
+      "title": "AssuTest Tiras Reactivas Urinarias De 50Ct - Kit De Pruebas Urinarias Avanzadas 3 En 1 Detección Con Lecturas Precisas De Leucocitos, Nitrito Y Ph, Tiras Reactivas De Orina Simple En El Hoga",
+      "price": "$513.01",
+      "extracted_at": "2025-11-03T15:21:02.668Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0CYTCFN1S",
+      "title": "Sky and Sol Crema Todo Hidratante Facial Y Corporal Sebo Res 100% Alimentado Con Pasto Cuidado De Día Y De Noche Naturales Seguros Y Comestibles Cuidado Después Del Sol Todo Tipo De Piel 85",
+      "price": "$1,241.53",
+      "extracted_at": "2025-11-03T15:21:13.686Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0CZ17VFZ7",
+      "title": "Pura Plus - Difusor de fragancia inteligente para espacios grandes, ajusta la intensidad del olor, establece horarios y temporizadores, y más en la aplicación Pura, las fragancias se venden por",
+      "price": "$2,316.22",
+      "extracted_at": "2025-11-03T15:21:13.686Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B07MQJRK7N",
+      "title": "CHANGEABLE Pro 39 Colors Eyeshadow Palette Matte Shimmer Make Up Eyeshadow Palette Highlight Pigmented Eye Shadow Powder Natural Pink Black Colors Long Lasting Waterproof Makeup Pallet Cosmetics",
+      "price": "$544.00",
+      "extracted_at": "2025-11-03T15:21:13.686Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B000PTO0RK",
+      "title": "Maxi Rub The Body Relaxer Masajeador quiropráctico de dos velocidades de calidad profesional, 6 libras",
+      "price": "$4,583.53",
+      "extracted_at": "2025-11-03T15:21:13.686Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B07J58HB6D",
+      "title": "SKINFOOD - Polvo de algodón melocotón multiacabado, 0.17 onzas – Extracto de melocotón coreano y polvo facial de control de sebo de calamina, polvo de ajuste sedoso, polvo de ajuste para piel grasa – Aroma de melocotón dulce para piel suave",
+      "price": "$437.98",
+      "extracted_at": "2025-11-03T15:21:13.686Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0CNGYSGMN",
+      "title": "Dimsile- 50 juegos de regalos para baby shower, jabón perfumado con pies de bebé hecho a mano, regalos de fiesta para invitados, regalos para baby shower",
+      "price": "$979.99",
+      "extracted_at": "2025-11-03T15:21:13.687Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0872HH969",
+      "title": "X3 Mop Flat Mop and Bucket System, Hands Free Self Cleaning System, 3 Chamber Design, 3 Washable & Reusable Microfiber Pads",
+      "price": "$1,998.10",
+      "extracted_at": "2025-11-03T15:21:13.687Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B095SWS5ZQ",
+      "title": "Dr. Hauschka Revitalizing Day Lotion, 1.7 fl oz",
+      "price": "$1,166.50",
+      "extracted_at": "2025-11-03T15:21:13.687Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B00J2A0374",
+      "title": "Moringa Oil, Cold Pressed 100% Pure, Food Grade",
+      "price": "$1,543.10",
+      "extracted_at": "2025-11-03T15:21:13.687Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0D54X4RX4",
+      "title": "Kidney Restore- Cápsulas alcalinas de bicarbonato de sodio orgánico Aumenta la salud renal, neutraliza el ácido estomacal con A",
+      "price": "$1,560.37",
+      "extracted_at": "2025-11-03T15:21:13.687Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0DPW54FB6",
+      "title": "Mova Solución De Limpieza De Pisos Para K30, K30Mix Fórmula De Limpieza Profunda Para Múltiples Pisos Duros Trapeador De Vacío En Seco Y Húmedo Inalámbrico Perfecto(16,9 Fl Oz) 16,9 Onzas Líquidas(Paq",
+      "price": "$758.49",
+      "extracted_at": "2025-11-03T15:21:13.687Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B09WLVD8MY",
+      "title": "e11ement - Ácido hipocloroso todo natural para la cara y la piel - Seguro para todo tipo de piel, incluyendo piel propensa al acné - Alivia la piel seca irritada del eccema (recambio 1 L)",
+      "price": "$976.40",
+      "extracted_at": "2025-11-03T15:21:13.687Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0CXHNKX6S",
+      "title": "Gomigomi - Almohada para bebé (funda + almohada), características antivuelco, lactancia y tiempo de abdomen, tela de malla de aire 3D para mayor transpirabilidad Grosor ajustable, fácil cuidado",
+      "price": "$2,379.74",
+      "extracted_at": "2025-11-03T15:21:13.687Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0106LCUBE",
+      "title": "Herbatint Normalizing Shampoo, 8.79 Ounce",
+      "price": "$700.25",
+      "extracted_at": "2025-11-03T15:21:13.688Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B077MC4KWX",
+      "title": "Titan Laboratories Glass Gleam Solar – Limpiador de paneles solares, altamente concentrado, 1 galón hace 500 galones de producto RTU (1 cuarto de galón)",
+      "price": "$873.16",
+      "extracted_at": "2025-11-03T15:21:13.688Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0CC5YP8SJ",
+      "title": "Timgle - Toallitas desodorantes de 200 unidades envueltas individualmente para axilas, antitranspirantes y limpieza corporal",
+      "price": "$1,030.33",
+      "extracted_at": "2025-11-03T15:21:13.688Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0BX8Y9K5B",
+      "title": "Kylin Glory - Peonía conservada, flores para mujeres, mamá, esposa, novia, regalo decorativo de peonías reales para Día de la Madre, San Valentín, boda, fiesta, cumpleaños, aniversario (hada blanca)",
+      "price": "$905.12",
+      "extracted_at": "2025-11-03T15:21:26.252Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B003U31MXS",
+      "title": "Nest Fragances Vela de 3 mechas, Bamboo, 229 g",
+      "price": "$2,532.45",
+      "extracted_at": "2025-11-03T15:21:26.252Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0B69TL51L",
+      "title": "Neuro Health Miracle Nerve Cream - Máxima Fuerza - Mezcla De Cúrcuma Y Árnica Para Aliviar Las Molestias De La Neuropatía - Fórmula Calmante Para Pies Y Manos Con Msm, B6, E - Hecho En Ee. U",
+      "price": "$789.41",
+      "extracted_at": "2025-11-03T15:21:26.252Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B09MFLR8MJ",
+      "title": "SPINDO - Dispensador de pastillas con bloqueo para niños, dispensador de pastillas de llenado rápido Fullicon para colgar en la pared, práctico dispensador de pastillas con diseño de apertura fácil de presionar y gran capacidad para el hogar y la oficina (color negro claro)",
+      "price": "$1,281.57",
+      "extracted_at": "2025-11-03T15:21:26.252Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0C5FJCZCK",
+      "title": "LoveBug Women's Health Supositorios Vaginales De Ácido Bórico Rescue Para Mujeres: Supositorios De Acción Rápida Para El Mal Olor, El Flujo, La Levadura Y El Equilibrio Del Ph Con Aceite De Coco, Ácid",
+      "price": "$462.91",
+      "extracted_at": "2025-11-03T15:21:26.252Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0CFQ2NHSC",
+      "title": "30 Surprised Bath Bombs for Kids, Bath Bombs Gift Set with Land & Sea Animal Toys Inside, Child-Safe, Fun & Educational, Ideal Gift for Kids",
+      "price": "$990.78",
+      "extracted_at": "2025-11-03T15:21:26.253Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B08ZLM946H",
+      "title": "HIQILI Aceite esencial Ylang Ylang para difusor, masaje, cuidado del cabello, 3.38 onzas líquidas.",
+      "price": "$538.52",
+      "extracted_at": "2025-11-03T15:21:26.253Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B01ETVTASI",
+      "title": "RCMA Translucent Powder, 3oz.",
+      "price": "$664.04",
+      "extracted_at": "2025-11-03T15:21:26.253Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0DSLK2Y3R",
+      "title": "Oebitor Bálsamo De Sebo De Res Para La Piel Bálsamo De Sebo Y Miel Crema Hidratante Facial Bálsamo De Sebo De Res 100% Orgánico Batido De Animales Alimentados Con Pasto Hidratante Profundo",
+      "price": "$500.30",
+      "extracted_at": "2025-11-03T15:21:26.253Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B00IVPMZKE",
+      "title": "Beurer IL50 Infrared Heat Lamp for Muscle Pain and Cold Relief, Light Therapy",
+      "price": "$2,814.60",
+      "extracted_at": "2025-11-03T15:21:26.253Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0F6L8373L",
+      "title": "Aromadd - Difusor de aceite esencial sin agua con aroma inteligente, aroma de aire frío para 2000 pies cuadrados, 2 difusores de colección de hotel de 200 ml para toda la casa y oficina (titanio negro",
+      "price": "$4,104.32",
+      "extracted_at": "2025-11-03T15:21:26.253Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B001LEYER4",
+      "title": "DermaSwim Pro 8 Ounce Tube Pre-Swimming Lotion",
+      "price": "$788.69",
+      "extracted_at": "2025-11-03T15:21:26.253Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0CQY98YNB",
+      "title": "Paquete de 2 cojines de repuesto para Airtouch N20 mediano, suministros de cojín nasal de espuma viscoelástica N20, sellado seguro y más suave para mayor comodidad, suministrado por MEDICOLOR",
+      "price": "$940.20",
+      "extracted_at": "2025-11-03T15:21:26.253Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0DCJPK87K",
+      "title": "Máquina inteligente de aroma de 3500 pies cuadrados mejorada 2025, sistema HVAC, difusor de colección de aroma y hotel, difusor de aceite esencial sin agua para el hogar, oficina, capacidad de 600 ml,",
+      "price": "$5,121.71",
+      "extracted_at": "2025-11-03T15:21:26.253Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B00BDLQL8A",
+      "title": "Deodorant Heno de Pravia Te Blanco 200ml by Heno de Pravia",
+      "price": "$966.34",
+      "extracted_at": "2025-11-03T15:21:26.254Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B001BO6R9W",
+      "title": "Glo Germ Mini Kit",
+      "price": "$642.46",
+      "extracted_at": "2025-11-03T15:21:26.254Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B000P00P7S",
+      "title": "Health Pro - Royal Jelly - Moisture Complex Capsules E - Facial Oil - 1 Container (90 Capsules) by Nu-Health Products Co.",
+      "price": "$453.85",
+      "extracted_at": "2025-11-03T15:21:36.100Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B00II6XPOQ",
+      "title": "Chris Christensen Ice on Ice Conditioner with Sunscreen",
+      "price": "$884.10",
+      "extracted_at": "2025-11-03T15:21:36.100Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0F2HTFY5F",
+      "title": "Airversa Difusor de aceite esencial sin agua de doble boquilla para difusores de olor recargables en el hogar con 5 ajustes de temporizador, 4 niveles de niebla con modo de vehículo para habitación de",
+      "price": "$2,064.98",
+      "extracted_at": "2025-11-03T15:21:36.101Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0CXJHZWLX",
+      "title": "Healing Awakening- “Shilajit 10,000mg (150 Cápsulas) Cápsula premium de Shilajit (sin OGM y sin gluten)",
+      "price": "$748.48",
+      "extracted_at": "2025-11-03T15:21:36.101Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B01CCDQVE6",
+      "title": "Suministros de limpieza para el hogar de Japón – Randorin tela neblina nº 7 370 ml * AF27*",
+      "price": "$532.67",
+      "extracted_at": "2025-11-03T15:21:36.101Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B00OBSPXE0",
+      "title": "Naturigin Hair Colour - Permanent - Ebony - 1 Count",
+      "price": "$688.73",
+      "extracted_at": "2025-11-03T15:21:36.101Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0BT262Q9Z",
+      "title": "Difusor de aroma mágico, máquina de aroma para el hogar, hoteles y uso comercial, HVAC o difusor de nebulización portátil, máquina de aroma sin agua para habitación grande, aceite aromático incluido",
+      "price": "$4,003.87",
+      "extracted_at": "2025-11-03T15:21:36.101Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0DNMHHH38",
+      "title": "protectME Spray Protector de Telas Y Antimanchas - Spray para Tapicería, Ideal para Alfombras, Zapatos Y Sofás - Protector de Muebles A Base de Agua No Tóxico - 84.5 Onzas Líquidas + Pulverizador",
+      "price": "$3,489.67",
+      "extracted_at": "2025-11-03T15:21:36.101Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0F2GQ84SC",
+      "title": "GLOMAX Kit de Aerosol para Revestimiento Cerámico(16 Oz) - Abrillanta, Sella Y Protege Superficies de Acero Inoxidable, Vidrio, Cocina Y Baño - Extremadamente Hidrofóbico - Incluye 2 Toallas de Microf",
+      "price": "$934.45",
+      "extracted_at": "2025-11-03T15:21:36.101Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B09BN9HFPS",
+      "title": "Infantmania - Fundas para carrito de compras para bebé, protector para carrito de supermercado, color amarillo",
+      "price": "$753.93",
+      "extracted_at": "2025-11-03T15:21:36.101Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B07658MRWW",
+      "title": "Biossance 100% aceite de escualano. Aceite de escualano facial y corporal sostenible, puro y vegano derivado de caña de azúcar. Hidratación sin peso y rápida absorción (3.5 oz)",
+      "price": "$1,141.33",
+      "extracted_at": "2025-11-03T15:21:36.102Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0017LQOQU",
+      "title": "PIERRE CARDIN Eau de Cologne (Tradicional) en Spray. de 80 ml. VINTAGE",
+      "price": "$751.54",
+      "extracted_at": "2025-11-03T15:21:36.102Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B07DCMTNNX",
+      "title": "Stila Stay all day waterproof liquid eye liner - intense smoky quartz",
+      "price": "$890.10",
+      "extracted_at": "2025-11-03T15:21:36.102Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B08GZL6MFJ",
+      "title": "Lova - Limpiador de tuberías (200 qt.",
+      "price": "$501.18",
+      "extracted_at": "2025-11-03T15:21:36.102Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0CCWSFQDL",
+      "title": "Lifelines Sensory Essentials - Juego de viaje, incluye difusor de lápiz, juguete de piedra de tierra, difusor diario y tres botellas de mezcla de aceites esenciales Lifelines en estuche de viaje",
+      "price": "$1,060.06",
+      "extracted_at": "2025-11-03T15:21:36.102Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0D5R59TPV",
+      "title": "Aspirador nasal eléctrico para bebé, aspirador de nariz para niños, lechón de nariz impermeable para bebé, limpiador de nariz con 3 puntas de silicona, nivel de succión ajustable, función calmante de",
+      "price": "$789.41",
+      "extracted_at": "2025-11-03T15:21:36.102Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0CWNTZ3MV",
+      "title": "Lisotera Bombas de Baño para Niños Con Sorpresa En El Interior, Paquete de 32 Bombas de Baño Con Juguetes de Animales Terrestres y Marinos, Juego de Regalo de Bola de Baño para Niños Con Burbujas Colo",
+      "price": "$1,216.84",
+      "extracted_at": "2025-11-03T15:21:48.202Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0DK9CDGRP",
+      "title": "Cesta de pañales para bebé, carrito móvil de metal y fieltro de alta calidad con divisores para artículos esenciales de guardería recién nacidos, organizador de almacenamiento de pañales enrollables",
+      "price": "$1,846.36",
+      "extracted_at": "2025-11-03T15:21:48.202Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B00PRUZYAY",
+      "title": "Rid-X - Sistema de tratamiento de tanque séptico, 3.2 onzas",
+      "price": "$645.87",
+      "extracted_at": "2025-11-03T15:21:48.202Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B08LHX3LVG",
+      "title": "Avena Instituto Espanol VIOPY Avena Instituto Español Collagen Body Regeneration, Softens & Moisturizes, Skin Repair Formula, 2-pack Of 17 FL Oz each, 2 Bottles.",
+      "price": "$928.45",
+      "extracted_at": "2025-11-03T15:21:48.203Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0BVGJBZB4",
+      "title": "39° North- Gel de baño con aroma a eucalipto y lavanda, presente en los hoteles Courtyard by Marriott y Residence Inn",
+      "price": "$764.48",
+      "extracted_at": "2025-11-03T15:21:48.203Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0D3GZRZ2M",
+      "title": "Bonodave - Terapia de luz roja para cuerpo, almohadilla de terapia de luz infrarroja de 19.8 x 12.0 pulgadas, dispositivo de terapia de luz infrarroja roja para alivio de la espalda, hombro, pierna,",
+      "price": "$1,718.58",
+      "extracted_at": "2025-11-03T15:21:48.203Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0DHHJ73B7",
+      "title": "Batería de litio de 12 V 20 Ah, batería recargable LiFePO4, hasta 5000 + batería de fosfato de hierro de litio de ciclo profundo BMS integrada, para energía solar/eólica, iluminación, camping al aire",
+      "price": "$1,644.03",
+      "extracted_at": "2025-11-03T15:21:48.203Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0CP61TG8Y",
+      "title": "THE MAGIC SCENT The Magic Scent Aceite Difusor Santal - Fragancia Aceite Aroma - Aceite Esencial Santal De Aire Frío Y Ultrasónico - Aceite Santal - Aceites Difusores De Aroma Aromas Para El",
+      "price": "$2,038.85",
+      "extracted_at": "2025-11-03T15:21:48.203Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0F5HLZMH4",
+      "title": "XUNIUZERO - Baterías de 9 V de carbono de 9 V para detector de humo 6F22, batería cuadrada, larga duración, paquete de 4",
+      "price": "$423.82",
+      "extracted_at": "2025-11-03T15:21:48.203Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B00E4MMJKE",
+      "title": "Basic Organics E-Ungüento 2 oz, Paquete con 2",
+      "price": "$734.52",
+      "extracted_at": "2025-11-03T15:21:48.203Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0C79KTKRG",
+      "title": "THE MAGIC SCENT The Magic Scent “Heaven” Hotel Scent Difusor Aceite - Aire Frío & Ultrasónico Aceite De Fragancia Para Difusor - Aromas Hvac Inspirados En Capri, Italia - Aceites Esenciales",
+      "price": "$2,828.51",
+      "extracted_at": "2025-11-03T15:21:48.203Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0CLDYWRKH",
+      "title": "HIBAR Fresh Rain & Pepino Paquete de 3 - Desodorante Sin Aluminio Con Bicarbonato de Sodio, Protección Todo El Día, Control Eficaz de Olores, Todos Los Ingredientes Naturales",
+      "price": "$1,130.54",
+      "extracted_at": "2025-11-03T15:21:48.203Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B08TZ38QV4",
+      "title": "Murphy's Naturals - Bálsamo repelente de mosquitos, a base de plantas, ingredientes naturales, sin DEET, tamaño de bolsillo de viaje, 0.5 onzas cada uno, paquete de 3",
+      "price": "$739.07",
+      "extracted_at": "2025-11-03T15:21:48.204Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B00CRKLOHO",
+      "title": "Chris Christensen After U Bathe Conditioner",
+      "price": "$834.00",
+      "extracted_at": "2025-11-03T15:21:48.204Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0B4ZJR3DL",
+      "title": "YUAKUOD Drops The Pink Stuff Limpiador DE Suelo",
+      "price": "$562.66",
+      "extracted_at": "2025-11-03T15:21:48.204Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0D2R5MP7X",
+      "title": "CLOTHES OF SKIN Aceite De Jengibre Aceite De Masaje Para Terapia De Masaje, Aceite De Jengibre Masaje De Drenaje Linfático, Aceite De Masaje Muscular Dolor, Aceite Corporal De Jengibre Natur",
+      "price": "$538.18",
+      "extracted_at": "2025-11-03T15:21:48.204Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B07C29QF1J",
+      "title": "Babe Lash (3 mL) Enhancing Conditioner | Eyelash Enhancing Formula | Companion to Eyelash Serum",
+      "price": "$1,279.88",
+      "extracted_at": "2025-11-03T15:21:58.758Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B079STF381",
+      "title": "100% Organic Comfrey Medicinal Herbal Oil, Raw, Non-GMO - Wound Healing, Skin-Cell Regeneration, Moisturizer, Scar Reduction, Anti-Inflammatory. Excel",
+      "price": "$699.33",
+      "extracted_at": "2025-11-03T15:21:58.758Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0154T21J4",
+      "title": "Genérico Bruce - Limpiador de suelos laminados y madera dura",
+      "price": "$846.71",
+      "extracted_at": "2025-11-03T15:21:58.758Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B00B1L8M02",
+      "title": "Naturtint Hair Color Permanent, 10A Light Ash Blonde, 5.28 Ounce",
+      "price": "$663.80",
+      "extracted_at": "2025-11-03T15:21:58.758Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B008JH4L6K",
+      "title": "Wellness Wedge Tu solución de elevación de colchón: Paquete de Dos cuñas Debajo del colchón",
+      "price": "$2,129.23",
+      "extracted_at": "2025-11-03T15:21:58.758Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B00NENWQF2",
+      "title": "CloSYS | Enjuague Bucal Sensible | Menta Suave | 946 ml, Sin Alcohol, Equilibrado pH, 32 oz",
+      "price": "$640.54",
+      "extracted_at": "2025-11-03T15:21:58.758Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B00FHVR8KC",
+      "title": "EBL Rechargeable C Batteries 5000mAh Ni-MH C Size Battery, Pack of 8",
+      "price": "$1,210.85",
+      "extracted_at": "2025-11-03T15:21:58.758Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B01GVAAUSO",
+      "title": "Air Max Respirar mejor con este Dilatador nasal para tratar de | esta dilator Facilidad Respiración más eficaz que nasal Tiras. Desarrollado Para obtener más Flujo de Aire durante | Small & Medium | garantizada Fit. de deporte",
+      "price": "$689.21",
+      "extracted_at": "2025-11-03T15:21:58.759Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0BTMPMM2N",
+      "title": "Almohadilla térmica - Negro",
+      "price": "$708.39",
+      "extracted_at": "2025-11-03T15:21:58.759Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B07BWBN557",
+      "title": "[AMPLE:N] Ampolla de chupito péptido 3.7 fl oz (100 ml) – Suero reafirmante facial antienvejecimiento y antiarrugas, potenciador de tres péptidos, visiblemente relleno, cuidado rejuvenecedor de la piel, levanta la flacidez de la piel",
+      "price": "$940.20",
+      "extracted_at": "2025-11-03T15:21:58.759Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0CQP4JVXK",
+      "title": "Gisafai - Mango de escoba con punta roscada con mango de escoba recubierto de polvo, barra de limpieza de metal con varilla de rosca de plástico para cepillos de piso, accesorios de herramientas de",
+      "price": "$1,421.32",
+      "extracted_at": "2025-11-03T15:21:58.759Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B09TNV87J4",
+      "title": "Greetmed Tensiómetro Automático Para Muñeca, Con Pantalla Led Digital, Con Brazalete Parlante, Ajustable, Con Transmisión De Voz, Para Uso Doméstico Y Sanitario",
+      "price": "$839.75",
+      "extracted_at": "2025-11-03T15:21:58.759Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0CN1T9N4K",
+      "title": "Le Monde Gourmand- Aceite corporal de leche de coco",
+      "price": "$1,067.46",
+      "extracted_at": "2025-11-03T15:21:58.759Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0DQ89ZSH4",
+      "title": "CHOEZON Mueble de pared de baño, gabinete de medicamentos con estante ajustable y barra de toallas, soporte de pared para clóset de almacenamiento con 2 puertas de vidrio, para baño, cocina, sala de",
+      "price": "$1,551.50",
+      "extracted_at": "2025-11-03T15:21:58.759Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0CR514246",
+      "title": "era of nature- El mejor JABÓN NEGRO AFRICANO ORGÁNICO crudo para pieles secas y afecciones cutáneas. Ingredientes puros y naturales.",
+      "price": "$538.18",
+      "extracted_at": "2025-11-03T15:21:58.759Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0CS6DPKCP",
+      "title": "OMEO - Humidificador de aromaterapia de tren pequeño negro y difusor de aceite esencial, doble niebla, ultrasónico silencioso, tanque de 300 ml, control remoto, luz LED, purificador de aire para uso",
+      "price": "$841.91",
+      "extracted_at": "2025-11-03T15:21:58.760Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0054Y0FH0",
+      "title": "Tressa Watercolors Color Maintenance Mocha Drench Shampoo 8.5 oz by Tressa",
+      "price": "$990.54",
+      "extracted_at": "2025-11-03T15:22:14.471Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B09X5P36NK",
+      "title": "Kelebs Aceite de masaje mezclado para aliviar el dolor de perros mayores, caderas y articulaciones, aceites esenciales naturales con árnica, seguro para perros, reduce las inflamaciones musculares, mejora la flexibilidad, actividades de ejercicio, relaja. Cero plástico",
+      "price": "$695.44",
+      "extracted_at": "2025-11-03T15:22:14.472Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B09WQHWMR9",
+      "title": "Brakula - Difusores de varillas – Difusor aromático perfumado de bambú y té blanco con 10 varillas para decoración de habitación, 6.7 onzas /180 ml, fragancia de larga duración",
+      "price": "$884.10",
+      "extracted_at": "2025-11-03T15:22:14.472Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0DRS88894",
+      "title": "CEYOME Vendas De Gel Para Ampollas Vendas Hidrocoloides - 30 Unidades Almohadillas Para Ampollas - Vendas Resistentes Al Agua Para Ampollas En Pies Y Dedos - Almohadillas Ultrafinas Para Prevención Y",
+      "price": "$538.18",
+      "extracted_at": "2025-11-03T15:22:14.472Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B00QJ804H6",
+      "title": "CariFree CTx3 Fluoride Rinse, Dentist Recommended, Anti-Cavity (Mint)",
+      "price": "$758.49",
+      "extracted_at": "2025-11-03T15:22:14.472Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0CS9GV14L",
+      "title": "XIKERAY - Aceite de ricino orgánico prensado en frío sin refinar (16 onzas/473 ml), paquete de aceite de ricino reutilizable, algodón orgánico, kit de aceite de ricino para cintura, rodillas y cuello",
+      "price": "$1,105.37",
+      "extracted_at": "2025-11-03T15:22:14.472Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B08G2PL17Q",
+      "title": "NATIVA SPA O BOTICÁRIO BYCRAY Nativa SPA by O Boticario Quinoa Hydrating Body Oil, Soft and Healthy Skin, 6.8 oz. (200 ml)",
+      "price": "$965.79",
+      "extracted_at": "2025-11-03T15:22:14.472Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0DMF1Z3L2",
+      "title": "Disuasivo de avispas de aceite de menta, paquete de 36 repelentes de abejas para interiores y exteriores, repelente de plagas para interiores y exteriores para mosca, hormiga, araña, mosquitos",
+      "price": "$854.38",
+      "extracted_at": "2025-11-03T15:22:14.472Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B07NFC77LL",
+      "title": "Farmacy - Desmaquillante natural – Green Clean Makeup Meltaway Cleansing Balm cosmético – Tamaño de viaje 1.7 oz",
+      "price": "$902.25",
+      "extracted_at": "2025-11-03T15:22:14.472Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B08JKN8CL4",
+      "title": "Süssli Suessli - Pastillas edulcorantes alemanas (1200 unidades, en dispensador, receta sin lactosa, importadas de Alemania",
+      "price": "$628.92",
+      "extracted_at": "2025-11-03T15:22:14.472Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0DMCDWYDX",
+      "title": "BETTER PLACE ORGANICS Aceite De Semilla Negra Orgánico | Líquido Puro 100% Virgen Prensado En Frío | Súper Antioxidante | Uso Externo En Articulaciones, Cabello, Piel Y Uñas | 16 Oz",
+      "price": "$683.21",
+      "extracted_at": "2025-11-03T15:22:14.473Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0D3KN35ZN",
+      "title": "Recambio de pastillas de jabón espumoso para manos, paquete de 6, pastillas espumosas limpiadoras suaves, cero residuos plásticos, limpieza eficaz, solo hay que añadir agua (lavanda)",
+      "price": "$487.60",
+      "extracted_at": "2025-11-03T15:22:14.473Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B07N6KVMKV",
+      "title": "Naked + Thriving Aceite facial antienvejecimiento, orgánico, vegano, totalmente natural para el cuidado de la piel y aceite facial (1 oz/30 ml)",
+      "price": "$2,020.64",
+      "extracted_at": "2025-11-03T15:22:14.473Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B081BD7Q49",
+      "title": "DSV - Escoba de piso estándar para piso de hormigón, escoba grande de 30 pulgadas para piso, escoba de piso resistente para piso de azulejos con mango de 51 pulgadas para cochera, cubierta, baño,",
+      "price": "$1,243.93",
+      "extracted_at": "2025-11-03T15:22:14.473Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0D6VK9F48",
+      "title": "Difusor de aceite esencial, difusor de aromaterapia de metal de 150 ml para aceites esenciales con 7 colores de luces, regalo para mamá, apagado automático sin agua y difusor ultrasónico de niebla",
+      "price": "$658.04",
+      "extracted_at": "2025-11-03T15:22:14.473Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0DLLJNMW6",
+      "title": "REFRESHIFY 60 Toallitas De Ducha Extra Grandes: Toallitas Corporales Para Adultos Que Se Bañan Sin Enjuague, 6 Paquetes De 10, Toallitas De Baño Extra",
+      "price": "$702.63",
+      "extracted_at": "2025-11-03T15:22:14.473Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B003TNR1WK",
+      "title": "Khadi Herbal Hair Colour Light Brown",
+      "price": "$938.39",
+      "extracted_at": "2025-11-03T15:22:24.597Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B07FNV4W4N",
+      "title": "Hair Styling Clay For Men 3.4 fl oz - Matte Finish - High Hold - Water Based - Natural, Organic, Vegan, Cruelty Free",
+      "price": "$814.58",
+      "extracted_at": "2025-11-03T15:22:24.597Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B09DN3HLQ6",
+      "title": "Care Science Antibacterial Fabric Adhesive Pad Bandages , 3x4 inches Extra Large Flexible Non-Stick Strip , Helps Prevent Infection , Breathable Protection , for First Aid & Wound Care , 30 Count",
+      "price": "$689.80",
+      "extracted_at": "2025-11-03T15:22:24.598Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B09JZNQ61K",
+      "title": "Tabletas de lavado para lavadora – Suministros de lavandería para bañera de limpieza profunda pestañas para cargador frontal y carga superior del hogar, limpiadores de lavado descalcificador desodorizante removedor de olores",
+      "price": "$537.22",
+      "extracted_at": "2025-11-03T15:22:24.598Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0027A6FNM",
+      "title": "Quintessence Green Tea Toner 6.75oz",
+      "price": "$1,190.23",
+      "extracted_at": "2025-11-03T15:22:24.598Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B079FDZBPK",
+      "title": "San Francisco Soap Company Revitalizing Man Bar, Exotic Musk & Sandalwood, 10 Ounce",
+      "price": "$557.60",
+      "extracted_at": "2025-11-03T15:22:24.598Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B00LR0AJEO",
+      "title": "Air Max ® | Dilatador nasal que realmente se detiene ronquidos. se abre su nariz así que usted puede conseguir fácilmente más oxígeno en el interior. Dos tamaños (pequeño y mediano). Mejora la respiración a través de la nariz. Especialmente Desarrollado para personas que tienen dificultades para respiración a través de la nariz. hace que el Ronquidos se detiene. votado mejor producto antirronquidos en Europa. Probar ahora, podrás dormir mejor con y equipada para despertar. Usted y Su Pareja se ya no sufren de Ronquidos sonido., Small",
+      "price": "$638.87",
+      "extracted_at": "2025-11-03T15:22:24.598Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0DDQFF76G",
+      "title": "BAIESHIJI - Máquina de Aire de Olor Mejorada para Cubrir el hogar hasta 2000 pies Cuadrados, difusor de Aceite Esencial para Uso hotelero y Comercial de 400 ml, difusor de Aire frío sin Agua para el",
+      "price": "$1,846.84",
+      "extracted_at": "2025-11-03T15:22:24.598Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B01K8KJTS0",
+      "title": "Hanacure All-In-One Facial - Set",
+      "price": "$2,703.61",
+      "extracted_at": "2025-11-03T15:22:24.598Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0BRX5R8Z7",
+      "title": "QAIHOE - Terapia de luz infrarroja de 275 W, lámpara de terapia infrarroja roja para cuerpo o dispositivo de terapia del dolor con temporizador y soporte de altura ajustable",
+      "price": "$2,720.15",
+      "extracted_at": "2025-11-03T15:22:24.599Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0CFGPZ5TV",
+      "title": "Blinkspower - Baterías de litio AA (16 unidades, 3500 mAh, NO.1, 1,5 V, doble A, no recargable)",
+      "price": "$1,033.36",
+      "extracted_at": "2025-11-03T15:22:24.599Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0D9Y47CXM",
+      "title": "Zepath - Paquete de 8 baterías de litio AA recargables con cargador rápido, 3600 mWh de alta capacidad, 1,5 V, batería de iones de litio AA de alta potencia, baterías dobles A hasta más de 2000",
+      "price": "$839.75",
+      "extracted_at": "2025-11-03T15:22:24.599Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0C6XCVN1D",
+      "title": "Mando Desodorante para Todo El Cuerpo - Tubo de Crema Invisible y Barra Sólida - Control de Olor A 72 Horas - Libre de Aluminio, Libre de Bicarbonato de Sodio, Seguro para La Piel - Tubo de 3.0 Onzas",
+      "price": "$1,040.64",
+      "extracted_at": "2025-11-03T15:22:24.599Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B08KHLJ8CY",
+      "title": "Voluspa Baltic Amber, tarro pequeño de vela, 5.5 onzas, 50 horas de combustión, mechas naturales y cera de coco para una combustión limpia, vegana, vertida en los Estados Unidos",
+      "price": "$909.51",
+      "extracted_at": "2025-11-03T15:22:24.599Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B00BC40U8U",
+      "title": "Herstyler Argan Oil Hair Repair Serum, Diminishes Damage Caused by Straightening Tools, 2 Fl. Oz / 60 Ml (Pack of 4)",
+      "price": "$1,221.65",
+      "extracted_at": "2025-11-03T15:22:24.599Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0BY3QPKZG",
+      "title": "Liquilinks 1 par de Pulseras de Silicona, Las Bandas de Lavado te Mantienen seco y Limpio Mientras te lavas la Cara. (Blush Pink)",
+      "price": "$739.07",
+      "extracted_at": "2025-11-03T15:22:24.599Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B07SCZWFD9",
+      "title": "SAFE SEA- PROTECCIÓN CONTRA LAS PICADURAS DE MEDUSAS: disfruta del sol y de las olas con el protector solar FPS 50+ de Safe Sea. Este protector solar seguro para los arrecifes ayuda a protegerte contr",
+      "price": "$763.28",
+      "extracted_at": "2025-11-03T15:22:36.450Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B08SW4HFV8",
+      "title": "Aceite My Way Scent de lujo, inspirado en el hotel, aceites difusor de aromaterapia con toques de exuberante sándalo, cedro de Virginia cálido y hermoso iris, 120 ml",
+      "price": "$2,595.73",
+      "extracted_at": "2025-11-03T15:22:36.450Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B09C8Z7PRS",
+      "title": "MAXELL ER6C AA 3.6V 1800mAh PLC Batería para FX F2-40BL con enchufe",
+      "price": "$1,686.22",
+      "extracted_at": "2025-11-03T15:22:36.450Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B084KXV8BR",
+      "title": "Tyler Candle Glamorous Wash Diva Laundry Detergent 128oz w/Diva Sachets Bundle (1)",
+      "price": "$2,500.80",
+      "extracted_at": "2025-11-03T15:22:36.450Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0CX94J23M",
+      "title": "Phimuezl-Difusor de Llama para aceites Esenciales, difusores de Aroma ultrasónicos de 200 ml con Niebla fría, difusor de aromaterapia con protección de Apagado automático, humidificador pequeño f",
+      "price": "$657.80",
+      "extracted_at": "2025-11-03T15:22:36.450Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B00DNPT1AO",
+      "title": "EBL 16 x Pilas Recargables AA 2800mAh con Caja de batería, precargadas",
+      "price": "$891.77",
+      "extracted_at": "2025-11-03T15:22:36.450Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B002HORINO",
+      "title": "Redecker bürstenhaus Scrub Brush, Union Fiber with S-Shaped Beechwood Handle",
+      "price": "$764.24",
+      "extracted_at": "2025-11-03T15:22:36.451Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B09ZQPPTK9",
+      "title": "Holamay - Aceites aromáticos florales para hacer jabón y velas, aceites esenciales de primera calidad para difusores de aromaterapia - Rosa, Gardenia, Jazmín, Neroli, Violeta, Tuberosa y más aceites perfumados, 10 x 5 ml",
+      "price": "$613.21",
+      "extracted_at": "2025-11-03T15:22:36.451Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B083J7HTLJ",
+      "title": "Moisturizing Body Lotion - Olive Oil by Le Petit Olivier for Women - 8.4 oz Body Lotion",
+      "price": "$746.96",
+      "extracted_at": "2025-11-03T15:22:36.451Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B07KPPCS3T",
+      "title": "NEW! AlmondClear Face & Body Wash | for acne & folliculitis-prone skin, anti-aging, dark spots, ingrown hairs | everyday exfoliating cleanser with mandelic acid and botanicals, 6.7 fl oz",
+      "price": "$978.07",
+      "extracted_at": "2025-11-03T15:22:36.451Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B000IAGW86",
+      "title": "[2Pack] Galaxy S8 Screen Protector, 3D Curved Full Coverage [High Definition] [Easy to Install] [Anti-Bubble] [Anti-Scratch] for Samsung Galaxy S8 Screen Protector-A005",
+      "price": "$921.98",
+      "extracted_at": "2025-11-03T15:22:36.451Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B07FM1V6SF",
+      "title": "De Leaf Thanaka Refreshing Talc Smooth and Natural Scented Skin, Talcum Powder Beauty Skincare Organic Face Body Clean Fresh Cooling Sooth Irritation, 200 g 1 Pack Count",
+      "price": "$612.17",
+      "extracted_at": "2025-11-03T15:22:36.451Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0CBRZ1J2Z",
+      "title": "Bote de basura de baño con cepillo para polvo de inodoro, cubeta de basura delgado de acero inoxidable de 1.6 galones, papelera pequeña para baño, oficina, recámara, cepillo para polvo de inodoro de",
+      "price": "$1,345.09",
+      "extracted_at": "2025-11-03T15:22:36.451Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B09X6S26FB",
+      "title": "YISHIQI25 Pack Replacement Pads Refills for Pedi Vac Portable Electric Vacuum Callus Remover Foot File for Exfoliation Cracked Heels Dead Skin with a Clean Brush (20pcs Grind Head Pads +5pcs Sponge Ring)",
+      "price": "$613.45",
+      "extracted_at": "2025-11-03T15:22:36.451Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B08FRFW971",
+      "title": "SOICARE Difusor de coche para aceites esenciales, pequeño difusor portátil de aceite esencial de coche con cable USB incorporado, mini difusor humidificador de aroma de aire de aromaterapia para",
+      "price": "$789.41",
+      "extracted_at": "2025-11-03T15:22:36.451Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B07GSBZQS9",
+      "title": "Dabur Vatika Shampoo Shikakai Reetha 400ml",
+      "price": "$657.80",
+      "extracted_at": "2025-11-03T15:22:36.452Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B00AFITAB2",
+      "title": "Oyin Handmade Hair Dew Daily Quenching Hair Lotion, 8.4 Ounce",
+      "price": "$688.97",
+      "extracted_at": "2025-11-03T15:22:50.102Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0CGXH261K",
+      "title": "Harewu- “200Pcs Vendaje Redondo Autoadhesivo, Vendaje Autoadhesivo de Tela Flexible para el Cuidado de Pequeñas Heridas y",
+      "price": "$462.91",
+      "extracted_at": "2025-11-03T15:22:50.102Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B00X7YBK2S",
+      "title": "Herbatint Royal Cream, Regenerating Conditioner, 8.79 Ounce",
+      "price": "$689.41",
+      "extracted_at": "2025-11-03T15:22:50.102Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B012GNCI44",
+      "title": "Oh Yuk - Limpiador de jacuzzis",
+      "price": "$780.30",
+      "extracted_at": "2025-11-03T15:22:50.102Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B019GYEYMU",
+      "title": "Rejuvaskin RejuvaSil Silicone Scar Gel - Improves the Appearance of Scars - Physician Recommended - 15 mL",
+      "price": "$1,071.90",
+      "extracted_at": "2025-11-03T15:22:50.102Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0DK6V5MX2",
+      "title": "JESSPOW 18350 - Batería recargable de 3,7 V 1200 mAh, parte superior plana, descarga IMR 18350 baterías de iones de litio para linterna, luz solar de jardín y más (paquete de 2)",
+      "price": "$783.90",
+      "extracted_at": "2025-11-03T15:22:50.102Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B00BAXITEU",
+      "title": "Mauboussin - Pour Lui 100ml (3.3 Fl Oz) - Eau de Parfum for Men - Ferny & Modern Scents",
+      "price": "$1,024.45",
+      "extracted_at": "2025-11-03T15:22:50.102Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0047A6WLA",
+      "title": "MÜHLE TRADITIONAL R41 - Maquinilla de afeitar de doble filo (peine abierto) para hombre, perfecta para uso diario, calidad de barbería para afeitarse suave",
+      "price": "$1,512.42",
+      "extracted_at": "2025-11-03T15:22:50.103Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B008VGWL1G",
+      "title": "Oh Yuk Jetted Tub System Cleaner",
+      "price": "$2,179.57",
+      "extracted_at": "2025-11-03T15:22:50.103Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B07DCWTMSG",
+      "title": "Borotalco: Deo Stick\"original microtalc\" 40 ml (1.35 fl.oz)",
+      "price": "$480.41",
+      "extracted_at": "2025-11-03T15:22:50.103Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0DFM1S78P",
+      "title": "QRQ Terapia de luz roja, lámpara de terapia de luz infrarroja con soporte para cara y cuerpo, LED de 660 nm (visible) y 850 nm (invisible) para belleza de todo el cuerpo, regalos del día de la madre",
+      "price": "$2,024.95",
+      "extracted_at": "2025-11-03T15:22:50.103Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B009R7A6TC",
+      "title": "Sonage CLEANSER, Ligne Prestige (8 oz.) by Sonage",
+      "price": "$1,003.25",
+      "extracted_at": "2025-11-03T15:22:50.103Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B00SGZ8JSQ",
+      "title": "Khadi Blond Golden Hint Tinte para el cabello, 1 EA",
+      "price": "$938.39",
+      "extracted_at": "2025-11-03T15:22:50.103Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B07YF3PZ13",
+      "title": "Capture Kit de limpieza en seco de alfombras 400 – desodoriza manchas limpias huele humedad de alfombra sofá lana y tela, manchas de mascotas olor humo también",
+      "price": "$1,303.62",
+      "extracted_at": "2025-11-03T15:22:50.103Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B07VV9LH42",
+      "title": "EBL - Cargador de batería de 40 ranuras para 1/2/3...19/20/21...38/39/40 pilas AA AAA recargables – Cargador de batería múltiple avanzado – Diseño de mango (pilas no incluidas)",
+      "price": "$1,834.13",
+      "extracted_at": "2025-11-03T15:22:50.103Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B08L9P8S9C",
+      "title": "Voluspa Ciprés blanco, tarro grande para velas, 18 onzas, 100 horas de combustión, mechas naturales y cera de coco para quemar limpiamente, vegano, vertido en los Estados Unidos",
+      "price": "$1,391.12",
+      "extracted_at": "2025-11-03T15:22:50.104Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0C6VB86QN",
+      "title": "Almohadillas iluminadoras Vitamide, almohadillas hipoalergénicas veganas para el rostro con niacinamida y espino amarillo, almohadillas que aumentan la luminosidad para una piel clara e iluminada,",
+      "price": "$909.27",
+      "extracted_at": "2025-11-03T15:23:01.062Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B075MPKB9X",
+      "title": "Rockin' Green Platinum Series Active Wear Laundry Detergent Powder, 45 oz. - All Natural, Biodegradable, and Eco-Friendly",
+      "price": "$1,105.61",
+      "extracted_at": "2025-11-03T15:23:01.062Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B08TRQ3RC5",
+      "title": "Goodwipes Toallitas desechables y a base de plantas con botánicos | Dispensador para uso en casa | Shea-Coco con aloe séptico y seguro para alcantarillado | 360 unidades (6 paquetes) – Toallitas para adultos más grandes",
+      "price": "$977.84",
+      "extracted_at": "2025-11-03T15:23:01.062Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B000IB0GHI",
+      "title": "Lock Stock & Barrel - 85 Karats Original Clay - 100gr / 3.53oz",
+      "price": "$905.20",
+      "extracted_at": "2025-11-03T15:23:01.063Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B07JPFJY7W",
+      "title": "Scar MD Silicone Scar Gel 15g | Scar cream, Professional Grade Silicone Scar Treatment Surgical Scars, C-Section, Cuts and Burns",
+      "price": "$1,342.22",
+      "extracted_at": "2025-11-03T15:23:01.063Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B00FXO8QIG",
+      "title": "ATTITUDE Hypoallergenic Static Eliminator Cloths & Softeners, Fragrance Free, Reusable for Up to 300 Loads",
+      "price": "$707.19",
+      "extracted_at": "2025-11-03T15:23:01.063Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B000F8JJ8G",
+      "title": "NATURTINT HAIR COLOR,7G,GLDN BLONDE, 5.28 FZ by Naturtint",
+      "price": "$663.80",
+      "extracted_at": "2025-11-03T15:23:01.063Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0917FBD4L",
+      "title": "Weleda Skin Food Nourishing Body Lotion, 6.8 Fluid Ounce, Plant Rich Moisturizer with Pansy, Chamomile and Calendula",
+      "price": "$644.86",
+      "extracted_at": "2025-11-03T15:23:01.063Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B07285YSG2",
+      "title": "NewGel+E 18 X 2 Abdomen/Extremity Silicone Strip - CLEAR (1 Strip per box)",
+      "price": "$2,095.91",
+      "extracted_at": "2025-11-03T15:23:01.063Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0C61GM3LM",
+      "title": "Premium Abundance Fleece Massage Table Pad Set,Hypoallergenic Microfiber Fleece,Soft and Comfortable, Includes Pad and Face Cradle Cover, 31” W x 72” LQ",
+      "price": "$1,369.54",
+      "extracted_at": "2025-11-03T15:23:01.063Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B075H38DRN",
+      "title": "Aloderma Pure Aloe Vera Gel - Soothes and Hydrates Dry, Itchy, or Irritated Skin; great for Acne, Dandruff, Sunburn, Rashes (4 oz)",
+      "price": "$542.67",
+      "extracted_at": "2025-11-03T15:23:01.063Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0B5Z16KK6",
+      "title": "Upgrade Silicone Scar Sheets (1.6\" x 120\"- 3M), Medical Grade Silicone Scar Tape, Scar Removal Strips for Acne, Burn Scars C-Section & Keloid Surgery Scars Sheets Treatment Sheets - 8 Month Supply",
+      "price": "$557.60",
+      "extracted_at": "2025-11-03T15:23:01.064Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B08P4KTVHX",
+      "title": "SUBEKYU - Juego de brochas de bambú con soporte para jabón, depurador de platos de madera con dispensador de jabón, cepillo para polvo natural de cocina, olla, sartenes, hierro fundido, 2 unidades,",
+      "price": "$524.66",
+      "extracted_at": "2025-11-03T15:23:01.064Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0066DDTC6",
+      "title": "ATTITUDE Hypoallergenic Window & Mirror Cleaner, Citrus Zest, 27.1 Fluid Ounce",
+      "price": "$544.89",
+      "extracted_at": "2025-11-03T15:23:01.064Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B07JC2T1Z1",
+      "title": "Forticept Blue Butter Antimicrobial Wound Filler Antiseptic Gel All Animal for Skin Infections, Rashes, Sores, Wounds, Burns, Scratches | 4 OZ",
+      "price": "$936.98",
+      "extracted_at": "2025-11-03T15:23:01.064Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B000ORYDJI",
+      "title": "Weleda Relaxing Body & Beauty Oil, 3.4 Fluid Ounces (100 ml)",
+      "price": "$771.31",
+      "extracted_at": "2025-11-03T15:23:01.064Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0BY674HJX",
+      "title": "Scott's Liquid Gold Wood Cleaner and Polish, Two Pack",
+      "price": "$729.00",
+      "extracted_at": "2025-11-03T15:23:14.159Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0744N2H1X",
+      "title": "ROUTINE Superstar Deodorant Cream, 58 Gram",
+      "price": "$915.27",
+      "extracted_at": "2025-11-03T15:23:14.159Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B01MFHLEGF",
+      "title": "Lápiz de cejas BrowGal Skinny, 3 en 1, resistente al agua, con bobina, punta afilada para definir las cejas, Espresso",
+      "price": "$887.01",
+      "extracted_at": "2025-11-03T15:23:14.159Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B093DL9S83",
+      "title": "LMNOOP “Crema Para El Cuidado De Heridas Para Infección Úlceras Llagas Cortes Rasguños Quemaduras Mordeduras Quirúrgicas Heridas Abiertas Y Profundas Y Varias Heridas, Primeros Auxilios Ungü",
+      "price": "$1,291.87",
+      "extracted_at": "2025-11-03T15:23:14.159Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B00IHVQBMK",
+      "title": "EBL 906 Smart Charger for AA AAA C D 9V Rechargeable Batteries with 4 Pieces 5000mAh C Rechargeable Batteries",
+      "price": "$1,185.68",
+      "extracted_at": "2025-11-03T15:23:14.160Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B00R60FWIW",
+      "title": "California Baby Cream - Calendula - 6 oz",
+      "price": "$1,452.97",
+      "extracted_at": "2025-11-03T15:23:14.160Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B004IGSVQC",
+      "title": "Feather Artist Club Proguard Blade",
+      "price": "$694.24",
+      "extracted_at": "2025-11-03T15:23:14.160Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0BMRTZMCH",
+      "title": "Mosole J MAC BOTANICALS Organic Castor Oil (Glass Bottle, 16 oz)L8",
+      "price": "$894.65",
+      "extracted_at": "2025-11-03T15:23:14.160Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0BRQF6FGC",
+      "title": "DOVIPE Bombas De Baño Para Niños, 12 Bombas De Baño Con Juguetes De Cristal Sorpresa En El Interior, Burbujas De Baño Naturales Y Orgánicas Hechas A Mano, Regalo De Pascua De Cumpleaños Para Niñas Y",
+      "price": "$576.61",
+      "extracted_at": "2025-11-03T15:23:14.160Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B008AIQP6M",
+      "title": "Lustro Italiano Life Arts Cataplasma en Polvo, 226.8 gram",
+      "price": "$739.07",
+      "extracted_at": "2025-11-03T15:23:14.160Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B08JS3Q8TV",
+      "title": "Care Science Variety Bandages Pack, 300 ct Bulk Assorted Sizes | Includes Active, All-Purpose, Waterproof, and Heavy-Duty Bandages. Breathable Protection Helps Prevent Infection for First Aid",
+      "price": "$783.72",
+      "extracted_at": "2025-11-03T15:23:14.160Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B07NBT7JZT",
+      "title": "Goldwell Dualsenses Silver Shampoo 300mL, 12.486772486772486 oz.",
+      "price": "$821.53",
+      "extracted_at": "2025-11-03T15:23:14.161Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0CLGPG9B4",
+      "title": "FANKAI - Encendedor multifuncional de tubos, soporte integrado, herramientas de limpieza 3 en 1, encendedor de butano recargable con llama suave en ángulo, práctico, gas, para regalo de tubería",
+      "price": "$613.21",
+      "extracted_at": "2025-11-03T15:23:14.161Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B07M86GL9Z",
+      "title": "Bionyx Platinum Complex Facial Peeling 50ml",
+      "price": "$1,831.65",
+      "extracted_at": "2025-11-03T15:23:14.161Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B07KV9FFD2",
+      "title": "Revolution Conceal & define foundation f7",
+      "price": "$563.59",
+      "extracted_at": "2025-11-03T15:23:14.161Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B00WRQ3VYC",
+      "title": "Luz Pearl Powder by Luz",
+      "price": "$1,038.01",
+      "extracted_at": "2025-11-03T15:23:14.161Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0787PFFKS",
+      "title": "Theraplex Clear Lotion Spray 8 oz",
+      "price": "$789.41",
+      "extracted_at": "2025-11-03T15:23:28.058Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B008UE2XAI",
+      "title": "Garrett Markenson Milk Hair Treatment 3.33 oz",
+      "price": "$1,392.56",
+      "extracted_at": "2025-11-03T15:23:28.058Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B09W5KLVDR",
+      "title": "SuzziPad Calcetines de terapia de frío y guantes fríos para quimioterapia neuropatía, paquete de cuidado de quimioterapia para mujeres y hombres, ideal para fascitis plantar, túnel carpiano, alivio del dolor de manos, S/M",
+      "price": "$1,443.14",
+      "extracted_at": "2025-11-03T15:23:28.058Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B01CONW4JK",
+      "title": "Sekkisei Herbal Gel - 79ml/2.8oz",
+      "price": "$1,266.94",
+      "extracted_at": "2025-11-03T15:23:28.058Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0D3V5NJLT",
+      "title": "WhereHike “Aceite De Magnesio Natural Spray Para Pies Tamaño 8Oz (25Mg Magnesio Por Spray) -Rápida Absorción, Secado Rápido Sin Residuos, Suave A La Piel-Sin Sabor",
+      "price": "$491.53",
+      "extracted_at": "2025-11-03T15:23:28.058Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0CQ7VX29R",
+      "title": "The Organic Forest – VEGAN PURE NATURAL Aceite De Clavo 100% Puro Y Natural Para El Cuidado Del Cabello, Cuidado Bucal, Aromaterapia Y Soporte Resistente | Aroma Fuerte Y Picante | Difus",
+      "price": "$484.48",
+      "extracted_at": "2025-11-03T15:23:28.058Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B095Z5PKDJ",
+      "title": "Sensodyne Sensitivity & Gum Sensitive Toothpaste for Gingivitis, Sensitive Teeth Treatment, Clean & Fresh - 3.4 oz (Pack of 4)",
+      "price": "$857.25",
+      "extracted_at": "2025-11-03T15:23:28.059Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B08HWDH8V5",
+      "title": "[Último 2022] tapones para los oídos para dormir nadar, 8 pares de tapones de silicona reutilizables moldeables con cancelación de ruido para tiro, nadadores, ronquidos, conciertos, aviones, viajes, trabajo, estudio",
+      "price": "$525.95",
+      "extracted_at": "2025-11-03T15:23:28.059Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B008W5UUAA",
+      "title": "Aesop - Resurrection Rinse-Free Hand Wash - 50ml/1.7oz",
+      "price": "$716.61",
+      "extracted_at": "2025-11-03T15:23:28.059Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B081S9B38N",
+      "title": "MediMitt ToeMitt vendajes para dedos de los pies grandes (cobertura completa vendaje de punta grande), Small 10-Pack",
+      "price": "$788.45",
+      "extracted_at": "2025-11-03T15:23:28.059Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B00S8NU02E",
+      "title": "NewGel+ E 24\" X 2\" Abdomen Clear (1 per box)",
+      "price": "$2,533.65",
+      "extracted_at": "2025-11-03T15:23:28.059Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B071R787M9",
+      "title": "Orange Glo - Limpiador de suelos de madera dura 4 en 1 con un solo paso, aroma a naranja fresco, 3 unidades",
+      "price": "$1,143.48",
+      "extracted_at": "2025-11-03T15:23:28.059Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B00161SB7G",
+      "title": "Tsukineko StazOn - Limpiador de sellos multiusos con tapa blanda, aroma a limón, botella de 2 onzas líquidas",
+      "price": "$521.96",
+      "extracted_at": "2025-11-03T15:23:28.059Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0CQRBM5BG",
+      "title": "GOLDENMATE 12 V 12 Ah (2 unidades de batería de litio LiFePO4 recargable de ciclo profundo",
+      "price": "$2,687.55",
+      "extracted_at": "2025-11-03T15:23:28.059Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B00YPP2LBM",
+      "title": "Thymes Frasier - Vela de aguja de abeto – Velas navideñas para el hogar perfumadas con notas de abeto siberiano crujiente, madera de cedro y sándalo, decoración de Navidad, regalos de Navidad para",
+      "price": "$1,185.92",
+      "extracted_at": "2025-11-03T15:23:28.059Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B07B9FLTDN",
+      "title": "BLITZU - Rodillera de compresión para hombres y mujeres, el mejor soporte de rodilla para correr, gimnasio, entrenamiento, fitness, levantamiento de pesas Alivio del dolor en las articulaciones, artritis, ACL, desgarro del menisco y recuperación de lesiones L",
+      "price": "$538.18",
+      "extracted_at": "2025-11-03T15:23:28.060Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B00VIXFAVW",
+      "title": "No Gray Quick Fix Instant Touch-Up for Gray Roots (Set of 1, Brown/Black) by No Gray Quick Fix",
+      "price": "$487.84",
+      "extracted_at": "2025-11-03T15:23:39.183Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B07QKFX2CL",
+      "title": "Care Science Hidrocoloide, extra grande | Sello 100% impermeable que promueve hasta 2 veces más rápido, reduce las cicatrices, alivia el dolor sin medicamentos (4 x 4 pulgadas, 3 unidades)",
+      "price": "$546.42",
+      "extracted_at": "2025-11-03T15:23:39.183Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B09YCFPTFM",
+      "title": "TOKPELA Yoni - Hierbas de vapor en V, hierbas de vapor vaginales 100% orgánicas (embalaje de bolsa de filtro), kit de vapor Yoni (20 vapores)",
+      "price": "$708.39",
+      "extracted_at": "2025-11-03T15:23:39.183Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0CTFF47BQ",
+      "title": "POWJIELI - Baterías AA recargables Ni-MH, 1.2 V, 1000 mAh, batería solar doble A precargada, para jardín y paisajismo, luces de cadena, luces de acera (paquete de 12)",
+      "price": "$538.18",
+      "extracted_at": "2025-11-03T15:23:39.183Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B07YNWX9WW",
+      "title": "All Day locks & Braid Foam Control",
+      "price": "$530.75",
+      "extracted_at": "2025-11-03T15:23:39.183Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B007NTFGAA",
+      "title": "Acqua Distillata Alle Rose (Rose Water) 300 ml by Manetti Roberts by Manetti Roberts",
+      "price": "$623.76",
+      "extracted_at": "2025-11-03T15:23:39.183Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B077P1D45H",
+      "title": "Herstyler Marula Oil Hair Serum | Frizzy Hair Serum for Straightening & Sheen | Fragrant Hair Care Serum for Glossy Tresses | Hair Treatment Serum to Give Hair that Extra Boost | Treasure Your Hair",
+      "price": "$640.68",
+      "extracted_at": "2025-11-03T15:23:39.183Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B07D1W85JB",
+      "title": "Venofye Queen Bee Day Moisturizer",
+      "price": "$915.03",
+      "extracted_at": "2025-11-03T15:23:39.183Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0D7RQ1M9T",
+      "title": "JJPOBYL - Baterías recargables AA 1300 mAh 1.2 V NiMH para luz solar, baterías solares precargadas para luces de jardín, paisaje Dero (12 unidades AA)",
+      "price": "$776.95",
+      "extracted_at": "2025-11-03T15:23:39.184Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B09YMM9J6R",
+      "title": "Bolsas de basura altas, grandes y fuertes de 39 galones con cierre de cordón. Bolsa de cocina, patio, césped y hoja, basura de casa y garaje. 50 unidades. Bolsas de basura",
+      "price": "$1,017.63",
+      "extracted_at": "2025-11-03T15:23:39.184Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B073ZD7XVV",
+      "title": "EBL - Cargador de batería inteligente para baterías recargables C D AA AAA 9V Ni-MH Ni-CD con función de descarga y visualización LCD",
+      "price": "$783.66",
+      "extracted_at": "2025-11-03T15:23:39.184Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B0019LVNSW",
+      "title": "Naturtint Natural Chestnut 4N - 5.6 fl oz - Liquid by Naturtint",
+      "price": "$663.80",
+      "extracted_at": "2025-11-03T15:23:39.184Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B07M5C7DR5",
+      "title": "Bionyx Platinum Advanced Eye Cream 30g",
+      "price": "$1,543.10",
+      "extracted_at": "2025-11-03T15:23:39.184Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B07G89QPL6",
+      "title": "Frudia Antioxidant Pomegranate Nutri-Moisturizing Cream 55g",
+      "price": "$738.92",
+      "extracted_at": "2025-11-03T15:23:39.184Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B07HQX4X62",
+      "title": "Valjean Labs Facial Serum, Combo Pack of Hydrate, Glow, and Firm (1oz Bottles)",
+      "price": "$1,039.44",
+      "extracted_at": "2025-11-03T15:23:39.184Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B09SY4TJN3",
+      "title": "Luxury Bath Gift Set for Women - 10 Relaxing Spa Gifts for Women with Lavender and Frankincense. Bath Spa Gift Basket for Women with Self Care Gifts and Home Spa Products. Birthday gifts for women.",
+      "price": "$1,414.85",
+      "extracted_at": "2025-11-03T15:23:39.184Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B076BTZMRM",
+      "title": "Temporary Silver Gray Hair Wax Pomade for Men and Women, Luxury Coloring Mud Grey Hair Dye,Washable Treatment with All Day Hold. Non-Greasy Matte Hairstyle Ash for Party, Cosplay",
+      "price": "$513.01",
+      "extracted_at": "2025-11-03T15:23:52.998Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    },
+    {
+      "asin": "B00DB8P03K",
+      "title": "Nest - Difusor de Varillas de Nueva York, Mandarina siciliana, 6 onzas líquidas, Fragancia hasta 90 días, Soporte de Vidrio Reutilizable y Recargable, Incluye 8 Varillas de caña Totalmente Naturales,",
+      "price": "$1,864.34",
+      "extracted_at": "2025-11-03T15:23:52.999Z",
+      "category": "Salud y Cuidado Personal",
+      "batch_number": 10,
+      "also_appears_in": []
+    }
+  ]
+}

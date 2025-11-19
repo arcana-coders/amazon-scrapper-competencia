@@ -1,0 +1,594 @@
+{
+  "seller_id": "AE8MUNDUREHX7",
+  "batch_number": 3,
+  "created_at": "2025-10-13T03:51:14.727Z",
+  "analysis_type": "recursive_hierarchical_batch",
+  "max_products_per_leaf": 320,
+  "max_recursion_depth": 10,
+  "max_products_per_batch": 1000,
+  "main_categories": [
+    "Alimentos y Bebidas",
+    "Automotriz y Motocicletas",
+    "Bebé",
+    "Belleza",
+    "Deportes y Aire libre",
+    "Electrónicos",
+    "Herramientas y Mejoras del Hogar",
+    "Hogar y Cocina",
+    "Industria, Empresas y Ciencia",
+    "Instrumentos Musicales",
+    "Jardín",
+    "Juguetes y Juegos",
+    "Libros",
+    "Oficina y Papelería",
+    "Películas y Series de TV",
+    "Productos para animales",
+    "Ropa, Zapatos y Accesorios",
+    "Salud y Cuidado Personal",
+    "Videojuegos"
+  ],
+  "categories": [
+    {
+      "name": "Electrónicos",
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482558011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327198&rnid=15997893011&ref=sr_nr_n_6&ds=v1%3A9GJj%2B6v8dNlbiRfr97q5q5G6yGGLvr5Xx5akmM%2Fevqo",
+      "expected_products": 436,
+      "isLeaf": false,
+      "depth": 1,
+      "path": [
+        "Electrónicos"
+      ],
+      "status": "completed",
+      "subcategories": [
+        {
+          "name": "Celulares y Accesorios",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482558011%2Cn%3A9687422011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327313&rnid=9482558011&ref=sr_nr_n_1&ds=v1%3AWmLKPK2TQixG8nhb0J8CdIcevW4TO6ekVxKuV1d%2BC6Q",
+          "expected_products": 67,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Electrónicos",
+            "Celulares y Accesorios"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:48:39.489Z"
+        },
+        {
+          "name": "Computadoras, Componentes y Accesorios",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482558011%2Cn%3A9687880011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327313&rnid=9482558011&ref=sr_nr_n_2&ds=v1%3Az6RnaOkfp3OUh3CHcCvpYt%2BmxuMcDvMOLmoyUIDu%2Fzc",
+          "expected_products": 117,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Electrónicos",
+            "Computadoras, Componentes y Accesorios"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:48:42.186Z"
+        },
+        {
+          "name": "Cámaras y Fotografía",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482558011%2Cn%3A9687605011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327313&rnid=9482558011&ref=sr_nr_n_3&ds=v1%3As2IL6m1wyHioejlzNxkWVThP0NxlmlIXKFIjYZXfAIk",
+          "expected_products": 49,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Electrónicos",
+            "Cámaras y Fotografía"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:48:44.904Z"
+        },
+        {
+          "name": "Electrónica para Autos",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482558011%2Cn%3A9687471011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327313&rnid=9482558011&ref=sr_nr_n_4&ds=v1%3AILBs0AvgakuB3B4O4EO5RuKg%2Fr8gTQZW2dFb2APyYCg",
+          "expected_products": 20,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Electrónicos",
+            "Electrónica para Autos"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:48:47.626Z"
+        },
+        {
+          "name": "Electrónicos de Oficina",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482558011%2Cn%3A9705965011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327313&rnid=9482558011&ref=sr_nr_n_5&ds=v1%3AINtgmK8p0RNIZYzK16jhipWPV5ha%2FNI38zXO0KGQa3E",
+          "expected_products": 76,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Electrónicos",
+            "Electrónicos de Oficina"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:48:50.371Z"
+        },
+        {
+          "name": "Equipos de Audio y Hi-Fi",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482558011%2Cn%3A9687565011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327313&rnid=9482558011&ref=sr_nr_n_6&ds=v1%3AvAViFttCa79QyC1ry1tZebE8iacmP1CLUfTRryn%2BU2w",
+          "expected_products": 32,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Electrónicos",
+            "Equipos de Audio y Hi-Fi"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:48:53.088Z"
+        },
+        {
+          "name": "Televisión y Vídeo",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482558011%2Cn%3A9687925011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327313&rnid=9482558011&ref=sr_nr_n_7&ds=v1%3AqVNDtjsMzCbI5W1HUD9I%2BhbCarKofWtI5OxSZIbEQh8",
+          "expected_products": 29,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Electrónicos",
+            "Televisión y Vídeo"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:48:55.825Z"
+        },
+        {
+          "name": "Accesorios de Alimentación",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482558011%2Cn%3A9687281011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327313&rnid=9482558011&ref=sr_nr_n_8&ds=v1%3A4pKldSs84mEhnkbG3H89%2FUhO0rRP6zMmEmcH%2BXfaQUI",
+          "expected_products": 14,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Electrónicos",
+            "Accesorios de Alimentación"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:48:58.580Z"
+        },
+        {
+          "name": "Audífonos, auriculares y accesorios",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482558011%2Cn%3A24035342011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327313&rnid=9482558011&ref=sr_nr_n_9&ds=v1%3AuhtAzRXyya%2FROaPj8n7iEdWtsH0%2BTGdgMTnnsBU3GF4",
+          "expected_products": 24,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Electrónicos",
+            "Audífonos, auriculares y accesorios"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:49:01.289Z"
+        },
+        {
+          "name": "Pilas y Cargadores",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482558011%2Cn%3A9687374011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327313&rnid=9482558011&ref=sr_nr_n_10&ds=v1%3APi%2FguZ8wOajaNG0qfUYW9Hohlmv3TVP2m4luuorPMy0",
+          "expected_products": 8,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Electrónicos",
+            "Pilas y Cargadores"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:49:04.025Z"
+        },
+        {
+          "name": "Nuevo",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482558011%2Cp_n_condition-type%3A21214164011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327313&rnid=21214163011&ref=sr_nr_p_n_condition-type_1&ds=v1%3Aj0Uq9FLy4Kf9BUSSTj1qvGrAAtFLXNXE53MsprbomuA",
+          "expected_products": 437,
+          "isLeaf": false,
+          "depth": 2,
+          "path": [
+            "Electrónicos",
+            "Nuevo"
+          ],
+          "status": "pending",
+          "subcategories": [
+            {
+              "name": "Celulares y Accesorios",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482558011%2Cn%3A9687422011%2Cp_n_condition-type%3A21214164011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327343&rnid=9482558011&ref=sr_nr_n_1&ds=v1%3ARoYeleLpF2hvJEA%2BZoKPaux3xF86RGoX%2F2Up9Ru6vfM",
+              "expected_products": 67,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Electrónicos",
+                "Nuevo",
+                "Celulares y Accesorios"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-13T03:49:09.338Z"
+            },
+            {
+              "name": "Computadoras, Componentes y Accesorios",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482558011%2Cn%3A9687880011%2Cp_n_condition-type%3A21214164011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327343&rnid=9482558011&ref=sr_nr_n_2&ds=v1%3AkyVn5NCneS587OtaA4gtxWroWxadiakr3Q8V%2FpPSHzM",
+              "expected_products": 117,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Electrónicos",
+                "Nuevo",
+                "Computadoras, Componentes y Accesorios"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-13T03:49:12.017Z"
+            },
+            {
+              "name": "Cámaras y Fotografía",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482558011%2Cn%3A9687605011%2Cp_n_condition-type%3A21214164011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327343&rnid=9482558011&ref=sr_nr_n_3&ds=v1%3AUJSJptrzETfcDUJY2WFsApFnp%2Fy9ihxwC0Iu9kjBzRo",
+              "expected_products": 49,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Electrónicos",
+                "Nuevo",
+                "Cámaras y Fotografía"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-13T03:49:14.699Z"
+            },
+            {
+              "name": "Electrónica para Autos",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482558011%2Cn%3A9687471011%2Cp_n_condition-type%3A21214164011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327343&rnid=9482558011&ref=sr_nr_n_4&ds=v1%3AKt4CDUAugZ1AUk%2BRvg3ieimx1xtNhCjwhCnrrUq6K%2F8",
+              "expected_products": 20,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Electrónicos",
+                "Nuevo",
+                "Electrónica para Autos"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-13T03:49:17.388Z"
+            },
+            {
+              "name": "Electrónicos de Oficina",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482558011%2Cn%3A9705965011%2Cp_n_condition-type%3A21214164011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327343&rnid=9482558011&ref=sr_nr_n_5&ds=v1%3AHQx0P0FObrikImi96QuLTbdM0kC%2BYPoUCRaY3WiJqGo",
+              "expected_products": 76,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Electrónicos",
+                "Nuevo",
+                "Electrónicos de Oficina"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-13T03:49:20.141Z"
+            },
+            {
+              "name": "Equipos de Audio y Hi-Fi",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482558011%2Cn%3A9687565011%2Cp_n_condition-type%3A21214164011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327343&rnid=9482558011&ref=sr_nr_n_6&ds=v1%3APlpmQw%2BcjwZnYmneP1AbFMlJxzLEBNTn9Dw32AOxDUU",
+              "expected_products": 32,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Electrónicos",
+                "Nuevo",
+                "Equipos de Audio y Hi-Fi"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-13T03:49:23.372Z"
+            },
+            {
+              "name": "Televisión y Vídeo",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482558011%2Cn%3A9687925011%2Cp_n_condition-type%3A21214164011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327343&rnid=9482558011&ref=sr_nr_n_7&ds=v1%3AlKHes5Zs0dX4LfAjg0lNDrWuTkGNRoDyy0QFOXL%2Bnqs",
+              "expected_products": 29,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Electrónicos",
+                "Nuevo",
+                "Televisión y Vídeo"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-13T03:49:26.063Z"
+            },
+            {
+              "name": "Accesorios de Alimentación",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482558011%2Cn%3A9687281011%2Cp_n_condition-type%3A21214164011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327343&rnid=9482558011&ref=sr_nr_n_8&ds=v1%3AkF6Tp3yWDuifKb4Wv8KpnU9ioSj8JC7IRQpc1vPViwk",
+              "expected_products": 14,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Electrónicos",
+                "Nuevo",
+                "Accesorios de Alimentación"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-13T03:49:28.702Z"
+            },
+            {
+              "name": "Audífonos, auriculares y accesorios",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482558011%2Cn%3A24035342011%2Cp_n_condition-type%3A21214164011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327343&rnid=9482558011&ref=sr_nr_n_9&ds=v1%3AzxkB0E7gVmZm%2BQju%2FzRPnYGUM5413h7SJPmLUE0tCJ0",
+              "expected_products": 24,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Electrónicos",
+                "Nuevo",
+                "Audífonos, auriculares y accesorios"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-13T03:49:31.420Z"
+            },
+            {
+              "name": "Pilas y Cargadores",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482558011%2Cn%3A9687374011%2Cp_n_condition-type%3A21214164011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327343&rnid=9482558011&ref=sr_nr_n_10&ds=v1%3AuEkmeEevD5N1hZc1XZwoUQxWlHmg9grPSFqbEYv%2FvUk",
+              "expected_products": 8,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Electrónicos",
+                "Nuevo",
+                "Pilas y Cargadores"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-13T03:49:34.000Z"
+            },
+            {
+              "name": "Borrar",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482558011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327343&ref=sr_ex_p_n_condition-type_0&ds=v1%3AylKz62Zm1oEOP6WxzqXEtNs%2BXH1oJi4VT17T089eAiQ",
+              "expected_products": 436,
+              "isLeaf": false,
+              "depth": 3,
+              "path": [
+                "Electrónicos",
+                "Nuevo",
+                "Borrar"
+              ],
+              "status": "pending",
+              "subcategories": [
+                {
+                  "name": "Celulares y Accesorios",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482558011%2Cn%3A9687422011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327373&rnid=9482558011&ref=sr_nr_n_1&ds=v1%3Aob9Fn5ns1%2FznwX27f8wFBGrsjpm%2FLhkGx%2Fin8tZ53Ns",
+                  "expected_products": 67,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Electrónicos",
+                    "Nuevo",
+                    "Borrar",
+                    "Celulares y Accesorios"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-13T03:49:39.204Z"
+                },
+                {
+                  "name": "Computadoras, Componentes y Accesorios",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482558011%2Cn%3A9687880011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327373&rnid=9482558011&ref=sr_nr_n_2&ds=v1%3AAOkvrh0ynteZmlsn%2BBQNeMR2R%2BQR5gi3scuiswCBXlU",
+                  "expected_products": 117,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Electrónicos",
+                    "Nuevo",
+                    "Borrar",
+                    "Computadoras, Componentes y Accesorios"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-13T03:49:41.842Z"
+                },
+                {
+                  "name": "Cámaras y Fotografía",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482558011%2Cn%3A9687605011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327373&rnid=9482558011&ref=sr_nr_n_3&ds=v1%3ApZngzo5hFtkJhuhdwmaEq1gHxk29EDDYcti9NlipEnU",
+                  "expected_products": 49,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Electrónicos",
+                    "Nuevo",
+                    "Borrar",
+                    "Cámaras y Fotografía"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-13T03:49:44.536Z"
+                },
+                {
+                  "name": "Electrónica para Autos",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482558011%2Cn%3A9687471011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327373&rnid=9482558011&ref=sr_nr_n_4&ds=v1%3AEuP1CTgD4BNaQdm4%2ByPftfgtnxMzSFo1SqUb0eK9gpw",
+                  "expected_products": 20,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Electrónicos",
+                    "Nuevo",
+                    "Borrar",
+                    "Electrónica para Autos"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-13T03:49:47.174Z"
+                },
+                {
+                  "name": "Electrónicos de Oficina",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482558011%2Cn%3A9705965011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327373&rnid=9482558011&ref=sr_nr_n_5&ds=v1%3AMJXJw6ZJPrnCVpOs7ZK6ZugTE4WzCKshbqSDHDSf%2FS4",
+                  "expected_products": 76,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Electrónicos",
+                    "Nuevo",
+                    "Borrar",
+                    "Electrónicos de Oficina"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-13T03:49:49.799Z"
+                },
+                {
+                  "name": "Equipos de Audio y Hi-Fi",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482558011%2Cn%3A9687565011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327373&rnid=9482558011&ref=sr_nr_n_6&ds=v1%3AzAWutsNU57iRJiul7PSPTqIk3tN3lJb7yEPYNAmPlKo",
+                  "expected_products": 32,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Electrónicos",
+                    "Nuevo",
+                    "Borrar",
+                    "Equipos de Audio y Hi-Fi"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-13T03:49:52.464Z"
+                },
+                {
+                  "name": "Televisión y Vídeo",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482558011%2Cn%3A9687925011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327373&rnid=9482558011&ref=sr_nr_n_7&ds=v1%3AHDvvVUbWzD%2B1jCfzN%2FTuLSFN2UijfOjBHQH3OqeFQUg",
+                  "expected_products": 29,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Electrónicos",
+                    "Nuevo",
+                    "Borrar",
+                    "Televisión y Vídeo"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-13T03:49:55.103Z"
+                },
+                {
+                  "name": "Accesorios de Alimentación",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482558011%2Cn%3A9687281011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327373&rnid=9482558011&ref=sr_nr_n_8&ds=v1%3Ars%2BYsQnS9hNF9IOHJ2mxoCvDXSz8cPClQ16uvvMkDGs",
+                  "expected_products": 14,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Electrónicos",
+                    "Nuevo",
+                    "Borrar",
+                    "Accesorios de Alimentación"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-13T03:49:57.671Z"
+                },
+                {
+                  "name": "Audífonos, auriculares y accesorios",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482558011%2Cn%3A24035342011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327373&rnid=9482558011&ref=sr_nr_n_9&ds=v1%3A33Hkf4z8l6uj7Djrr4LCIMBAhPcO1J6Ndu27h67xHes",
+                  "expected_products": 24,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Electrónicos",
+                    "Nuevo",
+                    "Borrar",
+                    "Audífonos, auriculares y accesorios"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-13T03:50:00.335Z"
+                },
+                {
+                  "name": "Pilas y Cargadores",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482558011%2Cn%3A9687374011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327373&rnid=9482558011&ref=sr_nr_n_10&ds=v1%3AhUo9%2F3kaK%2BjEr8BpCH9nCiMzl1jeMMqo2TXHl%2BrJMak",
+                  "expected_products": 8,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Electrónicos",
+                    "Nuevo",
+                    "Borrar",
+                    "Pilas y Cargadores"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-13T03:50:02.959Z"
+                },
+                {
+                  "name": "Meses sin Intereses",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482558011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327373&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3ANdKo3R7hnZLVMNOZl3LGD36jZsU8NPn%2FvChe1lhXCF8",
+                  "expected_products": 20,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Electrónicos",
+                    "Nuevo",
+                    "Borrar",
+                    "Meses sin Intereses"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-13T03:50:05.695Z"
+                },
+                {
+                  "name": "Amazon Internacional",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482558011%2Cp_n_is-global-store-asin%3A23559285011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327373&rnid=23559284011&ref=sr_nr_p_n_is-global-store-asin_1&ds=v1%3AQOofBBvlYacvf5g48WLVhQ58iZMjB6HhDclQmoj00v4",
+                  "expected_products": 49,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Electrónicos",
+                    "Nuevo",
+                    "Borrar",
+                    "Amazon Internacional"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-13T03:50:08.488Z"
+                }
+              ],
+              "created_at": "2025-10-13T03:50:15.860Z"
+            },
+            {
+              "name": "Meses sin Intereses",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482558011%2Cp_n_condition-type%3A21214164011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327343&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3A%2Fnoaw%2Ffsp7mCibMakLMXGzJevgPzz4LYER3wKVxDtTs",
+              "expected_products": 20,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Electrónicos",
+                "Nuevo",
+                "Meses sin Intereses"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-13T03:50:18.512Z"
+            },
+            {
+              "name": "Amazon Internacional",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482558011%2Cp_n_condition-type%3A21214164011%2Cp_n_is-global-store-asin%3A23559285011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327343&rnid=23559284011&ref=sr_nr_p_n_is-global-store-asin_1&ds=v1%3AxLLEKZ2kuqinEJxslA1iIt3NcaIovb2OfRo4mxl9sds",
+              "expected_products": 49,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Electrónicos",
+                "Nuevo",
+                "Amazon Internacional"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-13T03:50:21.231Z"
+            }
+          ],
+          "created_at": "2025-10-13T03:50:26.273Z"
+        },
+        {
+          "name": "Meses sin Intereses",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482558011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327313&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3AmYqREnfwteIueZAOYqlLkOcFLv1NWuKaBy5gYUXODAs",
+          "expected_products": 20,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Electrónicos",
+            "Meses sin Intereses"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:50:28.874Z"
+        },
+        {
+          "name": "Amazon Internacional",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482558011%2Cp_n_is-global-store-asin%3A23559285011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327313&rnid=23559284011&ref=sr_nr_p_n_is-global-store-asin_1&ds=v1%3A4BXTA6lROAWRg8Ii7tqC0BmbVi7dUWHGCX3QyRYzPjA",
+          "expected_products": 49,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Electrónicos",
+            "Amazon Internacional"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:50:31.458Z"
+        }
+      ],
+      "created_at": "2025-10-13T03:50:36.365Z",
+      "started_at": "2025-10-13T15:39:24.117Z",
+      "completed_at": "2025-10-13T15:40:43.840Z",
+      "file_path": "2025-10-13-intelligent-electrónicos.json",
+      "validation_result": {
+        "total_subcategories": 13,
+        "total_products": 936,
+        "loops_avoided": 0,
+        "filters_detected": 16,
+        "expected_vs_found": {
+          "expected": 436,
+          "found": 936
+        }
+      }
+    }
+  ]
+}

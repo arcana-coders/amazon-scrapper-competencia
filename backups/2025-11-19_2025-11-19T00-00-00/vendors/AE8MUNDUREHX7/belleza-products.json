@@ -1,0 +1,2833 @@
+{
+  "metadata": {
+    "seller_id": "AE8MUNDUREHX7",
+    "category_name": "Belleza",
+    "total_products": 470,
+    "subcategories_processed": 9,
+    "subcategories_with_errors": 0,
+    "extraction_date": "2025-10-17T16:30:58.500Z",
+    "extraction_method": "subcategory_extraction_v2"
+  },
+  "products": [
+    {
+      "asin": "B0CLKXXGYJ",
+      "title": "Amallow Sebo de res alimentado con pasto al 100% para el cuidado de la piel, rostro y cuerpo, humectante batido, loción natural, 4 fl. oz. (vainilla y lavanda)",
+      "price": "$1,245.27",
+      "extracted_at": "2025-10-17T16:24:35.623Z"
+    },
+    {
+      "asin": "B001LEYER4",
+      "title": "DermaSwim Pro 8 Ounce Tube Pre-Swimming Lotion",
+      "price": "No disponible",
+      "extracted_at": "2025-10-17T16:24:35.623Z"
+    },
+    {
+      "asin": "B09QLHTQJQ",
+      "title": "Duradry Am Desodorante y Antitranspirante - Desodorante Prescription Strength para Hiperhidrosis, Antitranspirante para Mujeres y Hombres, Protección Contra El Sudor de Axila, Sin Silicona - Clear Sky",
+      "price": "$634.96",
+      "extracted_at": "2025-10-17T16:24:35.624Z"
+    },
+    {
+      "asin": "B01M5JP7TK",
+      "title": "BONUS SIZE Vitamin E Cream 42,000 I.U. - 50% MORE FREE 6 oz. by Colonial Dames",
+      "price": "$736.86",
+      "extracted_at": "2025-10-17T16:24:35.624Z"
+    },
+    {
+      "asin": "B09VPM5RP4",
+      "title": "Chemist at Play Body Wash Exfoliating for Dry Rough Bumpy Strawberry Skin with 1% Salicylic Acid 2% Lactic Acid and Ceramides for Men and Women | 236 ml",
+      "price": "$518.62",
+      "extracted_at": "2025-10-17T16:24:35.624Z"
+    },
+    {
+      "asin": "B0CQ4VLYXJ",
+      "title": "Swiffen - Paquete de 50 recuerdos de bautismo para invitados, jabón de ducha, regalo de jabón perfumado con tarjetas de felicitación, bolsa de organza, bautizo, comunión, bautizo, fiesta, regalo para",
+      "price": "$1,216.61",
+      "extracted_at": "2025-10-17T16:24:35.624Z"
+    },
+    {
+      "asin": "B0C6KYDBL1",
+      "title": "Chemist at Play UnderArm Roll-On with 5% AHA, Lactic Acid & 1% Mandelic Acid | Prevents Body Odour, Brightens Skin & Exfoliates Underarm | For Sensitive Skin | Royal Oudh Fragrance | Alcohol Free-40ml",
+      "price": "$499.00",
+      "extracted_at": "2025-10-17T16:24:35.624Z"
+    },
+    {
+      "asin": "B07M5MRKKP",
+      "title": "Citrus Vetivert",
+      "price": "$803.79",
+      "extracted_at": "2025-10-17T16:24:35.624Z"
+    },
+    {
+      "asin": "B00D4R5F60",
+      "title": "Original Source Shower Gel Mint and Tea Tree 250ml Pack of 6 by PZ CUSSONS (UK) LTD",
+      "price": "$924.22",
+      "extracted_at": "2025-10-17T16:24:35.624Z"
+    },
+    {
+      "asin": "B08KTPVN7Y",
+      "title": "Slick - Aplicador de loción, 17 pulgadas, aplicadores de loción para tu espalda, aplicador de espalda para loción, aplicador de loción trasera de fácil alcance, aplicadores de loción trasera, aplicador de autobronceador de espalda",
+      "price": "$449.45",
+      "extracted_at": "2025-10-17T16:24:35.624Z"
+    },
+    {
+      "asin": "B0C8HZCD6G",
+      "title": "Chemist at Play Exfoliating Body Scrub For Removing Tan & Dead Skin Cells | Rough & Bumpy Skin, Tanned & Pigmented Skin | For Smooth, Soft & Bright Skin | Natural AHAs | Coffee | For Men & Women | 75g",
+      "price": "$477.24",
+      "extracted_at": "2025-10-17T16:24:35.624Z"
+    },
+    {
+      "asin": "B09SVTBP2V",
+      "title": "San Francisco Soap Company Man Bar 3-Piece Gift Set featuring all new scents: Coastal Driftwood, Peppered Patchouli, and Spiced Tobacco - GREAT GIFT - No Harmful Chemicals - Good for All Skin Types - Made in the USA",
+      "price": "$1,003.14",
+      "extracted_at": "2025-10-17T16:24:35.624Z"
+    },
+    {
+      "asin": "B07KT91S5Z",
+      "title": "Chlorine Removing Neutralizing After Swim Body Wash and Shampoo",
+      "price": "$638.62",
+      "extracted_at": "2025-10-17T16:24:35.625Z"
+    },
+    {
+      "asin": "B0015R4AUS",
+      "title": "ProActive Tite Grip II All-Sport Loción tópica antiperspirante para Manos/Antideslizante Que Mejora el Agarre",
+      "price": "$590.37",
+      "extracted_at": "2025-10-17T16:24:35.625Z"
+    },
+    {
+      "asin": "B09BJPQN7B",
+      "title": "The Black Stuff- Jabón de alquitrán de pino: jabón en barra para hombres elaborado con alquitrán de pino, ingredientes orgánicos y aceites esenciales. Hecho a mano.",
+      "price": "$604.69",
+      "extracted_at": "2025-10-17T16:24:35.625Z"
+    },
+    {
+      "asin": "B096YKJY67",
+      "title": "Muscle Rehab Combo de Recuperación Deportiva Pak- Bombas de Baño de Sal de Árnica y Epsom y Remojo de Magnesio para Hombres -Mujeres Con Cúrcuma y Aceites Esenciales - Alivio Del Dolor Muscular de Mag",
+      "price": "$1,204.20",
+      "extracted_at": "2025-10-17T16:24:35.625Z"
+    },
+    {
+      "asin": "B0CNJ6NKXJ",
+      "title": "Saltair - Body Wash - For Him Scents - 2 Pack",
+      "price": "$1,037.73",
+      "extracted_at": "2025-10-17T16:24:44.807Z"
+    },
+    {
+      "asin": "B0C27GV4DD",
+      "title": "Clean Brand- Manos limpias - 84,5 fl oz | Caja de recarga de jabón espumoso para manos con 15 tabletas, aroma dulce de pomelo - No te arrepentirás",
+      "price": "$512.08",
+      "extracted_at": "2025-10-17T16:24:44.807Z"
+    },
+    {
+      "asin": "B09FDDLHXB",
+      "title": "SUMMERMIA - Paquete de 12 paños de 13 x 13 pulgadas, paños de lavado suaves para tu toalla facial, viscosa derivada de bambú y algodón para tu cuerpo (gris)",
+      "price": "$855.47",
+      "extracted_at": "2025-10-17T16:24:44.807Z"
+    },
+    {
+      "asin": "B07N3YS8VN",
+      "title": "Green Canyon Spa Green Canyon - Juego de cestas de regalo de cumpleaños para mujeres, set de regalo de cumpleaños 8/10 piezas de cerezo con aceite esencial de spa con cesta tejida a mano",
+      "price": "$1,065.37",
+      "extracted_at": "2025-10-17T16:24:44.807Z"
+    },
+    {
+      "asin": "B0BW9M2YRT",
+      "title": "8PC Aromatherapy Shower Steamers - 8 Soothing Scents for Men & Women - Eucalyptus, Menthol & More - Shower Tablets in Gift Box",
+      "price": "$609.79",
+      "extracted_at": "2025-10-17T16:24:44.807Z"
+    },
+    {
+      "asin": "B0BMX6GWLN",
+      "title": "3 esponjas africanas exfoliantes para baño, esponja africana de baño para fregar, red de lavado africano para ducha",
+      "price": "$424.59",
+      "extracted_at": "2025-10-17T16:24:44.807Z"
+    },
+    {
+      "asin": "B09NQNF76B",
+      "title": "Body Cream Tahitian Vanilla Saavy Naturals, Clean Plant-Based Ingredients| Made In USA | Absorbent Shea Butter Vegan, Thick and Creamy Body Moisturizer, Body Lotion for Dry Skin- 8.5 Fl Oz, 2 Pack",
+      "price": "$998.70",
+      "extracted_at": "2025-10-17T16:24:44.807Z"
+    },
+    {
+      "asin": "B09QLQZZ82",
+      "title": "MR MIRYE Shower Steamers Aromatherapy for Women or Men, Organic with Eucalyptus Lavender Peppermint Essential Oil, 18-Pack Shower Bombs Gift Set",
+      "price": "$721.84",
+      "extracted_at": "2025-10-17T16:24:44.807Z"
+    },
+    {
+      "asin": "B09FDVYTF6",
+      "title": "Foaming Bath with Pure Epsom Salt, Rose&Lavender&Chamomile&Eucalyplus Mint Scent, 4 Pack Bath Gift Box Spa Set Relaxing for Women, Bath Set Gifts for Mom Christmas Gifts 4 Pack 51.2 fl oz",
+      "price": "$857.13",
+      "extracted_at": "2025-10-17T16:24:44.807Z"
+    },
+    {
+      "asin": "B09CTLC2CT",
+      "title": "PARISBELLA - Gorro de dormir con forro de satén, funda para el cabello con correa ajustable, para mujeres y hombres",
+      "price": "$735.83",
+      "extracted_at": "2025-10-17T16:24:44.808Z"
+    },
+    {
+      "asin": "B089VTPYYQ",
+      "title": "3 paquetes de almohadillas exfoliantes de esponja de lufa, tamaño grande de 5 pulgadas x 7 pulgadas - 100% naturales de Luffa y tela de rizo, guantes de esponja de loofa, guantes de cuerpo cerrados para hombres y mujeres, perfectos para baño, spa y ducha",
+      "price": "$520.00",
+      "extracted_at": "2025-10-17T16:24:44.808Z"
+    },
+    {
+      "asin": "B00ULLOJA0",
+      "title": "Hawaii Forever Florals Body Lotion 4 Bottles 4 oz. Each Plumeria by Forever Florals",
+      "price": "$1,541.41",
+      "extracted_at": "2025-10-17T16:24:44.808Z"
+    },
+    {
+      "asin": "B0D7YR4ZJN",
+      "title": "Capó de seda para hombres, capó de satén para dormir, dobladillo ajustable y doble capa, capó grande para dormir para trenzas de cabello rizado que permanecen en toda la noche (negro), Negro+Negro, 18",
+      "price": "$421.30",
+      "extracted_at": "2025-10-17T16:24:44.808Z"
+    },
+    {
+      "asin": "B01M9DAZ3V",
+      "title": "4 fl oz 100% Pure Calendula Oil - for Body, Nails & Hair - Perfect Natural Skin Moisturizer - Also Ideal Natural Skin Care Antioxidant Serum",
+      "price": "$754.02",
+      "extracted_at": "2025-10-17T16:24:44.808Z"
+    },
+    {
+      "asin": "B01ISIU16I",
+      "title": "Citrus & Green Tea Hand & Body Lotion - 30 oz by Good Seed",
+      "price": "$1,082.91",
+      "extracted_at": "2025-10-17T16:24:44.808Z"
+    },
+    {
+      "asin": "B0193WSJ5S",
+      "title": "Routine De-Odor-Cream Handcrafted 50ml Clay Formula Deodorant Cream (Blackberry Betty)",
+      "price": "$822.85",
+      "extracted_at": "2025-10-17T16:24:44.808Z"
+    },
+    {
+      "asin": "B008YKVPGG",
+      "title": "Surfer's Salve 0.5 oz. Stick",
+      "price": "$593.58",
+      "extracted_at": "2025-10-17T16:24:53.749Z"
+    },
+    {
+      "asin": "B015X3CUCE",
+      "title": "elizabethW Vetiver Body Lotion 6.75 oz (200 g) by elizabeth W",
+      "price": "$1,130.99",
+      "extracted_at": "2025-10-17T16:24:53.749Z"
+    },
+    {
+      "asin": "B09K79YY48",
+      "title": "PARISBELLA - Gorro de dormir con forro de satén, funda para el cabello con correa ajustable, para mujeres y hombres",
+      "price": "$826.13",
+      "extracted_at": "2025-10-17T16:24:53.749Z"
+    },
+    {
+      "asin": "B0D8BB4338",
+      "title": "GAQQI - Pegamento de pestañas para racimos, pegamento de pestañas y sellado impermeable, pegamento de pestañas para racimos, calcomanía de pestañas negro de larga duración, 72 H, sin látex (5 ml + 5",
+      "price": "$502.17",
+      "extracted_at": "2025-10-17T16:25:06.668Z"
+    },
+    {
+      "asin": "B09NQZPQ8L",
+      "title": "Regalo para partera, blanco roto 160_NO1",
+      "price": "$510.44",
+      "extracted_at": "2025-10-17T16:25:06.668Z"
+    },
+    {
+      "asin": "B0BG2QYWX3",
+      "title": "Fires - Pantuflas para hombre con suela de goma suaves y ligeras, para casa y para exteriores, antideslizantes, para interiores y exteriores",
+      "price": "$730.46",
+      "extracted_at": "2025-10-17T16:25:06.668Z"
+    },
+    {
+      "asin": "B0CPPLWGFR",
+      "title": "URQT 4 Color Polvo De Hadas Fairy Dust Highlight Patting Powder - Full Body Contouring and Clavicle Pearlescent Patting Powder for Face and Eye, Halloween Sparkling Body Glitter Powder (4 Pack)",
+      "price": "$503.44",
+      "extracted_at": "2025-10-17T16:25:06.669Z"
+    },
+    {
+      "asin": "B09T64LJ7F",
+      "title": "Regalo de animadora, 857",
+      "price": "$454.17",
+      "extracted_at": "2025-10-17T16:25:06.669Z"
+    },
+    {
+      "asin": "B09YH2JJ49",
+      "title": "WYFJNX PU Leather Backpack Purse for Women Fashion Multipurpose Design Handbag Ladies Shoulder Bags Travel Backpack",
+      "price": "$900.51",
+      "extracted_at": "2025-10-17T16:25:06.669Z"
+    },
+    {
+      "asin": "B0CNRJ98V6",
+      "title": "JCOOS - Kit para hacer brillo de labios, juego de brillo de labios para adolescentes, kit divertido para hacer brillo de labios para niñas, kit de brillo de labios para niñas, kit de brillo de labios",
+      "price": "$969.82",
+      "extracted_at": "2025-10-17T16:25:06.669Z"
+    },
+    {
+      "asin": "B0B9BFB8WJ",
+      "title": "Nandashe - Blusa de manga 3/4 para mujer, estilo túnica floral, estilo informal, para verano",
+      "price": "$921.94",
+      "extracted_at": "2025-10-17T16:25:06.669Z"
+    },
+    {
+      "asin": "B0C9TXLWLY",
+      "title": "PRIME PROMETICS Primeeyes Glide Delineador de Ojos para Mujeres Maduras — Resistente Al Agua, Larga Estancia y A Prueba de Desórdenes — Textura Gel Crema, Afilador Discreto y Eficaz Difuminador(Negro)",
+      "price": "$965.92",
+      "extracted_at": "2025-10-17T16:25:06.669Z"
+    },
+    {
+      "asin": "B00NR2LGAQ",
+      "title": "Sunhiker",
+      "price": "$914.64",
+      "extracted_at": "2025-10-17T16:25:06.669Z"
+    },
+    {
+      "asin": "B0BS95F5W3",
+      "title": "Prokva - Bolsa grande para cosméticos de maquillaje con 3 fundas extraíbles, funda organizadora de maquillaje de viaje de doble capa con divisores interiores y sección de almacenamiento de brochas de",
+      "price": "$1,743.76",
+      "extracted_at": "2025-10-17T16:25:06.669Z"
+    },
+    {
+      "asin": "B0CJD81FMX",
+      "title": "HHGKED - Conjunto de 2 piezas para hombre de chándal activo de manga larga, trajes casuales",
+      "price": "$1,379.55",
+      "extracted_at": "2025-10-17T16:25:06.669Z"
+    },
+    {
+      "asin": "B082NPKNSJ",
+      "title": "Jacknb Kit de tatuajes temporales Jagua Gel Semipermanente Tatuaje de Mano Libre, Marcadores de Arte Corporal DIY Tatuajes Tatuajes Falsos Tatuajes 40 Piezas gratis Adhesivo Tatuaje Kit Completo 3 Botellas",
+      "price": "$542.04",
+      "extracted_at": "2025-10-17T16:25:06.669Z"
+    },
+    {
+      "asin": "B08VHXS4V7",
+      "title": "ECO BABY - Juego de bata y envoltura para mamá y mí | Juego de bata de maternidad y bebé a juego para niña, niño, parto y parto en el hospital",
+      "price": "$1,291.52",
+      "extracted_at": "2025-10-17T16:25:06.669Z"
+    },
+    {
+      "asin": "B00PEZ7E9Q",
+      "title": "Aeroblend Airbrush Mini Set: Complete Collection",
+      "price": "$2,485.20",
+      "extracted_at": "2025-10-17T16:25:06.670Z"
+    },
+    {
+      "asin": "B07BLS5MB6",
+      "title": "Witkey Power Flex - Pantalones de yoga con estribo, cintura alta, control de abdomen, leggings de yoga entrecruzados para entrenamiento, correr",
+      "price": "$780.87",
+      "extracted_at": "2025-10-17T16:25:06.670Z"
+    },
+    {
+      "asin": "B07BMBSFV8",
+      "title": "European Gold Flash Black 2000X Indoor Tanning Lotion with Time-Release DHA Bronzers, 12 Ounce",
+      "price": "$668.29",
+      "extracted_at": "2025-10-17T16:25:19.413Z"
+    },
+    {
+      "asin": "B092JKWC3B",
+      "title": "Mess with Grandpa Baby Boy Ropa Unisex Divertidos Bodis para Bebé Niña",
+      "price": "$626.50",
+      "extracted_at": "2025-10-17T16:25:19.413Z"
+    },
+    {
+      "asin": "B0B2JTC54N",
+      "title": "AMIRO Espejo de maquillaje LED de 8 pulgadas, brillo de 5 niveles/control de visualización táctil/función de memoria/rotación de 180°/espejo de aumento pequeño desmontable 5X",
+      "price": "$1,530.63",
+      "extracted_at": "2025-10-17T16:25:19.413Z"
+    },
+    {
+      "asin": "B0CPPPPP2B",
+      "title": "Kucnuzki - Ropa de manga corta para niños y niñas, conjunto de ropa de 2 piezas para niñas",
+      "price": "$727.19",
+      "extracted_at": "2025-10-17T16:25:19.413Z"
+    },
+    {
+      "asin": "B08RDQBTVD",
+      "title": "BONNIE CHOICE- Juego de 6 pintalabios líquidos mate color piel, resistente al agua, de larga duración, antiadherente, 24 horas de duración",
+      "price": "$508.90",
+      "extracted_at": "2025-10-17T16:25:19.413Z"
+    },
+    {
+      "asin": "B09DF2VCBG",
+      "title": "Gorra de béisbol de mezclilla lavada de gran tamaño, tamaño XXL, de perfil bajo, para cabezas grandes, de 23.5 a 25.5 pulgadas, sombrero de papá teñido con pigmento grande",
+      "price": "$841.09",
+      "extracted_at": "2025-10-17T16:25:19.413Z"
+    },
+    {
+      "asin": "B0CKWJJ9NH",
+      "title": "Albeaut Under Eye Concealer Brush Angled Eye Makeup Brush",
+      "price": "$443.18",
+      "extracted_at": "2025-10-17T16:25:19.413Z"
+    },
+    {
+      "asin": "B095WCZQXX",
+      "title": "Newchoice - Falda bohemia de leopardo para mujer, con abertura alta, baja, para verano, playa, faldas cruzadas",
+      "price": "$1,170.34",
+      "extracted_at": "2025-10-17T16:25:19.413Z"
+    },
+    {
+      "asin": "B0D5Q27MFK",
+      "title": "ALBEAUT Brochas Correctoras de Maquillaje 2 Pzas Brochas Angulares para Líquido, Crema, Stick Corrector Fundación Contorno Nariz Sombra de Ojos Mezcla (193-2Pcs)",
+      "price": "$493.50",
+      "extracted_at": "2025-10-17T16:25:19.413Z"
+    },
+    {
+      "asin": "B0BD85Y4P5",
+      "title": "DLOODA Leggings acampanados para mujer con bolsillos, cintura alta cruzada, pantalones de yoga con control de abdomen",
+      "price": "$638.66",
+      "extracted_at": "2025-10-17T16:25:19.414Z"
+    },
+    {
+      "asin": "B086HXHSGQ",
+      "title": "Monica Ann Beauty- Prebase facial de doble acción - 15 ml | Prebase de maquillaje hidratante con vitamina C y ácido hialurónico | Smoothi",
+      "price": "$791.39",
+      "extracted_at": "2025-10-17T16:25:19.414Z"
+    },
+    {
+      "asin": "B0753D9PPP",
+      "title": "Cinturón Obi para mujer de piel sintética de color sólido, banda ancha de cintura de 70 pulgadas, tamaño extra, Marino, Large",
+      "price": "$638.32",
+      "extracted_at": "2025-10-17T16:25:19.414Z"
+    },
+    {
+      "asin": "B0917GC64C",
+      "title": "Pestañas magnéticas de aspecto natural, pestañas magnéticas con kit de delineador de ojos. 4 tubos de delineador mejorados, resistentes al agua, de larga duración, de gran volumen, reutilizables.",
+      "price": "$1,038.64",
+      "extracted_at": "2025-10-17T16:25:19.414Z"
+    },
+    {
+      "asin": "B08R2K5WL4",
+      "title": "Newchoice - playera casual de manga larga con cuello redondo para mujer, estilo túnica básica suelta",
+      "price": "$702.87",
+      "extracted_at": "2025-10-17T16:25:19.414Z"
+    },
+    {
+      "asin": "B0CXLKN4JK",
+      "title": "FANXITON Kit de extensión de pestañas DIY Look Natural Wispy Lash Clusters D Curl 154 pzas Rúmulos de pestañas 8-16 mm Kit de extensión de pestañas Lash Bond and Seal Pinzas de pestañas Pestañas individuales Kit de racimo de pestañas para principiantes Juego de 156 piezas negro",
+      "price": "$608.36",
+      "extracted_at": "2025-10-17T16:25:19.414Z"
+    },
+    {
+      "asin": "B0CFVF9MH5",
+      "title": "Aitmoask - Conjunto de trajes deportivos de terciopelo para mujer 2023 para otoño, A-azul, L",
+      "price": "$1,437.01",
+      "extracted_at": "2025-10-17T16:25:19.414Z"
+    },
+    {
+      "asin": "B0B9ZLFBFD",
+      "title": "Beteligir Delineador de Ojos Activado Por Agua, Pintura de Pastel de Neón Uv Glow, 12 Delineador de Ojos Hydra de Color Brillante, Uv Glow Negrolight Luminous Body Face Makeup Paint, Disfraz de Hallow",
+      "price": "$515.31",
+      "extracted_at": "2025-10-17T16:25:37.222Z"
+    },
+    {
+      "asin": "B0BCV111CS",
+      "title": "Aurefin High Waisted Athletic Shorts for Women, Womens Plus Size Running Workout Shorts with Liner and Zip Pocket 4 Inch",
+      "price": "$1,001.45",
+      "extracted_at": "2025-10-17T16:25:37.222Z"
+    },
+    {
+      "asin": "B09JB243WR",
+      "title": "Sazuwu Bolsa de cosméticos para regalo de cumpleaños 18 años, Negro -",
+      "price": "$464.73",
+      "extracted_at": "2025-10-17T16:25:37.222Z"
+    },
+    {
+      "asin": "B0B6116QTP",
+      "title": "SlumberMee Bata de forro polar suave con capucha para hombre, longitud completa, con bolsillos de gamuza, abrigo de casa esponjoso, Azul oscuro, Large Big Tall",
+      "price": "$1,659.67",
+      "extracted_at": "2025-10-17T16:25:37.222Z"
+    },
+    {
+      "asin": "B073ZGCT1F",
+      "title": "Annabelle Waterline Matte Kohl Eyeliner, Beige, 0.04 oz",
+      "price": "$529.99",
+      "extracted_at": "2025-10-17T16:25:37.222Z"
+    },
+    {
+      "asin": "B09W2SH83V",
+      "title": "Travel Bag for Tonies Figures and Toniebox",
+      "price": "$1,175.86",
+      "extracted_at": "2025-10-17T16:25:37.222Z"
+    },
+    {
+      "asin": "B0862CJ6CY",
+      "title": "Rizador de pestanas, clip profesional de belleza, herramienta para alargar rapidamente, espesar, para rizadores de pestanas, rizadores de pestanas y reparacion de pestanas (negro)",
+      "price": "$419.90",
+      "extracted_at": "2025-10-17T16:25:37.222Z"
+    },
+    {
+      "asin": "B09151KLCV",
+      "title": "Kaximil Vestido Corto sin Mangas para Mujer, Sexy, Entallado, sin Mangas, Fruncido, para Fiesta",
+      "price": "$853.21",
+      "extracted_at": "2025-10-17T16:25:37.222Z"
+    },
+    {
+      "asin": "B0D9HJHZX4",
+      "title": "20 espejos de aumento con luz, espejo de viaje con luz, espejos de maquillaje iluminados con aumento, espejos de mano con asa, mesa portátil, adecuado para baño",
+      "price": "$521.78",
+      "extracted_at": "2025-10-17T16:25:37.222Z"
+    },
+    {
+      "asin": "B07ZP3TR5F",
+      "title": "Winter Down Coats for Kids Baby Boys Girls Light Puffer Padded Jacket Bear Hoods Infant Outerwear",
+      "price": "$922.82",
+      "extracted_at": "2025-10-17T16:25:37.222Z"
+    },
+    {
+      "asin": "B08HJYBR7J",
+      "title": "False Eyelashes 30 Pairs Natural 3D Faux Mink Lashes Pack Handmade Eye Lashes Wholesale 10 Styles",
+      "price": "$634.51",
+      "extracted_at": "2025-10-17T16:25:37.222Z"
+    },
+    {
+      "asin": "B08CRSHZK5",
+      "title": "LETSRUNWILD Blusa tipo túnica para llevar con leggings, suéter de manga larga de otoño para mujer, Le / Sapphire, M",
+      "price": "$809.42",
+      "extracted_at": "2025-10-17T16:25:37.223Z"
+    },
+    {
+      "asin": "B0D4TZ6T2Q",
+      "title": "Tucnoeu - 2 bolsas pequeñas de piel para bolso pequeño de maquillaje con cierre portátil pequeño organizador de cosméticos para mujeres y niñas, negro, (Black, Beige), Estuche de piel",
+      "price": "$486.03",
+      "extracted_at": "2025-10-17T16:25:37.223Z"
+    },
+    {
+      "asin": "B0B7DKVKS6",
+      "title": "Sazuwu - Bolsa de maquillaje para regalo de 60 cumpleaños para mujer, Regalos de cumpleaños 60, 1 pieza",
+      "price": "$580.29",
+      "extracted_at": "2025-10-17T16:25:37.223Z"
+    },
+    {
+      "asin": "B07MYS5NS1",
+      "title": "MUSE FATH Camisa de vestir Oxford para hombre, de algodón, casual, ajuste regular, camisa de manga larga",
+      "price": "$1,013.64",
+      "extracted_at": "2025-10-17T16:25:37.223Z"
+    },
+    {
+      "asin": "B0D3PWS493",
+      "title": "NICKTI Espejo de maquillaje de viaje con iluminación LED con aumento de 1x/5x/10x, espejo de cambiador de bolsillo de mano con luces, botón táctil, espejo compacto, portátil para bolso y monederos",
+      "price": "$564.35",
+      "extracted_at": "2025-10-17T16:25:37.223Z"
+    },
+    {
+      "asin": "B002BUBWHM",
+      "title": "4 Color Airbrush Temporary Tattoo Ink Kit Black, Red, Blue, Yellow by Custom Body Art",
+      "price": "$784.06",
+      "extracted_at": "2025-10-17T16:25:50.199Z"
+    },
+    {
+      "asin": "B0CBR8N822",
+      "title": "DLOODA - Falda de tenis para mujer, con bolsillos, pantalones cortos, de cintura alta, para golf, correr, entrenamiento",
+      "price": "$639.65",
+      "extracted_at": "2025-10-17T16:25:50.199Z"
+    },
+    {
+      "asin": "B0C4TDW9R4",
+      "title": "DABZAL Fovcos Óleo hidratante para brilho labial,óleo hidratante para brilho labial,brilho labial transparente,óleo labial,óleo labial volumoso,protetor labial,protetor labial,protetor labial tingido",
+      "price": "$388.53",
+      "extracted_at": "2025-10-17T16:25:50.199Z"
+    },
+    {
+      "asin": "B08SQPTPLW",
+      "title": "HMILES",
+      "price": "$715.23",
+      "extracted_at": "2025-10-17T16:25:50.199Z"
+    },
+    {
+      "asin": "B09ZHPN49H",
+      "title": "Sazuwu - Bolsa de maquillaje para farmacéuticos de regalo para mujeres, Técnico de farmacia porque los farmacéuticos también necesitan héroes",
+      "price": "$557.50",
+      "extracted_at": "2025-10-17T16:25:50.200Z"
+    },
+    {
+      "asin": "B0BNL1WCQK",
+      "title": "COPYLEAF Pantalones de yoga acampanados para mujer con bolsillos, cruzados en V, cintura alta, corte de bota, pantalones de yoga con control de abdomen",
+      "price": "$786.95",
+      "extracted_at": "2025-10-17T16:25:50.200Z"
+    },
+    {
+      "asin": "B0BV4MC5QK",
+      "title": "JEGO Limpiador De Brochas De Maquillaje De Belleza Limpiador De Esponja Líquida | Botella De 8 Oz Con Tazón De Textura | Solución De Limpieza De Cepillos | Solución Hipoalergénica Y A Base De Plantas",
+      "price": "$591.61",
+      "extracted_at": "2025-10-17T16:25:50.200Z"
+    },
+    {
+      "asin": "B099N3FMQZ",
+      "title": "Gash Hao - Pantalones de snowboard impermeables para hombre, con forro polar y cierre en la parte inferior de la pierna",
+      "price": "$1,612.38",
+      "extracted_at": "2025-10-17T16:25:50.200Z"
+    },
+    {
+      "asin": "B09NPMHMJS",
+      "title": "365park Cosmetic Bag, Travel Makeup Accessories Organizer Bag Cosmetic Case Mother's Day Gift",
+      "price": "$736.25",
+      "extracted_at": "2025-10-17T16:25:50.200Z"
+    },
+    {
+      "asin": "B08XZHDBGW",
+      "title": "KIKIWING - brasier deportivo sin costuras para mujer, sin costuras, para entrenamiento, sin mangas, con forro largo, para mujer, brasier deportivo acanalado",
+      "price": "$762.77",
+      "extracted_at": "2025-10-17T16:25:50.200Z"
+    },
+    {
+      "asin": "B09P8JSLLZ",
+      "title": "Sazuwu Regalos para abuela de nietos, regalo para el día de la madre, bolsa de maquillaje, regalo para abuela a ser bolsa de cosméticos, regalos de glamma, regalos de jubilación por primera vez para nana, cumpleaños, Navidad, bolsa de viaje, Blanco",
+      "price": "$550.30",
+      "extracted_at": "2025-10-17T16:25:50.200Z"
+    },
+    {
+      "asin": "B092VMPDBF",
+      "title": "VEOBIKE - Pantalones elásticos de senderismo para hombre, de secado rápido, ligeros, resistentes al agua, pantalones de pesca al aire última intervensión, bolsillos inferiores ajustables",
+      "price": "$1,052.86",
+      "extracted_at": "2025-10-17T16:25:50.200Z"
+    },
+    {
+      "asin": "B09JSCHRML",
+      "title": "Writer Gifts for Women - Bolsa de maquillaje para escritura creativa y futuros autores - Bolsa de cosméticos para adultos, Beige",
+      "price": "$510.59",
+      "extracted_at": "2025-10-17T16:25:50.200Z"
+    },
+    {
+      "asin": "B08KZH2M4R",
+      "title": "Promover - Pantalones capri para mujer, pantalones cortos de yoga de pierna ancha, con bolsillos, holgados, informales, para verano, Azul Real, S",
+      "price": "$1,143.33",
+      "extracted_at": "2025-10-17T16:25:50.200Z"
+    },
+    {
+      "asin": "B0B2J356Z4",
+      "title": "AMIRO - Espejo de maquillaje profesional con iluminación LED de 8 pulgadas con brillo de 5 niveles, con espejo pequeño de aumento 5X, espejo cosmético recargable de mesa con control táctil de rotación",
+      "price": "$1,555.15",
+      "extracted_at": "2025-10-17T16:25:50.200Z"
+    },
+    {
+      "asin": "B08KZG3NB3",
+      "title": "Promover - Pantalones capri para mujer, pantalones cortos de yoga de pierna ancha, con bolsillos, holgados, informales, para verano, Azul Real, L",
+      "price": "$1,230.52",
+      "extracted_at": "2025-10-17T16:25:50.201Z"
+    },
+    {
+      "asin": "B0BX965YJC",
+      "title": "Regalos de ahijada de madrina, espejo de maquillaje compacto, regalos de dios e hija, regalos de bautizo para mujeres, regalos inspiradores de cumpleaños, espejo de maquillaje plegable, regalos cristianos para adolescentes y niñas",
+      "price": "$498.86",
+      "extracted_at": "2025-10-17T16:25:59.421Z"
+    },
+    {
+      "asin": "B072J7JFT8",
+      "title": "Zoreya Travel Makeup Brush Set White 12pcs Makeup Brushes Premium Synthetic Hair Professional Foundation Powder Contour Blush Cosmetic Eye Brush Sets With Holder For Mother's Day Gifts",
+      "price": "$733.57",
+      "extracted_at": "2025-10-17T16:25:59.421Z"
+    },
+    {
+      "asin": "B0CWP19S6G",
+      "title": "Sazuwu - Bolsa de maquillaje para regalo de 50 cumpleaños para mamá nacida en 1974, Púrpura",
+      "price": "$580.29",
+      "extracted_at": "2025-10-17T16:25:59.421Z"
+    },
+    {
+      "asin": "B0991Z238G",
+      "title": "JASEFA Espejo de maquillaje de computadora con aumento desmontable de 10x, rotación de 360°, espejo de cuello de cisne flexible con soporte, espejo cosmético de mesa, bueno para afeitar, viajar, rectangular",
+      "price": "$666.78",
+      "extracted_at": "2025-10-17T16:25:59.421Z"
+    },
+    {
+      "asin": "B094F94QC8",
+      "title": "EPLAZA Bata corta de satén para mujer, talla única, con diamantes de imitación, para novia, dama de honor, para boda, fiesta, prepararse, marino, Talla única",
+      "price": "$577.65",
+      "extracted_at": "2025-10-17T16:25:59.421Z"
+    },
+    {
+      "asin": "B0CW1MC78N",
+      "title": "Sazuwu - Bolsa de maquillaje para hija, regalo de boda, regalo para novia de suegra, Azul",
+      "price": "$568.13",
+      "extracted_at": "2025-10-17T16:25:59.421Z"
+    },
+    {
+      "asin": "B0714HWBDF",
+      "title": "Zoreya Travel Makeup Brush Set 12pcs Pink Makeup Brushes Professional Foundation Powder Contour Blush Eye Cosmetic Brush Sets With Holder For Mother's Day Gifts",
+      "price": "$779.52",
+      "extracted_at": "2025-10-17T16:25:59.421Z"
+    },
+    {
+      "asin": "B073VF45Z3",
+      "title": "Makeup Brushes 24pcs Makeup Brushes Set Kabuki Foundation Blending Brush Face Powder Blush Concealers Eye Shadows Make Up Brushes Kit with Bag",
+      "price": "$580.71",
+      "extracted_at": "2025-10-17T16:25:59.421Z"
+    },
+    {
+      "asin": "B0CY8CCS4J",
+      "title": "DOSUKE - Bolsa de maquillaje acolchada de viaje para mujer, Rojo (Red Flower), Medium (3",
+      "price": "$904.98",
+      "extracted_at": "2025-10-17T16:25:59.421Z"
+    },
+    {
+      "asin": "B09KBGZHQ4",
+      "title": "Sfodiary - Bolsa de maquillaje, regalo inspirador para jugadores de tenis, regalo de cumpleaños para mujeres, bolsa de cosméticos, regalo de graduación, regalo para tenis, niña, viaje, bolsa de cosméticos, regalo de Navidad, Negro -",
+      "price": "$404.90",
+      "extracted_at": "2025-10-17T16:25:59.421Z"
+    },
+    {
+      "asin": "B09YNDG2F6",
+      "title": "Sazuwu - Bolsa de maquillaje para mujer, Regalos de hipopótamo (3)",
+      "price": "$465.04",
+      "extracted_at": "2025-10-17T16:25:59.422Z"
+    },
+    {
+      "asin": "B0BH3Y3VCP",
+      "title": "LFOYOU - Espejo de cambiador de mesa con soporte, espejo de maquillaje para computadora, cuello de cisne flexible ajustable, rotación de 360 °, plegable, portátil, espejo cosmético, cuadrado",
+      "price": "$432.07",
+      "extracted_at": "2025-10-17T16:25:59.422Z"
+    },
+    {
+      "asin": "B0BBVWF2GS",
+      "title": "Regalos cristianos para mujeres, regalos inspiradores para niñas, espejo de maquillaje compacto para amiga, hermana, versículo bíblico, regalo religioso, espejo de maquillaje compacto, regalos de Navidad y cumpleaños",
+      "price": "$568.13",
+      "extracted_at": "2025-10-17T16:25:59.422Z"
+    },
+    {
+      "asin": "B09RZQL1D4",
+      "title": "Bolsa de maquillaje para camping, 273_NO1",
+      "price": "$578.90",
+      "extracted_at": "2025-10-17T16:25:59.422Z"
+    },
+    {
+      "asin": "B08P26W6XH",
+      "title": "Makeup Brush Holder Makeup Brush Case for Women Makeup Artist Storage Bag Cosmetic Bags",
+      "price": "$714.07",
+      "extracted_at": "2025-10-17T16:25:59.422Z"
+    },
+    {
+      "asin": "B00BMEN1BI",
+      "title": "Lip Elegance Eyebrow Sealer, 0.17 oz",
+      "price": "$601.08",
+      "extracted_at": "2025-10-17T16:25:59.422Z"
+    },
+    {
+      "asin": "B0D5MHP4C2",
+      "title": "RYYCDOI - Bolsa de maquillaje de playa estética, bolsa de cosméticos para mujeres, regalos de playa para amigas, regalos para amantes de la playa, regalos de día festivo en la playa, bolsa de",
+      "price": "$577.46",
+      "extracted_at": "2025-10-17T16:26:09.395Z"
+    },
+    {
+      "asin": "B0D8W2W8C2",
+      "title": "EQQUALBERRY Suero reafirmante Bakuchiol: minimizador de poros y arrugas con bakuchiol | Alternativa al retinol para pieles sensibles | Mejora la firmeza y la elasticidad con ceramidas y péptidos, 1,01 oz/30 ml",
+      "price": "$749.79",
+      "extracted_at": "2025-10-17T16:26:20.614Z"
+    },
+    {
+      "asin": "B08DTJG5FL",
+      "title": "Cinturón Obi para mujer, clásico, ancho, elástico, ajustable, elástico, Bronceado, Talla única",
+      "price": "$671.00",
+      "extracted_at": "2025-10-17T16:26:20.614Z"
+    },
+    {
+      "asin": "B01FSZQU50",
+      "title": "Vinilin (Shostakovsky Balsam) 50g/1.8oz",
+      "price": "$626.73",
+      "extracted_at": "2025-10-17T16:26:20.614Z"
+    },
+    {
+      "asin": "B08W57Z24N",
+      "title": "O!GETi Vitamin C Serum Mist | Vitamin C, Hyaluronic acid, Moisturizing mist for face, all skin type, Korean skincare, for men and women, 2.70 Fl.Oz (80ml)",
+      "price": "$682.07",
+      "extracted_at": "2025-10-17T16:26:20.614Z"
+    },
+    {
+      "asin": "B0CLKXXGYJ",
+      "title": "Amallow Sebo de res alimentado con pasto al 100% para el cuidado de la piel, rostro y cuerpo, humectante batido, loción natural, 4 fl. oz. (vainilla y lavanda)",
+      "price": "$1,245.27",
+      "extracted_at": "2025-10-17T16:26:20.614Z"
+    },
+    {
+      "asin": "B00B3Q8QZ6",
+      "title": "Medimix Face Wash 100ml by Medimix",
+      "price": "$430.16",
+      "extracted_at": "2025-10-17T16:26:20.614Z"
+    },
+    {
+      "asin": "B01N9C2OYN",
+      "title": "Spray protector para la piel, 4 onzas, paquete de 2, Original Version",
+      "price": "$736.71",
+      "extracted_at": "2025-10-17T16:26:20.614Z"
+    },
+    {
+      "asin": "B0C4NWGVTF",
+      "title": "Taimand Parches Debajo de Los Ojos (30 Pares), Oro 24K Mascarilla para Ojos Hinchados, Ojeras, Bolsas y Arrugas Con Colágeno, Alivia La Presión y Reduce Arrugas, Revitaliza y Refresca Tu Piel",
+      "price": "$466.45",
+      "extracted_at": "2025-10-17T16:26:20.614Z"
+    },
+    {
+      "asin": "B0CR2XVH7Y",
+      "title": "RBUGR- Paquete de 39 bálsamos labiales, 12 bálsamos labiales con sabor a granel, juego de bálsamos labiales naturales, cera de abejas hidratante y calmante",
+      "price": "$515.81",
+      "extracted_at": "2025-10-17T16:26:20.614Z"
+    },
+    {
+      "asin": "B0D5M7LKBW",
+      "title": "Dongyu- Crema de cafeína para los ojos contra las ojeras: suero para las bolsas debajo de los ojos Cuidado diario antes de las citas",
+      "price": "$580.71",
+      "extracted_at": "2025-10-17T16:26:20.614Z"
+    },
+    {
+      "asin": "B09XM9VFKS",
+      "title": "ANKOOY Pacote com 12 conjuntos de creme para as mãos para mulheres e meninas, creme hidratante para as mãos com fragrância de plantas para mãos secas e rachadas, conjunto de mini loção para",
+      "price": "$489.41",
+      "extracted_at": "2025-10-17T16:26:20.615Z"
+    },
+    {
+      "asin": "B001LEYER4",
+      "title": "DermaSwim Pro 8 Ounce Tube Pre-Swimming Lotion",
+      "price": "No disponible",
+      "extracted_at": "2025-10-17T16:26:20.615Z"
+    },
+    {
+      "asin": "B08JQQKY5L",
+      "title": "Hematix 15g, Crema Unisex Adulto, Blanco (White), 30 Ml Paquete De 1",
+      "price": "$651.25",
+      "extracted_at": "2025-10-17T16:26:20.615Z"
+    },
+    {
+      "asin": "B01M5JP7TK",
+      "title": "BONUS SIZE Vitamin E Cream 42,000 I.U. - 50% MORE FREE 6 oz. by Colonial Dames",
+      "price": "$736.86",
+      "extracted_at": "2025-10-17T16:26:20.615Z"
+    },
+    {
+      "asin": "B0B1ZF9DZH",
+      "title": "Maskiss 24k Gold Under Eye Patches (30 Pairs), eye mask, Collagen Skin Care Products, Eye Patches for Puffy Eyes, eye masks for dark circles and puffiness",
+      "price": "$741.61",
+      "extracted_at": "2025-10-17T16:26:20.615Z"
+    },
+    {
+      "asin": "B08DJDGRH1",
+      "title": "Toallitas corporales Busy Co XL | Limpieza sin ducha | Base vegetal, sin aluminio, natural | Todos los tipos de piel | Vegano | Sin crueldad | Sin parabenos | Sin aroma (Refresh sin perfume, 10 toallitas)",
+      "price": "$646.46",
+      "extracted_at": "2025-10-17T16:26:20.615Z"
+    },
+    {
+      "asin": "B0CRDVZQWV",
+      "title": "BAINTA Mascarilla Para Debajo De Los Ojos, Mascarilla De Colágeno Para Ojos 60 Pzas, Extracto De Té Verde Parches Debajo De Los Ojos, Mascarilla Para Ojos Inflados, Tratamientos Para",
+      "price": "$529.55",
+      "extracted_at": "2025-10-17T16:26:30.963Z"
+    },
+    {
+      "asin": "B071NF7Q6B",
+      "title": "Korean Natural BOTONIX Age Defying Cream 24K Gold and 8 Peptides Effect Lifting and Firming Skin Regenerating Collagen â€\" 50 ml/1.7 oz. Bundle with 1 Mud Mask - 30 gm Randomly Picked Flavor",
+      "price": "$1,981.77",
+      "extracted_at": "2025-10-17T16:26:30.963Z"
+    },
+    {
+      "asin": "B0C8HZCD6G",
+      "title": "Chemist at Play Exfoliating Body Scrub For Removing Tan & Dead Skin Cells | Rough & Bumpy Skin, Tanned & Pigmented Skin | For Smooth, Soft & Bright Skin | Natural AHAs | Coffee | For Men & Women | 75g",
+      "price": "$477.24",
+      "extracted_at": "2025-10-17T16:26:30.963Z"
+    },
+    {
+      "asin": "B07C2BRK19",
+      "title": "Nella Oneday Whitener, White Snow Whitening and Brightening Ferment Cream, Radiant Tone-Up, Korean Beauty, 1.76 Ounce",
+      "price": "$847.39",
+      "extracted_at": "2025-10-17T16:26:30.963Z"
+    },
+    {
+      "asin": "B07L128X19",
+      "title": "White Tone Crema Facial Suave Y Tersa - 50 G (1,76 Oz)",
+      "price": "$423.58",
+      "extracted_at": "2025-10-17T16:26:30.963Z"
+    },
+    {
+      "asin": "B07C5WZLWL",
+      "title": "Cupra Cr Manos 75ml",
+      "price": "$403.65",
+      "extracted_at": "2025-10-17T16:26:30.963Z"
+    },
+    {
+      "asin": "B0CLYSY4SK",
+      "title": "NOVIIML low Balm - Beef Tallow For Skin Care, Tallow Moisturizer, Face Cream, Lotion & Cream (Vanilla, Grass-Fed Tallow)",
+      "price": "No disponible",
+      "extracted_at": "2025-10-17T16:26:30.963Z"
+    },
+    {
+      "asin": "B00M541YMM",
+      "title": "Inis the Energy of the Sea Nourishing Hand Cream, 2.6 Fluid Ounce",
+      "price": "$704.70",
+      "extracted_at": "2025-10-17T16:26:30.963Z"
+    },
+    {
+      "asin": "B0015R4AUS",
+      "title": "ProActive Tite Grip II All-Sport Loción tópica antiperspirante para Manos/Antideslizante Que Mejora el Agarre",
+      "price": "$590.37",
+      "extracted_at": "2025-10-17T16:26:30.964Z"
+    },
+    {
+      "asin": "B0D8HW19VJ",
+      "title": "Aivoch 10 Pares De 20 Parches Dorados De 24 K Para Debajo De Los Ojos, Máscaras De Colágeno Para Ojeras E Hinchazón, Reducen Las Arrugas Y Los Ojos Hinchados, Refresca Tu Piel, Produ",
+      "price": "$428.49",
+      "extracted_at": "2025-10-17T16:26:30.964Z"
+    },
+    {
+      "asin": "B0CZSD2RZR",
+      "title": "ChapChamp - Bálsamo labial para hombres - 6 bálsamos labiales naturales con vitamina E y cera de abejas - Hidratante y protector de labios - Mate - 0.15 onzas - 2.5 x 0.2 pulgadas",
+      "price": "$686.00",
+      "extracted_at": "2025-10-17T16:26:30.964Z"
+    },
+    {
+      "asin": "B07V4C4FCP",
+      "title": "Soothe - Crema de ojos para tratamiento de reparación intensa para ojeras y hinchazón, bolsas de ojos y arrugas con ácido hialurónico antienvejecimiento, reafirmante, péptidos y cafeína para hombres y mujeres sin edad 0.5 onzas",
+      "price": "$651.25",
+      "extracted_at": "2025-10-17T16:26:30.964Z"
+    },
+    {
+      "asin": "B0BGX38NP9",
+      "title": "Moart Lab. Vegan Low pH Foaming Oil Cleanser",
+      "price": "$867.70",
+      "extracted_at": "2025-10-17T16:26:30.964Z"
+    },
+    {
+      "asin": "B0CCNWY13J",
+      "title": "ZUMBA Face Cleanser - 8.5 Fl Oz - Gentle Face Cleanser for All Skin Types - Face Wash For Oily Skin & Hydrating Water Based Cleanser - Fomulated with 1% Salicylic Acid & 1% Niacinamide Cleanser",
+      "price": "$696.11",
+      "extracted_at": "2025-10-17T16:26:30.964Z"
+    },
+    {
+      "asin": "B0D7JWMCZN",
+      "title": "AQILUN Mascarilla De Colágeno Profundo Anti Arrugas, Mascarilla De Colágeno Coco Beauty, Mascarilla De Hidrogel Reafirmante De Hidratación Profunda Para La Noche, Minimización De Por",
+      "price": "$970.33",
+      "extracted_at": "2025-10-17T16:26:30.964Z"
+    },
+    {
+      "asin": "B00EFIJJD2",
+      "title": "Limpiador mineral 100% natural y orgánico para nutrir y renovar la piel estresada, congestionada y desnutrida. Contiene clorella, espirulina, fruta de noni, Kelp. Un lavado facial favorito profesional.",
+      "price": "$1,050.18",
+      "extracted_at": "2025-10-17T16:26:30.964Z"
+    },
+    {
+      "asin": "B01MY0UFRB",
+      "title": "[Leaders Insolution] Daily Wonders Too Mucho Diversión en el Sol calmante cara de algodón máscara de hoja 10 unidades",
+      "price": "$1,421.30",
+      "extracted_at": "2025-10-17T16:26:42.636Z"
+    },
+    {
+      "asin": "B0D42V53V5",
+      "title": "Good Light- Leche para labios Taste of Space, hidratación de labios, ayuda a suavizar y nutrir los labios, se absorbe rápidamente, bálsamo labial vegano",
+      "price": "$849.08",
+      "extracted_at": "2025-10-17T16:26:42.636Z"
+    },
+    {
+      "asin": "B0CQLZPYSB",
+      "title": "Ditoi - Toallas faciales limpias, desechables biodegradables, tela facial súper suave y grueso para el cuidado de la piel, toallitas secas desmaquillantes, paño de lavado facial sin pelusa para piel",
+      "price": "$530.35",
+      "extracted_at": "2025-10-17T16:26:42.636Z"
+    },
+    {
+      "asin": "B09NQNF76B",
+      "title": "Body Cream Tahitian Vanilla Saavy Naturals, Clean Plant-Based Ingredients| Made In USA | Absorbent Shea Butter Vegan, Thick and Creamy Body Moisturizer, Body Lotion for Dry Skin- 8.5 Fl Oz, 2 Pack",
+      "price": "$998.70",
+      "extracted_at": "2025-10-17T16:26:42.637Z"
+    },
+    {
+      "asin": "B08MPY42PH",
+      "title": "Bálsamo labial orgánico USDA de Earth's Daughter, paquete de 4 – sabor cremoso de coco, cera de abejas, aceite de coco, vitamina E – mejor barra de reparación de labios para labios secos agrietados",
+      "price": "$483.45",
+      "extracted_at": "2025-10-17T16:26:42.637Z"
+    },
+    {
+      "asin": "B00ULLOJA0",
+      "title": "Hawaii Forever Florals Body Lotion 4 Bottles 4 oz. Each Plumeria by Forever Florals",
+      "price": "$1,541.41",
+      "extracted_at": "2025-10-17T16:26:42.637Z"
+    },
+    {
+      "asin": "B073R78BPV",
+      "title": "Novu Derm- Pro Collagen Serum- Significally Increase Collagen Production Safely and Efficiently- Natural Luxurious Formula To Hydrate and Diminish Wri",
+      "price": "$938.84",
+      "extracted_at": "2025-10-17T16:26:42.637Z"
+    },
+    {
+      "asin": "B06XD31CVL",
+      "title": "Hydroxatone 90 Second Wrinkle Reducer 0.33 Fl. Oz Tube",
+      "price": "$751.90",
+      "extracted_at": "2025-10-17T16:26:42.637Z"
+    },
+    {
+      "asin": "B01NBBWJ8O",
+      "title": "Simply Divine Botanicals Black Velvet Facial Cleanser 4 fl. oz. by Simply Divine Botanicals",
+      "price": "$1,056.41",
+      "extracted_at": "2025-10-17T16:26:42.637Z"
+    },
+    {
+      "asin": "B01M9DAZ3V",
+      "title": "4 fl oz 100% Pure Calendula Oil - for Body, Nails & Hair - Perfect Natural Skin Moisturizer - Also Ideal Natural Skin Care Antioxidant Serum",
+      "price": "$754.02",
+      "extracted_at": "2025-10-17T16:26:42.637Z"
+    },
+    {
+      "asin": "B01ISIU16I",
+      "title": "Citrus & Green Tea Hand & Body Lotion - 30 oz by Good Seed",
+      "price": "$1,082.91",
+      "extracted_at": "2025-10-17T16:26:42.637Z"
+    },
+    {
+      "asin": "B01D2M4GFM",
+      "title": "Alpha Skin Care - Essential Facial Moisturizer, with Hyaluronic Acid| Fragrance-Free and Paraben-Free| 2-Ounce (Packaging May Vary)",
+      "price": "$743.51",
+      "extracted_at": "2025-10-17T16:26:42.637Z"
+    },
+    {
+      "asin": "B0150GP1SO",
+      "title": "Indigo Wild Zum Face Gentle Face Cleanser, 8 Fluid Ounce",
+      "price": "$751.62",
+      "extracted_at": "2025-10-17T16:26:42.637Z"
+    },
+    {
+      "asin": "B00L9RQH5U",
+      "title": "Elizabeth W Vetiver Hand Lotion by elizabeth W",
+      "price": "$1,040.78",
+      "extracted_at": "2025-10-17T16:26:42.637Z"
+    },
+    {
+      "asin": "B015X3CUCE",
+      "title": "elizabethW Vetiver Body Lotion 6.75 oz (200 g) by elizabeth W",
+      "price": "$1,130.99",
+      "extracted_at": "2025-10-17T16:26:42.638Z"
+    },
+    {
+      "asin": "B07B7MHLFB",
+      "title": "[Berrisom] SOS! Essence Lip Patch (30pcs)",
+      "price": "$773.34",
+      "extracted_at": "2025-10-17T16:26:42.638Z"
+    },
+    {
+      "asin": "B079CQQT1Q",
+      "title": "Inis Energy of The Sea Mineral Moisturizing Hand Lotion, 10 Fluid Ounce",
+      "price": "$870.06",
+      "extracted_at": "2025-10-17T16:26:55.521Z"
+    },
+    {
+      "asin": "B01F7RP370",
+      "title": "Dark Circles Under Eye Treatment- Tackles Puffiness, Wrinkles and Bags - Natural Organic Eye Brightening Gel for Under and Around Eyes, suits Men & Wo",
+      "price": "$1,058.17",
+      "extracted_at": "2025-10-17T16:26:55.522Z"
+    },
+    {
+      "asin": "B07KFCGFR5",
+      "title": "Tanceuticals Self Tanning Mousse - Healthy Ingredients and Fresh Coconut Scent Gives Instant, Long-Lasting Sunless Tan - Self Tanner in Dark Shade - 6.7 oz",
+      "price": "$1,113.96",
+      "extracted_at": "2025-10-17T16:26:55.522Z"
+    },
+    {
+      "asin": "B006QNVA4A",
+      "title": "Organic Bio Damascena Anti-Wrinkle Eye Contour Cream",
+      "price": "$1,693.38",
+      "extracted_at": "2025-10-17T16:26:55.522Z"
+    },
+    {
+      "asin": "B071X7W4J8",
+      "title": "Ibiza Sun Organic Self Tanner, Self Tanning Towelettes, 8 count -Natural Ingredients Paraben Free,Sunless Tanning Wipes for Face and Body, Odorless, Cruelty Free.Golden Tan Bronzer.For all skin tones.",
+      "price": "$1,183.60",
+      "extracted_at": "2025-10-17T16:26:55.522Z"
+    },
+    {
+      "asin": "B00H3PZEXS",
+      "title": "Caviar of Switzerland Revitalizing Eye Cream...Amazing Brightener 15ml",
+      "price": "$4,797.61",
+      "extracted_at": "2025-10-17T16:26:55.522Z"
+    },
+    {
+      "asin": "B07YHHW17Q",
+      "title": "Leotart Cinta de carrocería de colores – Paquete variado – 12 colores 10 yardas x 1 pulgada rollos de cinta adhesiva multicolor divertida DIY kit de arte para arte, etiquetado, decoraciones de aula",
+      "price": "$929.32",
+      "extracted_at": "2025-10-17T16:26:55.522Z"
+    },
+    {
+      "asin": "B00BB0ZZG2",
+      "title": "Beauty Pro Toalla de envolver facial, 6 piezas",
+      "price": "$929.32",
+      "extracted_at": "2025-10-17T16:26:55.522Z"
+    },
+    {
+      "asin": "B0CZDTBMCN",
+      "title": "SPARTAN Champú Activador De Raíces Para Hombres: Champú Para El Crecimiento Del Cabello Para La Caída Y El Debilitamiento Del Cabello Negro",
+      "price": "$1,241.55",
+      "extracted_at": "2025-10-17T16:27:07.161Z"
+    },
+    {
+      "asin": "B0C2GGPWZT",
+      "title": "SELPONT Headbands For Washing Face, Shower and Bath, Goth and Witchy gifts (Set of 2)",
+      "price": "$612.33",
+      "extracted_at": "2025-10-17T16:27:07.161Z"
+    },
+    {
+      "asin": "B09HGM69MK",
+      "title": "True+Real Therapeutic Plus Tar Gel Anti-Dandruff Shampoo 0.5% Coal Tar, 16 Fl Oz, Pack of 2",
+      "price": "$664.32",
+      "extracted_at": "2025-10-17T16:27:07.161Z"
+    },
+    {
+      "asin": "B09BMXXF9Y",
+      "title": "True+Real Therapeutic Plus Tar Gel Anti-Dandruff Shampoo 0.5% Coal Tar, 16 Fl Oz, Original Strength",
+      "price": "$480.56",
+      "extracted_at": "2025-10-17T16:27:07.161Z"
+    },
+    {
+      "asin": "B0DHQXZ61N",
+      "title": "Polvo texturizante para hombres, fácil de aplicar, agrega textura y volumen al instante, ingredientes totalmente naturales, fijación fuerte, polvo para el cabello para hombres",
+      "price": "$636.27",
+      "extracted_at": "2025-10-17T16:27:07.161Z"
+    },
+    {
+      "asin": "B07W53P6VC",
+      "title": "Diadema con gorro y diadema para disfraz de bruja de Spiderweb para Halloween, Navidad, fiestas de disfraces de cosplay para bebés, niñas, niños, niñas y mujeres, C light purple",
+      "price": "$513.46",
+      "extracted_at": "2025-10-17T16:27:07.161Z"
+    },
+    {
+      "asin": "B0DK263J67",
+      "title": "Acondicionador espesante para cabello en caso de caída y debilitamiento del cabello, cuidado capilar coreano, acondicionador con biotina, humectante, fortalecedor, protege el color",
+      "price": "$1,085.03",
+      "extracted_at": "2025-10-17T16:27:07.161Z"
+    },
+    {
+      "asin": "B0CB1SG31Z",
+      "title": "UNOVE Deep Damage Repair Shampoo 500ml/16.91fl.oz",
+      "price": "$839.00",
+      "extracted_at": "2025-10-17T16:27:07.161Z"
+    },
+    {
+      "asin": "B09YH6DC2W",
+      "title": "Ivnil Black Hair Dye Shampoo 3 in 1 Hair Color Shampoo for Women & Men for Gray Hair Coverage for Instant Herbal Natural Champu Para Canas Mujer",
+      "price": "$693.98",
+      "extracted_at": "2025-10-17T16:27:07.162Z"
+    },
+    {
+      "asin": "B0BHSRTWFD",
+      "title": "Diadema de plumas de pavo real de los años 20, accesorio para el cabello para mujeres, fiestas de Showgirl (BQ017negro-oro)",
+      "price": "$610.00",
+      "extracted_at": "2025-10-17T16:27:07.162Z"
+    },
+    {
+      "asin": "B0D7BN48PT",
+      "title": "Wudas Extensiones De Cabello Sintético Con Textura Yaki, Liso, Preestirado, Corto, De 18 Pulgadas, Color Negro, Para Trenzas, 2 Paquetes 1B (Negro Natural) 18 Pulgadas (Paquete De 2)",
+      "price": "$379.66",
+      "extracted_at": "2025-10-17T16:27:07.162Z"
+    },
+    {
+      "asin": "B0D4TVC2DP",
+      "title": "Secador de Pelo AINA, Secador de Pelo con Cepillo Difusor Peine para Mujer - Secador de Pelo BLDC - Motor sin escobillas, 110.000 RPM Ligero, Iónico de Viaje, 3 Accesorios Magnéticos 110V/Enchufe ALCI(Blanco)",
+      "price": "$1,013.02",
+      "extracted_at": "2025-10-17T16:27:07.162Z"
+    },
+    {
+      "asin": "B09Y5H6Q8J",
+      "title": "Huachi Diademas anchas para el cabello de las mujeres con teñido anudado, turbante, bandas para la cabeza antideslizantes, accesorios para el cabello de entrenamiento, paquete de 6",
+      "price": "$529.91",
+      "extracted_at": "2025-10-17T16:27:07.162Z"
+    },
+    {
+      "asin": "B0B4FXC5WZ",
+      "title": "COSMTEK Champú Tinte para Cabello Negro, Champú Semipermanente para El Cabello para Mujeres y Hombres, Ingredientes A Base de Hierbas y Sin Amoniaco, 3 En 1-100% Cobertura Gris Dexe (14 Fl Oz)",
+      "price": "$609.45",
+      "extracted_at": "2025-10-17T16:27:07.162Z"
+    },
+    {
+      "asin": "B09WN1RFHG",
+      "title": "Huachi Diademas bohemias para mujer, anchas para yoga, entrenamiento, para el cabello de mujer, antideslizantes, para verano, para mujer",
+      "price": "$502.76",
+      "extracted_at": "2025-10-17T16:27:07.162Z"
+    },
+    {
+      "asin": "B0B2QHS72Y",
+      "title": "SEEN- Champú sin fragancia, no comedogénico y sin sulfatos, desarrollado por dermatólogos, seguro",
+      "price": "$986.54",
+      "extracted_at": "2025-10-17T16:27:07.162Z"
+    },
+    {
+      "asin": "B0CLJXSJFM",
+      "title": "VITAL AFFAIR Aceite De Ricino Puro Botella De Vidrio Sin Refinar Prensado En Frío Orgánico-Usda Certified Organic Castor Aceite Frío Botella De Vidrio Prensado En Frío Para Paquete De Aceite De Ricino",
+      "price": "$826.61",
+      "extracted_at": "2025-10-17T16:27:22.996Z"
+    },
+    {
+      "asin": "B07XCPMRPW",
+      "title": "Huachi Diademas para mujer, estilo bohemio, con nudos, para niñas, estilo turbante, clásico, elásticas, cruzadas, con estampado floral, accesorios para el pelo de playa de verano, paquete de 6, Multicolor, Una talla se ajusta a la mayoría",
+      "price": "$486.26",
+      "extracted_at": "2025-10-17T16:27:22.996Z"
+    },
+    {
+      "asin": "B07FTGLWDR",
+      "title": "Desire Deluxe - gis para el cabello para niñas, 10 rotuladores temporales, no tóxicos, fáciles de lavar, coloridos, coloridos",
+      "price": "$672.33",
+      "extracted_at": "2025-10-17T16:27:22.996Z"
+    },
+    {
+      "asin": "B0CLL81FWY",
+      "title": "Totelux - Diadema de cuernos de reno con purpurina para el pelo de Navidad para mujeres y niñas, accesorios para el cabello, color dorado y rojo",
+      "price": "$507.19",
+      "extracted_at": "2025-10-17T16:27:22.996Z"
+    },
+    {
+      "asin": "B0BZ786XL3",
+      "title": "Beeos- Gorro de peluca HD con apariencia de piel, 4 piezas, invisible, transparente, transpirable, ultrafino, elástico, para pelucas con encaje frontal",
+      "price": "$356.98",
+      "extracted_at": "2025-10-17T16:27:22.996Z"
+    },
+    {
+      "asin": "B082X61912",
+      "title": "Esmee Pelucas Sintéticas Largo Recto Capas Peinado Ombre Negro Rubio Gris Ceniza Pelucas Completas Con Flequillo Para Blanco Mujeres",
+      "price": "$848.33",
+      "extracted_at": "2025-10-17T16:27:22.997Z"
+    },
+    {
+      "asin": "B07D6NR79K",
+      "title": "Shu Uemura Ultimate Reset Extreme Repair Conditioner 8 Oz",
+      "price": "$1,834.19",
+      "extracted_at": "2025-10-17T16:27:22.997Z"
+    },
+    {
+      "asin": "B0DDL7M1X6",
+      "title": "Detail Dudes - Juego de 7 cepillos para ruedas e interiores",
+      "price": "$1,127.46",
+      "extracted_at": "2025-10-17T16:27:22.997Z"
+    },
+    {
+      "asin": "B00QUAN3IA",
+      "title": "oliology natural beauty oils Nutrient-rich coconut oil 32oz. and Conditioner 32oz. by oliology",
+      "price": "$1,115.58",
+      "extracted_at": "2025-10-17T16:27:22.997Z"
+    },
+    {
+      "asin": "B0D2CPLJ97",
+      "title": "AKBAN Aceite De Romero Y Aceite De Batana Crudo Para El Crecimiento Del Cabello Orgánico Promueve El Espesor Del Cabello, Aceite Puro Y Natural Para Cabello Y Cuero Cabelludo, 1 Fl Oz + 1Fl Oz Botella",
+      "price": "$609.15",
+      "extracted_at": "2025-10-17T16:27:22.997Z"
+    },
+    {
+      "asin": "B0CYL2WRP9",
+      "title": "Aceite de romero orgánico para el crecimiento del cabello infundido con aceite de tratamiento fortalecedor del cabello Batana para todo tipo de cabello Previene la caída del cabello, mejora el",
+      "price": "$550.61",
+      "extracted_at": "2025-10-17T16:27:22.997Z"
+    },
+    {
+      "asin": "B00BEY394K",
+      "title": "Mr Cool Wet Look Intense Shine Alcohol Free Hair Gel 8 FL OZ",
+      "price": "$560.43",
+      "extracted_at": "2025-10-17T16:27:22.997Z"
+    },
+    {
+      "asin": "B0D1QKJ32D",
+      "title": "PureRootss Champú Seco En Polvo y Recarga X2, Sin Perfume, Sin Aerosol, para Cabello Oscuro y Rubio, Voluminizador Del Cabello, Raíz Matificante, Polvo para Estilizar El Cabello de Viaje y Un Aspecto",
+      "price": "$515.31",
+      "extracted_at": "2025-10-17T16:27:22.997Z"
+    },
+    {
+      "asin": "B071GVJMKN",
+      "title": "Jon Renau Synthetic Hair Full Size 4-Piece Kit",
+      "price": "$1,708.33",
+      "extracted_at": "2025-10-17T16:27:22.997Z"
+    },
+    {
+      "asin": "B019YZQYII",
+      "title": "Hair Illusion: Premium Hair Loss Concealer, For Men & Women, 100% Real Human Hair Fiber, Black 18g by Hair Illusion LLC",
+      "price": "$882.65",
+      "extracted_at": "2025-10-17T16:27:22.997Z"
+    },
+    {
+      "asin": "B00N1LXH2S",
+      "title": "REHYDRATION shampoo 250 ml",
+      "price": "$602.00",
+      "extracted_at": "2025-10-17T16:27:22.997Z"
+    },
+    {
+      "asin": "B07BXZHYGK",
+      "title": "xnicx 47pcs Hair Flexi-Rods Rodillos Flexibles Set Niñas Mujeres Damas Niños Sin Calor Rodillos de Espuma Suave Twist-Flex Rodillos para Rizos Cortos, Medianos, Cabello Corto",
+      "price": "$508.79",
+      "extracted_at": "2025-10-17T16:27:36.804Z"
+    },
+    {
+      "asin": "B0B5G1JB78",
+      "title": "LANITO Suero Para El Crecimiento Del Cabello Con Extracto De Raíz De Radix Polygonum Multiflorum Para Adelgazamiento Del Cabello, Caída Y Salud, Productos Espesantes Del Cabello Del",
+      "price": "$789.10",
+      "extracted_at": "2025-10-17T16:27:36.804Z"
+    },
+    {
+      "asin": "B0B3TXPM2Q",
+      "title": "Tribal Chimp- Polvo para peinar el cabello para hombres y mujeres, polvo para dar volumen y textura al cabello, paquete individual, 10 g",
+      "price": "$516.48",
+      "extracted_at": "2025-10-17T16:27:36.805Z"
+    },
+    {
+      "asin": "B08JVKR762",
+      "title": "DAVELEN - Toalla de cabello desechable esencial para mujer, paquete de 100 unidades de 32 x 16 pulgadas, súper absorbente de secado rápido para secar el cabello rizado, largo y grueso (blanco) (100)",
+      "price": "$1,479.91",
+      "extracted_at": "2025-10-17T16:27:36.805Z"
+    },
+    {
+      "asin": "B0CW8VHS6L",
+      "title": "Sea Salt Volume Hair Spray for both Men and Women, Natural Thick and Volumizing Hair Look with Matte Finish and Natural Hold, Paraben Free - 6.7 Fl Oz, 1 Pcs",
+      "price": "$578.37",
+      "extracted_at": "2025-10-17T16:27:36.805Z"
+    },
+    {
+      "asin": "B0C9VWNBYF",
+      "title": "Joyful Young Tinte de Cabello Natural Shampoo 3 En 1, Color de Cabello para La Cobertura Del Cabello Gris, Champú para Colorear El Cabello para Mujeres, Champú de Color Tinte para Barba para Hombres,",
+      "price": "$870.28",
+      "extracted_at": "2025-10-17T16:27:36.805Z"
+    },
+    {
+      "asin": "B07P61BS7P",
+      "title": "BluMaan Aceite para el cabello Cloud Control | Hidrata y cura el cabello seco/frizzy/dañado | Ligero y no grasoso | 12 aceites totalmente naturales y veganos y extractos botánicos | 59 ml / 2 oz",
+      "price": "$1,002.22",
+      "extracted_at": "2025-10-17T16:27:36.805Z"
+    },
+    {
+      "asin": "B07H4VG63L",
+      "title": "EKOEH BRASIL Hair Food Color Cream Black",
+      "price": "$709.10",
+      "extracted_at": "2025-10-17T16:27:36.805Z"
+    },
+    {
+      "asin": "B0B8GDB416",
+      "title": "Maji Mama Cepillo de pelo hecho a mano de madera natural con alfileres de bambú, masajea el cuero cabelludo y desenreda todo tipo de cabello",
+      "price": "$577.46",
+      "extracted_at": "2025-10-17T16:27:36.805Z"
+    },
+    {
+      "asin": "B00684A3YK",
+      "title": "Jessicurl Gentle Lather Shampoo, 8 Fluid Ounce by Jessicurl Llc.",
+      "price": "$794.50",
+      "extracted_at": "2025-10-17T16:27:36.805Z"
+    },
+    {
+      "asin": "B078G9FJHJ",
+      "title": "Lolly Pony Pick, Blue, Pink and Purple, 0.05 Pound",
+      "price": "$513.43",
+      "extracted_at": "2025-10-17T16:27:36.805Z"
+    },
+    {
+      "asin": "B07PS83K9B",
+      "title": "Joanne Jones Thickening Biotin & Collagen Leave in 240 ml",
+      "price": "$653.29",
+      "extracted_at": "2025-10-17T16:27:36.805Z"
+    },
+    {
+      "asin": "B0CZ3VJF5C",
+      "title": "Collagen Hair Mask & Keratin Hair Mask for Damaged Hair, Keratin Hair Treatment, Repair Deep Conditioner for Dry Hair,Vitamin E Natural Hydrating Hair Mask with Argan Oil for All Hair Types 2 Pack Kit",
+      "price": "$523.65",
+      "extracted_at": "2025-10-17T16:27:36.805Z"
+    },
+    {
+      "asin": "B09QS2G1DW",
+      "title": "Sunshine Tape - 72 tiras | Fabricado en Estados Unidos | Premium 3M 1522 peluca de doble cara y cinta de contorno de tupé | Cinta de pelo curvada CC | Transparente, resistente al agua y fiable",
+      "price": "$552.71",
+      "extracted_at": "2025-10-17T16:27:36.805Z"
+    },
+    {
+      "asin": "B07W5V52BD",
+      "title": "Wingirl 13×5 Pelucas De Cabello Humano Con Encaje Frontal Para Mujer 12A Hd Transparente Onda Del Cuerpo Pelucas Delanteras De Encaje Cabello Humano Nudos Blanqueados Pre Desplumados",
+      "price": "$2,767.98",
+      "extracted_at": "2025-10-17T16:27:36.806Z"
+    },
+    {
+      "asin": "B0CX8ZCWX9",
+      "title": "Fedulili Champú Instantáneo de Tinte para Cabello Castaño Claro para Cabello Gris 3 En 1, Champú de Color de Cabello Natural para Mujeres Hombres Colores Marrones En 10-15 Mins, Cobertura 100% Tinte p",
+      "price": "$885.36",
+      "extracted_at": "2025-10-17T16:27:36.806Z"
+    },
+    {
+      "asin": "B07XXSZCVC",
+      "title": "ToyoTress Toyotress Tiana Passion Twist Hair - 10 Pulgadas 8 Paquetes De Giros De Pasión Pre-Retorcidos, Trenzas De Ganchillo Rubias Ombre Hechas De Cabello Bohemio Extensiones De Cabel",
+      "price": "$1,432.09",
+      "extracted_at": "2025-10-17T16:27:47.688Z"
+    },
+    {
+      "asin": "B08G57S36M",
+      "title": "Niseyo 6 paquetes de cabello de ganchillo de mariposa de 12 pulgadas, trenzas de ganchillo pre-rizadas",
+      "price": "$1,131.57",
+      "extracted_at": "2025-10-17T16:27:47.688Z"
+    },
+    {
+      "asin": "B07N2TZYWF",
+      "title": "Tinte para cabello True Sons para hombres, cobertura de cabello sutil (marrón negro) – Kit completo de tinte para el cabello con espuma original para aspecto natural, tinte para cabello con bigote y barba (1.75 oz) 4-6 aplicaciones",
+      "price": "$1,521.97",
+      "extracted_at": "2025-10-17T16:27:47.688Z"
+    },
+    {
+      "asin": "B07D7MW12T",
+      "title": "Ocean View Hair Pomade-Strong Hold 4 Oz- Pomade, Hair Styling, Wave Training",
+      "price": "$700.75",
+      "extracted_at": "2025-10-17T16:27:47.688Z"
+    },
+    {
+      "asin": "B01J3B4KJS",
+      "title": "Yauvanya Pure Indigo Powder (100% natural, sin químicos, sin amoníaco) Color de cabello para el cabello - 300 Gms (3 paquetes de 100 Gms cada uno)",
+      "price": "$639.18",
+      "extracted_at": "2025-10-17T16:27:47.689Z"
+    },
+    {
+      "asin": "B0CTS72D6Z",
+      "title": "SHIBUI- Spray nutritivo Shibui, fijación y brillo modulables, apto para cabello teñido, vegano y sin sulfatos, 10 onzas líquidas",
+      "price": "$987.73",
+      "extracted_at": "2025-10-17T16:27:47.689Z"
+    },
+    {
+      "asin": "B0CQJZRMX9",
+      "title": "Crownnaturally- Polvo para peinar el cabello CNNY para hombres: polvo esponjoso para dar volumen y texturizar para un cabello grueso y natural.",
+      "price": "$460.20",
+      "extracted_at": "2025-10-17T16:27:47.689Z"
+    },
+    {
+      "asin": "B0CP2KBCRL",
+      "title": "AmazingOrganics- Aceite de batana crudo: puro y sin procesar para nutrir el cabello y la piel",
+      "price": "$1,238.91",
+      "extracted_at": "2025-10-17T16:27:47.689Z"
+    },
+    {
+      "asin": "B0C9MYVD5C",
+      "title": "Asocrew Cera Temporal Rojo para El Cabello Spray - Arcilla para Estilizar El Cabello 4.23 Oz, Fácil Lavado para Halloween Cosplay, Fiesta (Rojo)",
+      "price": "$638.32",
+      "extracted_at": "2025-10-17T16:27:47.689Z"
+    },
+    {
+      "asin": "B0D63P4N39",
+      "title": "VANIDOX Set de Champú y Acondicionador de Árbol de Té Con Biotina y Aceite Puro de Árbol de Té para Cuero Cabelludo Seco y Picazón - Libre de Sulfatos y Parabenos - Champú y Acondicionador de Aceite d",
+      "price": "$1,002.52",
+      "extracted_at": "2025-10-17T16:27:47.689Z"
+    },
+    {
+      "asin": "B0BG5J41RY",
+      "title": "Agthyuve Tinte para El Cabello Con Aceite de Argán Negro - 16.9 Fl Oz, Champú de Color Semipermanente 3 En 1, Fácil de Usar (Negro)",
+      "price": "$767.72",
+      "extracted_at": "2025-10-17T16:27:47.689Z"
+    },
+    {
+      "asin": "B00K6PGBHU",
+      "title": "Qhemet Biologics Amla & Olive Heavy Cream -8 oz by Qhemet Biologics",
+      "price": "$828.69",
+      "extracted_at": "2025-10-17T16:27:47.689Z"
+    },
+    {
+      "asin": "B08FYTNYQL",
+      "title": "Cabello trenzado Ombre 350# cobre rojo 30 pulgadas, 8 paquetes de extensiones de cabello sintético profesional trenzado, textura Yaki, ajuste de agua caliente (30 pulgadas, T1B/350)",
+      "price": "$889.89",
+      "extracted_at": "2025-10-17T16:27:47.689Z"
+    },
+    {
+      "asin": "B07V72ND8K",
+      "title": "Pelucas cortas Bob con flequillo de aire, longitud de los hombros, peluca corta rizada ondulada sintética cosplay, peluca pastel, peluca para disfraz de chica, Púrpura",
+      "price": "$854.42",
+      "extracted_at": "2025-10-17T16:27:47.689Z"
+    },
+    {
+      "asin": "B000A3V2Q8",
+      "title": "L'Oreal Oreor Creme 40 Volume Developer 8 oz. by L'Oreal Paris",
+      "price": "$515.97",
+      "extracted_at": "2025-10-17T16:27:47.689Z"
+    },
+    {
+      "asin": "B0D12SBPK3",
+      "title": "8 Pieces Hair Side Combs, Metal Hair Fork Clip Hair Pins for Buns 4 Prong Hair Updo U-Shape Hair Sticks for Women Hair Styling Tool Accessories (Bronze)",
+      "price": "$508.90",
+      "extracted_at": "2025-10-17T16:27:47.689Z"
+    },
+    {
+      "asin": "B01EK9JPMK",
+      "title": "Seda Queen Cirugia Plastica Capilar Profesional Alcalino 1.5V batería no-recargable, 3 Pasos",
+      "price": "$1,114.70",
+      "extracted_at": "2025-10-17T16:27:58.150Z"
+    },
+    {
+      "asin": "B081TPPNSK",
+      "title": "Mini plancha plana para cabello corto de 0.5 pulgadas, tamaño de viaje, alisador de pelo pequeño de cerámica turmalina, ligero y portátil para uso en viajes, color negro",
+      "price": "$513.68",
+      "extracted_at": "2025-10-17T16:27:58.150Z"
+    },
+    {
+      "asin": "B0BXYXHM3N",
+      "title": "Cleverman Tinte para cabello y barba Jet Black para hombres, kit reutilizable todo en uno – Color para hombre para una cobertura natural contra las canas, calidad profesional y sin amoníaco para ocultar canas de cabello, barba y bigote (Jet Black)",
+      "price": "$1,035.92",
+      "extracted_at": "2025-10-17T16:27:58.150Z"
+    },
+    {
+      "asin": "B08K4CWN7P",
+      "title": "Diaotec Knight & Wilson Pureplex Reconstructing Conditioner, 200 Millilitre",
+      "price": "$524.60",
+      "extracted_at": "2025-10-17T16:27:58.150Z"
+    },
+    {
+      "asin": "B07NDYQJ7B",
+      "title": "Moroccan Gold Series - Mascarilla sin enjuague (125 ml)",
+      "price": "$911.39",
+      "extracted_at": "2025-10-17T16:27:58.150Z"
+    },
+    {
+      "asin": "B003UFJ5L2",
+      "title": "Le Kair Cholesterol Plus Strengthening and Conditioning Cream by Le Kair",
+      "price": "$496.79",
+      "extracted_at": "2025-10-17T16:27:58.150Z"
+    },
+    {
+      "asin": "B095XYV524",
+      "title": "Alididi 613 Rubio Encaje Frontal Pelucas Cabello Humano 13X4 180% Densidad Recta Encaje Frontal Peluca Cabello Humano Pre Arrancado Con El Pelo Del Bebé Hd Encaje Frente Pelucas Cabel",
+      "price": "$4,040.35",
+      "extracted_at": "2025-10-17T16:27:58.151Z"
+    },
+    {
+      "asin": "B095XYBHYF",
+      "title": "Alididi 613 Rubio Encaje Frontal Pelucas Cabello Humano 13X4 150% Densidad Recta Encaje Frontal Peluca Cabello Humano Pre Arrancado Con El Pelo Del Bebé Hd Encaje Frente Pelucas Cabel",
+      "price": "$1,770.20",
+      "extracted_at": "2025-10-17T16:27:58.151Z"
+    },
+    {
+      "asin": "B09YTSJYGB",
+      "title": "ghotool 200% Densidad 13X6 Hd Transparente Rizado Encaje Frontal Peluca Cabello Humano Pre Desplumado Sin Glueless Rizado Encaje Frontal Peluca Pelucas De Cabello Humano Con Pelo De B",
+      "price": "$3,233.99",
+      "extracted_at": "2025-10-17T16:27:58.151Z"
+    },
+    {
+      "asin": "B09FXGJR45",
+      "title": "Havana Twist Crochet Hair 6 paquetes de 14 pulgadas trenzas de ganchillo senegalés Twist Crochet Hair Jumbo Havana Twist Crochet Trenzas (T1B/30)",
+      "price": "$1,015.44",
+      "extracted_at": "2025-10-17T16:27:58.151Z"
+    },
+    {
+      "asin": "B0B1J99NRC",
+      "title": "MOTLATA Cortadora de pelo profesional para hombres, recortadora de pelo eléctrica con hoja en T, sin cables, recortadora de barba para hombre, recortadora de pelo de nariz, tres tipos de cortadora de pelo recargable para hombre",
+      "price": "$1,156.09",
+      "extracted_at": "2025-10-17T16:27:58.151Z"
+    },
+    {
+      "asin": "B099RKQYWP",
+      "title": "Peine caliente alisador de pelo eléctrico de prensado de peine portátil antiquemaduras, alisador de barba, peine de cerámica portátil, cepillo para rizar, plancha con calefacción, cepillo plano para alisar el pelo",
+      "price": "$652.57",
+      "extracted_at": "2025-10-17T16:27:58.151Z"
+    },
+    {
+      "asin": "B08BXPHY78",
+      "title": "Estilos avanzados coleta de caballo con cordón con flequillo afro Puff extensiones de coleta para mujer, cola de caballo corta rizada con flequillo clip en Wrap Updo Hairpiece para mujeres (T30)",
+      "price": "$728.08",
+      "extracted_at": "2025-10-17T16:27:58.151Z"
+    },
+    {
+      "asin": "B09N54P622",
+      "title": "Crown Quality Products 360 Sport Wave Caesar 2.0 Boar Bristle Hairbrush, Medium, Triple Black - Non-Slip Grip, Waterproof Design",
+      "price": "$911.71",
+      "extracted_at": "2025-10-17T16:27:58.151Z"
+    },
+    {
+      "asin": "B08F4LC5NL",
+      "title": "AIIR Flexible Hold Hair Spray",
+      "price": "$1,166.33",
+      "extracted_at": "2025-10-17T16:27:58.151Z"
+    },
+    {
+      "asin": "B07L437P21",
+      "title": "B&B Super Gro Conditioner 6 oz (ARGAN OIL & COCONUT WITH ALOE)",
+      "price": "$502.25",
+      "extracted_at": "2025-10-17T16:27:58.151Z"
+    },
+    {
+      "asin": "B087642J5X",
+      "title": "MOONMINI - Juego de brochas y cuencos para teñir el cabello, juego de brochas de colores para tazones, kit de cuencos para mezclar, peine para teñir el cabello, aplicador de coloración (negro)",
+      "price": "$397.66",
+      "extracted_at": "2025-10-17T16:28:13.439Z"
+    },
+    {
+      "asin": "B095XY1858",
+      "title": "Alididi 613 Pelucas Delanteras De Encaje Cabello Humano Peluca Rubia Cabello Humano 30 Pulgadas 13X4 Recto Peluca Frontal De Encaje Cabello Humano Pre Arrancado Con Cabello De Bebé Hd",
+      "price": "$3,500.48",
+      "extracted_at": "2025-10-17T16:28:13.439Z"
+    },
+    {
+      "asin": "B07VC1WKHY",
+      "title": "Cepillo de esponja para el pelo con dos lados para espantar ondas de espedura de espuma afro barbero para mujeres y hombres, niños y niñas, agujeros pequeños y grandes, 1 unidad",
+      "price": "$446.93",
+      "extracted_at": "2025-10-17T16:28:13.439Z"
+    },
+    {
+      "asin": "B07S9WW1CG",
+      "title": "Kalive 2Style Mascarilla para el cabello de 8 onzas de reparación e hidratación, hidratante profundo, acondicionador para cabello dañado seco, hecho con queratina, colágeno y germen de trigo",
+      "price": "$808.21",
+      "extracted_at": "2025-10-17T16:28:13.439Z"
+    },
+    {
+      "asin": "B07Q17NVQN",
+      "title": "Pelucas cortas Bob con flequillo de aire, longitud de los hombros, peluca corta rizada ondulada sintética cosplay, peluca pastel, peluca para disfraz de chica, Gris Degradado",
+      "price": "$860.94",
+      "extracted_at": "2025-10-17T16:28:13.440Z"
+    },
+    {
+      "asin": "B07PPBPB3G",
+      "title": "Minute Hair Fibras de construcción de cabello 100 gramos (4 oz) Recambio de cabello para pérdida de cabello corrector que puedes utilizar para tus botellas de competidores como Toppik, Xfusion, Café Oscuro",
+      "price": "$637.42",
+      "extracted_at": "2025-10-17T16:28:13.440Z"
+    },
+    {
+      "asin": "B07N18M51C",
+      "title": "Moroccan Gold Series Aceite de argán 100 ml/3.4 oz",
+      "price": "$907.36",
+      "extracted_at": "2025-10-17T16:28:13.440Z"
+    },
+    {
+      "asin": "B09FSZMLP4",
+      "title": "8 paquetes de pelo de ganchillo de 18 pulgadas de ganchillo pretorcido de pasión, trenzas de ganchillo, rizos de pasión, pelo bohemio de ganchillo T30",
+      "price": "$1,247.62",
+      "extracted_at": "2025-10-17T16:28:13.440Z"
+    },
+    {
+      "asin": "B077Q8596J",
+      "title": "MHU Professional 1 Inch Keratin Ion Flat Iron Tourmaline Ceramic Hair Straightener Instant Heat Up Auto Shut-Off Adjustable Temperature with LED Display Black (285°F-450°F)",
+      "price": "$1,020.64",
+      "extracted_at": "2025-10-17T16:28:13.440Z"
+    },
+    {
+      "asin": "B01LYKXFLE",
+      "title": "Oliology Nutrient Rich Coconut Oil Conditioner 32 fl oz.",
+      "price": "$928.02",
+      "extracted_at": "2025-10-17T16:28:13.440Z"
+    },
+    {
+      "asin": "B01HCLCXBI",
+      "title": "Dabur Vatika Volume and Thickness Conditioner (400 ml)",
+      "price": "$650.43",
+      "extracted_at": "2025-10-17T16:28:13.440Z"
+    },
+    {
+      "asin": "B01G4XJNMM",
+      "title": "ORS Olive Oil Girls Moisture Rich Conditioner, 13 Fluid Ounce",
+      "price": "$562.89",
+      "extracted_at": "2025-10-17T16:28:13.440Z"
+    },
+    {
+      "asin": "B00LP9UUJG",
+      "title": "MHD Professional Mini Travel Hair Dryer 1000 Watts Blow Dryer Ceramic Ionic Blow Dryer Pink Color",
+      "price": "$705.03",
+      "extracted_at": "2025-10-17T16:28:13.440Z"
+    },
+    {
+      "asin": "B0032A0B1I",
+      "title": "Baby Dont Be Bald Super GRO 4 0z",
+      "price": "$500.57",
+      "extracted_at": "2025-10-17T16:28:13.440Z"
+    },
+    {
+      "asin": "B07Q2MGP5B",
+      "title": "Cabeza de peluca de poliuretano de color para soportes de exhibicion con agujeros de montaje, Rosado, 22\"",
+      "price": "$859.54",
+      "extracted_at": "2025-10-17T16:28:13.440Z"
+    },
+    {
+      "asin": "B07GSFLBQL",
+      "title": "Dabur Vatika Shampoo Henna 400ml",
+      "price": "$637.77",
+      "extracted_at": "2025-10-17T16:28:13.441Z"
+    },
+    {
+      "asin": "B07FYWSV3D",
+      "title": "Tip Top Strong Hold Water Based Pomade 4.25oz Pack of 3",
+      "price": "$1,407.81",
+      "extracted_at": "2025-10-17T16:28:22.815Z"
+    },
+    {
+      "asin": "B07DVSR15F",
+      "title": "6 paquetes de extensiones de ganchillo Goddess Locs de 35,5 cm gris ondulado sintético trenzas de ganchillo extensiones de pelo sintético rastas de ganchillo locs trenzado pelo diosa cerebros ganchillo pelo (14 pulgadas (6 paquetes), #51)",
+      "price": "$840.62",
+      "extracted_at": "2025-10-17T16:28:22.815Z"
+    },
+    {
+      "asin": "B07BY8595G",
+      "title": "reBROW- Eyebrow Enhancing Serum - Grow Thicker & Fuller Eyebrows Faster - Promotes Healthier Longer Eyebrows (4mL)",
+      "price": "$1,306.68",
+      "extracted_at": "2025-10-17T16:28:22.815Z"
+    },
+    {
+      "asin": "B07BMD2R5M",
+      "title": "SkinSaver Anti-Staining Color Blocking Barrier Cream, 1.69 Ounces",
+      "price": "$737.86",
+      "extracted_at": "2025-10-17T16:28:22.815Z"
+    },
+    {
+      "asin": "B078NDTKMP",
+      "title": "Dr. Yates- Resuscitating Oil for shine & growth (4 oz)",
+      "price": "$1,207.27",
+      "extracted_at": "2025-10-17T16:28:22.815Z"
+    },
+    {
+      "asin": "B00M2FJNPE",
+      "title": "L'emarie Collagen and Keratin Silk Leave In Hair Conditioner + Intense Curl Cream for Curly Hair - 15oz. - Curly Hair Products",
+      "price": "$602.55",
+      "extracted_at": "2025-10-17T16:28:22.815Z"
+    },
+    {
+      "asin": "B00LP9VHN4",
+      "title": "MHU - Plancha de pelo profesional de titanio de 1 pulgada con tecnología iónica negativa, plancha alisadora más 2 clips de salón",
+      "price": "$1,322.34",
+      "extracted_at": "2025-10-17T16:28:22.815Z"
+    },
+    {
+      "asin": "B086JNK2M5",
+      "title": "Pelucas de encaje frontal con onda profunda para mujeres negras, 150% densidad, pelo humano virgen brasileño, rizado, con encaje frontal, peluca de encaje con pelo de bebé, peluca de encaje (50,8 cm)",
+      "price": "$2,527.06",
+      "extracted_at": "2025-10-17T16:28:22.815Z"
+    },
+    {
+      "asin": "B006BA3BAY",
+      "title": "Dabur Vatika - Aceite para cabello de coco enriquecido (150 ml, 2 unidades)",
+      "price": "$564.15",
+      "extracted_at": "2025-10-17T16:28:22.816Z"
+    },
+    {
+      "asin": "B0872YTRBV",
+      "title": "3 paquetes de pelo virgen brasileño ondulado de 22 pulgadas, 24 pulgadas, 26 pulgadas, 300 g, 10 A, cabello humano brasileño 100 % virgen sin procesar, color natural",
+      "price": "$2,060.92",
+      "extracted_at": "2025-10-17T16:28:22.816Z"
+    },
+    {
+      "asin": "B07XD66S4J",
+      "title": "Miracle Spray Leave In Hair Treatment - 120ml",
+      "price": "$922.58",
+      "extracted_at": "2025-10-17T16:28:22.816Z"
+    },
+    {
+      "asin": "B08DFW4MPS",
+      "title": "Pelucas de pelo humano con onda profunda suelta de 18 pulgadas 150% densidad virgen brasileña Remy pelucas de pelo humano con pelo de bebé pre arrancado, línea de encaje frontal para mujeres negras",
+      "price": "$2,177.89",
+      "extracted_at": "2025-10-17T16:28:22.816Z"
+    },
+    {
+      "asin": "B08LSVDF2X",
+      "title": "Niseyo 6 paquetes de cabello de ganchillo de mariposa de 12 pulgadas, trenzas de ganchillo pre-rizadas",
+      "price": "$1,033.26",
+      "extracted_at": "2025-10-17T16:28:22.816Z"
+    },
+    {
+      "asin": "B07RV4GZ6P",
+      "title": "Cepillo curvado con cerdas de jabalí con ventilación, cepillo de pelo único, antiestático, uso en húmedo o seco, secado rápido, uso en cabello largo o corto. (2 unidades, blanco y negro)",
+      "price": "$610.00",
+      "extracted_at": "2025-10-17T16:28:22.816Z"
+    },
+    {
+      "asin": "B07CVTF83B",
+      "title": "Prettyou - Pinza para el pelo con clip de plátano redondo de 2,5 cm, 4 unidades, Marrón",
+      "price": "$456.29",
+      "extracted_at": "2025-10-17T16:28:22.816Z"
+    },
+    {
+      "asin": "B0762JGTWG",
+      "title": "3 paquetes de pelo recto brasileño virginal brasileño recto 3 paquetes 16 pulgadas 18 pulgadas 20 pulgadas 300 g Remy brasileño Cabello humano paquetes 100% sin procesar virgen Remy color natural",
+      "price": "$2,700.41",
+      "extracted_at": "2025-10-17T16:28:22.816Z"
+    },
+    {
+      "asin": "B010TFM3WS",
+      "title": "Rioa 10 Pcs Professional Multicolor Plastic Duck Teeth Bows Hair Clips Hairdressing Salon Hair Grip Crocodile DIY Accessories Hairpins-rubberized Non-slip Chic Styling Claw Hair Barrettes by Rioa",
+      "price": "$489.90",
+      "extracted_at": "2025-10-17T16:28:33.895Z"
+    },
+    {
+      "asin": "B00YZ3AB66",
+      "title": "Hydrate: Daily Facial + Beard Moisturizer - 3.4 fl oz. | stubble & 'stache",
+      "price": "$1,446.35",
+      "extracted_at": "2025-10-17T16:28:33.895Z"
+    },
+    {
+      "asin": "B00LNN3GXG",
+      "title": "Leisure Curl Conditioning Scalp Spray - Extra Dry Hair 8 oz. by Leisure Curl",
+      "price": "$582.27",
+      "extracted_at": "2025-10-17T16:28:33.895Z"
+    },
+    {
+      "asin": "B007ROCZVY",
+      "title": "Salon Sundry Professional Hair Salon Nylon Cape w/Snap Closure - 50 in. x 60 in.",
+      "price": "$483.82",
+      "extracted_at": "2025-10-17T16:28:33.895Z"
+    },
+    {
+      "asin": "B002I8XXR4",
+      "title": "Brocato Saturate Daily Hair Shampoo: Intensive Moisture Hydrating Shampoo for Dry, Damaged Hair - Moisturizing Formula Safe for Color Treated Hair - Contains No Sulfate or Parabens - 32 Oz",
+      "price": "$1,468.53",
+      "extracted_at": "2025-10-17T16:28:33.895Z"
+    },
+    {
+      "asin": "B076MRQ7TP",
+      "title": "Cabello virgen brasileño ondulado, 3 paquetes, cabello humano sin procesar de grado 10 A, color natural, Natural, 16\"18\"20\"",
+      "price": "$3,031.78",
+      "extracted_at": "2025-10-17T16:28:33.896Z"
+    },
+    {
+      "asin": "B091F25YBS",
+      "title": "Flady Ombre Highlight Encaje Frente Cabello Humano Pelucas Sin Pegamento Recto Hd Transparente Encaje Frontal Pelucas Cabello Humano Pre Arrancado Con El Pelo Del Bebé P4/27 Rubio M",
+      "price": "$3,356.88",
+      "extracted_at": "2025-10-17T16:28:33.896Z"
+    },
+    {
+      "asin": "B0B9J2J3H5",
+      "title": "ghotool 250% Densidad 13X6 Hd Transparente Rizado Encaje Frontal Peluca Cabello Humano Pre Arrancado Glueless Rizado Encaje Frontal Peluca Pelucas De Cabello Humano Con Pelo De Bebé P",
+      "price": "$3,256.01",
+      "extracted_at": "2025-10-17T16:28:33.896Z"
+    },
+    {
+      "asin": "B07QS16BYP",
+      "title": "Pelucas de cabello sintético corto afro rizado para mujeres negras, Phoenixfly rojo africano suelto rizado esponjoso longitud del hombro pelucas de pelo rizado de aspecto natural resistente al calor pelucas de repuesto con gorras de peluca (rojo)",
+      "price": "$813.77",
+      "extracted_at": "2025-10-17T16:28:33.896Z"
+    },
+    {
+      "asin": "B09WK1BKHP",
+      "title": "Jewhaut Pelucas Frontales De Encaje De 26 Pulgadas De Onda Profunda Pelucas De Cabello Humano Para Mujeres Negras 180% Densidad Hd Transparente 13×4 Pelucas Sin Pegamento Con Encaje F",
+      "price": "$2,245.39",
+      "extracted_at": "2025-10-17T16:28:33.896Z"
+    },
+    {
+      "asin": "B09DSKP95V",
+      "title": "Yuzhou Grace Peluca Frontal De Encaje Rizado Cabello Humano 13X4 Onda Profunda Pelucas Frontales Para Mujeres Mojado Y Ondulado 250% Densidad Hd Pelucas Frontales De Encaje Cabello Humano",
+      "price": "$2,770.78",
+      "extracted_at": "2025-10-17T16:28:33.896Z"
+    },
+    {
+      "asin": "B07GZ9ZTTQ",
+      "title": "Travel Mini Hair Dryer Ceramic Ionic 1000 Watts Blow Dryer Lightweight 2 Speed Settings with a Concentrator, Pink Color (Pink)",
+      "price": "$723.24",
+      "extracted_at": "2025-10-17T16:28:33.896Z"
+    },
+    {
+      "asin": "B07QJX65NH",
+      "title": "Lovrio Extensiones de cabello lacio con clip, cabello virgen brasileño, grande, grueso, doble trama, cabello Remy real para mujeres negras, 7 piezas, 4.23 onzas, 12 pulgadas",
+      "price": "$1,858.71",
+      "extracted_at": "2025-10-17T16:28:33.896Z"
+    },
+    {
+      "asin": "B006QOFPUO",
+      "title": "GO247 Conditioner, 33 Fl. oz.",
+      "price": "$1,617.03",
+      "extracted_at": "2025-10-17T16:28:33.896Z"
+    },
+    {
+      "asin": "B01L2A1TGA",
+      "title": "NEMAT ENTERPRISES Amber Perfume Oil, 10 ML#",
+      "price": "$774.54",
+      "extracted_at": "2025-10-17T16:28:46.434Z"
+    },
+    {
+      "asin": "B00BKSPPVA",
+      "title": "Choco Musk - 6ml (.2 oz) Perfume Oil by (Crown Perfumes)",
+      "price": "$382.48",
+      "extracted_at": "2025-10-17T16:28:46.434Z"
+    },
+    {
+      "asin": "B01N13A4Z9",
+      "title": "Zoha Vanilla Bloom (Roll-On) Perfume Oil Fragrances, 15 ml / 0.50 FL Oz",
+      "price": "$505.34",
+      "extracted_at": "2025-10-17T16:28:46.435Z"
+    },
+    {
+      "asin": "B00B3Q8QZ6",
+      "title": "Medimix Face Wash 100ml by Medimix",
+      "price": "$430.16",
+      "extracted_at": "2025-10-17T16:28:46.435Z"
+    },
+    {
+      "asin": "B01N27J3TG",
+      "title": "Zoha Rose Bloom (Roll-On) Perfume Oil Fragrances, 15 ml / 0.50 FL Oz",
+      "price": "$505.34",
+      "extracted_at": "2025-10-17T16:28:46.435Z"
+    },
+    {
+      "asin": "B07DX9P8FF",
+      "title": "Cristiano Ronaldo CR7 Play It Cool - Blends Bright Citruses And Aromatic Fougere Notes - Fresh, Invigorating And Sensual - Light Enough For Everyday Wear - Masculine Fragrance - 1.7 Oz EDT Spray",
+      "price": "$946.17",
+      "extracted_at": "2025-10-17T16:28:46.435Z"
+    },
+    {
+      "asin": "B000C236FW",
+      "title": "Fracas By Robert Piquet For Women. Spray 1.7 Ounces",
+      "price": "$3,776.96",
+      "extracted_at": "2025-10-17T16:28:46.435Z"
+    },
+    {
+      "asin": "B00N1LXH2S",
+      "title": "REHYDRATION shampoo 250 ml",
+      "price": "$602.00",
+      "extracted_at": "2025-10-17T16:28:46.435Z"
+    },
+    {
+      "asin": "B076TF26D5",
+      "title": "Prime Collection Deep Sense Black for men, 3.4 Ounce",
+      "price": "$852.40",
+      "extracted_at": "2025-10-17T16:28:46.435Z"
+    },
+    {
+      "asin": "B0D9J28R16",
+      "title": "Ard Al Zaafaran Yara Perfume Roller for Unisex, 0.34 Ounce/10 ml",
+      "price": "$395.77",
+      "extracted_at": "2025-10-17T16:28:46.435Z"
+    },
+    {
+      "asin": "B0089SMR8I",
+      "title": "NEST Fragrances Vela votiva, día Festivo, 2 onzas",
+      "price": "$799.29",
+      "extracted_at": "2025-10-17T16:28:46.435Z"
+    },
+    {
+      "asin": "B000A3V2Q8",
+      "title": "L'Oreal Oreor Creme 40 Volume Developer 8 oz. by L'Oreal Paris",
+      "price": "$515.97",
+      "extracted_at": "2025-10-17T16:28:46.435Z"
+    },
+    {
+      "asin": "B084TDZKR3",
+      "title": "Tuscany Candle Ocean View Premium - Vela de cera satinada (14 oz)",
+      "price": "$831.00",
+      "extracted_at": "2025-10-17T16:28:46.436Z"
+    },
+    {
+      "asin": "B01NBBWJ8O",
+      "title": "Simply Divine Botanicals Black Velvet Facial Cleanser 4 fl. oz. by Simply Divine Botanicals",
+      "price": "$1,056.41",
+      "extracted_at": "2025-10-17T16:28:46.436Z"
+    },
+    {
+      "asin": "B004HHPJJO",
+      "title": "Kwailnara The First Green Tea Natural Facial Massage Cream (Fermented Green Tea) by Gwailnara",
+      "price": "$987.96",
+      "extracted_at": "2025-10-17T16:28:46.436Z"
+    },
+    {
+      "asin": "B0926B8273",
+      "title": "Maxpearl Kit de cera con perlas de cera dura, kit de calentador de cera para depilación con pelo fino y grueso, cejas, facial, axilas, bikini, piernas, pantalla digital con 20 varillas de aplicación",
+      "price": "$1,136.91",
+      "extracted_at": "2025-10-17T16:28:57.590Z"
+    },
+    {
+      "asin": "B078HRLSKS",
+      "title": "Varon Dandy After Shave 3.3 Fl Oz",
+      "price": "$463.44",
+      "extracted_at": "2025-10-17T16:28:57.590Z"
+    },
+    {
+      "asin": "B0B5WJVR8S",
+      "title": "Traje de cera - calentador de cera de depilación tikesi, traje de cera dura de 14,1 onzas, 5 bolsas de frijoles de cera dura para todo el cuerpo, piernas, cara y cejas, bikini, traje de cera para hombres y mujeres brasileños",
+      "price": "$939.16",
+      "extracted_at": "2025-10-17T16:28:57.590Z"
+    },
+    {
+      "asin": "B09Y4CY84M",
+      "title": "SINAHET Dermaplane - Maquinilla de afeitar para mujer (6 unidades) herramienta profesional de dermatización para pelusa de melocotón, depilación facial y cejas, hoja de exfoliación suave de la piel",
+      "price": "$515.31",
+      "extracted_at": "2025-10-17T16:28:57.590Z"
+    },
+    {
+      "asin": "B099KHRNCB",
+      "title": "Varolan Regalos de Cumpleaños para Hombres, Regalos para Hombre, Kit Único de Cuidado de La Barba para Hombres Mejores Amigos Hombre Papá Hermano Marido Prometido Él Novio Compañero de Trabajo, Ideas",
+      "price": "$634.96",
+      "extracted_at": "2025-10-17T16:28:57.590Z"
+    },
+    {
+      "asin": "B01IDNM8E6",
+      "title": "Yoffee Nose Wax - Kit Cera Depilatoria para el vello de Nariz y Orejas - Hombre y Mujer - Cera 100% natural de gran calidad - Fácil de usar con 10 aplicadores / 50g.",
+      "price": "$727.24",
+      "extracted_at": "2025-10-17T16:28:57.590Z"
+    },
+    {
+      "asin": "B0D8TGK32P",
+      "title": "Cortadora facial de cejas para mujer, 2 en 1, recargable, para cara, ojos, cejas, removedor de cara, pelusas de melocotón, eliminación facial indolora, luz LED integrada para labios, brazo, nariz,",
+      "price": "$576.32",
+      "extracted_at": "2025-10-17T16:28:57.591Z"
+    },
+    {
+      "asin": "B092VRFKQS",
+      "title": "Perlas de cera dura, Ajoura para depilación con kit de depilación, 450 g para calentadores de cera, encerado para cara, bikini, cejas, piernas, espalda, axilas",
+      "price": "$509.64",
+      "extracted_at": "2025-10-17T16:28:57.591Z"
+    },
+    {
+      "asin": "B09ZLJ95DJ",
+      "title": "The Goodfellas' Smile Líquido calmante para después del afeitado sin alcohol, fabricado en Italia, 100 ml, 3,38 oz",
+      "price": "$688.26",
+      "extracted_at": "2025-10-17T16:28:57.591Z"
+    },
+    {
+      "asin": "B09KZFZV1L",
+      "title": "Kit de calentador de sello de cera para horno de fusión con cuchara y varilla de agitación, juego de velas de vela para boda sello de cera (Redwood B)",
+      "price": "$541.51",
+      "extracted_at": "2025-10-17T16:28:57.591Z"
+    },
+    {
+      "asin": "B07S67TXNT",
+      "title": "Hookah - Soporte de metal para utensilios de bricolaje (2 unidades), color plateado",
+      "price": "$395.70",
+      "extracted_at": "2025-10-17T16:28:57.591Z"
+    },
+    {
+      "asin": "B0B1J99NRC",
+      "title": "MOTLATA Cortadora de pelo profesional para hombres, recortadora de pelo eléctrica con hoja en T, sin cables, recortadora de barba para hombre, recortadora de pelo de nariz, tres tipos de cortadora de pelo recargable para hombre",
+      "price": "$1,156.09",
+      "extracted_at": "2025-10-17T16:28:57.591Z"
+    },
+    {
+      "asin": "B07R6G9XZS",
+      "title": "KeShi Kit de cera para depilacion, kit de cera para el hogar con 6 bolsas de cera dura para piernas, cara, cejas, bikini, depilacion brasilena para mujeres y hombres",
+      "price": "$845.15",
+      "extracted_at": "2025-10-17T16:28:57.591Z"
+    },
+    {
+      "asin": "B01DMD8PL2",
+      "title": "JS Sloane 1947 Aftershave 4oz by JS Sloane",
+      "price": "$898.06",
+      "extracted_at": "2025-10-17T16:28:57.591Z"
+    },
+    {
+      "asin": "B00MSZRQWU",
+      "title": "Jade East by Songo Men's After Shave 4 oz - 100% Authentic by Songo",
+      "price": "$1,147.79",
+      "extracted_at": "2025-10-17T16:28:57.591Z"
+    },
+    {
+      "asin": "B00VXJQEZW",
+      "title": "Lotion for Beards by Beardsley and Company Beard, Care Products. Softens and Soothes, 4 oz",
+      "price": "$685.78",
+      "extracted_at": "2025-10-17T16:28:57.591Z"
+    },
+    {
+      "asin": "B0D8BB4338",
+      "title": "GAQQI - Pegamento de pestañas para racimos, pegamento de pestañas y sellado impermeable, pegamento de pestañas para racimos, calcomanía de pestañas negro de larga duración, 72 H, sin látex (5 ml + 5",
+      "price": "$502.17",
+      "extracted_at": "2025-10-17T16:29:10.735Z"
+    },
+    {
+      "asin": "B09NQZPQ8L",
+      "title": "Regalo para partera, blanco roto 160_NO1",
+      "price": "$510.44",
+      "extracted_at": "2025-10-17T16:29:10.735Z"
+    },
+    {
+      "asin": "B0BG2QYWX3",
+      "title": "Fires - Pantuflas para hombre con suela de goma suaves y ligeras, para casa y para exteriores, antideslizantes, para interiores y exteriores",
+      "price": "$730.46",
+      "extracted_at": "2025-10-17T16:29:10.735Z"
+    },
+    {
+      "asin": "B08J5J32V1",
+      "title": "Plum Beauty - Rodillo facial de amatista",
+      "price": "$676.23",
+      "extracted_at": "2025-10-17T16:29:10.735Z"
+    },
+    {
+      "asin": "B09T64LJ7F",
+      "title": "Regalo de animadora, 857",
+      "price": "$454.17",
+      "extracted_at": "2025-10-17T16:29:10.735Z"
+    },
+    {
+      "asin": "B09YH2JJ49",
+      "title": "WYFJNX PU Leather Backpack Purse for Women Fashion Multipurpose Design Handbag Ladies Shoulder Bags Travel Backpack",
+      "price": "$900.51",
+      "extracted_at": "2025-10-17T16:29:10.735Z"
+    },
+    {
+      "asin": "B0BS95F5W3",
+      "title": "Prokva - Bolsa grande para cosméticos de maquillaje con 3 fundas extraíbles, funda organizadora de maquillaje de viaje de doble capa con divisores interiores y sección de almacenamiento de brochas de",
+      "price": "$1,743.76",
+      "extracted_at": "2025-10-17T16:29:10.735Z"
+    },
+    {
+      "asin": "B082L2PLQS",
+      "title": "Homeyes - Atomizador de vidrio rellenable para viajes",
+      "price": "$429.65",
+      "extracted_at": "2025-10-17T16:29:10.735Z"
+    },
+    {
+      "asin": "B0BZVV4D73",
+      "title": "Kit de 18 pares de pistolas perforadoras",
+      "price": "$434.13",
+      "extracted_at": "2025-10-17T16:29:10.735Z"
+    },
+    {
+      "asin": "B0B9BFB8WJ",
+      "title": "Nandashe - Blusa de manga 3/4 para mujer, estilo túnica floral, estilo informal, para verano",
+      "price": "$921.94",
+      "extracted_at": "2025-10-17T16:29:10.735Z"
+    },
+    {
+      "asin": "B0D1XTPWXN",
+      "title": "Organizador de maquillaje, organizador de almacenamiento, organizador de baño de piso con ruedas, versátil para el cuidado de la piel, accesorios de uñas, organizador de manualidades, para recámara",
+      "price": "$2,512.29",
+      "extracted_at": "2025-10-17T16:29:10.735Z"
+    },
+    {
+      "asin": "B00NR2LGAQ",
+      "title": "Sunhiker",
+      "price": "$914.64",
+      "extracted_at": "2025-10-17T16:29:10.736Z"
+    },
+    {
+      "asin": "B0CL213CQG",
+      "title": "Atelics - Impresora inalámbrica de plantillas de transferencia de tatuajes, con estuche de almacenamiento y 10 unidades de papel de transferencia, máquina fotocopiadora térmica portátil de",
+      "price": "$1,545.39",
+      "extracted_at": "2025-10-17T16:29:10.736Z"
+    },
+    {
+      "asin": "B0C2DDW67Q",
+      "title": "Palm and Plenty - Frascos ocultos para licor | Champú y acondicionador falso de 16 onzas y botellas de protección solar para ocultar alcohol en crucero, envases de grado alimenticio, a prueba de fugas, (paquete de 4, 64 onzas líquidas en total)",
+      "price": "$857.96",
+      "extracted_at": "2025-10-17T16:29:10.736Z"
+    },
+    {
+      "asin": "B0B2JTC54N",
+      "title": "AMIRO Espejo de maquillaje LED de 8 pulgadas, brillo de 5 niveles/control de visualización táctil/función de memoria/rotación de 180°/espejo de aumento pequeño desmontable 5X",
+      "price": "$1,530.63",
+      "extracted_at": "2025-10-17T16:29:10.736Z"
+    },
+    {
+      "asin": "B0CJD81FMX",
+      "title": "HHGKED - Conjunto de 2 piezas para hombre de chándal activo de manga larga, trajes casuales",
+      "price": "$1,379.55",
+      "extracted_at": "2025-10-17T16:29:10.736Z"
+    },
+    {
+      "asin": "B0CKWJJ9NH",
+      "title": "Albeaut Under Eye Concealer Brush Angled Eye Makeup Brush",
+      "price": "$443.18",
+      "extracted_at": "2025-10-17T16:29:22.200Z"
+    },
+    {
+      "asin": "B0D328VYZH",
+      "title": "BEECO GIF2U - Tarro de tapa de bambú aspiradora de 16 oz/500 g, paquete de 2 envases de plástico recargables redondos para polvo, mantequilla corporal, crema, loción, dispensador de muestras de",
+      "price": "$746.19",
+      "extracted_at": "2025-10-17T16:29:22.200Z"
+    },
+    {
+      "asin": "B0D5Q27MFK",
+      "title": "ALBEAUT Brochas Correctoras de Maquillaje 2 Pzas Brochas Angulares para Líquido, Crema, Stick Corrector Fundación Contorno Nariz Sombra de Ojos Mezcla (193-2Pcs)",
+      "price": "$493.50",
+      "extracted_at": "2025-10-17T16:29:22.200Z"
+    },
+    {
+      "asin": "B08VHXS4V7",
+      "title": "ECO BABY - Juego de bata y envoltura para mamá y mí | Juego de bata de maternidad y bebé a juego para niña, niño, parto y parto en el hospital",
+      "price": "$1,291.52",
+      "extracted_at": "2025-10-17T16:29:22.200Z"
+    },
+    {
+      "asin": "B0917GC64C",
+      "title": "Pestañas magnéticas de aspecto natural, pestañas magnéticas con kit de delineador de ojos. 4 tubos de delineador mejorados, resistentes al agua, de larga duración, de gran volumen, reutilizables.",
+      "price": "$1,038.64",
+      "extracted_at": "2025-10-17T16:29:22.200Z"
+    },
+    {
+      "asin": "B07BLS5MB6",
+      "title": "Witkey Power Flex - Pantalones de yoga con estribo, cintura alta, control de abdomen, leggings de yoga entrecruzados para entrenamiento, correr",
+      "price": "$780.87",
+      "extracted_at": "2025-10-17T16:29:22.201Z"
+    },
+    {
+      "asin": "B0CXLKN4JK",
+      "title": "FANXITON Kit de extensión de pestañas DIY Look Natural Wispy Lash Clusters D Curl 154 pzas Rúmulos de pestañas 8-16 mm Kit de extensión de pestañas Lash Bond and Seal Pinzas de pestañas Pestañas individuales Kit de racimo de pestañas para principiantes Juego de 156 piezas negro",
+      "price": "$608.36",
+      "extracted_at": "2025-10-17T16:29:22.201Z"
+    },
+    {
+      "asin": "B092JKWC3B",
+      "title": "Mess with Grandpa Baby Boy Ropa Unisex Divertidos Bodis para Bebé Niña",
+      "price": "$626.50",
+      "extracted_at": "2025-10-17T16:29:22.201Z"
+    },
+    {
+      "asin": "B09JB243WR",
+      "title": "Sazuwu Bolsa de cosméticos para regalo de cumpleaños 18 años, Negro -",
+      "price": "$464.73",
+      "extracted_at": "2025-10-17T16:29:22.201Z"
+    },
+    {
+      "asin": "B0CPPPPP2B",
+      "title": "Kucnuzki - Ropa de manga corta para niños y niñas, conjunto de ropa de 2 piezas para niñas",
+      "price": "$727.19",
+      "extracted_at": "2025-10-17T16:29:22.201Z"
+    },
+    {
+      "asin": "B07SCSW2GJ",
+      "title": "Moncom Hisopos de algodón de 500 unidades de doble punta redonda con varillas de madera fuertes, 3 pulgadas, 1 caja",
+      "price": "$437.55",
+      "extracted_at": "2025-10-17T16:29:22.201Z"
+    },
+    {
+      "asin": "B07YXVLL2R",
+      "title": "Newchoice - playera casual de manga larga con cuello redondo para mujer, estilo túnica básica suelta",
+      "price": "$734.71",
+      "extracted_at": "2025-10-17T16:29:22.201Z"
+    },
+    {
+      "asin": "B0862CJ6CY",
+      "title": "Rizador de pestanas, clip profesional de belleza, herramienta para alargar rapidamente, espesar, para rizadores de pestanas, rizadores de pestanas y reparacion de pestanas (negro)",
+      "price": "$419.90",
+      "extracted_at": "2025-10-17T16:29:22.201Z"
+    },
+    {
+      "asin": "B0D3WG9QPT",
+      "title": "NaYiissi - 10 bolsas de viaje para artículos de cambiador, bolsa de embalaje de maquillaje a prueba de fugas, aprobada por la TSA, contenedor de líquido de viaje, bolsa de plástico para loción, champú",
+      "price": "$429.12",
+      "extracted_at": "2025-10-17T16:29:22.201Z"
+    },
+    {
+      "asin": "B0D9HJHZX4",
+      "title": "20 espejos de aumento con luz, espejo de viaje con luz, espejos de maquillaje iluminados con aumento, espejos de mano con asa, mesa portátil, adecuado para baño",
+      "price": "$521.78",
+      "extracted_at": "2025-10-17T16:29:22.201Z"
+    },
+    {
+      "asin": "B09DF2VCBG",
+      "title": "Gorra de béisbol de mezclilla lavada de gran tamaño, tamaño XXL, de perfil bajo, para cabezas grandes, de 23.5 a 25.5 pulgadas, sombrero de papá teñido con pigmento grande",
+      "price": "$841.09",
+      "extracted_at": "2025-10-17T16:29:22.201Z"
+    },
+    {
+      "asin": "B08HJYBR7J",
+      "title": "False Eyelashes 30 Pairs Natural 3D Faux Mink Lashes Pack Handmade Eye Lashes Wholesale 10 Styles",
+      "price": "$634.51",
+      "extracted_at": "2025-10-17T16:29:34.361Z"
+    },
+    {
+      "asin": "B095WCZQXX",
+      "title": "Newchoice - Falda bohemia de leopardo para mujer, con abertura alta, baja, para verano, playa, faldas cruzadas",
+      "price": "$1,170.34",
+      "extracted_at": "2025-10-17T16:29:34.361Z"
+    },
+    {
+      "asin": "B0D4TZ6T2Q",
+      "title": "Tucnoeu - 2 bolsas pequeñas de piel para bolso pequeño de maquillaje con cierre portátil pequeño organizador de cosméticos para mujeres y niñas, negro, (Black, Beige), Estuche de piel",
+      "price": "$486.03",
+      "extracted_at": "2025-10-17T16:29:34.361Z"
+    },
+    {
+      "asin": "B0BD85Y4P5",
+      "title": "DLOODA Leggings acampanados para mujer con bolsillos, cintura alta cruzada, pantalones de yoga con control de abdomen",
+      "price": "$638.66",
+      "extracted_at": "2025-10-17T16:29:34.361Z"
+    },
+    {
+      "asin": "B0B7DKVKS6",
+      "title": "Sazuwu - Bolsa de maquillaje para regalo de 60 cumpleaños para mujer, Regalos de cumpleaños 60, 1 pieza",
+      "price": "$580.29",
+      "extracted_at": "2025-10-17T16:29:34.362Z"
+    },
+    {
+      "asin": "B0753D9PPP",
+      "title": "Cinturón Obi para mujer de piel sintética de color sólido, banda ancha de cintura de 70 pulgadas, tamaño extra, Marino, Large",
+      "price": "$638.32",
+      "extracted_at": "2025-10-17T16:29:34.362Z"
+    },
+    {
+      "asin": "B09NN6K35X",
+      "title": "Facial Steamer,Amconsure Face Steamer for Home Facial Deep Cleaning, Nano Ionic Facial Steamers Warm Mist Humidifier Atomizer for Face Sauna Spa Sinuses Moisturizing, Unclogs Pores(Blue)",
+      "price": "$1,138.04",
+      "extracted_at": "2025-10-17T16:29:34.362Z"
+    },
+    {
+      "asin": "B0CFZT926Z",
+      "title": "GIVITASOT - Botellas de bomba sin aire de 0.5 oz/15 ml, paquete de 3 botellas de bomba de tamaño de viaje, botella de viaje cosmética al aspiradora para loción, cremas, base, cosméticos, con etiquetas",
+      "price": "$407.76",
+      "extracted_at": "2025-10-17T16:29:34.362Z"
+    },
+    {
+      "asin": "B0D3PWS493",
+      "title": "NICKTI Espejo de maquillaje de viaje con iluminación LED con aumento de 1x/5x/10x, espejo de cambiador de bolsillo de mano con luces, botón táctil, espejo compacto, portátil para bolso y monederos",
+      "price": "$564.35",
+      "extracted_at": "2025-10-17T16:29:34.362Z"
+    },
+    {
+      "asin": "B0C7ST9Y38",
+      "title": "Botellas de viaje de silicona a prueba de fugas, paquete de 4 unidades de 2 onzas líquidas exprimibles recargables y accesorios de viaje portátiles para cosméticos, sin BPA, botellas de tamaño de viaje para artículos de cambiador, champú acondicionador loción",
+      "price": "$458.20",
+      "extracted_at": "2025-10-17T16:29:34.362Z"
+    },
+    {
+      "asin": "B09ZHPN49H",
+      "title": "Sazuwu - Bolsa de maquillaje para farmacéuticos de regalo para mujeres, Técnico de farmacia porque los farmacéuticos también necesitan héroes",
+      "price": "$557.50",
+      "extracted_at": "2025-10-17T16:29:34.362Z"
+    },
+    {
+      "asin": "B0CFVF9MH5",
+      "title": "Aitmoask - Conjunto de trajes deportivos de terciopelo para mujer 2023 para otoño, A-azul, L",
+      "price": "$1,437.01",
+      "extracted_at": "2025-10-17T16:29:34.362Z"
+    },
+    {
+      "asin": "B0BV4MC5QK",
+      "title": "JEGO Limpiador De Brochas De Maquillaje De Belleza Limpiador De Esponja Líquida | Botella De 8 Oz Con Tazón De Textura | Solución De Limpieza De Cepillos | Solución Hipoalergénica Y A Base De Plantas",
+      "price": "$591.61",
+      "extracted_at": "2025-10-17T16:29:34.362Z"
+    },
+    {
+      "asin": "B0BCV111CS",
+      "title": "Aurefin High Waisted Athletic Shorts for Women, Womens Plus Size Running Workout Shorts with Liner and Zip Pocket 4 Inch",
+      "price": "$1,001.45",
+      "extracted_at": "2025-10-17T16:29:34.362Z"
+    },
+    {
+      "asin": "B09SWSD1XT",
+      "title": "KISSIO- Juego de voluminizador de labios, voluminizador de labios natural, cuidado de labios, brillo voluminizador de labios, humectante de labios hermoso, uso diario",
+      "price": "$544.12",
+      "extracted_at": "2025-10-17T16:29:34.362Z"
+    },
+    {
+      "asin": "B0B6116QTP",
+      "title": "SlumberMee Bata de forro polar suave con capucha para hombre, longitud completa, con bolsillos de gamuza, abrigo de casa esponjoso, Azul oscuro, Large Big Tall",
+      "price": "$1,659.67",
+      "extracted_at": "2025-10-17T16:29:34.362Z"
+    },
+    {
+      "asin": "B09Q5WCZ8T",
+      "title": "YIEZI Organizador de Maquillaje Giratorio de 360 Grados, Organizador de perfumes para tocador de baño, 4 bandejas, Estuches de Almacenamiento de cosméticos Ajustables y Estuches de Maquillaje, transp",
+      "price": "$724.56",
+      "extracted_at": "2025-10-17T16:29:44.465Z"
+    },
+    {
+      "asin": "B09W2SH83V",
+      "title": "Travel Bag for Tonies Figures and Toniebox",
+      "price": "$1,175.86",
+      "extracted_at": "2025-10-17T16:29:44.465Z"
+    },
+    {
+      "asin": "B09NPMHMJS",
+      "title": "365park Cosmetic Bag, Travel Makeup Accessories Organizer Bag Cosmetic Case Mother's Day Gift",
+      "price": "$736.25",
+      "extracted_at": "2025-10-17T16:29:44.465Z"
+    },
+    {
+      "asin": "B09151KLCV",
+      "title": "Kaximil Vestido Corto sin Mangas para Mujer, Sexy, Entallado, sin Mangas, Fruncido, para Fiesta",
+      "price": "$853.21",
+      "extracted_at": "2025-10-17T16:29:44.465Z"
+    },
+    {
+      "asin": "B09P8JSLLZ",
+      "title": "Sazuwu Regalos para abuela de nietos, regalo para el día de la madre, bolsa de maquillaje, regalo para abuela a ser bolsa de cosméticos, regalos de glamma, regalos de jubilación por primera vez para nana, cumpleaños, Navidad, bolsa de viaje, Blanco",
+      "price": "$550.30",
+      "extracted_at": "2025-10-17T16:29:44.465Z"
+    },
+    {
+      "asin": "B07ZP3TR5F",
+      "title": "Winter Down Coats for Kids Baby Boys Girls Light Puffer Padded Jacket Bear Hoods Infant Outerwear",
+      "price": "$922.82",
+      "extracted_at": "2025-10-17T16:29:44.465Z"
+    },
+    {
+      "asin": "B09JSCHRML",
+      "title": "Writer Gifts for Women - Bolsa de maquillaje para escritura creativa y futuros autores - Bolsa de cosméticos para adultos, Beige",
+      "price": "$510.59",
+      "extracted_at": "2025-10-17T16:29:44.465Z"
+    },
+    {
+      "asin": "B08YS468KQ",
+      "title": "Cristal transparente de 5 ml con rodillos inoxidables (paquete de 10)",
+      "price": "$580.71",
+      "extracted_at": "2025-10-17T16:29:44.465Z"
+    },
+    {
+      "asin": "B0B2J356Z4",
+      "title": "AMIRO - Espejo de maquillaje profesional con iluminación LED de 8 pulgadas con brillo de 5 niveles, con espejo pequeño de aumento 5X, espejo cosmético recargable de mesa con control táctil de rotación",
+      "price": "$1,555.15",
+      "extracted_at": "2025-10-17T16:29:44.465Z"
+    },
+    {
+      "asin": "B088T5BX7G",
+      "title": "Frasco aspiradora de pulverización fina – 2 botellas de plástico recargables de 60 ml / 2 oz para aceites esenciales, soluciones de limpieza, perfumes, plantas de maquillaje, alcohol, contenedor de agua de viaje para el cabello Mister",
+      "price": "$380.38",
+      "extracted_at": "2025-10-17T16:29:44.465Z"
+    },
+    {
+      "asin": "B0BX965YJC",
+      "title": "Regalos de ahijada de madrina, espejo de maquillaje compacto, regalos de dios e hija, regalos de bautizo para mujeres, regalos inspiradores de cumpleaños, espejo de maquillaje plegable, regalos cristianos para adolescentes y niñas",
+      "price": "$498.86",
+      "extracted_at": "2025-10-17T16:29:44.465Z"
+    },
+    {
+      "asin": "B087NVX6PN",
+      "title": "HS HEALTHY SOLUTIONS GLASSWARE - Rodillo de aceite esencial para botellas de aceite esencial de 5 y 15 ml. Paquete de 8 tapas enrollables de vidrio a prueba de fugas con anillo de presión extraíble. Ideal para aceites, mezclas y bricolaje.",
+      "price": "$442.95",
+      "extracted_at": "2025-10-17T16:29:44.466Z"
+    },
+    {
+      "asin": "B09KXYR4NB",
+      "title": "Cepillo Facial Eléctrico COSLUS 2021 con 7 Cabezales de Repuesto para Limpieza Profunda, Exfoliación Suave, Descongestión de Pores y Masaje Facial",
+      "price": "$877.59",
+      "extracted_at": "2025-10-17T16:29:44.466Z"
+    },
+    {
+      "asin": "B07ZB81N4X",
+      "title": "BAGTeck Tubos vacíos de brillo de labios (10 ml), dispensadores de jeringa de plástico de 20 ml, tubos vacíos rellenables, recipientes de cosméticos transparentes de tubo suave, para mujeres y niñas DIY brillo de labios cosméticos",
+      "price": "$485.24",
+      "extracted_at": "2025-10-17T16:29:44.466Z"
+    },
+    {
+      "asin": "B08TBL43M9",
+      "title": "Mezclador de tinta de tatuaje Pigmento eléctrico Maquillaje Ceja Esmalte de uñas Mezclador de Color Máquina de Suministro Herramienta de Acuarela Tinta Pintura Agitador Licuadora con 100pcs Mixing Sticks Set (Rosa)",
+      "price": "$465.38",
+      "extracted_at": "2025-10-17T16:29:44.466Z"
+    },
+    {
+      "asin": "B08CRSHZK5",
+      "title": "LETSRUNWILD Blusa tipo túnica para llevar con leggings, suéter de manga larga de otoño para mujer, Le / Sapphire, M",
+      "price": "$809.42",
+      "extracted_at": "2025-10-17T16:29:44.466Z"
+    },
+    {
+      "asin": "B072J7JFT8",
+      "title": "Zoreya Travel Makeup Brush Set White 12pcs Makeup Brushes Premium Synthetic Hair Professional Foundation Powder Contour Blush Cosmetic Eye Brush Sets With Holder For Mother's Day Gifts",
+      "price": "$733.57",
+      "extracted_at": "2025-10-17T16:29:55.308Z"
+    },
+    {
+      "asin": "B086VYYXM9",
+      "title": "6 botellas de cristal vacías, redondas, de ámbar, con cabezal de pulverización, rellenables, portátiles, pulverizadores de niebla fina, pulverizadores, recipientes, botes de viaje, subembotellado para solución salina coloidal plateada",
+      "price": "$496.69",
+      "extracted_at": "2025-10-17T16:29:55.308Z"
+    },
+    {
+      "asin": "B0CWP19S6G",
+      "title": "Sazuwu - Bolsa de maquillaje para regalo de 50 cumpleaños para mamá nacida en 1974, Púrpura",
+      "price": "$580.29",
+      "extracted_at": "2025-10-17T16:29:55.308Z"
+    },
+    {
+      "asin": "B0D5D1RX7P",
+      "title": "Decorniqu - Tarros de viaje para artículos de cambiador aprobados por la TSA, paquete de 4 tarros de plástico de crema rellenables, a prueba de fugas, recipientes de tamaño de viaje con tapa para",
+      "price": "$427.54",
+      "extracted_at": "2025-10-17T16:29:55.308Z"
+    },
+    {
+      "asin": "B0991Z238G",
+      "title": "JASEFA Espejo de maquillaje de computadora con aumento desmontable de 10x, rotación de 360°, espejo de cuello de cisne flexible con soporte, espejo cosmético de mesa, bueno para afeitar, viajar, rectangular",
+      "price": "$666.78",
+      "extracted_at": "2025-10-17T16:29:55.308Z"
+    },
+    {
+      "asin": "B094F94QC8",
+      "title": "EPLAZA Bata corta de satén para mujer, talla única, con diamantes de imitación, para novia, dama de honor, para boda, fiesta, prepararse, marino, Talla única",
+      "price": "$577.65",
+      "extracted_at": "2025-10-17T16:29:55.308Z"
+    },
+    {
+      "asin": "B07MYS5NS1",
+      "title": "MUSE FATH Camisa de vestir Oxford para hombre, de algodón, casual, ajuste regular, camisa de manga larga",
+      "price": "$1,013.64",
+      "extracted_at": "2025-10-17T16:29:55.308Z"
+    },
+    {
+      "asin": "B0CW1MC78N",
+      "title": "Sazuwu - Bolsa de maquillaje para hija, regalo de boda, regalo para novia de suegra, Azul",
+      "price": "$568.13",
+      "extracted_at": "2025-10-17T16:29:55.308Z"
+    },
+    {
+      "asin": "B0D5B5KT6K",
+      "title": "KAOTGOT - Organizador de maquillaje, diseño de madera y acrílico, ideal para estuche de cosméticos, soporte de perfume, almacenamiento de esmalte de uñas, soporte de lápiz labial, cambiador de baño,",
+      "price": "$1,064.30",
+      "extracted_at": "2025-10-17T16:29:55.309Z"
+    },
+    {
+      "asin": "B0CBR8N822",
+      "title": "DLOODA - Falda de tenis para mujer, con bolsillos, pantalones cortos, de cintura alta, para golf, correr, entrenamiento",
+      "price": "$639.65",
+      "extracted_at": "2025-10-17T16:29:55.309Z"
+    },
+    {
+      "asin": "B0D5B5HS97",
+      "title": "KAOTGOT - Organizador de maquillaje, diseño de madera y acrílico, ideal para estuche de cosméticos, soporte de perfume, almacenamiento de esmalte de uñas, soporte de lápiz labial, cambiador de baño,",
+      "price": "$1,068.97",
+      "extracted_at": "2025-10-17T16:29:55.309Z"
+    },
+    {
+      "asin": "B08SQPTPLW",
+      "title": "HMILES",
+      "price": "$715.23",
+      "extracted_at": "2025-10-17T16:29:55.309Z"
+    },
+    {
+      "asin": "B0714HWBDF",
+      "title": "Zoreya Travel Makeup Brush Set 12pcs Pink Makeup Brushes Professional Foundation Powder Contour Blush Eye Cosmetic Brush Sets With Holder For Mother's Day Gifts",
+      "price": "$779.52",
+      "extracted_at": "2025-10-17T16:29:55.309Z"
+    },
+    {
+      "asin": "B0BNL1WCQK",
+      "title": "COPYLEAF Pantalones de yoga acampanados para mujer con bolsillos, cruzados en V, cintura alta, corte de bota, pantalones de yoga con control de abdomen",
+      "price": "$786.95",
+      "extracted_at": "2025-10-17T16:29:55.309Z"
+    },
+    {
+      "asin": "B073VF45Z3",
+      "title": "Makeup Brushes 24pcs Makeup Brushes Set Kabuki Foundation Blending Brush Face Powder Blush Concealers Eye Shadows Make Up Brushes Kit with Bag",
+      "price": "$580.71",
+      "extracted_at": "2025-10-17T16:29:55.309Z"
+    },
+    {
+      "asin": "B099N3FMQZ",
+      "title": "Gash Hao - Pantalones de snowboard impermeables para hombre, con forro polar y cierre en la parte inferior de la pierna",
+      "price": "$1,612.38",
+      "extracted_at": "2025-10-17T16:29:55.309Z"
+    },
+    {
+      "asin": "B07NJLRNJY",
+      "title": "Bastoncillos de algodón orgánico de bambú biodegradables de alta calidad | Palillos de madera compostables | Productos desechables sin residuos | Bastones de maquillaje libres de plástico | Bastones de seguridad para la limpieza de ojos | Utensilios ecológicos",
+      "price": "$583.96",
+      "extracted_at": "2025-10-17T16:30:09.428Z"
+    },
+    {
+      "asin": "B08XZHDBGW",
+      "title": "KIKIWING - brasier deportivo sin costuras para mujer, sin costuras, para entrenamiento, sin mangas, con forro largo, para mujer, brasier deportivo acanalado",
+      "price": "$762.77",
+      "extracted_at": "2025-10-17T16:30:09.428Z"
+    },
+    {
+      "asin": "B073TSD1K8",
+      "title": "sanipoe 360 Makeup Organizer, DIY Detachable Spinning Cosmetic Makeup Caddy Storage DIsplay Bag Case Large Capacity Makeup Box Acrylic Vanity Organizer Box, Great for Countertop and Bathroom, White",
+      "price": "$629.74",
+      "extracted_at": "2025-10-17T16:30:09.428Z"
+    },
+    {
+      "asin": "B092VMPDBF",
+      "title": "VEOBIKE - Pantalones elásticos de senderismo para hombre, de secado rápido, ligeros, resistentes al agua, pantalones de pesca al aire última intervensión, bolsillos inferiores ajustables",
+      "price": "$1,052.86",
+      "extracted_at": "2025-10-17T16:30:09.428Z"
+    },
+    {
+      "asin": "B0CY8CCS4J",
+      "title": "DOSUKE - Bolsa de maquillaje acolchada de viaje para mujer, Rojo (Red Flower), Medium (3",
+      "price": "$904.98",
+      "extracted_at": "2025-10-17T16:30:09.428Z"
+    },
+    {
+      "asin": "B08KZH2M4R",
+      "title": "Promover - Pantalones capri para mujer, pantalones cortos de yoga de pierna ancha, con bolsillos, holgados, informales, para verano, Azul Real, S",
+      "price": "$1,143.33",
+      "extracted_at": "2025-10-17T16:30:09.428Z"
+    },
+    {
+      "asin": "B09KBGZHQ4",
+      "title": "Sfodiary - Bolsa de maquillaje, regalo inspirador para jugadores de tenis, regalo de cumpleaños para mujeres, bolsa de cosméticos, regalo de graduación, regalo para tenis, niña, viaje, bolsa de cosméticos, regalo de Navidad, Negro -",
+      "price": "$404.90",
+      "extracted_at": "2025-10-17T16:30:09.428Z"
+    },
+    {
+      "asin": "B08KZG3NB3",
+      "title": "Promover - Pantalones capri para mujer, pantalones cortos de yoga de pierna ancha, con bolsillos, holgados, informales, para verano, Azul Real, L",
+      "price": "$1,230.52",
+      "extracted_at": "2025-10-17T16:30:09.429Z"
+    },
+    {
+      "asin": "B09YNDG2F6",
+      "title": "Sazuwu - Bolsa de maquillaje para mujer, Regalos de hipopótamo (3)",
+      "price": "$465.04",
+      "extracted_at": "2025-10-17T16:30:09.429Z"
+    },
+    {
+      "asin": "B0BH3Y3VCP",
+      "title": "LFOYOU - Espejo de cambiador de mesa con soporte, espejo de maquillaje para computadora, cuello de cisne flexible ajustable, rotación de 360 °, plegable, portátil, espejo cosmético, cuadrado",
+      "price": "$432.07",
+      "extracted_at": "2025-10-17T16:30:09.429Z"
+    },
+    {
+      "asin": "B0BBVWF2GS",
+      "title": "Regalos cristianos para mujeres, regalos inspiradores para niñas, espejo de maquillaje compacto para amiga, hermana, versículo bíblico, regalo religioso, espejo de maquillaje compacto, regalos de Navidad y cumpleaños",
+      "price": "$568.13",
+      "extracted_at": "2025-10-17T16:30:09.429Z"
+    },
+    {
+      "asin": "B09RZQL1D4",
+      "title": "Bolsa de maquillaje para camping, 273_NO1",
+      "price": "$578.90",
+      "extracted_at": "2025-10-17T16:30:09.429Z"
+    },
+    {
+      "asin": "B08P26W6XH",
+      "title": "Makeup Brush Holder Makeup Brush Case for Women Makeup Artist Storage Bag Cosmetic Bags",
+      "price": "$714.07",
+      "extracted_at": "2025-10-17T16:30:09.429Z"
+    },
+    {
+      "asin": "B0D5MHP4C2",
+      "title": "RYYCDOI - Bolsa de maquillaje de playa estética, bolsa de cosméticos para mujeres, regalos de playa para amigas, regalos para amantes de la playa, regalos de día festivo en la playa, bolsa de",
+      "price": "$577.46",
+      "extracted_at": "2025-10-17T16:30:09.429Z"
+    },
+    {
+      "asin": "B0D4TVC2DP",
+      "title": "Secador de Pelo AINA, Secador de Pelo con Cepillo Difusor Peine para Mujer - Secador de Pelo BLDC - Motor sin escobillas, 110.000 RPM Ligero, Iónico de Viaje, 3 Accesorios Magnéticos 110V/Enchufe ALCI(Blanco)",
+      "price": "$1,013.02",
+      "extracted_at": "2025-10-17T16:30:22.608Z"
+    },
+    {
+      "asin": "B0C2GGPWZT",
+      "title": "SELPONT Headbands For Washing Face, Shower and Bath, Goth and Witchy gifts (Set of 2)",
+      "price": "$612.33",
+      "extracted_at": "2025-10-17T16:30:22.608Z"
+    },
+    {
+      "asin": "B0B2QHS72Y",
+      "title": "SEEN- Champú sin fragancia, no comedogénico y sin sulfatos, desarrollado por dermatólogos, seguro",
+      "price": "$986.54",
+      "extracted_at": "2025-10-17T16:30:22.608Z"
+    },
+    {
+      "asin": "B07W53P6VC",
+      "title": "Diadema con gorro y diadema para disfraz de bruja de Spiderweb para Halloween, Navidad, fiestas de disfraces de cosplay para bebés, niñas, niños, niñas y mujeres, C light purple",
+      "price": "$513.46",
+      "extracted_at": "2025-10-17T16:30:22.608Z"
+    },
+    {
+      "asin": "B0BZVV4D73",
+      "title": "Kit de 18 pares de pistolas perforadoras",
+      "price": "$434.13",
+      "extracted_at": "2025-10-17T16:30:22.608Z"
+    },
+    {
+      "asin": "B0D3WG9QPT",
+      "title": "NaYiissi - 10 bolsas de viaje para artículos de cambiador, bolsa de embalaje de maquillaje a prueba de fugas, aprobada por la TSA, contenedor de líquido de viaje, bolsa de plástico para loción, champú",
+      "price": "$429.12",
+      "extracted_at": "2025-10-17T16:30:22.608Z"
+    },
+    {
+      "asin": "B0C9VWNBYF",
+      "title": "Joyful Young Tinte de Cabello Natural Shampoo 3 En 1, Color de Cabello para La Cobertura Del Cabello Gris, Champú para Colorear El Cabello para Mujeres, Champú de Color Tinte para Barba para Hombres,",
+      "price": "$870.28",
+      "extracted_at": "2025-10-17T16:30:22.608Z"
+    },
+    {
+      "asin": "B09PK22MSL",
+      "title": "LOUINSTIC Limpiador y acondicionador de pinceles de uñas – Limpia rápidamente pinceles de uñas de gel, pinceles de pintura, aerógrafos, herramientas de arte, conservador y restaurador de pinceles de uñas para cepillo de uñas acrílico Kolinsky y cepillo de uñas de gel",
+      "price": "$488.30",
+      "extracted_at": "2025-10-17T16:30:22.608Z"
+    },
+    {
+      "asin": "B07V4C4FCP",
+      "title": "Soothe - Crema de ojos para tratamiento de reparación intensa para ojeras y hinchazón, bolsas de ojos y arrugas con ácido hialurónico antienvejecimiento, reafirmante, péptidos y cafeína para hombres y mujeres sin edad 0.5 onzas",
+      "price": "$651.25",
+      "extracted_at": "2025-10-17T16:30:22.608Z"
+    },
+    {
+      "asin": "B07NDYQJ7B",
+      "title": "Moroccan Gold Series - Mascarilla sin enjuague (125 ml)",
+      "price": "$911.39",
+      "extracted_at": "2025-10-17T16:30:22.609Z"
+    },
+    {
+      "asin": "B09N54P622",
+      "title": "Crown Quality Products 360 Sport Wave Caesar 2.0 Boar Bristle Hairbrush, Medium, Triple Black - Non-Slip Grip, Waterproof Design",
+      "price": "$911.71",
+      "extracted_at": "2025-10-17T16:30:22.609Z"
+    },
+    {
+      "asin": "B08F4LC5NL",
+      "title": "AIIR Flexible Hold Hair Spray",
+      "price": "$1,166.33",
+      "extracted_at": "2025-10-17T16:30:22.609Z"
+    },
+    {
+      "asin": "B01EVT7PBW",
+      "title": "12 packs #301 Christina 100% Human Hair Fake Eyelashes",
+      "price": "$731.50",
+      "extracted_at": "2025-10-17T16:30:22.609Z"
+    },
+    {
+      "asin": "B004HHPJJO",
+      "title": "Kwailnara The First Green Tea Natural Facial Massage Cream (Fermented Green Tea) by Gwailnara",
+      "price": "$987.96",
+      "extracted_at": "2025-10-17T16:30:22.609Z"
+    },
+    {
+      "asin": "B07CVTF83B",
+      "title": "Prettyou - Pinza para el pelo con clip de plátano redondo de 2,5 cm, 4 unidades, Marrón",
+      "price": "$456.29",
+      "extracted_at": "2025-10-17T16:30:22.609Z"
+    },
+    {
+      "asin": "B091F25YBS",
+      "title": "Flady Ombre Highlight Encaje Frente Cabello Humano Pelucas Sin Pegamento Recto Hd Transparente Encaje Frontal Pelucas Cabello Humano Pre Arrancado Con El Pelo Del Bebé P4/27 Rubio M",
+      "price": "$3,356.88",
+      "extracted_at": "2025-10-17T16:30:22.609Z"
+    },
+    {
+      "asin": "B0B9J2J3H5",
+      "title": "ghotool 250% Densidad 13X6 Hd Transparente Rizado Encaje Frontal Peluca Cabello Humano Pre Arrancado Glueless Rizado Encaje Frontal Peluca Pelucas De Cabello Humano Con Pelo De Bebé P",
+      "price": "$3,256.01",
+      "extracted_at": "2025-10-17T16:30:35.389Z"
+    },
+    {
+      "asin": "B09WK1BKHP",
+      "title": "Jewhaut Pelucas Frontales De Encaje De 26 Pulgadas De Onda Profunda Pelucas De Cabello Humano Para Mujeres Negras 180% Densidad Hd Transparente 13×4 Pelucas Sin Pegamento Con Encaje F",
+      "price": "$2,245.39",
+      "extracted_at": "2025-10-17T16:30:35.390Z"
+    },
+    {
+      "asin": "B09DSKP95V",
+      "title": "Yuzhou Grace Peluca Frontal De Encaje Rizado Cabello Humano 13X4 Onda Profunda Pelucas Frontales Para Mujeres Mojado Y Ondulado 250% Densidad Hd Pelucas Frontales De Encaje Cabello Humano",
+      "price": "$2,770.78",
+      "extracted_at": "2025-10-17T16:30:35.390Z"
+    },
+    {
+      "asin": "B07QJX65NH",
+      "title": "Lovrio Extensiones de cabello lacio con clip, cabello virgen brasileño, grande, grueso, doble trama, cabello Remy real para mujeres negras, 7 piezas, 4.23 onzas, 12 pulgadas",
+      "price": "$1,858.71",
+      "extracted_at": "2025-10-17T16:30:35.390Z"
+    },
+    {
+      "asin": "B08J5J32V1",
+      "title": "Plum Beauty - Rodillo facial de amatista",
+      "price": "$676.23",
+      "extracted_at": "2025-10-17T16:30:49.515Z"
+    },
+    {
+      "asin": "B0B9BFB8WJ",
+      "title": "Nandashe - Blusa de manga 3/4 para mujer, estilo túnica floral, estilo informal, para verano",
+      "price": "$921.94",
+      "extracted_at": "2025-10-17T16:30:49.516Z"
+    },
+    {
+      "asin": "B082X61912",
+      "title": "Esmee Pelucas Sintéticas Largo Recto Capas Peinado Ombre Negro Rubio Gris Ceniza Pelucas Completas Con Flequillo Para Blanco Mujeres",
+      "price": "$848.33",
+      "extracted_at": "2025-10-17T16:30:49.516Z"
+    },
+    {
+      "asin": "B092JKWC3B",
+      "title": "Mess with Grandpa Baby Boy Ropa Unisex Divertidos Bodis para Bebé Niña",
+      "price": "$626.50",
+      "extracted_at": "2025-10-17T16:30:49.516Z"
+    },
+    {
+      "asin": "B0CL213CQG",
+      "title": "Atelics - Impresora inalámbrica de plantillas de transferencia de tatuajes, con estuche de almacenamiento y 10 unidades de papel de transferencia, máquina fotocopiadora térmica portátil de",
+      "price": "$1,545.39",
+      "extracted_at": "2025-10-17T16:30:49.516Z"
+    },
+    {
+      "asin": "B08KZG3NB3",
+      "title": "Promover - Pantalones capri para mujer, pantalones cortos de yoga de pierna ancha, con bolsillos, holgados, informales, para verano, Azul Real, L",
+      "price": "$1,230.52",
+      "extracted_at": "2025-10-17T16:30:49.516Z"
+    },
+    {
+      "asin": "B09QS2G1DW",
+      "title": "Sunshine Tape - 72 tiras | Fabricado en Estados Unidos | Premium 3M 1522 peluca de doble cara y cinta de contorno de tupé | Cinta de pelo curvada CC | Transparente, resistente al agua y fiable",
+      "price": "$552.71",
+      "extracted_at": "2025-10-17T16:30:49.516Z"
+    },
+    {
+      "asin": "B07XXSZCVC",
+      "title": "ToyoTress Toyotress Tiana Passion Twist Hair - 10 Pulgadas 8 Paquetes De Giros De Pasión Pre-Retorcidos, Trenzas De Ganchillo Rubias Ombre Hechas De Cabello Bohemio Extensiones De Cabel",
+      "price": "$1,432.09",
+      "extracted_at": "2025-10-17T16:30:49.516Z"
+    },
+    {
+      "asin": "B08G57S36M",
+      "title": "Niseyo 6 paquetes de cabello de ganchillo de mariposa de 12 pulgadas, trenzas de ganchillo pre-rizadas",
+      "price": "$1,131.57",
+      "extracted_at": "2025-10-17T16:30:49.516Z"
+    },
+    {
+      "asin": "B08FYTNYQL",
+      "title": "Cabello trenzado Ombre 350# cobre rojo 30 pulgadas, 8 paquetes de extensiones de cabello sintético profesional trenzado, textura Yaki, ajuste de agua caliente (30 pulgadas, T1B/350)",
+      "price": "$889.89",
+      "extracted_at": "2025-10-17T16:30:49.516Z"
+    },
+    {
+      "asin": "B09NN6K35X",
+      "title": "Facial Steamer,Amconsure Face Steamer for Home Facial Deep Cleaning, Nano Ionic Facial Steamers Warm Mist Humidifier Atomizer for Face Sauna Spa Sinuses Moisturizing, Unclogs Pores(Blue)",
+      "price": "$1,138.04",
+      "extracted_at": "2025-10-17T16:30:49.516Z"
+    },
+    {
+      "asin": "B09YTSJYGB",
+      "title": "ghotool 200% Densidad 13X6 Hd Transparente Rizado Encaje Frontal Peluca Cabello Humano Pre Desplumado Sin Glueless Rizado Encaje Frontal Peluca Pelucas De Cabello Humano Con Pelo De B",
+      "price": "$3,233.99",
+      "extracted_at": "2025-10-17T16:30:49.516Z"
+    },
+    {
+      "asin": "B0B1J99NRC",
+      "title": "MOTLATA Cortadora de pelo profesional para hombres, recortadora de pelo eléctrica con hoja en T, sin cables, recortadora de barba para hombre, recortadora de pelo de nariz, tres tipos de cortadora de pelo recargable para hombre",
+      "price": "$1,156.09",
+      "extracted_at": "2025-10-17T16:30:49.517Z"
+    },
+    {
+      "asin": "B099RKQYWP",
+      "title": "Peine caliente alisador de pelo eléctrico de prensado de peine portátil antiquemaduras, alisador de barba, peine de cerámica portátil, cepillo para rizar, plancha con calefacción, cepillo plano para alisar el pelo",
+      "price": "$652.57",
+      "extracted_at": "2025-10-17T16:30:49.517Z"
+    },
+    {
+      "asin": "B07VC1WKHY",
+      "title": "Cepillo de esponja para el pelo con dos lados para espantar ondas de espedura de espuma afro barbero para mujeres y hombres, niños y niñas, agujeros pequeños y grandes, 1 unidad",
+      "price": "$446.93",
+      "extracted_at": "2025-10-17T16:30:49.517Z"
+    },
+    {
+      "asin": "B07Q17NVQN",
+      "title": "Pelucas cortas Bob con flequillo de aire, longitud de los hombros, peluca corta rizada ondulada sintética cosplay, peluca pastel, peluca para disfraz de chica, Gris Degradado",
+      "price": "$860.94",
+      "extracted_at": "2025-10-17T16:30:49.517Z"
+    },
+    {
+      "asin": "B09FSZMLP4",
+      "title": "8 paquetes de pelo de ganchillo de 18 pulgadas de ganchillo pretorcido de pasión, trenzas de ganchillo, rizos de pasión, pelo bohemio de ganchillo T30",
+      "price": "$1,247.62",
+      "extracted_at": "2025-10-17T16:30:58.411Z"
+    },
+    {
+      "asin": "B07Q2MGP5B",
+      "title": "Cabeza de peluca de poliuretano de color para soportes de exhibicion con agujeros de montaje, Rosado, 22\"",
+      "price": "$859.54",
+      "extracted_at": "2025-10-17T16:30:58.411Z"
+    },
+    {
+      "asin": "B07LBPRPQ9",
+      "title": "12 Inches Women Short Curly Synthetic Wig with Air Bangs Cosplay Short Synthetic BOB Hair Wigs Christmas Party Lovely Pink Color",
+      "price": "$848.33",
+      "extracted_at": "2025-10-17T16:30:58.411Z"
+    },
+    {
+      "asin": "B07DVSR15F",
+      "title": "6 paquetes de extensiones de ganchillo Goddess Locs de 35,5 cm gris ondulado sintético trenzas de ganchillo extensiones de pelo sintético rastas de ganchillo locs trenzado pelo diosa cerebros ganchillo pelo (14 pulgadas (6 paquetes), #51)",
+      "price": "$840.62",
+      "extracted_at": "2025-10-17T16:30:58.411Z"
+    },
+    {
+      "asin": "B08LSVDF2X",
+      "title": "Niseyo 6 paquetes de cabello de ganchillo de mariposa de 12 pulgadas, trenzas de ganchillo pre-rizadas",
+      "price": "$1,033.26",
+      "extracted_at": "2025-10-17T16:30:58.412Z"
+    },
+    {
+      "asin": "B091F25YBS",
+      "title": "Flady Ombre Highlight Encaje Frente Cabello Humano Pelucas Sin Pegamento Recto Hd Transparente Encaje Frontal Pelucas Cabello Humano Pre Arrancado Con El Pelo Del Bebé P4/27 Rubio M",
+      "price": "$3,356.88",
+      "extracted_at": "2025-10-17T16:30:58.412Z"
+    },
+    {
+      "asin": "B0B9J2J3H5",
+      "title": "ghotool 250% Densidad 13X6 Hd Transparente Rizado Encaje Frontal Peluca Cabello Humano Pre Arrancado Glueless Rizado Encaje Frontal Peluca Pelucas De Cabello Humano Con Pelo De Bebé P",
+      "price": "$3,256.01",
+      "extracted_at": "2025-10-17T16:30:58.412Z"
+    },
+    {
+      "asin": "B07QS16BYP",
+      "title": "Pelucas de cabello sintético corto afro rizado para mujeres negras, Phoenixfly rojo africano suelto rizado esponjoso longitud del hombro pelucas de pelo rizado de aspecto natural resistente al calor pelucas de repuesto con gorras de peluca (rojo)",
+      "price": "$813.77",
+      "extracted_at": "2025-10-17T16:30:58.412Z"
+    },
+    {
+      "asin": "B09WK1BKHP",
+      "title": "Jewhaut Pelucas Frontales De Encaje De 26 Pulgadas De Onda Profunda Pelucas De Cabello Humano Para Mujeres Negras 180% Densidad Hd Transparente 13×4 Pelucas Sin Pegamento Con Encaje F",
+      "price": "$2,245.39",
+      "extracted_at": "2025-10-17T16:30:58.412Z"
+    },
+    {
+      "asin": "B09DSKP95V",
+      "title": "Yuzhou Grace Peluca Frontal De Encaje Rizado Cabello Humano 13X4 Onda Profunda Pelucas Frontales Para Mujeres Mojado Y Ondulado 250% Densidad Hd Pelucas Frontales De Encaje Cabello Humano",
+      "price": "$2,770.78",
+      "extracted_at": "2025-10-17T16:30:58.412Z"
+    },
+    {
+      "asin": "B07QJX65NH",
+      "title": "Lovrio Extensiones de cabello lacio con clip, cabello virgen brasileño, grande, grueso, doble trama, cabello Remy real para mujeres negras, 7 piezas, 4.23 onzas, 12 pulgadas",
+      "price": "$1,858.71",
+      "extracted_at": "2025-10-17T16:30:58.412Z"
+    }
+  ]
+}

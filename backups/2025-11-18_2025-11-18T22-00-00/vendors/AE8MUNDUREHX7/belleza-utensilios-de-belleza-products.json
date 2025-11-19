@@ -1,0 +1,577 @@
+{
+  "metadata": {
+    "seller_id": "AE8MUNDUREHX7",
+    "seller_url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260452011%2Cn%3A10178655011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760369704&rnid=11260452011&ref=sr_nr_n_7&ds=v1%3AriViiIuidRvhwlDh%2Bc1sO9BubsE%2Bz6mRKPPFUQUCn%2Bw",
+    "category_name": "belleza-utensilios-de-belleza",
+    "total_products": 94,
+    "pages_processed": 6,
+    "extraction_date": "2025-10-17T16:30:09.450Z",
+    "script_version": "1.0"
+  },
+  "products": [
+    {
+      "asin": "B0D8BB4338",
+      "title": "GAQQI - Pegamento de pestañas para racimos, pegamento de pestañas y sellado impermeable, pegamento de pestañas para racimos, calcomanía de pestañas negro de larga duración, 72 H, sin látex (5 ml + 5",
+      "price": "$502.17",
+      "extracted_at": "2025-10-17T16:29:10.735Z"
+    },
+    {
+      "asin": "B09NQZPQ8L",
+      "title": "Regalo para partera, blanco roto 160_NO1",
+      "price": "$510.44",
+      "extracted_at": "2025-10-17T16:29:10.735Z"
+    },
+    {
+      "asin": "B0BG2QYWX3",
+      "title": "Fires - Pantuflas para hombre con suela de goma suaves y ligeras, para casa y para exteriores, antideslizantes, para interiores y exteriores",
+      "price": "$730.46",
+      "extracted_at": "2025-10-17T16:29:10.735Z"
+    },
+    {
+      "asin": "B08J5J32V1",
+      "title": "Plum Beauty - Rodillo facial de amatista",
+      "price": "$676.23",
+      "extracted_at": "2025-10-17T16:29:10.735Z"
+    },
+    {
+      "asin": "B09T64LJ7F",
+      "title": "Regalo de animadora, 857",
+      "price": "$454.17",
+      "extracted_at": "2025-10-17T16:29:10.735Z"
+    },
+    {
+      "asin": "B09YH2JJ49",
+      "title": "WYFJNX PU Leather Backpack Purse for Women Fashion Multipurpose Design Handbag Ladies Shoulder Bags Travel Backpack",
+      "price": "$900.51",
+      "extracted_at": "2025-10-17T16:29:10.735Z"
+    },
+    {
+      "asin": "B0BS95F5W3",
+      "title": "Prokva - Bolsa grande para cosméticos de maquillaje con 3 fundas extraíbles, funda organizadora de maquillaje de viaje de doble capa con divisores interiores y sección de almacenamiento de brochas de",
+      "price": "$1,743.76",
+      "extracted_at": "2025-10-17T16:29:10.735Z"
+    },
+    {
+      "asin": "B082L2PLQS",
+      "title": "Homeyes - Atomizador de vidrio rellenable para viajes",
+      "price": "$429.65",
+      "extracted_at": "2025-10-17T16:29:10.735Z"
+    },
+    {
+      "asin": "B0BZVV4D73",
+      "title": "Kit de 18 pares de pistolas perforadoras",
+      "price": "$434.13",
+      "extracted_at": "2025-10-17T16:29:10.735Z"
+    },
+    {
+      "asin": "B0B9BFB8WJ",
+      "title": "Nandashe - Blusa de manga 3/4 para mujer, estilo túnica floral, estilo informal, para verano",
+      "price": "$921.94",
+      "extracted_at": "2025-10-17T16:29:10.735Z"
+    },
+    {
+      "asin": "B0D1XTPWXN",
+      "title": "Organizador de maquillaje, organizador de almacenamiento, organizador de baño de piso con ruedas, versátil para el cuidado de la piel, accesorios de uñas, organizador de manualidades, para recámara",
+      "price": "$2,512.29",
+      "extracted_at": "2025-10-17T16:29:10.735Z"
+    },
+    {
+      "asin": "B00NR2LGAQ",
+      "title": "Sunhiker",
+      "price": "$914.64",
+      "extracted_at": "2025-10-17T16:29:10.736Z"
+    },
+    {
+      "asin": "B0CL213CQG",
+      "title": "Atelics - Impresora inalámbrica de plantillas de transferencia de tatuajes, con estuche de almacenamiento y 10 unidades de papel de transferencia, máquina fotocopiadora térmica portátil de",
+      "price": "$1,545.39",
+      "extracted_at": "2025-10-17T16:29:10.736Z"
+    },
+    {
+      "asin": "B0C2DDW67Q",
+      "title": "Palm and Plenty - Frascos ocultos para licor | Champú y acondicionador falso de 16 onzas y botellas de protección solar para ocultar alcohol en crucero, envases de grado alimenticio, a prueba de fugas, (paquete de 4, 64 onzas líquidas en total)",
+      "price": "$857.96",
+      "extracted_at": "2025-10-17T16:29:10.736Z"
+    },
+    {
+      "asin": "B0B2JTC54N",
+      "title": "AMIRO Espejo de maquillaje LED de 8 pulgadas, brillo de 5 niveles/control de visualización táctil/función de memoria/rotación de 180°/espejo de aumento pequeño desmontable 5X",
+      "price": "$1,530.63",
+      "extracted_at": "2025-10-17T16:29:10.736Z"
+    },
+    {
+      "asin": "B0CJD81FMX",
+      "title": "HHGKED - Conjunto de 2 piezas para hombre de chándal activo de manga larga, trajes casuales",
+      "price": "$1,379.55",
+      "extracted_at": "2025-10-17T16:29:10.736Z"
+    },
+    {
+      "asin": "B0CKWJJ9NH",
+      "title": "Albeaut Under Eye Concealer Brush Angled Eye Makeup Brush",
+      "price": "$443.18",
+      "extracted_at": "2025-10-17T16:29:22.200Z"
+    },
+    {
+      "asin": "B0D328VYZH",
+      "title": "BEECO GIF2U - Tarro de tapa de bambú aspiradora de 16 oz/500 g, paquete de 2 envases de plástico recargables redondos para polvo, mantequilla corporal, crema, loción, dispensador de muestras de",
+      "price": "$746.19",
+      "extracted_at": "2025-10-17T16:29:22.200Z"
+    },
+    {
+      "asin": "B0D5Q27MFK",
+      "title": "ALBEAUT Brochas Correctoras de Maquillaje 2 Pzas Brochas Angulares para Líquido, Crema, Stick Corrector Fundación Contorno Nariz Sombra de Ojos Mezcla (193-2Pcs)",
+      "price": "$493.50",
+      "extracted_at": "2025-10-17T16:29:22.200Z"
+    },
+    {
+      "asin": "B08VHXS4V7",
+      "title": "ECO BABY - Juego de bata y envoltura para mamá y mí | Juego de bata de maternidad y bebé a juego para niña, niño, parto y parto en el hospital",
+      "price": "$1,291.52",
+      "extracted_at": "2025-10-17T16:29:22.200Z"
+    },
+    {
+      "asin": "B0917GC64C",
+      "title": "Pestañas magnéticas de aspecto natural, pestañas magnéticas con kit de delineador de ojos. 4 tubos de delineador mejorados, resistentes al agua, de larga duración, de gran volumen, reutilizables.",
+      "price": "$1,038.64",
+      "extracted_at": "2025-10-17T16:29:22.200Z"
+    },
+    {
+      "asin": "B07BLS5MB6",
+      "title": "Witkey Power Flex - Pantalones de yoga con estribo, cintura alta, control de abdomen, leggings de yoga entrecruzados para entrenamiento, correr",
+      "price": "$780.87",
+      "extracted_at": "2025-10-17T16:29:22.201Z"
+    },
+    {
+      "asin": "B0CXLKN4JK",
+      "title": "FANXITON Kit de extensión de pestañas DIY Look Natural Wispy Lash Clusters D Curl 154 pzas Rúmulos de pestañas 8-16 mm Kit de extensión de pestañas Lash Bond and Seal Pinzas de pestañas Pestañas individuales Kit de racimo de pestañas para principiantes Juego de 156 piezas negro",
+      "price": "$608.36",
+      "extracted_at": "2025-10-17T16:29:22.201Z"
+    },
+    {
+      "asin": "B092JKWC3B",
+      "title": "Mess with Grandpa Baby Boy Ropa Unisex Divertidos Bodis para Bebé Niña",
+      "price": "$626.50",
+      "extracted_at": "2025-10-17T16:29:22.201Z"
+    },
+    {
+      "asin": "B09JB243WR",
+      "title": "Sazuwu Bolsa de cosméticos para regalo de cumpleaños 18 años, Negro -",
+      "price": "$464.73",
+      "extracted_at": "2025-10-17T16:29:22.201Z"
+    },
+    {
+      "asin": "B0CPPPPP2B",
+      "title": "Kucnuzki - Ropa de manga corta para niños y niñas, conjunto de ropa de 2 piezas para niñas",
+      "price": "$727.19",
+      "extracted_at": "2025-10-17T16:29:22.201Z"
+    },
+    {
+      "asin": "B07SCSW2GJ",
+      "title": "Moncom Hisopos de algodón de 500 unidades de doble punta redonda con varillas de madera fuertes, 3 pulgadas, 1 caja",
+      "price": "$437.55",
+      "extracted_at": "2025-10-17T16:29:22.201Z"
+    },
+    {
+      "asin": "B07YXVLL2R",
+      "title": "Newchoice - playera casual de manga larga con cuello redondo para mujer, estilo túnica básica suelta",
+      "price": "$734.71",
+      "extracted_at": "2025-10-17T16:29:22.201Z"
+    },
+    {
+      "asin": "B0862CJ6CY",
+      "title": "Rizador de pestanas, clip profesional de belleza, herramienta para alargar rapidamente, espesar, para rizadores de pestanas, rizadores de pestanas y reparacion de pestanas (negro)",
+      "price": "$419.90",
+      "extracted_at": "2025-10-17T16:29:22.201Z"
+    },
+    {
+      "asin": "B0D3WG9QPT",
+      "title": "NaYiissi - 10 bolsas de viaje para artículos de cambiador, bolsa de embalaje de maquillaje a prueba de fugas, aprobada por la TSA, contenedor de líquido de viaje, bolsa de plástico para loción, champú",
+      "price": "$429.12",
+      "extracted_at": "2025-10-17T16:29:22.201Z"
+    },
+    {
+      "asin": "B0D9HJHZX4",
+      "title": "20 espejos de aumento con luz, espejo de viaje con luz, espejos de maquillaje iluminados con aumento, espejos de mano con asa, mesa portátil, adecuado para baño",
+      "price": "$521.78",
+      "extracted_at": "2025-10-17T16:29:22.201Z"
+    },
+    {
+      "asin": "B09DF2VCBG",
+      "title": "Gorra de béisbol de mezclilla lavada de gran tamaño, tamaño XXL, de perfil bajo, para cabezas grandes, de 23.5 a 25.5 pulgadas, sombrero de papá teñido con pigmento grande",
+      "price": "$841.09",
+      "extracted_at": "2025-10-17T16:29:22.201Z"
+    },
+    {
+      "asin": "B08HJYBR7J",
+      "title": "False Eyelashes 30 Pairs Natural 3D Faux Mink Lashes Pack Handmade Eye Lashes Wholesale 10 Styles",
+      "price": "$634.51",
+      "extracted_at": "2025-10-17T16:29:34.361Z"
+    },
+    {
+      "asin": "B095WCZQXX",
+      "title": "Newchoice - Falda bohemia de leopardo para mujer, con abertura alta, baja, para verano, playa, faldas cruzadas",
+      "price": "$1,170.34",
+      "extracted_at": "2025-10-17T16:29:34.361Z"
+    },
+    {
+      "asin": "B0D4TZ6T2Q",
+      "title": "Tucnoeu - 2 bolsas pequeñas de piel para bolso pequeño de maquillaje con cierre portátil pequeño organizador de cosméticos para mujeres y niñas, negro, (Black, Beige), Estuche de piel",
+      "price": "$486.03",
+      "extracted_at": "2025-10-17T16:29:34.361Z"
+    },
+    {
+      "asin": "B0BD85Y4P5",
+      "title": "DLOODA Leggings acampanados para mujer con bolsillos, cintura alta cruzada, pantalones de yoga con control de abdomen",
+      "price": "$638.66",
+      "extracted_at": "2025-10-17T16:29:34.361Z"
+    },
+    {
+      "asin": "B0B7DKVKS6",
+      "title": "Sazuwu - Bolsa de maquillaje para regalo de 60 cumpleaños para mujer, Regalos de cumpleaños 60, 1 pieza",
+      "price": "$580.29",
+      "extracted_at": "2025-10-17T16:29:34.362Z"
+    },
+    {
+      "asin": "B0753D9PPP",
+      "title": "Cinturón Obi para mujer de piel sintética de color sólido, banda ancha de cintura de 70 pulgadas, tamaño extra, Marino, Large",
+      "price": "$638.32",
+      "extracted_at": "2025-10-17T16:29:34.362Z"
+    },
+    {
+      "asin": "B09NN6K35X",
+      "title": "Facial Steamer,Amconsure Face Steamer for Home Facial Deep Cleaning, Nano Ionic Facial Steamers Warm Mist Humidifier Atomizer for Face Sauna Spa Sinuses Moisturizing, Unclogs Pores(Blue)",
+      "price": "$1,138.04",
+      "extracted_at": "2025-10-17T16:29:34.362Z"
+    },
+    {
+      "asin": "B0CFZT926Z",
+      "title": "GIVITASOT - Botellas de bomba sin aire de 0.5 oz/15 ml, paquete de 3 botellas de bomba de tamaño de viaje, botella de viaje cosmética al aspiradora para loción, cremas, base, cosméticos, con etiquetas",
+      "price": "$407.76",
+      "extracted_at": "2025-10-17T16:29:34.362Z"
+    },
+    {
+      "asin": "B0D3PWS493",
+      "title": "NICKTI Espejo de maquillaje de viaje con iluminación LED con aumento de 1x/5x/10x, espejo de cambiador de bolsillo de mano con luces, botón táctil, espejo compacto, portátil para bolso y monederos",
+      "price": "$564.35",
+      "extracted_at": "2025-10-17T16:29:34.362Z"
+    },
+    {
+      "asin": "B0C7ST9Y38",
+      "title": "Botellas de viaje de silicona a prueba de fugas, paquete de 4 unidades de 2 onzas líquidas exprimibles recargables y accesorios de viaje portátiles para cosméticos, sin BPA, botellas de tamaño de viaje para artículos de cambiador, champú acondicionador loción",
+      "price": "$458.20",
+      "extracted_at": "2025-10-17T16:29:34.362Z"
+    },
+    {
+      "asin": "B09ZHPN49H",
+      "title": "Sazuwu - Bolsa de maquillaje para farmacéuticos de regalo para mujeres, Técnico de farmacia porque los farmacéuticos también necesitan héroes",
+      "price": "$557.50",
+      "extracted_at": "2025-10-17T16:29:34.362Z"
+    },
+    {
+      "asin": "B0CFVF9MH5",
+      "title": "Aitmoask - Conjunto de trajes deportivos de terciopelo para mujer 2023 para otoño, A-azul, L",
+      "price": "$1,437.01",
+      "extracted_at": "2025-10-17T16:29:34.362Z"
+    },
+    {
+      "asin": "B0BV4MC5QK",
+      "title": "JEGO Limpiador De Brochas De Maquillaje De Belleza Limpiador De Esponja Líquida | Botella De 8 Oz Con Tazón De Textura | Solución De Limpieza De Cepillos | Solución Hipoalergénica Y A Base De Plantas",
+      "price": "$591.61",
+      "extracted_at": "2025-10-17T16:29:34.362Z"
+    },
+    {
+      "asin": "B0BCV111CS",
+      "title": "Aurefin High Waisted Athletic Shorts for Women, Womens Plus Size Running Workout Shorts with Liner and Zip Pocket 4 Inch",
+      "price": "$1,001.45",
+      "extracted_at": "2025-10-17T16:29:34.362Z"
+    },
+    {
+      "asin": "B09SWSD1XT",
+      "title": "KISSIO- Juego de voluminizador de labios, voluminizador de labios natural, cuidado de labios, brillo voluminizador de labios, humectante de labios hermoso, uso diario",
+      "price": "$544.12",
+      "extracted_at": "2025-10-17T16:29:34.362Z"
+    },
+    {
+      "asin": "B0B6116QTP",
+      "title": "SlumberMee Bata de forro polar suave con capucha para hombre, longitud completa, con bolsillos de gamuza, abrigo de casa esponjoso, Azul oscuro, Large Big Tall",
+      "price": "$1,659.67",
+      "extracted_at": "2025-10-17T16:29:34.362Z"
+    },
+    {
+      "asin": "B09Q5WCZ8T",
+      "title": "YIEZI Organizador de Maquillaje Giratorio de 360 Grados, Organizador de perfumes para tocador de baño, 4 bandejas, Estuches de Almacenamiento de cosméticos Ajustables y Estuches de Maquillaje, transp",
+      "price": "$724.56",
+      "extracted_at": "2025-10-17T16:29:44.465Z"
+    },
+    {
+      "asin": "B09W2SH83V",
+      "title": "Travel Bag for Tonies Figures and Toniebox",
+      "price": "$1,175.86",
+      "extracted_at": "2025-10-17T16:29:44.465Z"
+    },
+    {
+      "asin": "B09NPMHMJS",
+      "title": "365park Cosmetic Bag, Travel Makeup Accessories Organizer Bag Cosmetic Case Mother's Day Gift",
+      "price": "$736.25",
+      "extracted_at": "2025-10-17T16:29:44.465Z"
+    },
+    {
+      "asin": "B09151KLCV",
+      "title": "Kaximil Vestido Corto sin Mangas para Mujer, Sexy, Entallado, sin Mangas, Fruncido, para Fiesta",
+      "price": "$853.21",
+      "extracted_at": "2025-10-17T16:29:44.465Z"
+    },
+    {
+      "asin": "B09P8JSLLZ",
+      "title": "Sazuwu Regalos para abuela de nietos, regalo para el día de la madre, bolsa de maquillaje, regalo para abuela a ser bolsa de cosméticos, regalos de glamma, regalos de jubilación por primera vez para nana, cumpleaños, Navidad, bolsa de viaje, Blanco",
+      "price": "$550.30",
+      "extracted_at": "2025-10-17T16:29:44.465Z"
+    },
+    {
+      "asin": "B07ZP3TR5F",
+      "title": "Winter Down Coats for Kids Baby Boys Girls Light Puffer Padded Jacket Bear Hoods Infant Outerwear",
+      "price": "$922.82",
+      "extracted_at": "2025-10-17T16:29:44.465Z"
+    },
+    {
+      "asin": "B09JSCHRML",
+      "title": "Writer Gifts for Women - Bolsa de maquillaje para escritura creativa y futuros autores - Bolsa de cosméticos para adultos, Beige",
+      "price": "$510.59",
+      "extracted_at": "2025-10-17T16:29:44.465Z"
+    },
+    {
+      "asin": "B08YS468KQ",
+      "title": "Cristal transparente de 5 ml con rodillos inoxidables (paquete de 10)",
+      "price": "$580.71",
+      "extracted_at": "2025-10-17T16:29:44.465Z"
+    },
+    {
+      "asin": "B0B2J356Z4",
+      "title": "AMIRO - Espejo de maquillaje profesional con iluminación LED de 8 pulgadas con brillo de 5 niveles, con espejo pequeño de aumento 5X, espejo cosmético recargable de mesa con control táctil de rotación",
+      "price": "$1,555.15",
+      "extracted_at": "2025-10-17T16:29:44.465Z"
+    },
+    {
+      "asin": "B088T5BX7G",
+      "title": "Frasco aspiradora de pulverización fina – 2 botellas de plástico recargables de 60 ml / 2 oz para aceites esenciales, soluciones de limpieza, perfumes, plantas de maquillaje, alcohol, contenedor de agua de viaje para el cabello Mister",
+      "price": "$380.38",
+      "extracted_at": "2025-10-17T16:29:44.465Z"
+    },
+    {
+      "asin": "B0BX965YJC",
+      "title": "Regalos de ahijada de madrina, espejo de maquillaje compacto, regalos de dios e hija, regalos de bautizo para mujeres, regalos inspiradores de cumpleaños, espejo de maquillaje plegable, regalos cristianos para adolescentes y niñas",
+      "price": "$498.86",
+      "extracted_at": "2025-10-17T16:29:44.465Z"
+    },
+    {
+      "asin": "B087NVX6PN",
+      "title": "HS HEALTHY SOLUTIONS GLASSWARE - Rodillo de aceite esencial para botellas de aceite esencial de 5 y 15 ml. Paquete de 8 tapas enrollables de vidrio a prueba de fugas con anillo de presión extraíble. Ideal para aceites, mezclas y bricolaje.",
+      "price": "$442.95",
+      "extracted_at": "2025-10-17T16:29:44.466Z"
+    },
+    {
+      "asin": "B09KXYR4NB",
+      "title": "Cepillo Facial Eléctrico COSLUS 2021 con 7 Cabezales de Repuesto para Limpieza Profunda, Exfoliación Suave, Descongestión de Pores y Masaje Facial",
+      "price": "$877.59",
+      "extracted_at": "2025-10-17T16:29:44.466Z"
+    },
+    {
+      "asin": "B07ZB81N4X",
+      "title": "BAGTeck Tubos vacíos de brillo de labios (10 ml), dispensadores de jeringa de plástico de 20 ml, tubos vacíos rellenables, recipientes de cosméticos transparentes de tubo suave, para mujeres y niñas DIY brillo de labios cosméticos",
+      "price": "$485.24",
+      "extracted_at": "2025-10-17T16:29:44.466Z"
+    },
+    {
+      "asin": "B08TBL43M9",
+      "title": "Mezclador de tinta de tatuaje Pigmento eléctrico Maquillaje Ceja Esmalte de uñas Mezclador de Color Máquina de Suministro Herramienta de Acuarela Tinta Pintura Agitador Licuadora con 100pcs Mixing Sticks Set (Rosa)",
+      "price": "$465.38",
+      "extracted_at": "2025-10-17T16:29:44.466Z"
+    },
+    {
+      "asin": "B08CRSHZK5",
+      "title": "LETSRUNWILD Blusa tipo túnica para llevar con leggings, suéter de manga larga de otoño para mujer, Le / Sapphire, M",
+      "price": "$809.42",
+      "extracted_at": "2025-10-17T16:29:44.466Z"
+    },
+    {
+      "asin": "B072J7JFT8",
+      "title": "Zoreya Travel Makeup Brush Set White 12pcs Makeup Brushes Premium Synthetic Hair Professional Foundation Powder Contour Blush Cosmetic Eye Brush Sets With Holder For Mother's Day Gifts",
+      "price": "$733.57",
+      "extracted_at": "2025-10-17T16:29:55.308Z"
+    },
+    {
+      "asin": "B086VYYXM9",
+      "title": "6 botellas de cristal vacías, redondas, de ámbar, con cabezal de pulverización, rellenables, portátiles, pulverizadores de niebla fina, pulverizadores, recipientes, botes de viaje, subembotellado para solución salina coloidal plateada",
+      "price": "$496.69",
+      "extracted_at": "2025-10-17T16:29:55.308Z"
+    },
+    {
+      "asin": "B0CWP19S6G",
+      "title": "Sazuwu - Bolsa de maquillaje para regalo de 50 cumpleaños para mamá nacida en 1974, Púrpura",
+      "price": "$580.29",
+      "extracted_at": "2025-10-17T16:29:55.308Z"
+    },
+    {
+      "asin": "B0D5D1RX7P",
+      "title": "Decorniqu - Tarros de viaje para artículos de cambiador aprobados por la TSA, paquete de 4 tarros de plástico de crema rellenables, a prueba de fugas, recipientes de tamaño de viaje con tapa para",
+      "price": "$427.54",
+      "extracted_at": "2025-10-17T16:29:55.308Z"
+    },
+    {
+      "asin": "B0991Z238G",
+      "title": "JASEFA Espejo de maquillaje de computadora con aumento desmontable de 10x, rotación de 360°, espejo de cuello de cisne flexible con soporte, espejo cosmético de mesa, bueno para afeitar, viajar, rectangular",
+      "price": "$666.78",
+      "extracted_at": "2025-10-17T16:29:55.308Z"
+    },
+    {
+      "asin": "B094F94QC8",
+      "title": "EPLAZA Bata corta de satén para mujer, talla única, con diamantes de imitación, para novia, dama de honor, para boda, fiesta, prepararse, marino, Talla única",
+      "price": "$577.65",
+      "extracted_at": "2025-10-17T16:29:55.308Z"
+    },
+    {
+      "asin": "B07MYS5NS1",
+      "title": "MUSE FATH Camisa de vestir Oxford para hombre, de algodón, casual, ajuste regular, camisa de manga larga",
+      "price": "$1,013.64",
+      "extracted_at": "2025-10-17T16:29:55.308Z"
+    },
+    {
+      "asin": "B0CW1MC78N",
+      "title": "Sazuwu - Bolsa de maquillaje para hija, regalo de boda, regalo para novia de suegra, Azul",
+      "price": "$568.13",
+      "extracted_at": "2025-10-17T16:29:55.308Z"
+    },
+    {
+      "asin": "B0D5B5KT6K",
+      "title": "KAOTGOT - Organizador de maquillaje, diseño de madera y acrílico, ideal para estuche de cosméticos, soporte de perfume, almacenamiento de esmalte de uñas, soporte de lápiz labial, cambiador de baño,",
+      "price": "$1,064.30",
+      "extracted_at": "2025-10-17T16:29:55.309Z"
+    },
+    {
+      "asin": "B0CBR8N822",
+      "title": "DLOODA - Falda de tenis para mujer, con bolsillos, pantalones cortos, de cintura alta, para golf, correr, entrenamiento",
+      "price": "$639.65",
+      "extracted_at": "2025-10-17T16:29:55.309Z"
+    },
+    {
+      "asin": "B0D5B5HS97",
+      "title": "KAOTGOT - Organizador de maquillaje, diseño de madera y acrílico, ideal para estuche de cosméticos, soporte de perfume, almacenamiento de esmalte de uñas, soporte de lápiz labial, cambiador de baño,",
+      "price": "$1,068.97",
+      "extracted_at": "2025-10-17T16:29:55.309Z"
+    },
+    {
+      "asin": "B08SQPTPLW",
+      "title": "HMILES",
+      "price": "$715.23",
+      "extracted_at": "2025-10-17T16:29:55.309Z"
+    },
+    {
+      "asin": "B0714HWBDF",
+      "title": "Zoreya Travel Makeup Brush Set 12pcs Pink Makeup Brushes Professional Foundation Powder Contour Blush Eye Cosmetic Brush Sets With Holder For Mother's Day Gifts",
+      "price": "$779.52",
+      "extracted_at": "2025-10-17T16:29:55.309Z"
+    },
+    {
+      "asin": "B0BNL1WCQK",
+      "title": "COPYLEAF Pantalones de yoga acampanados para mujer con bolsillos, cruzados en V, cintura alta, corte de bota, pantalones de yoga con control de abdomen",
+      "price": "$786.95",
+      "extracted_at": "2025-10-17T16:29:55.309Z"
+    },
+    {
+      "asin": "B073VF45Z3",
+      "title": "Makeup Brushes 24pcs Makeup Brushes Set Kabuki Foundation Blending Brush Face Powder Blush Concealers Eye Shadows Make Up Brushes Kit with Bag",
+      "price": "$580.71",
+      "extracted_at": "2025-10-17T16:29:55.309Z"
+    },
+    {
+      "asin": "B099N3FMQZ",
+      "title": "Gash Hao - Pantalones de snowboard impermeables para hombre, con forro polar y cierre en la parte inferior de la pierna",
+      "price": "$1,612.38",
+      "extracted_at": "2025-10-17T16:29:55.309Z"
+    },
+    {
+      "asin": "B07NJLRNJY",
+      "title": "Bastoncillos de algodón orgánico de bambú biodegradables de alta calidad | Palillos de madera compostables | Productos desechables sin residuos | Bastones de maquillaje libres de plástico | Bastones de seguridad para la limpieza de ojos | Utensilios ecológicos",
+      "price": "$583.96",
+      "extracted_at": "2025-10-17T16:30:09.428Z"
+    },
+    {
+      "asin": "B08XZHDBGW",
+      "title": "KIKIWING - brasier deportivo sin costuras para mujer, sin costuras, para entrenamiento, sin mangas, con forro largo, para mujer, brasier deportivo acanalado",
+      "price": "$762.77",
+      "extracted_at": "2025-10-17T16:30:09.428Z"
+    },
+    {
+      "asin": "B073TSD1K8",
+      "title": "sanipoe 360 Makeup Organizer, DIY Detachable Spinning Cosmetic Makeup Caddy Storage DIsplay Bag Case Large Capacity Makeup Box Acrylic Vanity Organizer Box, Great for Countertop and Bathroom, White",
+      "price": "$629.74",
+      "extracted_at": "2025-10-17T16:30:09.428Z"
+    },
+    {
+      "asin": "B092VMPDBF",
+      "title": "VEOBIKE - Pantalones elásticos de senderismo para hombre, de secado rápido, ligeros, resistentes al agua, pantalones de pesca al aire última intervensión, bolsillos inferiores ajustables",
+      "price": "$1,052.86",
+      "extracted_at": "2025-10-17T16:30:09.428Z"
+    },
+    {
+      "asin": "B0CY8CCS4J",
+      "title": "DOSUKE - Bolsa de maquillaje acolchada de viaje para mujer, Rojo (Red Flower), Medium (3",
+      "price": "$904.98",
+      "extracted_at": "2025-10-17T16:30:09.428Z"
+    },
+    {
+      "asin": "B08KZH2M4R",
+      "title": "Promover - Pantalones capri para mujer, pantalones cortos de yoga de pierna ancha, con bolsillos, holgados, informales, para verano, Azul Real, S",
+      "price": "$1,143.33",
+      "extracted_at": "2025-10-17T16:30:09.428Z"
+    },
+    {
+      "asin": "B09KBGZHQ4",
+      "title": "Sfodiary - Bolsa de maquillaje, regalo inspirador para jugadores de tenis, regalo de cumpleaños para mujeres, bolsa de cosméticos, regalo de graduación, regalo para tenis, niña, viaje, bolsa de cosméticos, regalo de Navidad, Negro -",
+      "price": "$404.90",
+      "extracted_at": "2025-10-17T16:30:09.428Z"
+    },
+    {
+      "asin": "B08KZG3NB3",
+      "title": "Promover - Pantalones capri para mujer, pantalones cortos de yoga de pierna ancha, con bolsillos, holgados, informales, para verano, Azul Real, L",
+      "price": "$1,230.52",
+      "extracted_at": "2025-10-17T16:30:09.429Z"
+    },
+    {
+      "asin": "B09YNDG2F6",
+      "title": "Sazuwu - Bolsa de maquillaje para mujer, Regalos de hipopótamo (3)",
+      "price": "$465.04",
+      "extracted_at": "2025-10-17T16:30:09.429Z"
+    },
+    {
+      "asin": "B0BH3Y3VCP",
+      "title": "LFOYOU - Espejo de cambiador de mesa con soporte, espejo de maquillaje para computadora, cuello de cisne flexible ajustable, rotación de 360 °, plegable, portátil, espejo cosmético, cuadrado",
+      "price": "$432.07",
+      "extracted_at": "2025-10-17T16:30:09.429Z"
+    },
+    {
+      "asin": "B0BBVWF2GS",
+      "title": "Regalos cristianos para mujeres, regalos inspiradores para niñas, espejo de maquillaje compacto para amiga, hermana, versículo bíblico, regalo religioso, espejo de maquillaje compacto, regalos de Navidad y cumpleaños",
+      "price": "$568.13",
+      "extracted_at": "2025-10-17T16:30:09.429Z"
+    },
+    {
+      "asin": "B09RZQL1D4",
+      "title": "Bolsa de maquillaje para camping, 273_NO1",
+      "price": "$578.90",
+      "extracted_at": "2025-10-17T16:30:09.429Z"
+    },
+    {
+      "asin": "B08P26W6XH",
+      "title": "Makeup Brush Holder Makeup Brush Case for Women Makeup Artist Storage Bag Cosmetic Bags",
+      "price": "$714.07",
+      "extracted_at": "2025-10-17T16:30:09.429Z"
+    },
+    {
+      "asin": "B0D5MHP4C2",
+      "title": "RYYCDOI - Bolsa de maquillaje de playa estética, bolsa de cosméticos para mujeres, regalos de playa para amigas, regalos para amantes de la playa, regalos de día festivo en la playa, bolsa de",
+      "price": "$577.46",
+      "extracted_at": "2025-10-17T16:30:09.429Z"
+    }
+  ]
+}

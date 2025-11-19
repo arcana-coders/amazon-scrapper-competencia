@@ -1,0 +1,1868 @@
+{
+  "seller_id": "AJF6S5112BPIX",
+  "batch_number": 6,
+  "created_at": "2025-10-31T18:01:57.458Z",
+  "analysis_type": "recursive_hierarchical_batch",
+  "max_products_per_leaf": 320,
+  "max_recursion_depth": 10,
+  "max_products_per_batch": 1000,
+  "main_categories": [
+    "Alimentos y Bebidas",
+    "Automotriz y Motocicletas",
+    "Bebé",
+    "Belleza",
+    "Deportes y Aire libre",
+    "Electrónicos",
+    "Herramientas y Mejoras del Hogar",
+    "Hogar y Cocina",
+    "Industria, Empresas y Ciencia",
+    "Jardín",
+    "Juguetes y Juegos",
+    "Libros",
+    "Música",
+    "Oficina y Papelería",
+    "Productos para animales",
+    "Ropa, Zapatos y Accesorios",
+    "Salud y Cuidado Personal",
+    "Software",
+    "Videojuegos"
+  ],
+  "categories": [
+    {
+      "name": "Oficina y Papelería",
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761932814&rnid=15997893011&ref=sr_nr_n_14&ds=v1%3AQov8ghBU68GuVZnb8N8Ws3IPpcITzKToL24k1d9hW%2FQ",
+      "expected_products": 768,
+      "isLeaf": false,
+      "depth": 1,
+      "path": [
+        "Oficina y Papelería"
+      ],
+      "status": "pending",
+      "subcategories": [
+        {
+          "name": "Arte y Manualidades",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601016011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933222&rnid=9673844011&ref=sr_nr_n_1&ds=v1%3Ag4HHK1YOMtPKy59r57EGOyVijXSJ9of5uMvWMrbMs6g",
+          "expected_products": 2,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Oficina y Papelería",
+            "Arte y Manualidades"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-31T17:53:47.480Z"
+        },
+        {
+          "name": "Artículos de Oficina",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601017011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933222&rnid=9673844011&ref=sr_nr_n_2&ds=v1%3AFKhaGBmZM4jTVK8PW4%2Fxua1uU7cBO5vhO23zmgmQTxA",
+          "expected_products": 65,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Oficina y Papelería",
+            "Artículos de Oficina"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-31T17:53:50.297Z"
+        },
+        {
+          "name": "Calendarios, Agendas y Organizadores Personales",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601018011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933222&rnid=9673844011&ref=sr_nr_n_3&ds=v1%3Amw7dwdRuKuYLNdYe47Vx%2BJKGz8Vmhw7OHY60XNrRjKQ",
+          "expected_products": 41,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Oficina y Papelería",
+            "Calendarios, Agendas y Organizadores Personales"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-31T17:53:53.093Z"
+        },
+        {
+          "name": "Plumas, Lápices y Útiles de Escritura",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601022011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933222&rnid=9673844011&ref=sr_nr_n_4&ds=v1%3Aw4clQB4xN7T157Nurw5eCgYoG3R8MqKrTn0Sxn5i%2Fzs",
+          "expected_products": 45,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Oficina y Papelería",
+            "Plumas, Lápices y Útiles de Escritura"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-31T17:53:55.904Z"
+        },
+        {
+          "name": "Productos de Papel para Oficina",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933222&rnid=9673844011&ref=sr_nr_n_5&ds=v1%3AHKGnTw8gsW9eN00ntoGdI3TfrQqIu7aNXiVyuVwCPE8",
+          "expected_products": 452,
+          "isLeaf": false,
+          "depth": 2,
+          "path": [
+            "Oficina y Papelería",
+            "Productos de Papel para Oficina"
+          ],
+          "status": "pending",
+          "subcategories": [
+            {
+              "name": "Cuadernos, Blocs de Notas y Diarios",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933236&rnid=11601023011&ref=sr_nr_n_1&ds=v1%3AydIFGL6VbgcfDMt07OOe%2FBlmHGrv4EaOUXRZFXtebso",
+              "expected_products": 426,
+              "isLeaf": false,
+              "depth": 3,
+              "path": [
+                "Oficina y Papelería",
+                "Productos de Papel para Oficina",
+                "Cuadernos, Blocs de Notas y Diarios"
+              ],
+              "status": "pending",
+              "subcategories": [
+                {
+                  "name": "Bloc de Notas Tamaño Carta y Legal a Rayas",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A43388054011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933239&rnid=11601070011&ref=sr_nr_n_1&ds=v1%3ABjHlkhUG%2BE4WMfpiX9r3GXmBeo5aOIpCyVe1mBtJ1hc",
+                  "expected_products": 11,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Oficina y Papelería",
+                    "Productos de Papel para Oficina",
+                    "Cuadernos, Blocs de Notas y Diarios",
+                    "Bloc de Notas Tamaño Carta y Legal a Rayas"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T17:54:04.296Z"
+                },
+                {
+                  "name": "Blocs y Cuadernos de Notas",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A11601210011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933239&rnid=11601070011&ref=sr_nr_n_2&ds=v1%3Ad7ZvJokJMGiPk49hh0nqRm%2FUHzd53pPlW6AAjJz0cQo",
+                  "expected_products": 19,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Oficina y Papelería",
+                    "Productos de Papel para Oficina",
+                    "Cuadernos, Blocs de Notas y Diarios",
+                    "Blocs y Cuadernos de Notas"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T17:54:07.186Z"
+                },
+                {
+                  "name": "Cuadernos",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A11601211011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933239&rnid=11601070011&ref=sr_nr_n_3&ds=v1%3A0bJBk%2FmR%2BBTlhWJLI2%2BP1lKPjLjxUXD5%2BI6ooptjvOY",
+                  "expected_products": 11,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Oficina y Papelería",
+                    "Productos de Papel para Oficina",
+                    "Cuadernos, Blocs de Notas y Diarios",
+                    "Cuadernos"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T17:54:09.985Z"
+                },
+                {
+                  "name": "Cuadernos de Espiral",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A11601213011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933239&rnid=11601070011&ref=sr_nr_n_4&ds=v1%3Ap60444X7mKv0jtkt6jeRHkN1R%2B3Bxg5mXGM2vUt8tDI",
+                  "expected_products": 83,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Oficina y Papelería",
+                    "Productos de Papel para Oficina",
+                    "Cuadernos, Blocs de Notas y Diarios",
+                    "Cuadernos de Espiral"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T17:54:12.783Z"
+                },
+                {
+                  "name": "Cuadernos Ejecutivos",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A43388055011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933239&rnid=11601070011&ref=sr_nr_n_5&ds=v1%3A20rlqYbcgTDlgrQQLhRk%2FLXMtA%2B6TDJfkP079V5jQhM",
+                  "expected_products": 95,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Oficina y Papelería",
+                    "Productos de Papel para Oficina",
+                    "Cuadernos, Blocs de Notas y Diarios",
+                    "Cuadernos Ejecutivos"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T17:54:15.778Z"
+                },
+                {
+                  "name": "Todos los descuentos",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A11601070011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933239&rnid=23565476011&ref=sr_nr_p_n_deal_type_1&ds=v1%3AKgwqFq%2B8XzJ8nL5dxM%2Bfp0SgIUArkYZj1dgxS8jox1s",
+                  "expected_products": 426,
+                  "isLeaf": false,
+                  "depth": 4,
+                  "path": [
+                    "Oficina y Papelería",
+                    "Productos de Papel para Oficina",
+                    "Cuadernos, Blocs de Notas y Diarios",
+                    "Todos los descuentos"
+                  ],
+                  "status": "pending",
+                  "subcategories": [
+                    {
+                      "name": "Bloc de Notas Tamaño Carta y Legal a Rayas",
+                      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A43388054011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933256&rnid=11601070011&ref=sr_nr_n_1&ds=v1%3AWDbTQrWOqSnYhvnznHCd0HbpPjSCfR0VUv76FQTA0PA",
+                      "expected_products": 11,
+                      "isLeaf": true,
+                      "depth": 5,
+                      "path": [
+                        "Oficina y Papelería",
+                        "Productos de Papel para Oficina",
+                        "Cuadernos, Blocs de Notas y Diarios",
+                        "Todos los descuentos",
+                        "Bloc de Notas Tamaño Carta y Legal a Rayas"
+                      ],
+                      "status": "pending",
+                      "created_at": "2025-10-31T17:54:21.195Z"
+                    },
+                    {
+                      "name": "Blocs y Cuadernos de Notas",
+                      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A11601210011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933256&rnid=11601070011&ref=sr_nr_n_2&ds=v1%3A51UbAGLcnEtgZ2fiuOvuoYzxn3p900RHKguEUpuO1jc",
+                      "expected_products": 19,
+                      "isLeaf": true,
+                      "depth": 5,
+                      "path": [
+                        "Oficina y Papelería",
+                        "Productos de Papel para Oficina",
+                        "Cuadernos, Blocs de Notas y Diarios",
+                        "Todos los descuentos",
+                        "Blocs y Cuadernos de Notas"
+                      ],
+                      "status": "pending",
+                      "created_at": "2025-10-31T17:54:23.953Z"
+                    },
+                    {
+                      "name": "Cuadernos",
+                      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A11601211011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933256&rnid=11601070011&ref=sr_nr_n_3&ds=v1%3AGRAmkw3vUKuUtgCj%2Fnwm19uApA1LQVqduUzh2ZIc%2FEs",
+                      "expected_products": 11,
+                      "isLeaf": true,
+                      "depth": 5,
+                      "path": [
+                        "Oficina y Papelería",
+                        "Productos de Papel para Oficina",
+                        "Cuadernos, Blocs de Notas y Diarios",
+                        "Todos los descuentos",
+                        "Cuadernos"
+                      ],
+                      "status": "pending",
+                      "created_at": "2025-10-31T17:54:26.653Z"
+                    },
+                    {
+                      "name": "Cuadernos de Espiral",
+                      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A11601213011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933256&rnid=11601070011&ref=sr_nr_n_4&ds=v1%3ABABmn07AwHwfZvLIJH7O0vZDBOv8Q5AR3tuOGmNMjyI",
+                      "expected_products": 83,
+                      "isLeaf": true,
+                      "depth": 5,
+                      "path": [
+                        "Oficina y Papelería",
+                        "Productos de Papel para Oficina",
+                        "Cuadernos, Blocs de Notas y Diarios",
+                        "Todos los descuentos",
+                        "Cuadernos de Espiral"
+                      ],
+                      "status": "pending",
+                      "created_at": "2025-10-31T17:54:29.446Z"
+                    },
+                    {
+                      "name": "Cuadernos Ejecutivos",
+                      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A43388055011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933256&rnid=11601070011&ref=sr_nr_n_5&ds=v1%3Ae38vk%2FfTTqv8x41mBAhlHNBRXGSgwzDks4C1ACbL6xw",
+                      "expected_products": 95,
+                      "isLeaf": true,
+                      "depth": 5,
+                      "path": [
+                        "Oficina y Papelería",
+                        "Productos de Papel para Oficina",
+                        "Cuadernos, Blocs de Notas y Diarios",
+                        "Todos los descuentos",
+                        "Cuadernos Ejecutivos"
+                      ],
+                      "status": "pending",
+                      "created_at": "2025-10-31T17:54:32.211Z"
+                    },
+                    {
+                      "name": "Borrar",
+                      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A11601070011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933256&ref=sr_ex_p_n_deal_type_0&ds=v1%3A9a99VhMHQa5%2BEJbe5NeVb4a0kJI4RbLOK3L2kzWzopc",
+                      "expected_products": 426,
+                      "isLeaf": false,
+                      "depth": 5,
+                      "path": [
+                        "Oficina y Papelería",
+                        "Productos de Papel para Oficina",
+                        "Cuadernos, Blocs de Notas y Diarios",
+                        "Todos los descuentos",
+                        "Borrar"
+                      ],
+                      "status": "pending",
+                      "subcategories": [
+                        {
+                          "name": "Bloc de Notas Tamaño Carta y Legal a Rayas",
+                          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A43388054011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933272&rnid=11601070011&ref=sr_nr_n_1&ds=v1%3A9JKpDCGYxqh8PmoLP34U4gPQqSwSg36sBaI3YXBxfVY",
+                          "expected_products": 11,
+                          "isLeaf": true,
+                          "depth": 6,
+                          "path": [
+                            "Oficina y Papelería",
+                            "Productos de Papel para Oficina",
+                            "Cuadernos, Blocs de Notas y Diarios",
+                            "Todos los descuentos",
+                            "Borrar",
+                            "Bloc de Notas Tamaño Carta y Legal a Rayas"
+                          ],
+                          "status": "pending",
+                          "created_at": "2025-10-31T17:54:37.687Z"
+                        },
+                        {
+                          "name": "Blocs y Cuadernos de Notas",
+                          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A11601210011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933272&rnid=11601070011&ref=sr_nr_n_2&ds=v1%3AA4qXnPVP%2BcgV%2F9A%2FUAZJR6Xq8qsbmu9TSoDPXuVrfUg",
+                          "expected_products": 19,
+                          "isLeaf": true,
+                          "depth": 6,
+                          "path": [
+                            "Oficina y Papelería",
+                            "Productos de Papel para Oficina",
+                            "Cuadernos, Blocs de Notas y Diarios",
+                            "Todos los descuentos",
+                            "Borrar",
+                            "Blocs y Cuadernos de Notas"
+                          ],
+                          "status": "pending",
+                          "created_at": "2025-10-31T17:54:40.365Z"
+                        },
+                        {
+                          "name": "Cuadernos",
+                          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A11601211011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933272&rnid=11601070011&ref=sr_nr_n_3&ds=v1%3A32uh%2FK97JXVnKOcH%2Fr%2FaoMWjaDhZXifvvqvRNG60DmE",
+                          "expected_products": 11,
+                          "isLeaf": true,
+                          "depth": 6,
+                          "path": [
+                            "Oficina y Papelería",
+                            "Productos de Papel para Oficina",
+                            "Cuadernos, Blocs de Notas y Diarios",
+                            "Todos los descuentos",
+                            "Borrar",
+                            "Cuadernos"
+                          ],
+                          "status": "pending",
+                          "created_at": "2025-10-31T17:54:42.966Z"
+                        },
+                        {
+                          "name": "Cuadernos de Espiral",
+                          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A11601213011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933272&rnid=11601070011&ref=sr_nr_n_4&ds=v1%3AaZ75w21oCiNyaR548R3Ic%2BHPwXWon0hHrUoEI7BMs7U",
+                          "expected_products": 83,
+                          "isLeaf": true,
+                          "depth": 6,
+                          "path": [
+                            "Oficina y Papelería",
+                            "Productos de Papel para Oficina",
+                            "Cuadernos, Blocs de Notas y Diarios",
+                            "Todos los descuentos",
+                            "Borrar",
+                            "Cuadernos de Espiral"
+                          ],
+                          "status": "pending",
+                          "created_at": "2025-10-31T17:54:45.660Z"
+                        },
+                        {
+                          "name": "Cuadernos Ejecutivos",
+                          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A43388055011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933272&rnid=11601070011&ref=sr_nr_n_5&ds=v1%3AtXYSBDjr0%2BJBYUTcbd4IMV2Miy01aRqcsIR2XtI%2F9DI",
+                          "expected_products": 95,
+                          "isLeaf": true,
+                          "depth": 6,
+                          "path": [
+                            "Oficina y Papelería",
+                            "Productos de Papel para Oficina",
+                            "Cuadernos, Blocs de Notas y Diarios",
+                            "Todos los descuentos",
+                            "Borrar",
+                            "Cuadernos Ejecutivos"
+                          ],
+                          "status": "pending",
+                          "created_at": "2025-10-31T17:54:48.360Z"
+                        },
+                        {
+                          "name": "Meses sin Intereses",
+                          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933272&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3A2A0ZMUDYeJXaaJGtjwwNTXWjpaccJ8DWUdq8rHRbZI8",
+                          "expected_products": 13,
+                          "isLeaf": true,
+                          "depth": 6,
+                          "path": [
+                            "Oficina y Papelería",
+                            "Productos de Papel para Oficina",
+                            "Cuadernos, Blocs de Notas y Diarios",
+                            "Todos los descuentos",
+                            "Borrar",
+                            "Meses sin Intereses"
+                          ],
+                          "status": "pending",
+                          "created_at": "2025-10-31T17:54:51.087Z"
+                        }
+                      ],
+                      "created_at": "2025-10-31T17:55:01.269Z"
+                    },
+                    {
+                      "name": "Meses sin Intereses",
+                      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cp_n_deal_type%3A23565478011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933256&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3AKuplnDyztolTZPTszq1eg9NtbUO6sZVXwUlu3wEErjw",
+                      "expected_products": 13,
+                      "isLeaf": true,
+                      "depth": 5,
+                      "path": [
+                        "Oficina y Papelería",
+                        "Productos de Papel para Oficina",
+                        "Cuadernos, Blocs de Notas y Diarios",
+                        "Todos los descuentos",
+                        "Meses sin Intereses"
+                      ],
+                      "status": "pending",
+                      "created_at": "2025-10-31T17:55:04.025Z"
+                    }
+                  ],
+                  "created_at": "2025-10-31T17:55:14.194Z"
+                },
+                {
+                  "name": "Meses sin Intereses",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933239&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3AsZww%2BvWSFvsWLRMsD6xWzNeclqTcEuM79rsDRiiQZp8",
+                  "expected_products": 13,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Oficina y Papelería",
+                    "Productos de Papel para Oficina",
+                    "Cuadernos, Blocs de Notas y Diarios",
+                    "Meses sin Intereses"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T17:55:16.816Z"
+                }
+              ],
+              "created_at": "2025-10-31T17:55:26.919Z"
+            },
+            {
+              "name": "Papel",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601071011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933236&rnid=11601023011&ref=sr_nr_n_2&ds=v1%3Ar91hoRiDXxUZQPqft12nVdpbMzP3lwEV%2Fz%2Fwk7laW4w",
+              "expected_products": 2,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Oficina y Papelería",
+                "Productos de Papel para Oficina",
+                "Papel"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-31T17:55:29.770Z"
+            },
+            {
+              "name": "Tarjetas y Cartulinas",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601072011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933236&rnid=11601023011&ref=sr_nr_n_3&ds=v1%3ABFRu9dkAynEQhJ0B%2F1dd3TVyWPkJOSVdUQg6Sll1%2BWE",
+              "expected_products": 14,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Oficina y Papelería",
+                "Productos de Papel para Oficina",
+                "Tarjetas y Cartulinas"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-31T17:55:32.530Z"
+            },
+            {
+              "name": "Todos los descuentos",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A11601023011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933236&rnid=23565476011&ref=sr_nr_p_n_deal_type_1&ds=v1%3Ay0f%2BM%2Ff%2BpT%2BXtghnvlXouAIrS4OD6f1v4BD3ttU9Fi0",
+              "expected_products": 452,
+              "isLeaf": false,
+              "depth": 3,
+              "path": [
+                "Oficina y Papelería",
+                "Productos de Papel para Oficina",
+                "Todos los descuentos"
+              ],
+              "status": "pending",
+              "subcategories": [
+                {
+                  "name": "Cuadernos, Blocs de Notas y Diarios",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933332&rnid=11601023011&ref=sr_nr_n_1&ds=v1%3AJwE5j16jyXcMnKIk%2BQCSjvbajqTPcQbYcmcVmU32KZc",
+                  "expected_products": 426,
+                  "isLeaf": false,
+                  "depth": 4,
+                  "path": [
+                    "Oficina y Papelería",
+                    "Productos de Papel para Oficina",
+                    "Todos los descuentos",
+                    "Cuadernos, Blocs de Notas y Diarios"
+                  ],
+                  "status": "pending",
+                  "subcategories": [
+                    {
+                      "name": "Bloc de Notas Tamaño Carta y Legal a Rayas",
+                      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A43388054011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933335&rnid=11601070011&ref=sr_nr_n_1&ds=v1%3A%2B4DSEd0IJZLgN2PFQnOk1fIfOEr795kQh%2FlL%2BQVsMGM",
+                      "expected_products": 11,
+                      "isLeaf": true,
+                      "depth": 5,
+                      "path": [
+                        "Oficina y Papelería",
+                        "Productos de Papel para Oficina",
+                        "Todos los descuentos",
+                        "Cuadernos, Blocs de Notas y Diarios",
+                        "Bloc de Notas Tamaño Carta y Legal a Rayas"
+                      ],
+                      "status": "pending",
+                      "created_at": "2025-10-31T17:55:40.835Z"
+                    },
+                    {
+                      "name": "Blocs y Cuadernos de Notas",
+                      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A11601210011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933335&rnid=11601070011&ref=sr_nr_n_2&ds=v1%3AATcQV9%2F9XUVbZar1dN%2Fs4v9nMUo4AK6ZbtuqKXfRVVU",
+                      "expected_products": 19,
+                      "isLeaf": true,
+                      "depth": 5,
+                      "path": [
+                        "Oficina y Papelería",
+                        "Productos de Papel para Oficina",
+                        "Todos los descuentos",
+                        "Cuadernos, Blocs de Notas y Diarios",
+                        "Blocs y Cuadernos de Notas"
+                      ],
+                      "status": "pending",
+                      "created_at": "2025-10-31T17:55:43.620Z"
+                    },
+                    {
+                      "name": "Cuadernos",
+                      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A11601211011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933335&rnid=11601070011&ref=sr_nr_n_3&ds=v1%3AD3pIHuhranQ%2FUu6wH0rB6Gpby3hBRmehfUf9AfRx6s8",
+                      "expected_products": 11,
+                      "isLeaf": true,
+                      "depth": 5,
+                      "path": [
+                        "Oficina y Papelería",
+                        "Productos de Papel para Oficina",
+                        "Todos los descuentos",
+                        "Cuadernos, Blocs de Notas y Diarios",
+                        "Cuadernos"
+                      ],
+                      "status": "pending",
+                      "created_at": "2025-10-31T17:55:46.339Z"
+                    },
+                    {
+                      "name": "Cuadernos de Espiral",
+                      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A11601213011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933335&rnid=11601070011&ref=sr_nr_n_4&ds=v1%3AeCyKEggphfncIAWO9Z1ezULcl2t%2FW7Il8KrIa43QNOg",
+                      "expected_products": 83,
+                      "isLeaf": true,
+                      "depth": 5,
+                      "path": [
+                        "Oficina y Papelería",
+                        "Productos de Papel para Oficina",
+                        "Todos los descuentos",
+                        "Cuadernos, Blocs de Notas y Diarios",
+                        "Cuadernos de Espiral"
+                      ],
+                      "status": "pending",
+                      "created_at": "2025-10-31T17:55:49.124Z"
+                    },
+                    {
+                      "name": "Cuadernos Ejecutivos",
+                      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A43388055011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933335&rnid=11601070011&ref=sr_nr_n_5&ds=v1%3A1h8Lt%2FzhvoPd7JWSnFB8yGFlroHYr%2B1WtqVKw5sYkxE",
+                      "expected_products": 95,
+                      "isLeaf": true,
+                      "depth": 5,
+                      "path": [
+                        "Oficina y Papelería",
+                        "Productos de Papel para Oficina",
+                        "Todos los descuentos",
+                        "Cuadernos, Blocs de Notas y Diarios",
+                        "Cuadernos Ejecutivos"
+                      ],
+                      "status": "pending",
+                      "created_at": "2025-10-31T17:55:51.937Z"
+                    },
+                    {
+                      "name": "Borrar",
+                      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933335&ref=sr_ex_p_n_deal_type_0&ds=v1%3AVPukIeRB89vWtcIuRkEbkHhNuoqWv5H3HZe%2FiKbZ45E",
+                      "expected_products": 426,
+                      "isLeaf": false,
+                      "depth": 5,
+                      "path": [
+                        "Oficina y Papelería",
+                        "Productos de Papel para Oficina",
+                        "Todos los descuentos",
+                        "Cuadernos, Blocs de Notas y Diarios",
+                        "Borrar"
+                      ],
+                      "status": "pending",
+                      "subcategories": [
+                        {
+                          "name": "Bloc de Notas Tamaño Carta y Legal a Rayas",
+                          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A43388054011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933352&rnid=11601070011&ref=sr_nr_n_1&ds=v1%3Ad7fuJwNcjq2pvxVaQjJ2mAiT4hcbLhJzV4uD3fI1qGM",
+                          "expected_products": 11,
+                          "isLeaf": true,
+                          "depth": 6,
+                          "path": [
+                            "Oficina y Papelería",
+                            "Productos de Papel para Oficina",
+                            "Todos los descuentos",
+                            "Cuadernos, Blocs de Notas y Diarios",
+                            "Borrar",
+                            "Bloc de Notas Tamaño Carta y Legal a Rayas"
+                          ],
+                          "status": "pending",
+                          "created_at": "2025-10-31T17:55:57.319Z"
+                        },
+                        {
+                          "name": "Blocs y Cuadernos de Notas",
+                          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A11601210011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933352&rnid=11601070011&ref=sr_nr_n_2&ds=v1%3A%2FL46f1FwuXqVD%2BMp3I%2BS3XSR9kO0WppyGgncQoESeoc",
+                          "expected_products": 19,
+                          "isLeaf": true,
+                          "depth": 6,
+                          "path": [
+                            "Oficina y Papelería",
+                            "Productos de Papel para Oficina",
+                            "Todos los descuentos",
+                            "Cuadernos, Blocs de Notas y Diarios",
+                            "Borrar",
+                            "Blocs y Cuadernos de Notas"
+                          ],
+                          "status": "pending",
+                          "created_at": "2025-10-31T17:56:00.042Z"
+                        },
+                        {
+                          "name": "Cuadernos",
+                          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A11601211011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933352&rnid=11601070011&ref=sr_nr_n_3&ds=v1%3ATD3zcHWBzxoNb27vDpkw9YGtA8TSx%2Fxv6BIKlHwNWEY",
+                          "expected_products": 11,
+                          "isLeaf": true,
+                          "depth": 6,
+                          "path": [
+                            "Oficina y Papelería",
+                            "Productos de Papel para Oficina",
+                            "Todos los descuentos",
+                            "Cuadernos, Blocs de Notas y Diarios",
+                            "Borrar",
+                            "Cuadernos"
+                          ],
+                          "status": "pending",
+                          "created_at": "2025-10-31T17:56:02.697Z"
+                        },
+                        {
+                          "name": "Cuadernos de Espiral",
+                          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A11601213011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933352&rnid=11601070011&ref=sr_nr_n_4&ds=v1%3A4mdWtwZDb3TaPdmktXnjd0S0xmuHxpND1nIEiBUymxA",
+                          "expected_products": 83,
+                          "isLeaf": true,
+                          "depth": 6,
+                          "path": [
+                            "Oficina y Papelería",
+                            "Productos de Papel para Oficina",
+                            "Todos los descuentos",
+                            "Cuadernos, Blocs de Notas y Diarios",
+                            "Borrar",
+                            "Cuadernos de Espiral"
+                          ],
+                          "status": "pending",
+                          "created_at": "2025-10-31T17:56:05.426Z"
+                        },
+                        {
+                          "name": "Cuadernos Ejecutivos",
+                          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A43388055011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933352&rnid=11601070011&ref=sr_nr_n_5&ds=v1%3Ai8EhbRo2GWNjNup28FvXpOIuahbMFsTt8sDqaemUBVw",
+                          "expected_products": 95,
+                          "isLeaf": true,
+                          "depth": 6,
+                          "path": [
+                            "Oficina y Papelería",
+                            "Productos de Papel para Oficina",
+                            "Todos los descuentos",
+                            "Cuadernos, Blocs de Notas y Diarios",
+                            "Borrar",
+                            "Cuadernos Ejecutivos"
+                          ],
+                          "status": "pending",
+                          "created_at": "2025-10-31T17:56:08.194Z"
+                        },
+                        {
+                          "name": "Meses sin Intereses",
+                          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933352&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3AYK1pa25VZrJTW6RTvwGKqi46dhdYvp0rpq1zah%2F4zdg",
+                          "expected_products": 13,
+                          "isLeaf": true,
+                          "depth": 6,
+                          "path": [
+                            "Oficina y Papelería",
+                            "Productos de Papel para Oficina",
+                            "Todos los descuentos",
+                            "Cuadernos, Blocs de Notas y Diarios",
+                            "Borrar",
+                            "Meses sin Intereses"
+                          ],
+                          "status": "pending",
+                          "created_at": "2025-10-31T17:56:10.881Z"
+                        }
+                      ],
+                      "created_at": "2025-10-31T17:56:21.030Z"
+                    },
+                    {
+                      "name": "Meses sin Intereses",
+                      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cp_n_deal_type%3A23565478011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933335&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3AN9pzNQZFk7ajiWuefREXQ82gBOiyRckEl5%2FTwbowP%2BI",
+                      "expected_products": 13,
+                      "isLeaf": true,
+                      "depth": 5,
+                      "path": [
+                        "Oficina y Papelería",
+                        "Productos de Papel para Oficina",
+                        "Todos los descuentos",
+                        "Cuadernos, Blocs de Notas y Diarios",
+                        "Meses sin Intereses"
+                      ],
+                      "status": "pending",
+                      "created_at": "2025-10-31T17:56:23.798Z"
+                    }
+                  ],
+                  "created_at": "2025-10-31T17:56:34.050Z"
+                },
+                {
+                  "name": "Papel",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601071011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933332&rnid=11601023011&ref=sr_nr_n_2&ds=v1%3A3Aa4sZ6bSCygojj%2FTX9iH1AznxWwd%2FjD5nHRzKKv81Q",
+                  "expected_products": 2,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Oficina y Papelería",
+                    "Productos de Papel para Oficina",
+                    "Todos los descuentos",
+                    "Papel"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T17:56:36.760Z"
+                },
+                {
+                  "name": "Tarjetas y Cartulinas",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601072011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933332&rnid=11601023011&ref=sr_nr_n_3&ds=v1%3AznT7zVotVbXSW%2FG2AVYPE%2BAzFIY9zS%2F1EpTpBMVU47g",
+                  "expected_products": 14,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Oficina y Papelería",
+                    "Productos de Papel para Oficina",
+                    "Todos los descuentos",
+                    "Tarjetas y Cartulinas"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T17:56:39.626Z"
+                },
+                {
+                  "name": "Borrar",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A11601023011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933332&ref=sr_ex_p_n_deal_type_0&ds=v1%3AatBIiGDvXU4LD2IopxgBgkiIWdBW3P8exPKBMvDrBcA",
+                  "expected_products": 452,
+                  "isLeaf": false,
+                  "depth": 4,
+                  "path": [
+                    "Oficina y Papelería",
+                    "Productos de Papel para Oficina",
+                    "Todos los descuentos",
+                    "Borrar"
+                  ],
+                  "status": "pending",
+                  "subcategories": [
+                    {
+                      "name": "Cuadernos, Blocs de Notas y Diarios",
+                      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933400&rnid=11601023011&ref=sr_nr_n_1&ds=v1%3AByDQPXUilqQeUvWV90eOBJ15H8ZOtkAVsraU2F1j798",
+                      "expected_products": 426,
+                      "isLeaf": false,
+                      "depth": 5,
+                      "path": [
+                        "Oficina y Papelería",
+                        "Productos de Papel para Oficina",
+                        "Todos los descuentos",
+                        "Borrar",
+                        "Cuadernos, Blocs de Notas y Diarios"
+                      ],
+                      "status": "pending",
+                      "subcategories": [
+                        {
+                          "name": "Bloc de Notas Tamaño Carta y Legal a Rayas",
+                          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A43388054011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933402&rnid=11601070011&ref=sr_nr_n_1&ds=v1%3AERksm2tET8cNSNq9LQTPQ1EXd5b3hrGw9xPysMqkcyo",
+                          "expected_products": 11,
+                          "isLeaf": true,
+                          "depth": 6,
+                          "path": [
+                            "Oficina y Papelería",
+                            "Productos de Papel para Oficina",
+                            "Todos los descuentos",
+                            "Borrar",
+                            "Cuadernos, Blocs de Notas y Diarios",
+                            "Bloc de Notas Tamaño Carta y Legal a Rayas"
+                          ],
+                          "status": "pending",
+                          "created_at": "2025-10-31T17:56:47.985Z"
+                        },
+                        {
+                          "name": "Blocs y Cuadernos de Notas",
+                          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A11601210011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933402&rnid=11601070011&ref=sr_nr_n_2&ds=v1%3Aufn97EnJIdj7iFqn5XqqoVQP6DUdYVPP0LKCBgC%2FQFw",
+                          "expected_products": 19,
+                          "isLeaf": true,
+                          "depth": 6,
+                          "path": [
+                            "Oficina y Papelería",
+                            "Productos de Papel para Oficina",
+                            "Todos los descuentos",
+                            "Borrar",
+                            "Cuadernos, Blocs de Notas y Diarios",
+                            "Blocs y Cuadernos de Notas"
+                          ],
+                          "status": "pending",
+                          "created_at": "2025-10-31T17:56:50.753Z"
+                        },
+                        {
+                          "name": "Cuadernos",
+                          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A11601211011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933402&rnid=11601070011&ref=sr_nr_n_3&ds=v1%3AsG7BjlifB9sfpCNKIH46yeryx2T%2BNuWrUcLXVl2xFzE",
+                          "expected_products": 11,
+                          "isLeaf": true,
+                          "depth": 6,
+                          "path": [
+                            "Oficina y Papelería",
+                            "Productos de Papel para Oficina",
+                            "Todos los descuentos",
+                            "Borrar",
+                            "Cuadernos, Blocs de Notas y Diarios",
+                            "Cuadernos"
+                          ],
+                          "status": "pending",
+                          "created_at": "2025-10-31T17:56:53.524Z"
+                        },
+                        {
+                          "name": "Cuadernos de Espiral",
+                          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A11601213011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933402&rnid=11601070011&ref=sr_nr_n_4&ds=v1%3AeZ3FaDE9Fi5YVO%2F4m1HF5sBy5cDyMfD5t4bdlyTQqrM",
+                          "expected_products": 83,
+                          "isLeaf": true,
+                          "depth": 6,
+                          "path": [
+                            "Oficina y Papelería",
+                            "Productos de Papel para Oficina",
+                            "Todos los descuentos",
+                            "Borrar",
+                            "Cuadernos, Blocs de Notas y Diarios",
+                            "Cuadernos de Espiral"
+                          ],
+                          "status": "pending",
+                          "created_at": "2025-10-31T17:56:56.249Z"
+                        },
+                        {
+                          "name": "Cuadernos Ejecutivos",
+                          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A43388055011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933402&rnid=11601070011&ref=sr_nr_n_5&ds=v1%3ADfmaPSPqSMSVTK3TBRTSyVk%2B4OpIqJYIeG%2F%2BYS9bu3M",
+                          "expected_products": 95,
+                          "isLeaf": true,
+                          "depth": 6,
+                          "path": [
+                            "Oficina y Papelería",
+                            "Productos de Papel para Oficina",
+                            "Todos los descuentos",
+                            "Borrar",
+                            "Cuadernos, Blocs de Notas y Diarios",
+                            "Cuadernos Ejecutivos"
+                          ],
+                          "status": "pending",
+                          "created_at": "2025-10-31T17:56:59.008Z"
+                        },
+                        {
+                          "name": "Meses sin Intereses",
+                          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933402&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3AUlsQlaGP3Ss0R0yB6DZgdQvrrFB676B3n%2FnZzU7MN3Q",
+                          "expected_products": 13,
+                          "isLeaf": true,
+                          "depth": 6,
+                          "path": [
+                            "Oficina y Papelería",
+                            "Productos de Papel para Oficina",
+                            "Todos los descuentos",
+                            "Borrar",
+                            "Cuadernos, Blocs de Notas y Diarios",
+                            "Meses sin Intereses"
+                          ],
+                          "status": "pending",
+                          "created_at": "2025-10-31T17:57:01.663Z"
+                        }
+                      ],
+                      "created_at": "2025-10-31T17:57:12.258Z"
+                    },
+                    {
+                      "name": "Papel",
+                      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601071011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933400&rnid=11601023011&ref=sr_nr_n_2&ds=v1%3AiQ63l1i5%2BD%2Bce9zZmSBdNoDYrq%2BP6KTU1qAlHIr1ROA",
+                      "expected_products": 2,
+                      "isLeaf": true,
+                      "depth": 5,
+                      "path": [
+                        "Oficina y Papelería",
+                        "Productos de Papel para Oficina",
+                        "Todos los descuentos",
+                        "Borrar",
+                        "Papel"
+                      ],
+                      "status": "pending",
+                      "created_at": "2025-10-31T17:57:14.902Z"
+                    },
+                    {
+                      "name": "Tarjetas y Cartulinas",
+                      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601072011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933400&rnid=11601023011&ref=sr_nr_n_3&ds=v1%3A41OYbw8T1F43jKtcwYVN8kGt31nv4pyZamHH%2Fow6Of8",
+                      "expected_products": 14,
+                      "isLeaf": true,
+                      "depth": 5,
+                      "path": [
+                        "Oficina y Papelería",
+                        "Productos de Papel para Oficina",
+                        "Todos los descuentos",
+                        "Borrar",
+                        "Tarjetas y Cartulinas"
+                      ],
+                      "status": "pending",
+                      "created_at": "2025-10-31T17:57:17.609Z"
+                    },
+                    {
+                      "name": "Meses sin Intereses",
+                      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933400&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3AF8g2D58oOAMmzJp2y5teSkFmiGs1suvT2RTVgfWD2fM",
+                      "expected_products": 13,
+                      "isLeaf": true,
+                      "depth": 5,
+                      "path": [
+                        "Oficina y Papelería",
+                        "Productos de Papel para Oficina",
+                        "Todos los descuentos",
+                        "Borrar",
+                        "Meses sin Intereses"
+                      ],
+                      "status": "pending",
+                      "created_at": "2025-10-31T17:57:20.294Z"
+                    }
+                  ],
+                  "created_at": "2025-10-31T17:57:28.072Z"
+                },
+                {
+                  "name": "Meses sin Intereses",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cp_n_deal_type%3A23565478011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933332&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3AkaOhnhJDrRRT1ejXUvoDRhof%2Bhq2l9arHhXnj54pIfo",
+                  "expected_products": 13,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Oficina y Papelería",
+                    "Productos de Papel para Oficina",
+                    "Todos los descuentos",
+                    "Meses sin Intereses"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T17:57:30.746Z"
+                }
+              ],
+              "created_at": "2025-10-31T17:57:40.968Z"
+            },
+            {
+              "name": "Meses sin Intereses",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933236&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3Az3OBkvoXssfvXBCrqkUtrzdRrzIcq57qx4%2B9eFLMoIA",
+              "expected_products": 13,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Oficina y Papelería",
+                "Productos de Papel para Oficina",
+                "Meses sin Intereses"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-31T17:57:43.589Z"
+            }
+          ],
+          "created_at": "2025-10-31T17:57:51.417Z"
+        },
+        {
+          "name": "Útiles Escolares",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11337434011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933222&rnid=9673844011&ref=sr_nr_n_6&ds=v1%3AT0S0jvyvVlo9K1GDDbE%2FK23G1YKnQR1O5ROQYCNAFKc",
+          "expected_products": 10,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Oficina y Papelería",
+            "Útiles Escolares"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-31T17:57:54.230Z"
+        },
+        {
+          "name": "Todos los descuentos",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933222&rnid=23565476011&ref=sr_nr_p_n_deal_type_1&ds=v1%3AX8kz9vbcunEc%2FemN72KUHYSE2rK6S5BPwG99bbTuTXs",
+          "expected_products": 768,
+          "isLeaf": false,
+          "depth": 2,
+          "path": [
+            "Oficina y Papelería",
+            "Todos los descuentos"
+          ],
+          "status": "pending",
+          "subcategories": [
+            {
+              "name": "Arte y Manualidades",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601016011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933474&rnid=9673844011&ref=sr_nr_n_1&ds=v1%3A1wL44rBkT8igZgB0rQAYsXkERbENT%2BMrstCFdHc9Kwk",
+              "expected_products": 2,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Oficina y Papelería",
+                "Todos los descuentos",
+                "Arte y Manualidades"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-31T17:57:59.833Z"
+            },
+            {
+              "name": "Artículos de Oficina",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601017011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933474&rnid=9673844011&ref=sr_nr_n_2&ds=v1%3AUqfM5QxfZMZzAm47pzx2bZP%2BGwwnARfLX4QEUXDUNoY",
+              "expected_products": 65,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Oficina y Papelería",
+                "Todos los descuentos",
+                "Artículos de Oficina"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-31T17:58:02.650Z"
+            },
+            {
+              "name": "Calendarios, Agendas y Organizadores Personales",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601018011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933474&rnid=9673844011&ref=sr_nr_n_3&ds=v1%3Akaw32ZuxFKqMV8kVJHuJ%2BjJQHtRKvU%2FcoD01amDBz5g",
+              "expected_products": 41,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Oficina y Papelería",
+                "Todos los descuentos",
+                "Calendarios, Agendas y Organizadores Personales"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-31T17:58:05.480Z"
+            },
+            {
+              "name": "Plumas, Lápices y Útiles de Escritura",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601022011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933474&rnid=9673844011&ref=sr_nr_n_4&ds=v1%3Ao2FvLWe31%2FdRHVNncYr7tLiGWGqToOyu6W%2F%2BJpgCXRs",
+              "expected_products": 45,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Oficina y Papelería",
+                "Todos los descuentos",
+                "Plumas, Lápices y Útiles de Escritura"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-31T17:58:08.330Z"
+            },
+            {
+              "name": "Productos de Papel para Oficina",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933474&rnid=9673844011&ref=sr_nr_n_5&ds=v1%3AvGyjc67bWTkkOuyTWqeMwjdneCHS0SaEASzUn7FQosM",
+              "expected_products": 452,
+              "isLeaf": false,
+              "depth": 3,
+              "path": [
+                "Oficina y Papelería",
+                "Todos los descuentos",
+                "Productos de Papel para Oficina"
+              ],
+              "status": "pending",
+              "subcategories": [
+                {
+                  "name": "Cuadernos, Blocs de Notas y Diarios",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933488&rnid=11601023011&ref=sr_nr_n_1&ds=v1%3AgSAvPAB7W739yA6qcdgrLoovrpavXG%2Ff7kTsy3pDHNQ",
+                  "expected_products": 426,
+                  "isLeaf": false,
+                  "depth": 4,
+                  "path": [
+                    "Oficina y Papelería",
+                    "Todos los descuentos",
+                    "Productos de Papel para Oficina",
+                    "Cuadernos, Blocs de Notas y Diarios"
+                  ],
+                  "status": "pending",
+                  "subcategories": [
+                    {
+                      "name": "Bloc de Notas Tamaño Carta y Legal a Rayas",
+                      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A43388054011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933491&rnid=11601070011&ref=sr_nr_n_1&ds=v1%3AP7gHGLsCgHaQC6C7aDcDj611JnfFK7YQDUVlPUf7ow4",
+                      "expected_products": 11,
+                      "isLeaf": true,
+                      "depth": 5,
+                      "path": [
+                        "Oficina y Papelería",
+                        "Todos los descuentos",
+                        "Productos de Papel para Oficina",
+                        "Cuadernos, Blocs de Notas y Diarios",
+                        "Bloc de Notas Tamaño Carta y Legal a Rayas"
+                      ],
+                      "status": "pending",
+                      "created_at": "2025-10-31T17:58:16.684Z"
+                    },
+                    {
+                      "name": "Blocs y Cuadernos de Notas",
+                      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A11601210011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933491&rnid=11601070011&ref=sr_nr_n_2&ds=v1%3A1mDHnBtiFgx5o9omFiy215otP0w%2BSwgIDvIj347ZmHU",
+                      "expected_products": 19,
+                      "isLeaf": true,
+                      "depth": 5,
+                      "path": [
+                        "Oficina y Papelería",
+                        "Todos los descuentos",
+                        "Productos de Papel para Oficina",
+                        "Cuadernos, Blocs de Notas y Diarios",
+                        "Blocs y Cuadernos de Notas"
+                      ],
+                      "status": "pending",
+                      "created_at": "2025-10-31T17:58:19.471Z"
+                    },
+                    {
+                      "name": "Cuadernos",
+                      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A11601211011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933491&rnid=11601070011&ref=sr_nr_n_3&ds=v1%3AvwDMllKLMNNPcm3LiUGCiNw0rb8AGktDNcJAm4nvOTI",
+                      "expected_products": 11,
+                      "isLeaf": true,
+                      "depth": 5,
+                      "path": [
+                        "Oficina y Papelería",
+                        "Todos los descuentos",
+                        "Productos de Papel para Oficina",
+                        "Cuadernos, Blocs de Notas y Diarios",
+                        "Cuadernos"
+                      ],
+                      "status": "pending",
+                      "created_at": "2025-10-31T17:58:22.207Z"
+                    },
+                    {
+                      "name": "Cuadernos de Espiral",
+                      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A11601213011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933491&rnid=11601070011&ref=sr_nr_n_4&ds=v1%3AkJf7Bjsr5IUpwQN4C1h2hcxhh7xLDMrcFtUIKehpRf0",
+                      "expected_products": 83,
+                      "isLeaf": true,
+                      "depth": 5,
+                      "path": [
+                        "Oficina y Papelería",
+                        "Todos los descuentos",
+                        "Productos de Papel para Oficina",
+                        "Cuadernos, Blocs de Notas y Diarios",
+                        "Cuadernos de Espiral"
+                      ],
+                      "status": "pending",
+                      "created_at": "2025-10-31T17:58:25.001Z"
+                    },
+                    {
+                      "name": "Cuadernos Ejecutivos",
+                      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A43388055011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933491&rnid=11601070011&ref=sr_nr_n_5&ds=v1%3AyWr9hKL2lbo4bmBWJn9MCQTn%2BQIMzBLKiP%2B9iKmOD4U",
+                      "expected_products": 95,
+                      "isLeaf": true,
+                      "depth": 5,
+                      "path": [
+                        "Oficina y Papelería",
+                        "Todos los descuentos",
+                        "Productos de Papel para Oficina",
+                        "Cuadernos, Blocs de Notas y Diarios",
+                        "Cuadernos Ejecutivos"
+                      ],
+                      "status": "pending",
+                      "created_at": "2025-10-31T17:58:27.784Z"
+                    },
+                    {
+                      "name": "Borrar",
+                      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933491&ref=sr_ex_p_n_deal_type_0&ds=v1%3ACfpxcnuli2wwFjQf0EIID21pXcVzwV3Rkxalj0EjN40",
+                      "expected_products": 426,
+                      "isLeaf": false,
+                      "depth": 5,
+                      "path": [
+                        "Oficina y Papelería",
+                        "Todos los descuentos",
+                        "Productos de Papel para Oficina",
+                        "Cuadernos, Blocs de Notas y Diarios",
+                        "Borrar"
+                      ],
+                      "status": "pending",
+                      "subcategories": [
+                        {
+                          "name": "Bloc de Notas Tamaño Carta y Legal a Rayas",
+                          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A43388054011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933508&rnid=11601070011&ref=sr_nr_n_1&ds=v1%3A3828ZvNZRl1uusKeq%2BQuJMOywiX1NIuGyMn1j0S4VKE",
+                          "expected_products": 11,
+                          "isLeaf": true,
+                          "depth": 6,
+                          "path": [
+                            "Oficina y Papelería",
+                            "Todos los descuentos",
+                            "Productos de Papel para Oficina",
+                            "Cuadernos, Blocs de Notas y Diarios",
+                            "Borrar",
+                            "Bloc de Notas Tamaño Carta y Legal a Rayas"
+                          ],
+                          "status": "pending",
+                          "created_at": "2025-10-31T17:58:33.419Z"
+                        },
+                        {
+                          "name": "Blocs y Cuadernos de Notas",
+                          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A11601210011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933508&rnid=11601070011&ref=sr_nr_n_2&ds=v1%3AWshMPjhLqS1Vcw4HWiMhu1eas%2BfCpvxFN54wiW4IXC0",
+                          "expected_products": 19,
+                          "isLeaf": true,
+                          "depth": 6,
+                          "path": [
+                            "Oficina y Papelería",
+                            "Todos los descuentos",
+                            "Productos de Papel para Oficina",
+                            "Cuadernos, Blocs de Notas y Diarios",
+                            "Borrar",
+                            "Blocs y Cuadernos de Notas"
+                          ],
+                          "status": "pending",
+                          "created_at": "2025-10-31T17:58:36.251Z"
+                        },
+                        {
+                          "name": "Cuadernos",
+                          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A11601211011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933508&rnid=11601070011&ref=sr_nr_n_3&ds=v1%3ALRrwJKmwsrCeLC3A%2F8MUUJvQkjkoWaZlaf4k%2F64kx28",
+                          "expected_products": 11,
+                          "isLeaf": true,
+                          "depth": 6,
+                          "path": [
+                            "Oficina y Papelería",
+                            "Todos los descuentos",
+                            "Productos de Papel para Oficina",
+                            "Cuadernos, Blocs de Notas y Diarios",
+                            "Borrar",
+                            "Cuadernos"
+                          ],
+                          "status": "pending",
+                          "created_at": "2025-10-31T17:58:38.990Z"
+                        },
+                        {
+                          "name": "Cuadernos de Espiral",
+                          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A11601213011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933508&rnid=11601070011&ref=sr_nr_n_4&ds=v1%3Ab8iO%2BI2NtBdlYf8hvqIoBCDt62nmGpHxTpp0sw514kU",
+                          "expected_products": 83,
+                          "isLeaf": true,
+                          "depth": 6,
+                          "path": [
+                            "Oficina y Papelería",
+                            "Todos los descuentos",
+                            "Productos de Papel para Oficina",
+                            "Cuadernos, Blocs de Notas y Diarios",
+                            "Borrar",
+                            "Cuadernos de Espiral"
+                          ],
+                          "status": "pending",
+                          "created_at": "2025-10-31T17:58:41.767Z"
+                        },
+                        {
+                          "name": "Cuadernos Ejecutivos",
+                          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A43388055011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933508&rnid=11601070011&ref=sr_nr_n_5&ds=v1%3ANPjFwMcEIDmuXWX8SamGQ6i9fhlZe43QW0OH1B%2Fkfmg",
+                          "expected_products": 95,
+                          "isLeaf": true,
+                          "depth": 6,
+                          "path": [
+                            "Oficina y Papelería",
+                            "Todos los descuentos",
+                            "Productos de Papel para Oficina",
+                            "Cuadernos, Blocs de Notas y Diarios",
+                            "Borrar",
+                            "Cuadernos Ejecutivos"
+                          ],
+                          "status": "pending",
+                          "created_at": "2025-10-31T17:58:44.589Z"
+                        },
+                        {
+                          "name": "Meses sin Intereses",
+                          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933508&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3AP3fQBy4q9ZuMf2arZpF3uLPo7ZhY9Q%2BNq4B2PeCIYh0",
+                          "expected_products": 13,
+                          "isLeaf": true,
+                          "depth": 6,
+                          "path": [
+                            "Oficina y Papelería",
+                            "Todos los descuentos",
+                            "Productos de Papel para Oficina",
+                            "Cuadernos, Blocs de Notas y Diarios",
+                            "Borrar",
+                            "Meses sin Intereses"
+                          ],
+                          "status": "pending",
+                          "created_at": "2025-10-31T17:58:47.230Z"
+                        }
+                      ],
+                      "created_at": "2025-10-31T17:58:57.390Z"
+                    },
+                    {
+                      "name": "Meses sin Intereses",
+                      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cp_n_deal_type%3A23565478011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933491&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3A1ri5PGboNXPce3IQV7eyPCaqF5qKj0uSiWkC9GM%2Bnvg",
+                      "expected_products": 13,
+                      "isLeaf": true,
+                      "depth": 5,
+                      "path": [
+                        "Oficina y Papelería",
+                        "Todos los descuentos",
+                        "Productos de Papel para Oficina",
+                        "Cuadernos, Blocs de Notas y Diarios",
+                        "Meses sin Intereses"
+                      ],
+                      "status": "pending",
+                      "created_at": "2025-10-31T17:59:00.053Z"
+                    }
+                  ],
+                  "created_at": "2025-10-31T17:59:10.283Z"
+                },
+                {
+                  "name": "Papel",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601071011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933488&rnid=11601023011&ref=sr_nr_n_2&ds=v1%3AxvuqBWOENVYgmOUjFoJyN1rvPm0g8PJ0F9e1yIIHcQQ",
+                  "expected_products": 2,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Oficina y Papelería",
+                    "Todos los descuentos",
+                    "Productos de Papel para Oficina",
+                    "Papel"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T17:59:12.955Z"
+                },
+                {
+                  "name": "Tarjetas y Cartulinas",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601072011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933488&rnid=11601023011&ref=sr_nr_n_3&ds=v1%3AWybwkjzYZaeeBZg9VO80%2F5MBErZiEYgRZOkuUxx1GBQ",
+                  "expected_products": 14,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Oficina y Papelería",
+                    "Todos los descuentos",
+                    "Productos de Papel para Oficina",
+                    "Tarjetas y Cartulinas"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T17:59:15.677Z"
+                },
+                {
+                  "name": "Borrar",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933488&ref=sr_ex_p_n_deal_type_0&ds=v1%3As8U5zp89jtsnnY9DbbHhnW49sYLFPixb6YCbiJVXw2A",
+                  "expected_products": 452,
+                  "isLeaf": false,
+                  "depth": 4,
+                  "path": [
+                    "Oficina y Papelería",
+                    "Todos los descuentos",
+                    "Productos de Papel para Oficina",
+                    "Borrar"
+                  ],
+                  "status": "pending",
+                  "subcategories": [
+                    {
+                      "name": "Cuadernos, Blocs de Notas y Diarios",
+                      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933556&rnid=11601023011&ref=sr_nr_n_1&ds=v1%3AuMRzHKOKeBuCuPo98HqV1FB3X8FY8TxYU5LdZWDNB1M",
+                      "expected_products": 426,
+                      "isLeaf": false,
+                      "depth": 5,
+                      "path": [
+                        "Oficina y Papelería",
+                        "Todos los descuentos",
+                        "Productos de Papel para Oficina",
+                        "Borrar",
+                        "Cuadernos, Blocs de Notas y Diarios"
+                      ],
+                      "status": "pending",
+                      "subcategories": [
+                        {
+                          "name": "Bloc de Notas Tamaño Carta y Legal a Rayas",
+                          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A43388054011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933559&rnid=11601070011&ref=sr_nr_n_1&ds=v1%3AKVBs5iQwdiS4isos5DXjS0faVwyMHXDOpD1qMEVk5gg",
+                          "expected_products": 11,
+                          "isLeaf": true,
+                          "depth": 6,
+                          "path": [
+                            "Oficina y Papelería",
+                            "Todos los descuentos",
+                            "Productos de Papel para Oficina",
+                            "Borrar",
+                            "Cuadernos, Blocs de Notas y Diarios",
+                            "Bloc de Notas Tamaño Carta y Legal a Rayas"
+                          ],
+                          "status": "pending",
+                          "created_at": "2025-10-31T17:59:24.286Z"
+                        },
+                        {
+                          "name": "Blocs y Cuadernos de Notas",
+                          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A11601210011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933559&rnid=11601070011&ref=sr_nr_n_2&ds=v1%3AuEZByz5HoLZm%2B3c2EknjBW5I%2ByP7nkV7bBtsF7tybII",
+                          "expected_products": 19,
+                          "isLeaf": true,
+                          "depth": 6,
+                          "path": [
+                            "Oficina y Papelería",
+                            "Todos los descuentos",
+                            "Productos de Papel para Oficina",
+                            "Borrar",
+                            "Cuadernos, Blocs de Notas y Diarios",
+                            "Blocs y Cuadernos de Notas"
+                          ],
+                          "status": "pending",
+                          "created_at": "2025-10-31T17:59:27.090Z"
+                        },
+                        {
+                          "name": "Cuadernos",
+                          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A11601211011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933559&rnid=11601070011&ref=sr_nr_n_3&ds=v1%3AeX%2FqaFRJofbqw5iV5aPfZsXuJxH%2FHjpd0b32UgpoGUI",
+                          "expected_products": 11,
+                          "isLeaf": true,
+                          "depth": 6,
+                          "path": [
+                            "Oficina y Papelería",
+                            "Todos los descuentos",
+                            "Productos de Papel para Oficina",
+                            "Borrar",
+                            "Cuadernos, Blocs de Notas y Diarios",
+                            "Cuadernos"
+                          ],
+                          "status": "pending",
+                          "created_at": "2025-10-31T17:59:29.944Z"
+                        },
+                        {
+                          "name": "Cuadernos de Espiral",
+                          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A11601213011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933559&rnid=11601070011&ref=sr_nr_n_4&ds=v1%3ATpkMaztEY6mDo0RNqou5024%2FNAsqGxfNwsFJc9UEMfA",
+                          "expected_products": 83,
+                          "isLeaf": true,
+                          "depth": 6,
+                          "path": [
+                            "Oficina y Papelería",
+                            "Todos los descuentos",
+                            "Productos de Papel para Oficina",
+                            "Borrar",
+                            "Cuadernos, Blocs de Notas y Diarios",
+                            "Cuadernos de Espiral"
+                          ],
+                          "status": "pending",
+                          "created_at": "2025-10-31T17:59:32.864Z"
+                        },
+                        {
+                          "name": "Cuadernos Ejecutivos",
+                          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A43388055011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933559&rnid=11601070011&ref=sr_nr_n_5&ds=v1%3And5Vo6hwJ%2FZ76VqP3HzrgPuIrWXl5Eekif66t4S%2FIJ4",
+                          "expected_products": 95,
+                          "isLeaf": true,
+                          "depth": 6,
+                          "path": [
+                            "Oficina y Papelería",
+                            "Todos los descuentos",
+                            "Productos de Papel para Oficina",
+                            "Borrar",
+                            "Cuadernos, Blocs de Notas y Diarios",
+                            "Cuadernos Ejecutivos"
+                          ],
+                          "status": "pending",
+                          "created_at": "2025-10-31T17:59:35.614Z"
+                        },
+                        {
+                          "name": "Meses sin Intereses",
+                          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933559&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3Al367eZGJzDnOoODsTb4zrFuZlRwDqXy3dbhX2LpURl0",
+                          "expected_products": 13,
+                          "isLeaf": true,
+                          "depth": 6,
+                          "path": [
+                            "Oficina y Papelería",
+                            "Todos los descuentos",
+                            "Productos de Papel para Oficina",
+                            "Borrar",
+                            "Cuadernos, Blocs de Notas y Diarios",
+                            "Meses sin Intereses"
+                          ],
+                          "status": "pending",
+                          "created_at": "2025-10-31T17:59:38.421Z"
+                        }
+                      ],
+                      "created_at": "2025-10-31T17:59:48.672Z"
+                    },
+                    {
+                      "name": "Papel",
+                      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601071011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933556&rnid=11601023011&ref=sr_nr_n_2&ds=v1%3AxP%2FLGwA0CpGulvE34wjwjASpY5CkUAiv76GLCktlIL8",
+                      "expected_products": 2,
+                      "isLeaf": true,
+                      "depth": 5,
+                      "path": [
+                        "Oficina y Papelería",
+                        "Todos los descuentos",
+                        "Productos de Papel para Oficina",
+                        "Borrar",
+                        "Papel"
+                      ],
+                      "status": "pending",
+                      "created_at": "2025-10-31T17:59:51.381Z"
+                    },
+                    {
+                      "name": "Tarjetas y Cartulinas",
+                      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601072011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933556&rnid=11601023011&ref=sr_nr_n_3&ds=v1%3AXv0JUl3HhTv%2FPKIBN4cThqi657dEYRFaJBCB7ZpDW7w",
+                      "expected_products": 14,
+                      "isLeaf": true,
+                      "depth": 5,
+                      "path": [
+                        "Oficina y Papelería",
+                        "Todos los descuentos",
+                        "Productos de Papel para Oficina",
+                        "Borrar",
+                        "Tarjetas y Cartulinas"
+                      ],
+                      "status": "pending",
+                      "created_at": "2025-10-31T17:59:54.044Z"
+                    },
+                    {
+                      "name": "Meses sin Intereses",
+                      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933556&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3ANGj6esoQpktZIZtWfMB0YQgj%2FbhYRnNV%2FishbocqkI0",
+                      "expected_products": 13,
+                      "isLeaf": true,
+                      "depth": 5,
+                      "path": [
+                        "Oficina y Papelería",
+                        "Todos los descuentos",
+                        "Productos de Papel para Oficina",
+                        "Borrar",
+                        "Meses sin Intereses"
+                      ],
+                      "status": "pending",
+                      "created_at": "2025-10-31T17:59:56.827Z"
+                    }
+                  ],
+                  "created_at": "2025-10-31T18:00:04.646Z"
+                },
+                {
+                  "name": "Meses sin Intereses",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cp_n_deal_type%3A23565478011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933488&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3AuA3fgulm%2FOmvPcG6w0u0KY0igrLz0rA%2Fc5q%2FsxyxhxA",
+                  "expected_products": 13,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Oficina y Papelería",
+                    "Todos los descuentos",
+                    "Productos de Papel para Oficina",
+                    "Meses sin Intereses"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T18:00:07.359Z"
+                }
+              ],
+              "created_at": "2025-10-31T18:00:17.542Z"
+            },
+            {
+              "name": "Útiles Escolares",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11337434011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933474&rnid=9673844011&ref=sr_nr_n_6&ds=v1%3ADh5ZSqvJT%2FxsNHiZOcjoza5K6HapWzkxQUsYesja0Uc",
+              "expected_products": 10,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Oficina y Papelería",
+                "Todos los descuentos",
+                "Útiles Escolares"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-31T18:00:20.323Z"
+            },
+            {
+              "name": "Borrar",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933474&ref=sr_ex_p_n_deal_type_0&ds=v1%3AuljqhcIJCfJ7v5sH3TQ9%2F0YKE0mWYVcMrDSDcWgQvPk",
+              "expected_products": 768,
+              "isLeaf": false,
+              "depth": 3,
+              "path": [
+                "Oficina y Papelería",
+                "Todos los descuentos",
+                "Borrar"
+              ],
+              "status": "pending",
+              "subcategories": [
+                {
+                  "name": "Arte y Manualidades",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601016011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933620&rnid=9673844011&ref=sr_nr_n_1&ds=v1%3AYPg2x0fwxnqVVUyJzlF7txEDPSrBQUVtCjgf8unDC%2Bc",
+                  "expected_products": 2,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Oficina y Papelería",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Arte y Manualidades"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T18:00:25.918Z"
+                },
+                {
+                  "name": "Artículos de Oficina",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601017011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933620&rnid=9673844011&ref=sr_nr_n_2&ds=v1%3AzAVjoNb%2Bl2wx8u1sobWxnQr5pMi7bH8pIjlPsdV3p0g",
+                  "expected_products": 65,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Oficina y Papelería",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Artículos de Oficina"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T18:00:28.760Z"
+                },
+                {
+                  "name": "Calendarios, Agendas y Organizadores Personales",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601018011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933620&rnid=9673844011&ref=sr_nr_n_3&ds=v1%3AfdlNEZIl2uDFCv%2FRm7K%2BF5aKaP1Ze47mz3XPkI5gTUE",
+                  "expected_products": 41,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Oficina y Papelería",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Calendarios, Agendas y Organizadores Personales"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T18:00:31.544Z"
+                },
+                {
+                  "name": "Plumas, Lápices y Útiles de Escritura",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601022011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933620&rnid=9673844011&ref=sr_nr_n_4&ds=v1%3A0NxLzvyeIWBKFmsDrQ4wElkHsvrDCr2ImscMA0bpsl4",
+                  "expected_products": 45,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Oficina y Papelería",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Plumas, Lápices y Útiles de Escritura"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T18:00:34.362Z"
+                },
+                {
+                  "name": "Productos de Papel para Oficina",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933620&rnid=9673844011&ref=sr_nr_n_5&ds=v1%3A243M3YjQQ7BQ8X3wwxx2goqsULdQhgYgCMcuhCbAwwQ",
+                  "expected_products": 452,
+                  "isLeaf": false,
+                  "depth": 4,
+                  "path": [
+                    "Oficina y Papelería",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Productos de Papel para Oficina"
+                  ],
+                  "status": "pending",
+                  "subcategories": [
+                    {
+                      "name": "Cuadernos, Blocs de Notas y Diarios",
+                      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933634&rnid=11601023011&ref=sr_nr_n_1&ds=v1%3AVA%2FxnuJLrX%2BcdDd2IqzlPFXVhar8GwGc%2FjSgol%2FcXZw",
+                      "expected_products": 426,
+                      "isLeaf": false,
+                      "depth": 5,
+                      "path": [
+                        "Oficina y Papelería",
+                        "Todos los descuentos",
+                        "Borrar",
+                        "Productos de Papel para Oficina",
+                        "Cuadernos, Blocs de Notas y Diarios"
+                      ],
+                      "status": "pending",
+                      "subcategories": [
+                        {
+                          "name": "Bloc de Notas Tamaño Carta y Legal a Rayas",
+                          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A43388054011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933637&rnid=11601070011&ref=sr_nr_n_1&ds=v1%3A460T1ZOU%2FiJowl4MnXWIiQBe36QaGrqm3WmL6FEaMMM",
+                          "expected_products": 11,
+                          "isLeaf": true,
+                          "depth": 6,
+                          "path": [
+                            "Oficina y Papelería",
+                            "Todos los descuentos",
+                            "Borrar",
+                            "Productos de Papel para Oficina",
+                            "Cuadernos, Blocs de Notas y Diarios",
+                            "Bloc de Notas Tamaño Carta y Legal a Rayas"
+                          ],
+                          "status": "pending",
+                          "created_at": "2025-10-31T18:00:42.681Z"
+                        },
+                        {
+                          "name": "Blocs y Cuadernos de Notas",
+                          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A11601210011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933637&rnid=11601070011&ref=sr_nr_n_2&ds=v1%3AiCGNzIJCM1IfVoPTKaeJ2AbYof3SVA2JHOUDFLPJYQ0",
+                          "expected_products": 19,
+                          "isLeaf": true,
+                          "depth": 6,
+                          "path": [
+                            "Oficina y Papelería",
+                            "Todos los descuentos",
+                            "Borrar",
+                            "Productos de Papel para Oficina",
+                            "Cuadernos, Blocs de Notas y Diarios",
+                            "Blocs y Cuadernos de Notas"
+                          ],
+                          "status": "pending",
+                          "created_at": "2025-10-31T18:00:45.526Z"
+                        },
+                        {
+                          "name": "Cuadernos",
+                          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A11601211011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933637&rnid=11601070011&ref=sr_nr_n_3&ds=v1%3AXdRhoQ59FqyCaWNyCcCjnlbk%2B2utInvjPvQXMwvwG50",
+                          "expected_products": 11,
+                          "isLeaf": true,
+                          "depth": 6,
+                          "path": [
+                            "Oficina y Papelería",
+                            "Todos los descuentos",
+                            "Borrar",
+                            "Productos de Papel para Oficina",
+                            "Cuadernos, Blocs de Notas y Diarios",
+                            "Cuadernos"
+                          ],
+                          "status": "pending",
+                          "created_at": "2025-10-31T18:00:48.258Z"
+                        },
+                        {
+                          "name": "Cuadernos de Espiral",
+                          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A11601213011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933637&rnid=11601070011&ref=sr_nr_n_4&ds=v1%3AtsucFjeDN%2BM8znte8bFqc%2FVLbvFpHtvDhPy0FjymFbs",
+                          "expected_products": 83,
+                          "isLeaf": true,
+                          "depth": 6,
+                          "path": [
+                            "Oficina y Papelería",
+                            "Todos los descuentos",
+                            "Borrar",
+                            "Productos de Papel para Oficina",
+                            "Cuadernos, Blocs de Notas y Diarios",
+                            "Cuadernos de Espiral"
+                          ],
+                          "status": "pending",
+                          "created_at": "2025-10-31T18:00:51.069Z"
+                        },
+                        {
+                          "name": "Cuadernos Ejecutivos",
+                          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601070011%2Cn%3A43388055011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933637&rnid=11601070011&ref=sr_nr_n_5&ds=v1%3AcIxGie3tnJiGu8yp0Fcb5yeNiBobsGlC1GoZr9D06Ag",
+                          "expected_products": 95,
+                          "isLeaf": true,
+                          "depth": 6,
+                          "path": [
+                            "Oficina y Papelería",
+                            "Todos los descuentos",
+                            "Borrar",
+                            "Productos de Papel para Oficina",
+                            "Cuadernos, Blocs de Notas y Diarios",
+                            "Cuadernos Ejecutivos"
+                          ],
+                          "status": "pending",
+                          "created_at": "2025-10-31T18:00:53.819Z"
+                        },
+                        {
+                          "name": "Meses sin Intereses",
+                          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933637&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3AuwPTsCeqecmo6vkAyhIkMcmrkPamGphn2%2FKRUYY3QU8",
+                          "expected_products": 13,
+                          "isLeaf": true,
+                          "depth": 6,
+                          "path": [
+                            "Oficina y Papelería",
+                            "Todos los descuentos",
+                            "Borrar",
+                            "Productos de Papel para Oficina",
+                            "Cuadernos, Blocs de Notas y Diarios",
+                            "Meses sin Intereses"
+                          ],
+                          "status": "pending",
+                          "created_at": "2025-10-31T18:00:56.532Z"
+                        }
+                      ],
+                      "created_at": "2025-10-31T18:01:06.859Z"
+                    },
+                    {
+                      "name": "Papel",
+                      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601071011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933634&rnid=11601023011&ref=sr_nr_n_2&ds=v1%3AxciHEhIcWijwyAsz3lN3UjdkkLqq3q0LhQp4g6Hnkzw",
+                      "expected_products": 2,
+                      "isLeaf": true,
+                      "depth": 5,
+                      "path": [
+                        "Oficina y Papelería",
+                        "Todos los descuentos",
+                        "Borrar",
+                        "Productos de Papel para Oficina",
+                        "Papel"
+                      ],
+                      "status": "pending",
+                      "created_at": "2025-10-31T18:01:09.679Z"
+                    },
+                    {
+                      "name": "Tarjetas y Cartulinas",
+                      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11601023011%2Cn%3A11601072011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933634&rnid=11601023011&ref=sr_nr_n_3&ds=v1%3AiU1kF1caxpATUeyl9aIOBhXuLA2XvFwKfU56a4M%2FVi0",
+                      "expected_products": 14,
+                      "isLeaf": true,
+                      "depth": 5,
+                      "path": [
+                        "Oficina y Papelería",
+                        "Todos los descuentos",
+                        "Borrar",
+                        "Productos de Papel para Oficina",
+                        "Tarjetas y Cartulinas"
+                      ],
+                      "status": "pending",
+                      "created_at": "2025-10-31T18:01:12.527Z"
+                    },
+                    {
+                      "name": "Meses sin Intereses",
+                      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933634&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3AsPyaXOWMCBD%2Bcm7NmMf8nPDRL%2FSsYG9649SYK9lMfKs",
+                      "expected_products": 13,
+                      "isLeaf": true,
+                      "depth": 5,
+                      "path": [
+                        "Oficina y Papelería",
+                        "Todos los descuentos",
+                        "Borrar",
+                        "Productos de Papel para Oficina",
+                        "Meses sin Intereses"
+                      ],
+                      "status": "pending",
+                      "created_at": "2025-10-31T18:01:15.254Z"
+                    }
+                  ],
+                  "created_at": "2025-10-31T18:01:22.942Z"
+                },
+                {
+                  "name": "Útiles Escolares",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cn%3A11337434011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933620&rnid=9673844011&ref=sr_nr_n_6&ds=v1%3AZXXaVOXFSt8gWG2opLhmL4tAIJrfiTIScAND1KLS6iw",
+                  "expected_products": 10,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Oficina y Papelería",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Útiles Escolares"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T18:01:25.684Z"
+                },
+                {
+                  "name": "Meses sin Intereses",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933620&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3A2OH9VqeTs05KpPBEfvuG7goVSqbO1P%2FMIOViHMwc1L8",
+                  "expected_products": 13,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Oficina y Papelería",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Meses sin Intereses"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T18:01:28.463Z"
+                }
+              ],
+              "created_at": "2025-10-31T18:01:36.117Z"
+            },
+            {
+              "name": "Meses sin Intereses",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cp_n_deal_type%3A23565478011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933474&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3ACSs317y1yx6FpYKRnfnzrxY2UCl2JtabZS0ZoG8EPO8",
+              "expected_products": 13,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Oficina y Papelería",
+                "Todos los descuentos",
+                "Meses sin Intereses"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-31T18:01:38.826Z"
+            }
+          ],
+          "created_at": "2025-10-31T18:01:43.898Z"
+        },
+        {
+          "name": "Meses sin Intereses",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9673844011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933222&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3AA88Ctwbhq5%2FyMrXt646URFBpayvaXsIL1xvLk46FH2g",
+          "expected_products": 13,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Oficina y Papelería",
+            "Meses sin Intereses"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-31T18:01:46.558Z"
+        }
+      ],
+      "created_at": "2025-10-31T18:01:54.625Z"
+    }
+  ]
+}

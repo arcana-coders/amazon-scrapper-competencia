@@ -1,0 +1,793 @@
+{
+  "metadata": {
+    "seller_id": "A27UCZ6SHTD3J2",
+    "seller_url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A9673844011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761766132&rnid=15997893011&ref=sr_nr_n_13&ds=v1%3AQXvr4wddDAoR1qOPavVG8Cl8gYV5elPs8z6fGYVFyeI",
+    "category_name": "Oficina y Papelería",
+    "total_products": 130,
+    "pages_processed": 9,
+    "extraction_date": "2025-10-29T22:19:23.032Z",
+    "script_version": "1.0"
+  },
+  "products": [
+    {
+      "asin": "B0FF9WVDBV",
+      "title": "057H 057 Cartucho de tóner negro con chip de repuesto de alto rendimiento para Canon 057 CRG-057 057H compatible con Canon ImageCLASS MF445dw MF448dw LBP226dw LBP227dw LBP228dw MF449dw MF445 impresora",
+      "price": "$1,249.89",
+      "extracted_at": "2025-10-29T22:17:44.639Z"
+    },
+    {
+      "asin": "B0CFPZ2FSX",
+      "title": "Maxhoo - Funda de lona encerada para cuaderno Moleskine Cahier, con bolsillo con cierre, para planificador, cuaderno de bocetos, plumas, 9 x 14 cm, oliva",
+      "price": "$644.57",
+      "extracted_at": "2025-10-29T22:17:44.639Z"
+    },
+    {
+      "asin": "1952970776",
+      "title": "Learning Without Tears - My Printing Book Student Workbook, edición actual - Serie de escritura a mano sin lágrimas - Libro de escritura de primer grado - Letras, lecciones de artes de idiomas - para uso escolar o doméstico",
+      "price": "$636.92",
+      "extracted_at": "2025-10-29T22:17:44.639Z"
+    },
+    {
+      "asin": "B0CJL2X9W7",
+      "title": "PEGZONE Modular Headphone and Controller Holder for Game, Clamp-on Pegboard, Rotatable Controller Stand with Cable Hooks, Gaming Accessory for Xbox PS5 PS4 Nintendo Switch, 3Pcs Pegboard, Red",
+      "price": "$872.96",
+      "extracted_at": "2025-10-29T22:17:44.639Z"
+    },
+    {
+      "asin": "B0CNRDGTJ5",
+      "title": "TILYTADLY - Estuche grande para lápices para niños - Estuche para lápices con compartimentos con cierre - Caja para bolígrafos de gran capacidad para niños, adolescentes y escuelas",
+      "price": "$616.02",
+      "extracted_at": "2025-10-29T22:17:44.639Z"
+    },
+    {
+      "asin": "B0DGXSR1ZM",
+      "title": "245XL 246XL Cartuchos de tinta para Canon Ink 245 246 PG-245XL CL-246XL Cartuchos de tinta para Canon Pixma MX490 MX492 MG2522 MG2420 MG2924 MG3022 TS3120 TS3320 TSTS3122 TS2 TR4500 TR4520 (negro,",
+      "price": "$979.84",
+      "extracted_at": "2025-10-29T22:17:44.639Z"
+    },
+    {
+      "asin": "B0DBH7W6YL",
+      "title": "Bloc de notas de 3 x 5 pulgadas, paquete de 10 bloc de notas en blanco, 50 hojas por rasguño para listas de compras de comestibles, papel blanco pequeño para escribir notas rápidas, trabajo en casa",
+      "price": "$457.51",
+      "extracted_at": "2025-10-29T22:17:44.639Z"
+    },
+    {
+      "asin": "B0F1YKRT85",
+      "title": "Paquete combinado de cartuchos de tinta 4Benefit 934 y 935 compatibles con HP 934XL 935XL Trabajar con HP Officejet Pro 6830 6230 6835 6812 6815 6820 6220 6800-2B2C2M2Y",
+      "price": "$586.01",
+      "extracted_at": "2025-10-29T22:17:44.639Z"
+    },
+    {
+      "asin": "B0D66PLNSH",
+      "title": "WtallasiSei - Estuche para lápices con cierre, organizador de computadora para niños y niñas, escuela y oficina",
+      "price": "$574.98",
+      "extracted_at": "2025-10-29T22:17:44.639Z"
+    },
+    {
+      "asin": "B0DNK9RDPD",
+      "title": "LiTuhorse 215 Cartuchos de tinta remanufacturados de repuesto para impresora móvil WF-100 WF-110 EC-C110, T215120-S T215530-S T215 C/M/Y/K BCS (paquete de 5: 3 negros, 2 tricolores)",
+      "price": "$898.32",
+      "extracted_at": "2025-10-29T22:17:44.640Z"
+    },
+    {
+      "asin": "B0CRLC59G4",
+      "title": "Libro de recetas perfecto en blanco, libro de recetas para escribir en tus propias recetas, organizar tus recetas, cubierta impermeable y 186 páginas en blanco (verde primavera)",
+      "price": "$389.42",
+      "extracted_at": "2025-10-29T22:17:44.640Z"
+    },
+    {
+      "asin": "B0BZQ4HSPD",
+      "title": "ERTMU Estuche de gran capacidad para lápices estéticos multiusos",
+      "price": "$611.11",
+      "extracted_at": "2025-10-29T22:17:44.640Z"
+    },
+    {
+      "asin": "B0DQWZ37LL",
+      "title": "138A W1380A Juego de 2 cartuchos de tóner negro de alto rendimiento con chip de repuesto para HP 138A W1380A 138X W1380X Cartucho compatible con HP Laser Jet Pro 3001dw 3001fdw MFP 3101fdw Series",
+      "price": "$1,483.68",
+      "extracted_at": "2025-10-29T22:17:44.640Z"
+    },
+    {
+      "asin": "B0CG2LPFHD",
+      "title": "MEMO Whiteboard Wallet - Mini Cuaderno de Bolsillo y Cartera de Aluminio con Bloqueo RFID - Bloc de Notas de Borrado en Seco con 6 Ranuras para Tarjetas, Bolígrafo y Cierre Magnético - Negro Carbón",
+      "price": "$2,382.45",
+      "extracted_at": "2025-10-29T22:17:44.640Z"
+    },
+    {
+      "asin": "B0BRQ8CFMF",
+      "title": "Fustylead - Estuche grande de serpiente verde minimalista, bolsa de papelería portátil, bolsa de cosméticos con asa para escuela secundaria, escuela, oficina, viajes",
+      "price": "$698.63",
+      "extracted_at": "2025-10-29T22:17:44.640Z"
+    },
+    {
+      "asin": "B0F12MPKVT",
+      "title": "Dispowreath - Carpeta colgante de 24 archivos con organizador de acrílico para tamaño carta/A4, caja de almacenamiento de archivos transparente de escritorio con asas (neutro, clásico)",
+      "price": "$1,341.54",
+      "extracted_at": "2025-10-29T22:17:44.640Z"
+    },
+    {
+      "asin": "B09VGRBRLN",
+      "title": "Cuaderno pequeño a granel, paquete de 60, tamaño A6 (10.7 x 13.9 cm), mini cuadernos para bocetos en blanco, cubierta colorida, diarios de bolsillo sin forro para niños, bloc de notas de dibujo, 30 hojas/60 páginas.",
+      "price": "$1,009.68",
+      "extracted_at": "2025-10-29T22:17:58.576Z"
+    },
+    {
+      "asin": "B0CZCYXSSZ",
+      "title": "PG-243XL/CL-244XL - Cartuchos de tinta de repuesto para Canon 243XL 244XL Combo Pack para impresoras Pixma TR4520 TS3322 TR4522 TS3122 MG2520 MG2522 MG2922 MX490 MX492 (1 negro+1 color)",
+      "price": "$919.92",
+      "extracted_at": "2025-10-29T22:17:58.576Z"
+    },
+    {
+      "asin": "B09YVL9SYC",
+      "title": "NOMVDIC X300 Proyector Portátil Inteligente, Harman Kardon Altavoces de 16W, Proyector de Video FHD 1080P, Proyector de Películas al Aire Libre de 300 ANSI, WiFi y BT Inalámbricos",
+      "price": "$2,374.87",
+      "extracted_at": "2025-10-29T22:17:58.576Z"
+    },
+    {
+      "asin": "B0DS5X8Z5P",
+      "title": "Epakh - 72 piezas de regalo cristiano español a granel para iglesia, cuaderno religioso, versículo bíblico, llavero con escritura inspiradora para mujeres y hombres, regalo de fiesta de bautismo en la",
+      "price": "$982.67",
+      "extracted_at": "2025-10-29T22:17:58.576Z"
+    },
+    {
+      "asin": "B0BLTQ863X",
+      "title": "Urhomefull - Impresionante bolígrafo de lujo con ribete de oro de 24 quilates, punta de Suiza con recambios de tinta negra, regalo perfecto para hombres y mujeres, juego de escritura elegante para",
+      "price": "$924.37",
+      "extracted_at": "2025-10-29T22:17:58.576Z"
+    },
+    {
+      "asin": "B0CH2Z9D3H",
+      "title": "Ansopu - Cuaderno B5 de papel cuadriculado con tapa dura de piel sintética, 360 páginas numeradas, papel grueso cuadriculado de 100 g/m², para escribir, para mujer y hombre, 19 x 25.5 cm, rosa",
+      "price": "$784.80",
+      "extracted_at": "2025-10-29T22:17:58.576Z"
+    },
+    {
+      "asin": "B0DL5H11XR",
+      "title": "63XL para HP Ink 63 HP 63XL Cartuchos de tinta para HP Envy 4520 4510 4512 Officejet 3830 4650 5258 5255 5200 4655 4650 Deskjet 1110 2130 3630 impresora negra y Alto YiYiYiYiYiYiYield",
+      "price": "$946.11",
+      "extracted_at": "2025-10-29T22:17:58.576Z"
+    },
+    {
+      "asin": "B0F62THJ9X",
+      "title": "PigPotParty - pizarrón blanca magnética de acrílico para hacer lista para refrigerador, tablero de borrado en seco transparente de 12 x 9.5 pulgadas, lista de comestibles para nevera, lista de",
+      "price": "$634.09",
+      "extracted_at": "2025-10-29T22:17:58.576Z"
+    },
+    {
+      "asin": "B0CSG9FLQP",
+      "title": "El sistema de aprendizaje de Jun Yuh | Tu herramienta diaria para una experiencia de aprendizaje transformada | Descubre el éxito académico | Negro",
+      "price": "$1,346.24",
+      "extracted_at": "2025-10-29T22:17:58.576Z"
+    },
+    {
+      "asin": "B0DYXQM8G8",
+      "title": "Dashspark Bible Study Kit - Bible Journaling Supplies Kit for Women - Highlighters and Pens with Aesthetic Journal Notebook",
+      "price": "$673.34",
+      "extracted_at": "2025-10-29T22:17:58.577Z"
+    },
+    {
+      "asin": "B0BVH199DL",
+      "title": "BLUMOST - Cuaderno de cuadrícula de puntos de bala A5 con 280 páginas, papel de puntos grueso de 100 g/m², diario de piel con puntos de tapa dura para mujeres y hombres, 5.75 x 8.38 pulgadas, color",
+      "price": "$604.29",
+      "extracted_at": "2025-10-29T22:17:58.577Z"
+    },
+    {
+      "asin": "B0DQXWX9SJ",
+      "title": "&And Per Se - Cuaderno de diario con puntos de bala, tapa dura de piel A5, 176 páginas numeradas de papel de puntos de grosor de 100 g/m², 2 hojas de plantillas incluidas, 5.7 x 8 pulgadas (azul",
+      "price": "$550.00",
+      "extracted_at": "2025-10-29T22:17:58.577Z"
+    },
+    {
+      "asin": "B0CWNYKFHS",
+      "title": "Swillood - Funda para planificador A5, funda de piel para cuaderno, diario, accesorios de planificador con ranuras para tarjetas, soporte para bolígrafos, pestañas de índice de calendario, marcador y",
+      "price": "$725.13",
+      "extracted_at": "2025-10-29T22:17:58.577Z"
+    },
+    {
+      "asin": "B0DQXW63Q2",
+      "title": "And Per Se - Cuaderno de diario con puntos, tapa dura de cuero A5, 176 páginas numeradas de papel de puntos de grosor de 100 g/m², 2 hojas de plantillas incluidas, 5.7 x 8 pulgadas (lavanda claro)",
+      "price": "$526.55",
+      "extracted_at": "2025-10-29T22:17:58.577Z"
+    },
+    {
+      "asin": "B0BLTRJT3B",
+      "title": "Urhomefull Impresionante bolígrafo de lujo con ribete de oro de 24 quilates, punta de Suiza con recambios de tinta negra, juego de regalo perfecto para hombres y mujeres, juego de escritura elegante para negocios, negro brillante",
+      "price": "$927.38",
+      "extracted_at": "2025-10-29T22:17:58.577Z"
+    },
+    {
+      "asin": "B0C53BC1SQ",
+      "title": "Fulmoon - 100 cuadernos motivacionales a granel para empleados, bloc de notas de bolsillo pequeño, mini diario, regalos de equipo, para apreciación de los empleados, uso en la oficina (café)",
+      "price": "$879.24",
+      "extracted_at": "2025-10-29T22:17:58.577Z"
+    },
+    {
+      "asin": "B0CNTG2SSX",
+      "title": "GUBFFON 552 - Botella de tinta de repuesto de 600 ml para impresora EcoTank Photo ET-8550 ET-8500 de alta capacidad, paquete de 6 (no tinta de sublimación)",
+      "price": "$815.19",
+      "extracted_at": "2025-10-29T22:18:06.245Z"
+    },
+    {
+      "asin": "B0F9LHCX75",
+      "title": "Cuaderno de diario forrado para mujeres y hombres, diario de piel de tapa dura para escribir, cuaderno A5 con rayas universitarias para trabajo y toma de notas, perfecto para suministros de oficina",
+      "price": "$572.59",
+      "extracted_at": "2025-10-29T22:18:06.245Z"
+    },
+    {
+      "asin": "B0D18WRZSG",
+      "title": "Adi+Isla 100 First Foods Chart & Weekly Meal Planner Magnetic Checklist Baby Solid Food Tracker | 101 Antes de un bebé Led Destete Alimentación Esencial para más de 6 meses con 3 marcadores de",
+      "price": "$749.40",
+      "extracted_at": "2025-10-29T22:18:06.245Z"
+    },
+    {
+      "asin": "B0F47VVC6F",
+      "title": "PRSTENLY - Regalo de jubilación para mujer, regalos de jubilación para mujeres, maestras, amigas, enfermera, jefe, jubilado, despedida, despedida, regalos para compañeros de trabajo, diario de piel de",
+      "price": "$503.76",
+      "extracted_at": "2025-10-29T22:18:06.245Z"
+    },
+    {
+      "asin": "B0F79L3CTB",
+      "title": "Dispowreath - Carpeta colgante de 24 archivos con organizador de acrílico para tamaño carta/A4, caja de almacenamiento de archivos transparente de escritorio con asas (verde, clásico)",
+      "price": "$1,357.61",
+      "extracted_at": "2025-10-29T22:18:06.245Z"
+    },
+    {
+      "asin": "B07HY9L49R",
+      "title": "PALOMINO Blackwing 602 - Lápiz suave original, 12 unidades (1 docena) arte gris, borrador, instrumento de escritura",
+      "price": "$1,224.46",
+      "extracted_at": "2025-10-29T22:18:06.245Z"
+    },
+    {
+      "asin": "B0F2YYJQSD",
+      "title": "Cuaderno forrado de 365 páginas, diario de piel A5 para escribir mujeres y hombres, cuaderno de tapa dura con papel grueso de 100 g/m², cuaderno diario diario para viajes, trabajo, escuela, toma de",
+      "price": "$634.30",
+      "extracted_at": "2025-10-29T22:18:06.245Z"
+    },
+    {
+      "asin": "B0DB5FSM7P",
+      "title": "Nuvograin - Prensa de libros de madera, 11.6 x 7.9 pulgadas de bambú para encuadernación de libros, encuadernación portátil, prensa manual de papel y herramientas de inicio para suministros de",
+      "price": "$1,048.04",
+      "extracted_at": "2025-10-29T22:18:06.246Z"
+    },
+    {
+      "asin": "B0F12KQFN5",
+      "title": "Cuaderno de diario en espiral con forro, A5 de tapa dura en espiral para mujeres y hombres, 150 páginas numeradas en espiral, cuadernos de 100 g/m² con rayas universitarias para escribir notas, tomar",
+      "price": "$452.24",
+      "extracted_at": "2025-10-29T22:18:06.246Z"
+    },
+    {
+      "asin": "B0CKMGLR9J",
+      "title": "NELKO - Cinta para etiquetadora P21 original, papel de impresión de etiquetas adaptado, 14 x 40 mm, reemplazo de etiquetado laminado estándar, 180 cintas/rollo, 3 rollo, blanco/azul claro/rosa",
+      "price": "$642.48",
+      "extracted_at": "2025-10-29T22:18:06.246Z"
+    },
+    {
+      "asin": "B0DWDPM6ZC",
+      "title": "EGOSUNNY - Agenda A5 sin fecha: cubierta de piel texturizado de cocodrilo de 5.8 x 8.3 pulgadas, carpeta recargable de 6 anillos con 80 hojas, divisores y bolígrafo de metal, organizador de diario",
+      "price": "$1,277.81",
+      "extracted_at": "2025-10-29T22:18:06.246Z"
+    },
+    {
+      "asin": "B0CBZQ2QDY",
+      "title": "WeekMinder® Memento Mori, calendario de vida en semanas, póster de 90 años de mi vida en 4000 semanas, calendario estoico motivacional para desarrollar hábitos en 4K, (madera de abedul báltico,",
+      "price": "$1,210.26",
+      "extracted_at": "2025-10-29T22:18:06.246Z"
+    },
+    {
+      "asin": "B0DTYDXLQ9",
+      "title": "&And Per Se - Cuaderno de diario forrado (10 paquetes), 160 páginas, A5 de 5.7 x 8 pulgadas, cuaderno de papel grueso con rayas universitarias para escribir, cuadernos de tapa dura para mujeres",
+      "price": "$1,345.09",
+      "extracted_at": "2025-10-29T22:18:06.246Z"
+    },
+    {
+      "asin": "B0FGPC294G",
+      "title": "PFI-030 Kit de depósito de tinta pigmentada, 5 unidades, 55 ml, repuesto de alta capacidad para cartuchos de tinta Canon PFI-030 PFI030, compatible con Canon imagePROGRAF TA-20 TA-30 TM-240 TM-340",
+      "price": "$3,440.31",
+      "extracted_at": "2025-10-29T22:18:06.246Z"
+    },
+    {
+      "asin": "B0DSVVQ5QZ",
+      "title": "Wheatwin - Cuaderno de vaquera, suministros de oficina occidental, cosas occidentales para mujeres, regalos retro de vaca occidental, cuaderno espiral de tapa dura con rayas universitarias 5.5 x 8.3",
+      "price": "$573.12",
+      "extracted_at": "2025-10-29T22:18:06.246Z"
+    },
+    {
+      "asin": "B0DHGY2GRH",
+      "title": "Cinta adhesiva para Sonny Baby – 108 almohadillas para orejas adhesivas de doble cara con pegamento transparente para masilla de repuesto de Sonny",
+      "price": "$412.61",
+      "extracted_at": "2025-10-29T22:18:06.246Z"
+    },
+    {
+      "asin": "B0CYLT4BNQ",
+      "title": "LAIPENG 070H CRG070H CRG-070H 070 H (070 CRG070) Cartucho de tóner de alta capacidad 10200 páginas compatible con Canon imageCLASS MF465dw MF461dw MF462dw LBP243dw LBP246dw LBP247dw",
+      "price": "$1,040.55",
+      "extracted_at": "2025-10-29T22:18:18.323Z"
+    },
+    {
+      "asin": "B0DKDQ99KT",
+      "title": "Velaris City of Starlight - Diario de piel sintética Velaris City of Starlight, libro de regalo para amantes de los libros, cuaderno de velaris, cuaderno de 320 páginas con bolígrafo, 1 paquete azul",
+      "price": "$714.71",
+      "extracted_at": "2025-10-29T22:18:18.323Z"
+    },
+    {
+      "asin": "B0D3PP5YK7",
+      "title": "Solinxe Organizador de archivos de pared de 10 niveles, organizador de correo de madera, soporte para revistas, portapapeles colgantes, cesta de almacenamiento con bandeja para oficina, hogar, escuela",
+      "price": "$1,441.03",
+      "extracted_at": "2025-10-29T22:18:18.324Z"
+    },
+    {
+      "asin": "B0DJPJ6LT2",
+      "title": "20 Set Employee Appreciation Gift Inspirational Weekly Planners Notebook with Sticky Note Ballpoint Pen Bulk Thank You Gift for Vet Tech Coworker Teacher Team Worker Medical Assistant(Bright Color)",
+      "price": "$946.38",
+      "extracted_at": "2025-10-29T22:18:18.324Z"
+    },
+    {
+      "asin": "B0DHCJRSWP",
+      "title": "LC401XL LC401 - Cartuchos de tinta compatibles con cartuchos de tinta Brother LC401 XL para usar con Brother MFC-J1010DW MFC-J1012DW MFC-J1170DW Ink 401 (5 unidades, 2 negras, 1 cian, 1 magenta 1",
+      "price": "$734.96",
+      "extracted_at": "2025-10-29T22:18:18.324Z"
+    },
+    {
+      "asin": "B0CYPS8JJ6",
+      "title": "STAGEEK - Juego de 21 lápices mecánicos de metal, 0.3, 0.5, 0.7, 0.9, soporte de 2 mm (HB 2H 2B 4B) con 10 tubos de repuesto de plomo de grafito con estuche para dibujo y bocetos",
+      "price": "$568.76",
+      "extracted_at": "2025-10-29T22:18:18.324Z"
+    },
+    {
+      "asin": "B0DGQB55DK",
+      "title": "NOLTY Business - Agenda básica A5 semanal 2025, edición china, camel",
+      "price": "$544.44",
+      "extracted_at": "2025-10-29T22:18:18.324Z"
+    },
+    {
+      "asin": "B0CCNLMN7C",
+      "title": "Ludery - Soporte de pared acrílico para letreros de 4 x 6 pulgadas, marco de pared transparente con cinta adhesiva de doble cara para oficina, hogar, tienda, restaurante, sin perforaciones, horizontal (paquete de 6)",
+      "price": "$524.32",
+      "extracted_at": "2025-10-29T22:18:18.324Z"
+    },
+    {
+      "asin": "B0BV6CJB3B",
+      "title": "SPLENDIDCOLOR Cartucho de tóner remanufacturado TK5442 TK5442 TK-5442 Cartucho de tóner de repuesto para impresoras láser Kyocera ECOSYS MA2100cwfx y PA2100cwx",
+      "price": "$2,239.04",
+      "extracted_at": "2025-10-29T22:18:18.324Z"
+    },
+    {
+      "asin": "B0DD441CTD",
+      "title": "LBWCER Boss Appreciation Gift Mentor Gift Notebook Great Leaders Notebook Leader Supervisor PM Mentor Retirement Gift Coworker Farewell Leather Journal Notebooks (Great gray)",
+      "price": "$662.12",
+      "extracted_at": "2025-10-29T22:18:18.324Z"
+    },
+    {
+      "asin": "B0DBTLKK45",
+      "title": "Calendario acrílico clásico para pared, tamaño grande, calendario de vidrio transparente para oficina en casa, pizarrón blanca grande, reutilizable, agenda familiar grande, 9 marcadores de gis líquida",
+      "price": "$1,727.40",
+      "extracted_at": "2025-10-29T22:18:18.324Z"
+    },
+    {
+      "asin": "B0D8HVNBKL",
+      "title": "Mini cuadernos cuadrados pequeños de 5 x 5 pulgadas, 80 g/m², páginas en blanco, cuadernos de bocetos de viaje, bolsillo de tapa dura, cuaderno de escritura, diario en blanco, planificador de notas,",
+      "price": "$508.97",
+      "extracted_at": "2025-10-29T22:18:18.325Z"
+    },
+    {
+      "asin": "B0DNSQ4DDV",
+      "title": "Paquete de 10 cartuchos de tinta de repuesto para Canon PGI 280XXL CLI 281XXL 280XL 281XL TR8620a TR8620 TR8520 TR8600 TR7520 TS702a TS9520 TS9521C TS6120 TS6222 0 TS9120 TS6320 TS8220",
+      "price": "$773.48",
+      "extracted_at": "2025-10-29T22:18:18.325Z"
+    },
+    {
+      "asin": "B0D78HTQSS",
+      "title": "MINICAGIE - Diario de piel para hombre, cubierta suave, 256 páginas, diarios forrados para escribir cuadernos de león A5, diario inspirador clásico, 5.7 x 8.3 pulgadas, verde",
+      "price": "$670.29",
+      "extracted_at": "2025-10-29T22:18:18.325Z"
+    },
+    {
+      "asin": "B0DXPTBJWG",
+      "title": "Cartuchos de tóner compatibles TN229XL TN229 para MFC-L3780CDW HL-3280CDW de repuesto con impresoras Brother TN229XL TN-229XL TN-229 229XL Funciona con impresoras MFC-L3720CDW HL-L3220CDW HL-L3300CDW",
+      "price": "$1,559.01",
+      "extracted_at": "2025-10-29T22:18:18.325Z"
+    },
+    {
+      "asin": "B09C23T58X",
+      "title": "INK4U - Cartuchos de tinta LC75 compatibles con Brother LC75 LC71 LC79 XL para impresora MFC-J6510DW MFC-J6710DW MFC-J6910DW MFC-J280W MFC-J425W MFC-J430W (5 negras, 3 cian, 3 magenta, 3 amarillos, 14",
+      "price": "$703.90",
+      "extracted_at": "2025-10-29T22:18:18.325Z"
+    },
+    {
+      "asin": "B0D412W1JS",
+      "title": "30 piezas de regalos de la semana de veterinario técnico, mini cuaderno motivacional, pequeños diarios inspiradores a granel para mujeres, hombres, jefes, enfermeras, personal de gestión de casos",
+      "price": "$540.93",
+      "extracted_at": "2025-10-29T22:18:32.271Z"
+    },
+    {
+      "asin": "B0CNKKFMJ7",
+      "title": "Chivertion - Juego de 24 lápices mágicos con tarjetas de mago para baby shower, Halloween, cumpleaños y más",
+      "price": "$866.27",
+      "extracted_at": "2025-10-29T22:18:32.271Z"
+    },
+    {
+      "asin": "B0D1CRJK65",
+      "title": "ZUIMER 3Pack Pocket Notebook Small Notebook Journal Notebook 4 inches x 5.7 inches 200 Pages Leather Cover With Pen Holder Page Marker Ribbons (Black*3)",
+      "price": "$428.40",
+      "extracted_at": "2025-10-29T22:18:32.271Z"
+    },
+    {
+      "asin": "B0DG61GLY5",
+      "title": "Fippy - Kit de accesorios para casillero, organizador de casilleros con estante de casillero, pizarrón blanca, marcador de borrado en seco, espejo, imán, decoración de clóset escolar para niñas (rosa)",
+      "price": "$796.53",
+      "extracted_at": "2025-10-29T22:18:32.271Z"
+    },
+    {
+      "asin": "B0CYLPCPLP",
+      "title": "Diario en relieve de ojo de dragón 3D, cuaderno de grabado de resina, cuaderno Dnd para amantes del dragón, 100 hojas de papel en blanco, bloc de notas de viaje de tapa dura para escribir, cuaderno de",
+      "price": "$979.05",
+      "extracted_at": "2025-10-29T22:18:32.271Z"
+    },
+    {
+      "asin": "B0D2NHLDLY",
+      "title": "Juego de 80 alfileres de animación, clips de espíritu para ropa, para mochilas, incluye 90 mini animales de resina, 30 mini lazos, 500 abalorio, pinzas de ropa de animación, cinta, equipo, aula",
+      "price": "$747.85",
+      "extracted_at": "2025-10-29T22:18:32.271Z"
+    },
+    {
+      "asin": "B0CX99RZP3",
+      "title": "LEAGIM Diario en blanco de 192 páginas (café)",
+      "price": "$494.37",
+      "extracted_at": "2025-10-29T22:18:32.271Z"
+    },
+    {
+      "asin": "B0CJTDV1Z1",
+      "title": "SHUPAN PG-245XL CL-246XL Cartuchos de tinta Negro/Color para Canon 245XL 246XL Combo Pack para PIXMA TS3322 TR4522 MG2522 MX490 MX492 TR4520 TS3320 TS3300 TR4500 MG2500 Impresoras Tricolor",
+      "price": "$896.80",
+      "extracted_at": "2025-10-29T22:18:32.271Z"
+    },
+    {
+      "asin": "B0CRPW5HVH",
+      "title": "ACTIONDRAKE - Cuaderno para mujeres y hombres, 288 páginas A5 de piel de tapa dura para escribir, viajes, negocios, trabajo y escuela, cuadernos con rayas universitarias para tomar notas, bloc de",
+      "price": "$964.97",
+      "extracted_at": "2025-10-29T22:18:32.271Z"
+    },
+    {
+      "asin": "B0DR597185",
+      "title": "Rastreador de Primeros Alimentos para Bebés, 30,5x21,5cm Baby First Food Tracker Planificador de Comidas Magnético Suministros para el Destete Dirigido por el Bebé para Nuevos Padres y Niñeras",
+      "price": "$494.18",
+      "extracted_at": "2025-10-29T22:18:32.272Z"
+    },
+    {
+      "asin": "B0CR5MW77L",
+      "title": "PERCUN B5 - Cuaderno de diario con forro – 365 páginas grandes de piel para escribir mujeres y hombres, cuaderno de tapa dura con páginas gruesas de 100 g/m², diario para viajes, trabajo, escuela,",
+      "price": "$768.91",
+      "extracted_at": "2025-10-29T22:18:32.272Z"
+    },
+    {
+      "asin": "B0CM3HV6CX",
+      "title": "Utron 12 etiquetas blancas para cestas, etiquetas de PVC con clip de 3.5 x 2.7 pulgadas con bolígrafo para contenedores de almacenamiento, soportes de etiquetas extraíbles, regular",
+      "price": "$480.23",
+      "extracted_at": "2025-10-29T22:18:32.272Z"
+    },
+    {
+      "asin": "B0CQX3M7QS",
+      "title": "Resurhang - Cuaderno de piel con forro de 3 bolígrafos con caja de regalo, regalo de agradecimiento para profesores, enfermeras, compañeros de trabajo",
+      "price": "$579.87",
+      "extracted_at": "2025-10-29T22:18:32.272Z"
+    },
+    {
+      "asin": "B0CX8KZCFM",
+      "title": "LinkDocs 56 Cartucho de tinta negro remanufacturado de repuesto para HP 56 C6656A 6656 tinta para usar con impresoras OfficeJet 5610 6110 5510 4215 PhotoSmart 7660 7760 (2 negras)",
+      "price": "$755.86",
+      "extracted_at": "2025-10-29T22:18:32.272Z"
+    },
+    {
+      "asin": "B0CJY73GR5",
+      "title": "Cuaderno de papel gráfico, diario en espiral de 8.5 x 11 pulgadas, cuadernos de cuadrícula grande A4 para mujeres y hombres, papel gráfico de 100 g/m², diarios de plástico en espiral de tapa dura para",
+      "price": "$503.76",
+      "extracted_at": "2025-10-29T22:18:32.272Z"
+    },
+    {
+      "asin": "B0CCRSBBXQ",
+      "title": "ASEKER WT-220CL WT220CL WT-223CL WT223CL Caja de tóner de residuos compatible con Brother HL-3140CW MFC-3170CDW 3180CDW 9130CW 9330CDW 9340CDW 50000 páginas WT 220CL colector de cartuchos de residuos",
+      "price": "$895.69",
+      "extracted_at": "2025-10-29T22:18:32.272Z"
+    },
+    {
+      "asin": "B0CDQ988PH",
+      "title": "Yeaqee 20 piezas de regalo inspirador de graduación A6 de piel diario con bolígrafo 2025 graduados bloc de notas para estudiantes, empleados, maestros, graduados, agradecimiento, compañero de trabajo",
+      "price": "$1,055.17",
+      "extracted_at": "2025-10-29T22:18:42.528Z"
+    },
+    {
+      "asin": "B0F13H5WYM",
+      "title": "Osinkjet 32XL - Botella de tinta negra compatible con impresora HP Smart Tank 7602 5101 6001 7301 651 551 5000 580, juego de botellas de tinta 32 XL para Smart Tank Plus 570 578 590, paquete de 2",
+      "price": "$660.96",
+      "extracted_at": "2025-10-29T22:18:42.528Z"
+    },
+    {
+      "asin": "B0CDK97KCQ",
+      "title": "Cuaderno de diario con forro, 365 páginas A4 grandes diarios para escribir cuaderno a rayas universitarias, diario de piel de tapa dura para mujeres y hombres, cuaderno diario para el trabajo, toma de",
+      "price": "$817.86",
+      "extracted_at": "2025-10-29T22:18:42.528Z"
+    },
+    {
+      "asin": "B0D94RN2N6",
+      "title": "CANAANIN - Soporte de sujeción con cierre, color resistente para cinturón de herramientas, organizado, fuerte y eficiente para almacenamiento de herramientas de electricista, reutilizable, portátil",
+      "price": "$580.31",
+      "extracted_at": "2025-10-29T22:18:42.528Z"
+    },
+    {
+      "asin": "B0C817RBMN",
+      "title": "Cuadernos en espiral de 5 temas, tapa dura a rayas universitarias A5 (8.5 x 5.7 pulgadas), 5 diarios para trabajo, estudio, toma de notas, regalos, 160 páginas/80 hojas, bolsillo trasero, para estudiantes, oficina, negocios, diario",
+      "price": "$825.45",
+      "extracted_at": "2025-10-29T22:18:42.528Z"
+    },
+    {
+      "asin": "B0B5SPDJKY",
+      "title": "INKCLOUD PG-240 XL Cartucho de tinta negra de repuesto para Canon 240 240XL PG-240XL Funciona con Pixma MG3600 MG3222 MG3220 MG3620 MX432 MG3122 TS5120 MG2120 MX452 MG2220 MG3120 MG3120 MG3120 MX5222222MG4220 Impresora 2Negro",
+      "price": "$1,243.60",
+      "extracted_at": "2025-10-29T22:18:42.529Z"
+    },
+    {
+      "asin": "B0C78495FZ",
+      "title": "SETTINI - piel vegano de tapa dura, grueso, 120 g/m², 192 páginas, papel rayado, soporte para bolígrafo | caja de regalo (café moca)",
+      "price": "$862.56",
+      "extracted_at": "2025-10-29T22:18:42.529Z"
+    },
+    {
+      "asin": "B0DNMDXRWR",
+      "title": "Clicker de presentación 2 en 1 con puntero láser anillo de dedo Clicker recargable presentación Clicker PPT Clicker remoto inalámbrico Clicker puntero láser para aula maestro proyector",
+      "price": "$783.74",
+      "extracted_at": "2025-10-29T22:18:42.529Z"
+    },
+    {
+      "asin": "B0C77JGTCG",
+      "title": "WHLBHG - Cuaderno de piel de hadas para amantes de las hadas, regalo inspirado en los fanáticos de los cuentos de hadas de piensa feliz, regalo inspirado para amigos y hermanas (pensar en pensamientos",
+      "price": "$663.37",
+      "extracted_at": "2025-10-29T22:18:42.529Z"
+    },
+    {
+      "asin": "B0DPMFL65T",
+      "title": "Paquete combinado de cartuchos de tinta 63XXL para HP Ink 63 63XL Trabaja con HP OfficeJet 3830 4650 4655 5255 5258 5200 3833 Envy 4520 4512 DeskJet 1112 2130 3633 Impresimpresora impresora impresora",
+      "price": "$922.92",
+      "extracted_at": "2025-10-29T22:18:42.529Z"
+    },
+    {
+      "asin": "B0C6V1PK4X",
+      "title": "Diario de autodominio para hombres – Diario de productividad diaria para felicidad, diario de gratitud, atención plena y reflexión, diario de objetivos, diario guiado para hombres y mujeres – Diario",
+      "price": "$760.10",
+      "extracted_at": "2025-10-29T22:18:42.529Z"
+    },
+    {
+      "asin": "B0D7M78HMP",
+      "title": "MEGOFFICE - Cartucho de tóner compatible para Canon 137 Cartucho de tóner negro CRG137 para ImageCLASS MF236n D570 MF232w MF244dw MF247dw MF249dw MF242dw MF23bn MF230 MF240 MF210 (negro, paquete de 2)",
+      "price": "$833.48",
+      "extracted_at": "2025-10-29T22:18:42.529Z"
+    },
+    {
+      "asin": "B0BTRXP1YY",
+      "title": "Wiisdatek College Ruled Journal Notebook- 312 Pages A4 Softcover Large Journal, 100GSM Thick Paper, Leather Journal for Women Men Work School, 8.5''×11''-Dark Green",
+      "price": "$744.28",
+      "extracted_at": "2025-10-29T22:18:42.529Z"
+    },
+    {
+      "asin": "B0DFY4SRSL",
+      "title": "65XL Cartuchos de tinta negra de repuesto para HP 65XL Ink 65 High Yield Work con Envy 5055 5052 5058 DeskJet 3755 2655 3752 3720 3722 3723 3758 2652 2622 2624 Impresora (624) Negro",
+      "price": "$825.22",
+      "extracted_at": "2025-10-29T22:18:42.529Z"
+    },
+    {
+      "asin": "B0BQXNMHFH",
+      "title": "KAAYEE - Diario de piel para médicos, regalo de 140 páginas, diario de viaje, recargable, cuaderno de bocetos, diarios de escritura, regalos de Navidad y cumpleaños para médicos",
+      "price": "$480.63",
+      "extracted_at": "2025-10-29T22:18:42.530Z"
+    },
+    {
+      "asin": "B0D3QP851D",
+      "title": "Tablero de anuncios grande – 48 x 36 pulgadas, tablero decorativo de fieltro para pared, tablero plegable de exhibición de fotos de 4 x 3 pies, con cinta autoadhesiva, incluye 20 alfileres – blanco",
+      "price": "$1,543.55",
+      "extracted_at": "2025-10-29T22:18:42.530Z"
+    },
+    {
+      "asin": "B0B5KWVTWK",
+      "title": "Greeting Life Animal Die Cut Memo Cat ETN-125",
+      "price": "$342.14",
+      "extracted_at": "2025-10-29T22:18:55.748Z"
+    },
+    {
+      "asin": "B0DQ43KQPJ",
+      "title": "TN227 - Cartucho de tóner para Brother TN227 TN-227BK TN223 utilizado con MFC-L3770CDW HL-L3270CDW HL-L3290CDW HL-L3230CDN HL-L3210CW MFC-L3710CDW HL-L3230CDW MFC-L3750CDW CD ImpresImpresImpresImpres2",
+      "price": "$896.88",
+      "extracted_at": "2025-10-29T22:18:55.748Z"
+    },
+    {
+      "asin": "B00M2KMVW6",
+      "title": "Pack de 3 - Schmidt P8126 corto punta rodante sin tapa - azul tinta",
+      "price": "$611.45",
+      "extracted_at": "2025-10-29T22:18:55.749Z"
+    },
+    {
+      "asin": "B09SV7KFL7",
+      "title": "BUKE - Cuaderno de cuadrícula de puntos tamaño A5, 180 g/m², papel grueso de bambú blanco, cena, 5 cuadrícula de puntos de 5 mm, 160 páginas, bordes plateados de colores, tapa dura de tela impermeable",
+      "price": "$672.85",
+      "extracted_at": "2025-10-29T22:18:55.749Z"
+    },
+    {
+      "asin": "B0CPJ371XK",
+      "title": "FOCUS DAY - Libreta de Notas A5, Journal Libreta Pasta Dura de 320 Página, Cuaderno de Diario Rayado para Mujeres/Hombres, Cuaderno de Trabajo de Piel Rosa, Papel Rayado de 100 g/m2, 14.5 x 21.5 cm",
+      "price": "$634.09",
+      "extracted_at": "2025-10-29T22:18:55.749Z"
+    },
+    {
+      "asin": "B07DMYF13V",
+      "title": "Beyong Pocket Bullet Journal Refillable Travelers Notebook Men & Women Leather Journals to Write in Art Sketchbook Travel Dairy Best Gifts for Teens Girls and Boys (7 inch Dark Blue)",
+      "price": "$516.97",
+      "extracted_at": "2025-10-29T22:18:55.749Z"
+    },
+    {
+      "asin": "B0D59MSYXP",
+      "title": "Osinkjet - Juego de Botellas de Tinta 31, 32XL, Botella de Tinta Negra Compatible con HP Smart Tank 7602 6001 5101 5000 7300 7301 520 580, 31 32 XL Juego de Botellas de Tinta para Smart Tank Plus 651",
+      "price": "$868.34",
+      "extracted_at": "2025-10-29T22:18:55.749Z"
+    },
+    {
+      "asin": "B08KSF3VNT",
+      "title": "Agoz - Funda para escáner de código de barras para Zebra TC75x, TC75, TC70x, TC70, TC72, TC77, M60, MC67 para adaptarse con agarre de mano, bolsa de transporte resistente, cubierta con clip de metal y",
+      "price": "$748.44",
+      "extracted_at": "2025-10-29T22:18:55.749Z"
+    },
+    {
+      "asin": "B0CJNDC6LX",
+      "title": "SPLENDIDCOLOR - Tinta DTF de 500 ml, tinta blanca DTF de alta calidad, tinta digital de inyección de tinta para impresoras directas a película, Repalcement para cabezal de impresión DX5 DX7 5113 XP600",
+      "price": "$886.57",
+      "extracted_at": "2025-10-29T22:18:55.749Z"
+    },
+    {
+      "asin": "B0BJZQL7TJ",
+      "title": "Tabla de dilatación cervical – Tabla de dilatación cervical para partera, doble parto, tabla de dilatación cervical, tabla de nacimiento, tabla de dilatación cervical, rueda de dilatación cervical, decoración de partera, regalo de partera",
+      "price": "$778.30",
+      "extracted_at": "2025-10-29T22:18:55.749Z"
+    },
+    {
+      "asin": "B0D1V5SFT7",
+      "title": "C400 C405 Cartucho colector de tóner residual 108R01124 30000 páginas para Xerox Phaser 6600 WorkCentre 6605 6655 VersaLink C400N C400DN C405N C405DN DELL C2660 C222 65 SImpresoras 3840",
+      "price": "$644.48",
+      "extracted_at": "2025-10-29T22:18:55.750Z"
+    },
+    {
+      "asin": "B08NWY6KH3",
+      "title": "ColoWorld - Cartucho de Tinta de Repuesto para HP 61, Paquete Combinado para Impresora Envy 4500 4502 5530 DeskJet 2512 1512 2542 2540 2544 3000 3052a OfficeJet 4630 (1 Negro, 1 Color)",
+      "price": "$894.58",
+      "extracted_at": "2025-10-29T22:18:55.750Z"
+    },
+    {
+      "asin": "B0DHZ3VHLG",
+      "title": "SavFinto 071H 071 Cartucho de tóner de alta capacidad para Canon 071 Cartucho de tóner negro para impresoras Canon imageCLASS LBP122dw LBP122 LBP120 MF270 MF273dw MF272dw MF275dw (2 negras)",
+      "price": "$1,463.26",
+      "extracted_at": "2025-10-29T22:18:55.750Z"
+    },
+    {
+      "asin": "B077HC3LRD",
+      "title": "Ciak Mate - Cuaderno de rayas (12 x 17 cm), color azul",
+      "price": "$619.29",
+      "extracted_at": "2025-10-29T22:18:55.750Z"
+    },
+    {
+      "asin": "B0C9LYFBYY",
+      "title": "Ceenna - 50 pines de solapa para empleado del mes, para reconocimiento de estrellas, para empleados, esmaltados, chapados en oro, para empleados",
+      "price": "$734.96",
+      "extracted_at": "2025-10-29T22:18:55.750Z"
+    },
+    {
+      "asin": "B0CYZ47P26",
+      "title": "ZZWUAPT - Rotuladores de doble punta azul para rotuladores artísticos, 24 rotuladores de colores para colorear para adultos, kit de manualidades",
+      "price": "$598.18",
+      "extracted_at": "2025-10-29T22:18:55.750Z"
+    },
+    {
+      "asin": "B0D578J6LM",
+      "title": "HOMiDEK - Notas magnéticas reutilizables adhesivas (30 unidades, 3 x 3 pulgadas), etiquetas magnéticas de borrado en seco con marcador, notas fáciles de publicar para pizarrón blanca, nevera,",
+      "price": "$665.60",
+      "extracted_at": "2025-10-29T22:19:09.640Z"
+    },
+    {
+      "asin": "B0CKX8PL8W",
+      "title": "LAIPENG GI-21 GI21 G3270 G3290 Botellas de repuesto de tinta compatibles con Canon G3270 G3290 G3260 G2260 G3272 G4280 G4270 G1220 G1230 G2270 Paquete 4 Paquete K/C/M/Y)",
+      "price": "$720.68",
+      "extracted_at": "2025-10-29T22:19:09.640Z"
+    },
+    {
+      "asin": "B07H32J3RH",
+      "title": "Sotek Cartucho de Tinta Compatible para LC203XL LC203 LC201, Uso con MFC J480DW J680DW J880DW J460DW J485DW J885DW J5520DW J4320DW J4420DW J4620DW J5620 J5720DW (1 Juego + 1 BK)",
+      "price": "$574.98",
+      "extracted_at": "2025-10-29T22:19:09.641Z"
+    },
+    {
+      "asin": "B0C5T5MQ26",
+      "title": "Lancord - Organizador de cables para electrodomésticos, paquete de 8 unidades mejorado, organizador de cables para electrodomésticos, organizador de cables para electrodomésticos, mezcladores,",
+      "price": "$469.07",
+      "extracted_at": "2025-10-29T22:19:09.641Z"
+    },
+    {
+      "asin": "B0C8RVD9PS",
+      "title": "Paquete combinado de cartuchos de tinta 934 y 935 compatibles con HP 934XL 935XL Trabajar con HP Officejet Pro 6830 6230 6835 6812 6815 6820 6220 6800 (1 negro, 1 cian, 1 magenta, 1 cian) 4 Paquete",
+      "price": "$755.86",
+      "extracted_at": "2025-10-29T22:19:09.641Z"
+    },
+    {
+      "asin": "B0CBVF8LY4",
+      "title": "Kenburg - Cuaderno de pasaporte en blanco, 60 unidades, para niños, cuaderno de pasaporte, color azul, 4 x 5.5 pulgadas, cuaderno de pasaporte, pasaporte, pasaportes, para fiesta de regreso a la",
+      "price": "$974.05",
+      "extracted_at": "2025-10-29T22:19:09.641Z"
+    },
+    {
+      "asin": "B0CLLX8P36",
+      "title": "E-Z Ink Pro LC103 LC103XL - Cartucho de Tinta Compatible con Brother LC103 XL LC103XL LC101 LC103CL Cartuchos de Tinta compatibles con MFC-J870DW MFC-J475DW MFC-J6920DW MFC-J470DW (Paquete de 15)",
+      "price": "$912.21",
+      "extracted_at": "2025-10-29T22:19:09.641Z"
+    },
+    {
+      "asin": "B086R8FRBB",
+      "title": "Bellagio-Italia - Carpeta de 3 anillos XL de 3 pulgadas, piel sintética clásica, para documentos, almacenamiento de archivos y tarjetas de intercambio, paquete de 1, almacena hasta 600 páginas, color",
+      "price": "$1,241.63",
+      "extracted_at": "2025-10-29T22:19:09.641Z"
+    },
+    {
+      "asin": "B0CP5Z896C",
+      "title": "Beryzol - Tinta DTF de llenado automático - Tinta de transferencia DTF de alta calidad de 700 ml para película PET, tinta de repuesto para impresoras Epson ET-8550 ET-8500, juego de tinta de impresión",
+      "price": "$1,230.11",
+      "extracted_at": "2025-10-29T22:19:09.641Z"
+    },
+    {
+      "asin": "B0C33TVCGS",
+      "title": "30 hojas de papel de cartulina de 8 1/2 x 11 pulgadas para manualidades e invitaciones (verde oscuro)",
+      "price": "$470.79",
+      "extracted_at": "2025-10-29T22:19:09.641Z"
+    },
+    {
+      "asin": "B0CLZGP6S7",
+      "title": "KISSKI·H Olvido - Cuaderno de piel A6, cuaderno recargable para viajeros, cuaderno de bolsillo de escritura para hombres y mujeres, soporte para bloc de notas de 6 anillos con forro, organizador de",
+      "price": "$748.26",
+      "extracted_at": "2025-10-29T22:19:09.642Z"
+    },
+    {
+      "asin": "B0D3VBZJJ5",
+      "title": "Doccuk Lápices de alta calidad amarillos preafilados a granel #2 con borradores, lápices Hb con carcasa de madera adecuados para aulas, oficinas y profesores, 150 unidades",
+      "price": "$646.70",
+      "extracted_at": "2025-10-29T22:19:09.642Z"
+    },
+    {
+      "asin": "B07PRH6LG5",
+      "title": "Bolígrafo de tinta de gel de 0,35 mm, bolígrafo para escuela, oficina, estudiante, escritura, suministros técnicos, 12 unidades (4 unidades, negro, 4 azules, 4 unidades rojas)",
+      "price": "$585.30",
+      "extracted_at": "2025-10-29T22:19:09.642Z"
+    },
+    {
+      "asin": "B0C99WZQPR",
+      "title": "Calendario visual grande para niños con autismo – Calendario diario de rutina de dormir por la mañana para niños con 72 actividades, 10 tarjetas en blanco y 15 estrellas, planificador de",
+      "price": "$818.41",
+      "extracted_at": "2025-10-29T22:19:09.642Z"
+    },
+    {
+      "asin": "B0C9HG2NJP",
+      "title": "D24TIME - Letrero para el primer y último día de la escuela, lápiz de pizarrón de doble cara, tablero preescolar para el primer día de jardín de infantes, para niños para suministros de regreso a la",
+      "price": "$506.67",
+      "extracted_at": "2025-10-29T22:19:09.642Z"
+    },
+    {
+      "asin": "B0BVVVTKR3",
+      "title": "10 organizadores de carpetas de documentos de tamaño tabloide de 11 x 17 pulgadas con cierre a presión, carpeta de archivos de polietileno de gran tamaño, carpetas de plástico para oficina, escuela, hogar",
+      "price": "$890.90",
+      "extracted_at": "2025-10-29T22:19:09.642Z"
+    },
+    {
+      "asin": "B0BYZGJJ3J",
+      "title": "Juego de 300 abrazaderas de cable blanco, plástico de nailon tipo R, 6 tamaños de 3/16 pulgadas, 1/4 pulgadas, 3/8 pulgadas, 1/2 pulgadas, 3/4 pulgadas, 1 pulgada, clips de alambre de montaje de cable",
+      "price": "$570.67",
+      "extracted_at": "2025-10-29T22:19:23.016Z"
+    },
+    {
+      "asin": "B0B39JHQN5",
+      "title": "Availey - 50 etiquetas magnéticas blancas de borrado en seco (3.2 x 1.2 pulgadas), tiras reutilizables para aula, hogar, oficina, cochera, nevera, tarjetas borrables en blanco, etiquetas de nombre",
+      "price": "$621.37",
+      "extracted_at": "2025-10-29T22:19:23.016Z"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "seller_id": "AE8MUNDUREHX7",
+    "seller_url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482660011%2Cn%3A9785808011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760369775&rnid=9482660011&ref=sr_nr_n_13&ds=v1%3AsYaWZMwEm2soY83ujO7as2XnmIdyzL2A769fXyATNME",
+    "category_name": "deportes-y-aire-libre-cr-quet",
+    "total_products": 7,
+    "pages_processed": 1,
+    "extraction_date": "2025-10-17T16:36:07.669Z",
+    "script_version": "1.0"
+  },
+  "products": [
+    {
+      "asin": "B0D89T6CVH",
+      "title": "Sulayesh - Sudaderas cristianas para mujer, diseño de Jesús, Dios, fe, inspiradoras, religiosas, con capucha y diseño gráfico",
+      "price": "$799.36",
+      "extracted_at": "2025-10-17T16:36:07.649Z"
+    },
+    {
+      "asin": "B08R574TM7",
+      "title": "Iowa State University Sudadera oficial Cyclones unisex para adulto, Negro, Large",
+      "price": "$1,406.80",
+      "extracted_at": "2025-10-17T16:36:07.649Z"
+    },
+    {
+      "asin": "B0CB6GLDLR",
+      "title": "Saloogoe - Sudadera Rosa para Mujer, Ropa de Otoño 2023",
+      "price": "$573.61",
+      "extracted_at": "2025-10-17T16:36:07.649Z"
+    },
+    {
+      "asin": "B08D6JFM16",
+      "title": "JNKLWPJS Sudadera de Halloween con Hombros Descubiertos para Mujer, Manga Larga, Calabaza, para Halloween",
+      "price": "$755.95",
+      "extracted_at": "2025-10-17T16:36:07.649Z"
+    },
+    {
+      "asin": "B08KWGB2NJ",
+      "title": "TAOHONG - Sudadera de manga larga para mujer, diseño de copo de nieve, diseño de búfalo de Navidad para mujer, diseño de búfalo de Navidad",
+      "price": "$855.01",
+      "extracted_at": "2025-10-17T16:36:07.649Z"
+    },
+    {
+      "asin": "B0D6YZHR65",
+      "title": "Saloogoe - Sudaderas tipo túnica para mujer, cuello redondo, ligeros, camisetas de manga larga, camisetas de manga larga, camisetas de otoño a la moda 2024",
+      "price": "$745.30",
+      "extracted_at": "2025-10-17T16:36:07.650Z"
+    },
+    {
+      "asin": "B08LNG5JFR",
+      "title": "Merry and Bright - Camiseta de manga larga para mujer, diseño de leopardo, diseño de árboles de Navidad, diseño de flores, gris, L",
+      "price": "$878.39",
+      "extracted_at": "2025-10-17T16:36:07.650Z"
+    }
+  ]
+}

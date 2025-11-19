@@ -1,0 +1,260 @@
+{
+  "seller_id": "A27UCZ6SHTD3J2",
+  "batch_number": 2,
+  "created_at": "2025-10-29T19:30:43.443Z",
+  "analysis_type": "recursive_hierarchical_batch",
+  "max_products_per_leaf": 320,
+  "max_recursion_depth": 10,
+  "max_products_per_batch": 1000,
+  "main_categories": [
+    "Automotriz y Motocicletas",
+    "Bebé",
+    "Belleza",
+    "Deportes y Aire libre",
+    "Electrónicos",
+    "Herramientas y Mejoras del Hogar",
+    "Hogar y Cocina",
+    "Industria, Empresas y Ciencia",
+    "Jardín",
+    "Juguetes y Juegos",
+    "Libros",
+    "Música",
+    "Oficina y Papelería",
+    "Películas y Series de TV",
+    "Productos para animales",
+    "Ropa, Zapatos y Accesorios",
+    "Salud y Cuidado Personal",
+    "Software",
+    "Videojuegos"
+  ],
+  "categories": [
+    {
+      "name": "Electrónicos",
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A9482558011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761766132&rnid=15997893011&ref=sr_nr_n_5&ds=v1%3AwTNS%2Fn8Luhwn3l6S0UBbHqDybV22vm62ALYzewKi7Y4",
+      "expected_products": 75,
+      "isLeaf": true,
+      "depth": 1,
+      "path": [
+        "Electrónicos"
+      ],
+      "status": "pending",
+      "created_at": "2025-10-29T19:29:45.026Z"
+    },
+    {
+      "name": "Herramientas y Mejoras del Hogar",
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A9482670011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761766132&rnid=15997893011&ref=sr_nr_n_6&ds=v1%3AypltwNDw%2FrQRYzP%2BEW2zyIG10Few6C52sAhes%2FSytt8",
+      "expected_products": 108,
+      "isLeaf": true,
+      "depth": 1,
+      "path": [
+        "Herramientas y Mejoras del Hogar"
+      ],
+      "status": "pending",
+      "created_at": "2025-10-29T19:29:47.795Z"
+    },
+    {
+      "name": "Hogar y Cocina",
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A9482593011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761766132&rnid=15997893011&ref=sr_nr_n_7&ds=v1%3AAEq%2B21FZqYNQ8aF%2BIGH4uxlS9R1FzPl7vpsfpU%2BVles",
+      "expected_products": 364,
+      "isLeaf": false,
+      "depth": 1,
+      "path": [
+        "Hogar y Cocina"
+      ],
+      "status": "pending",
+      "subcategories": [
+        {
+          "name": "Almacenamiento y Organización",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A9482593011%2Cn%3A9756857011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761766187&rnid=9482593011&ref=sr_nr_n_1&ds=v1%3AlFCPWFyiVlJ%2BXdiRE7iGj1308SMfZtFGRIYGLAavLLw",
+          "expected_products": 27,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Hogar y Cocina",
+            "Almacenamiento y Organización"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-29T19:29:53.384Z"
+        },
+        {
+          "name": "Arte y Manualidades",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A9482593011%2Cn%3A10201738011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761766187&rnid=9482593011&ref=sr_nr_n_2&ds=v1%3AFCQ8pXPzPnJEjcbDySp7ZAkphYQ8LfmCoKqikupTnv8",
+          "expected_products": 48,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Hogar y Cocina",
+            "Arte y Manualidades"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-29T19:29:56.168Z"
+        },
+        {
+          "name": "Aspiración, Limpieza y Planchado",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A9482593011%2Cn%3A9725297011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761766187&rnid=9482593011&ref=sr_nr_n_3&ds=v1%3AX4Gn7aB7xSq58X7uR0QwNrOyupQCqkhgNSL61M4s7tw",
+          "expected_products": 18,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Hogar y Cocina",
+            "Aspiración, Limpieza y Planchado"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-29T19:29:59.010Z"
+        },
+        {
+          "name": "Baño",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A9482593011%2Cn%3A9756950011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761766187&rnid=9482593011&ref=sr_nr_n_4&ds=v1%3A7g9Rsgh2HjeOXbo3xBacfTfw8vSmU1bxxcAsOp7SzgQ",
+          "expected_products": 20,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Hogar y Cocina",
+            "Baño"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-29T19:30:01.816Z"
+        },
+        {
+          "name": "Blancos para el Hogar",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A9482593011%2Cn%3A9757431011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761766187&rnid=9482593011&ref=sr_nr_n_5&ds=v1%3A6phWIbMoEgm1l2mKRaz%2FtTwJtuADiLEJLvrXJxUg4A8",
+          "expected_products": 29,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Hogar y Cocina",
+            "Blancos para el Hogar"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-29T19:30:04.657Z"
+        },
+        {
+          "name": "Cocina",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A9482593011%2Cn%3A9721682011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761766187&rnid=9482593011&ref=sr_nr_n_6&ds=v1%3A1n5SmlLIvYZ%2BIc7kSiBxvRX1l6WrimzTfUjAqsNC%2BmA",
+          "expected_products": 55,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Hogar y Cocina",
+            "Cocina"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-29T19:30:07.503Z"
+        },
+        {
+          "name": "Cuidado del Hogar y Limpieza",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A9482593011%2Cn%3A11525771011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761766187&rnid=9482593011&ref=sr_nr_n_7&ds=v1%3AuFaQTdds0ul9CeYCnt4cTjTUXWWnn4o%2BztXUWbj0AbU",
+          "expected_products": 43,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Hogar y Cocina",
+            "Cuidado del Hogar y Limpieza"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-29T19:30:10.481Z"
+        },
+        {
+          "name": "Decoración del Hogar",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A9482593011%2Cn%3A9757037011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761766187&rnid=9482593011&ref=sr_nr_n_8&ds=v1%3AYfiPYmcPv0CCugw%2Fl%2FahTbjgeFVD9VyhlMSz6bwowmQ",
+          "expected_products": 89,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Hogar y Cocina",
+            "Decoración del Hogar"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-29T19:30:13.341Z"
+        },
+        {
+          "name": "Muebles",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A9482593011%2Cn%3A9757251011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761766187&rnid=9482593011&ref=sr_nr_n_9&ds=v1%3AM0uLmxYUP3nAUQhomszFMMPjEGaM6uJZ5dL5QDtsIoc",
+          "expected_products": 19,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Hogar y Cocina",
+            "Muebles"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-29T19:30:16.185Z"
+        },
+        {
+          "name": "Meses sin Intereses",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A9482593011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761766187&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3AutVMPCL8ZAdhDhEJ%2FKBY8zdGhRR4dYA75%2FWaLCKATPU",
+          "expected_products": 31,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Hogar y Cocina",
+            "Meses sin Intereses"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-29T19:30:18.974Z"
+        }
+      ],
+      "created_at": "2025-10-29T19:30:26.608Z"
+    },
+    {
+      "name": "Industria, Empresas y Ciencia",
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A11076223011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761766132&rnid=15997893011&ref=sr_nr_n_8&ds=v1%3AzW8r%2BitE19Eefk6PqCZKF2miBeAWD8YDivmaXG91%2Bs4",
+      "expected_products": 140,
+      "isLeaf": true,
+      "depth": 1,
+      "path": [
+        "Industria, Empresas y Ciencia"
+      ],
+      "status": "pending",
+      "created_at": "2025-10-29T19:30:29.383Z"
+    },
+    {
+      "name": "Jardín",
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A16215357011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761766132&rnid=15997893011&ref=sr_nr_n_9&ds=v1%3Adu7Fq422Gi99P3KXqGIcR8LKUYJrk9mxbSPnoc755ag",
+      "expected_products": 15,
+      "isLeaf": true,
+      "depth": 1,
+      "path": [
+        "Jardín"
+      ],
+      "status": "pending",
+      "created_at": "2025-10-29T19:30:32.155Z"
+    },
+    {
+      "name": "Juguetes y Juegos",
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A11260442011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761766132&rnid=15997893011&ref=sr_nr_n_10&ds=v1%3AQpin8XrgcB9Y9cbw1FXj4b%2Fm1C6ccpe9kghuO8IXJvQ",
+      "expected_products": 89,
+      "isLeaf": true,
+      "depth": 1,
+      "path": [
+        "Juguetes y Juegos"
+      ],
+      "status": "pending",
+      "created_at": "2025-10-29T19:30:34.983Z"
+    },
+    {
+      "name": "Libros",
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A9298576011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761766132&rnid=15997893011&ref=sr_nr_n_11&ds=v1%3AdjRODEyoNgSh5f3kpHetBfKBJGuN0PSkVEuHa%2F8boPU",
+      "expected_products": 57,
+      "isLeaf": true,
+      "depth": 1,
+      "path": [
+        "Libros"
+      ],
+      "status": "pending",
+      "created_at": "2025-10-29T19:30:37.731Z"
+    },
+    {
+      "name": "Música",
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A9482620011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761766132&rnid=15997893011&ref=sr_nr_n_12&ds=v1%3AH4JHh9MkxAPqn%2FBwaoVKBtWVQDJqqfy9TE4PjoI5yNo",
+      "expected_products": 33,
+      "isLeaf": true,
+      "depth": 1,
+      "path": [
+        "Música"
+      ],
+      "status": "pending",
+      "created_at": "2025-10-29T19:30:40.600Z"
+    }
+  ]
+}

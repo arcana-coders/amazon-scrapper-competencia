@@ -1,0 +1,68 @@
+{
+  "seller_id": "A27UCZ6SHTD3J2",
+  "batch_number": 3,
+  "created_at": "2025-10-29T19:31:33.908Z",
+  "analysis_type": "recursive_hierarchical_batch",
+  "max_products_per_leaf": 320,
+  "max_recursion_depth": 10,
+  "max_products_per_batch": 1000,
+  "main_categories": [
+    "Automotriz y Motocicletas",
+    "Bebé",
+    "Belleza",
+    "Deportes y Aire libre",
+    "Electrónicos",
+    "Herramientas y Mejoras del Hogar",
+    "Hogar y Cocina",
+    "Industria, Empresas y Ciencia",
+    "Jardín",
+    "Juguetes y Juegos",
+    "Libros",
+    "Música",
+    "Oficina y Papelería",
+    "Películas y Series de TV",
+    "Productos para animales",
+    "Ropa, Zapatos y Accesorios",
+    "Salud y Cuidado Personal",
+    "Software",
+    "Videojuegos"
+  ],
+  "categories": [
+    {
+      "name": "Oficina y Papelería",
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A9673844011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761766132&rnid=15997893011&ref=sr_nr_n_13&ds=v1%3AQXvr4wddDAoR1qOPavVG8Cl8gYV5elPs8z6fGYVFyeI",
+      "expected_products": 171,
+      "isLeaf": true,
+      "depth": 1,
+      "path": [
+        "Oficina y Papelería"
+      ],
+      "status": "pending",
+      "created_at": "2025-10-29T19:30:43.442Z"
+    },
+    {
+      "name": "Películas y Series de TV",
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A9482630011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761766132&rnid=15997893011&ref=sr_nr_n_14&ds=v1%3ABLP6pT7g5hHWop0xf8nXFm5Qs4xSsmRgTbWKOzdhU84",
+      "expected_products": 11,
+      "isLeaf": true,
+      "depth": 1,
+      "path": [
+        "Películas y Series de TV"
+      ],
+      "status": "pending",
+      "created_at": "2025-10-29T19:30:46.248Z"
+    },
+    {
+      "name": "Productos para animales",
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A11782336011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761766132&rnid=15997893011&ref=sr_nr_n_15&ds=v1%3AymKuEd7WyV%2FyZE%2BDKFQ%2FuAoEf7FdEMPjK2n9TxEylhU",
+      "expected_products": 76,
+      "isLeaf": true,
+      "depth": 1,
+      "path": [
+        "Productos para animales"
+      ],
+      "status": "pending",
+      "created_at": "2025-10-29T19:30:49.038Z"
+    }
+  ]
+}

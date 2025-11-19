@@ -1,0 +1,66 @@
+{
+  "seller_id": "A12WQF3HZEWBDD",
+  "batch_number": 1,
+  "created_at": "2025-11-03T13:48:08.291Z",
+  "analysis_type": "recursive_hierarchical_batch",
+  "max_products_per_leaf": 320,
+  "max_recursion_depth": 10,
+  "max_products_per_batch": 1000,
+  "main_categories": [
+    "Alimentos y Bebidas",
+    "Automotriz y Motocicletas",
+    "Bebé",
+    "Belleza",
+    "Deportes y Aire libre",
+    "Electrónicos",
+    "Herramientas y Mejoras del Hogar",
+    "Hogar y Cocina",
+    "Industria, Empresas y Ciencia",
+    "Instrumentos Musicales",
+    "Jardín",
+    "Juguetes y Juegos",
+    "Libros",
+    "Oficina y Papelería",
+    "Productos para animales",
+    "Ropa, Zapatos y Accesorios",
+    "Salud y Cuidado Personal"
+  ],
+  "categories": [
+    {
+      "name": "Alimentos y Bebidas",
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A17608484011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762177562&rnid=15997893011&ref=sr_nr_n_1&ds=v1%3ARzL9g1JE3WF%2F9IR8mCm2Mjub46Nkv6OKA2FGq8xGjUw",
+      "expected_products": 99,
+      "isLeaf": true,
+      "depth": 1,
+      "path": [
+        "Alimentos y Bebidas"
+      ],
+      "status": "pending",
+      "created_at": "2025-11-03T13:46:09.807Z"
+    },
+    {
+      "name": "Automotriz y Motocicletas",
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A13848848011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762177562&rnid=15997893011&ref=sr_nr_n_2&ds=v1%3AmDqBMPnI3m5dmKb%2FrbLz1ZevZI7xPiGebqBzMmK1xJA",
+      "expected_products": 248,
+      "isLeaf": true,
+      "depth": 1,
+      "path": [
+        "Automotriz y Motocicletas"
+      ],
+      "status": "pending",
+      "created_at": "2025-11-03T13:46:12.525Z"
+    },
+    {
+      "name": "Bebé",
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A9482650011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762177562&rnid=15997893011&ref=sr_nr_n_3&ds=v1%3AlIZqwK4pYxeloN69VMULGToB6Hn8%2FV5%2FUGpsoJL9778",
+      "expected_products": 67,
+      "isLeaf": true,
+      "depth": 1,
+      "path": [
+        "Bebé"
+      ],
+      "status": "pending",
+      "created_at": "2025-11-03T13:46:15.281Z"
+    }
+  ]
+}

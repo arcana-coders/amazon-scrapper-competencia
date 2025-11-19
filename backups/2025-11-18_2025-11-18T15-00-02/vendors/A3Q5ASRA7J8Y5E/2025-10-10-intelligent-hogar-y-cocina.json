@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "seller_id": "A3Q5ASRA7J8Y5E",
+    "category_name": "Hogar y Cocina",
+    "date_scraped": "2025-10-10T13:43:48.731Z",
+    "processing_type": "intelligent_detection_v1",
+    "max_products_per_category": 320,
+    "max_depth": 3,
+    "expected_products": 404
+  },
+  "intelligence_stats": {
+    "loops_avoided": 0,
+    "filters_detected": 14
+  },
+  "subcategories": [
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A3Q5ASRA7J8Y5E&rh=n%3A9482593011%2Cn%3A9756857011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760103831&rnid=9482593011&ref=sr_nr_n_1&ds=v1%3AYQLwIybMhCQZVCuxIzGGl9UfQGh9jpt%2BU0lydR5cdzA",
+      "name": "Almacenamiento y Organización",
+      "full_path": "Hogar y Cocina > Almacenamiento y Organización",
+      "productCount": 123,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-10T13:44:00.014Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A3Q5ASRA7J8Y5E&rh=n%3A9482593011%2Cn%3A9725297011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760103831&rnid=9482593011&ref=sr_nr_n_2&ds=v1%3AyCfSAJAepmMiWtqidf4bhSFZ0SA64bAf9z4iwhjPzdk",
+      "name": "Aspiración, Limpieza y Planchado",
+      "full_path": "Hogar y Cocina > Aspiración, Limpieza y Planchado",
+      "productCount": 10,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-10T13:44:03.934Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A3Q5ASRA7J8Y5E&rh=n%3A9482593011%2Cn%3A9756950011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760103831&rnid=9482593011&ref=sr_nr_n_3&ds=v1%3AaSWajsxoR4Ub8rNYxcuO%2BrkEuZs0C2Z%2BFFwBuoHAgdY",
+      "name": "Baño",
+      "full_path": "Hogar y Cocina > Baño",
+      "productCount": 7,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-10T13:44:10.043Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A3Q5ASRA7J8Y5E&rh=n%3A9482593011%2Cn%3A9757431011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760103831&rnid=9482593011&ref=sr_nr_n_4&ds=v1%3A4Kq2GItCoDp4trKcoWBnKWUWTTzSQZz1RRruVHoOcIs",
+      "name": "Blancos para el Hogar",
+      "full_path": "Hogar y Cocina > Blancos para el Hogar",
+      "productCount": 60,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-10T13:44:14.042Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A3Q5ASRA7J8Y5E&rh=n%3A9482593011%2Cn%3A9721682011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760103831&rnid=9482593011&ref=sr_nr_n_5&ds=v1%3Agf3z46WzB8MNMjOh72puTTcZ7yKrl%2FBfSKHgpTqj6q8",
+      "name": "Cocina",
+      "full_path": "Hogar y Cocina > Cocina",
+      "productCount": 32,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-10T13:44:19.264Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A3Q5ASRA7J8Y5E&rh=n%3A9482593011%2Cn%3A9757037011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760103831&rnid=9482593011&ref=sr_nr_n_6&ds=v1%3A%2BOOXoVKxPaQX8vCtNp5Au%2FzhMOoF6C4z85w4fkaIhwU",
+      "name": "Decoración del Hogar",
+      "full_path": "Hogar y Cocina > Decoración del Hogar",
+      "productCount": 18,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-10T13:44:23.208Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A3Q5ASRA7J8Y5E&rh=n%3A9482593011%2Cn%3A9757251011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760103831&rnid=9482593011&ref=sr_nr_n_7&ds=v1%3ACQh3SCo9IJb6A52HLac0Tt8cIzgW4un9Fz0GeXOzcbc",
+      "name": "Muebles",
+      "full_path": "Hogar y Cocina > Muebles",
+      "productCount": 169,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-10T13:44:27.012Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A3Q5ASRA7J8Y5E&rh=n%3A9482593011%2Cn%3A9757416011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760103831&rnid=9482593011&ref=sr_nr_n_8&ds=v1%3AdAMt2q7i0Eg5hDuaU2VLFpQOLzmp1EejCNXjV1UroE0",
+      "name": "Obras de Arte y Material Decorativo",
+      "full_path": "Hogar y Cocina > Obras de Arte y Material Decorativo",
+      "productCount": 12,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-10T13:44:30.963Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A3Q5ASRA7J8Y5E&rh=n%3A9482593011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760103831&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3AZwGse3tMyCovVBSjqwHT%2B3wsFrIcT5syQwtiwURyY%2BA",
+      "name": "Meses sin Intereses",
+      "full_path": "Hogar y Cocina > Meses sin Intereses",
+      "productCount": 33,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-10T13:44:35.382Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A3Q5ASRA7J8Y5E&rh=n%3A9482593011%2Cp_n_date%3A7073868011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760103831&rnid=7073860011&ref=sr_nr_p_n_date_1&ds=v1%3A0Gv1kGHJUTd6UfF37yjlx79rdJYZU0hiVKE84R9OG1A",
+      "name": "Últimos 90 Días",
+      "full_path": "Hogar y Cocina > Últimos 90 Días",
+      "productCount": 5,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-10T13:44:40.922Z"
+    }
+  ]
+}

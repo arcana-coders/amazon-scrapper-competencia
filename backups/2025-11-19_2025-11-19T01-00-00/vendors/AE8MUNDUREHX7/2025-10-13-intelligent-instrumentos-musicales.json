@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "seller_id": "AE8MUNDUREHX7",
+    "category_name": "Instrumentos Musicales",
+    "date_scraped": "2025-10-13T15:46:28.573Z",
+    "processing_type": "intelligent_detection_v1",
+    "max_products_per_category": 320,
+    "max_depth": 3,
+    "expected_products": 48
+  },
+  "intelligence_stats": {
+    "loops_avoided": 0,
+    "filters_detected": 0
+  },
+  "subcategories": [
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A13848858011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327198&rnid=15997893011&ref=sr_nr_n_10&ds=v1%3AR%2BLyR22PY2AOnU61Yd%2B%2Fn1wIVUO3iiqTV5aNRdSA7tA",
+      "name": "Instrumentos Musicales",
+      "full_path": "Instrumentos Musicales",
+      "productCount": 48,
+      "isLeaf": true,
+      "depth": 1,
+      "timestamp": "2025-10-13T15:46:35.148Z"
+    }
+  ]
+}

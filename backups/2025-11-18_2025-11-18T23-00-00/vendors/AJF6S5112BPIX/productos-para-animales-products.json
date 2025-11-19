@@ -1,0 +1,421 @@
+{
+  "metadata": {
+    "seller_id": "AJF6S5112BPIX",
+    "seller_url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A11782336011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761932814&rnid=15997893011&ref=sr_nr_n_15&ds=v1%3A0MTcffHgj412YcNQEc1Ae%2Focn5sXOscR4IFoWmrh%2BF8",
+    "category_name": "Productos para animales",
+    "total_products": 68,
+    "pages_processed": 5,
+    "extraction_date": "2025-10-31T20:43:08.237Z",
+    "script_version": "1.0"
+  },
+  "products": [
+    {
+      "asin": "B0DNQ6H9QY",
+      "title": "DRMOIS Polvo Dental Natural para Eliminar La Placa: Cuidado Dental Y Tratamiento Del Mal Aliento para Perros Y Gatos. Polvo Limpiador para Dientes Y Encías Saludables para Perros Y Gatos (120 G).",
+      "price": "$872.09",
+      "extracted_at": "2025-10-31T20:42:20.707Z"
+    },
+    {
+      "asin": "B00FAO2FW2",
+      "title": "Andis 24865 Trim 'N Go - Recortadora portátil de 7 piezas, diseño de animales y perros, color plateado",
+      "price": "$807.49",
+      "extracted_at": "2025-10-31T20:42:20.707Z"
+    },
+    {
+      "asin": "B07Z4SWCHT",
+      "title": "EASIHOLD - Pegamento de mantillo - 1.3 galones/XL - Pegamento de mantillo y roca para paisajismo y estabilización de mantillo y grava de guisantes. Dura hasta 3 años, no tóxico, listo para usar,",
+      "price": "$2,003.95",
+      "extracted_at": "2025-10-31T20:42:20.708Z"
+    },
+    {
+      "asin": "B0DJSPYC45",
+      "title": "ACTICLEAR Muck Clear – Tratamiento Natural para Lodos de Estanques, 250 Tabletas para Estanques, Fuentes Y Bebederos para Pájaros, Bacterias Y Enzimas Beneficiosas, Sin Químicos Y Seguro para Peces, M",
+      "price": "$584.67",
+      "extracted_at": "2025-10-31T20:42:20.708Z"
+    },
+    {
+      "asin": "B0DQL465SD",
+      "title": "Rywell Tapete Refrescante de Perros X-Grande, 110*80CM Tapete Frio para Perro/Gato con Dibujo, Impermeable Cool gel Mat for Dog, No Tóxicos Alfombrilla de Refrigeración Fresco para Hogar, Viajes, Gris",
+      "price": "$1,279.46",
+      "extracted_at": "2025-10-31T20:42:20.708Z"
+    },
+    {
+      "asin": "B001VP86NQ",
+      "title": "EQyss Avocado Mist Pet Conditioner Spray 16 oz by Eqyss",
+      "price": "$770.87",
+      "extracted_at": "2025-10-31T20:42:20.708Z"
+    },
+    {
+      "asin": "B07JN137CB",
+      "title": "Inca's Herbs Muña Digestivo All Natural 2 Pack 1.23 oz",
+      "price": "$573.47",
+      "extracted_at": "2025-10-31T20:42:20.708Z"
+    },
+    {
+      "asin": "B0DSJC2RT9",
+      "title": "Kyouki Juguetes para Pájaros, Loros, Cajas de Alimentación Naturales, Juguetes para Periquitos, Cacatúas, Cotorras, Agapornis Y Otras Aves Pequeñas Y Medianas (Medianas)",
+      "price": "$512.93",
+      "extracted_at": "2025-10-31T20:42:20.708Z"
+    },
+    {
+      "asin": "B0DN1BS8MJ",
+      "title": "PUAINTA Spray Para Puntos Calientes Para Perros, Spray Para La Piel Mejorado Pipot Para Perros, Alivio De La Picazón Y Tratamiento De Puntos Calientes Para Perros, Ayuda A Tratar Infecciones E Irritac",
+      "price": "$575.07",
+      "extracted_at": "2025-10-31T20:42:20.708Z"
+    },
+    {
+      "asin": "B0D3TFTDD4",
+      "title": "asomooh-Gotas para cataratas para perros, gotas para los ojos para perros, mejoran la claridad visual, mejoran la visión ocular y las cataratas (2 x 10 ml)",
+      "price": "$700.96",
+      "extracted_at": "2025-10-31T20:42:20.708Z"
+    },
+    {
+      "asin": "B0C2DWZWD9",
+      "title": "Purina Pro Plan Veterinary Joint Care Joint Supplement for Small Breed Dogs Hip and Joint Supplement - 2.65 oz. Pouch",
+      "price": "$584.67",
+      "extracted_at": "2025-10-31T20:42:20.709Z"
+    },
+    {
+      "asin": "B0CFY8885G",
+      "title": "KDSZJDV Corrector Spray para perros, 80 ml, paquete de 2 correctores en spray para perros para detener ladridos, ataques de salto y comportamiento no deseado del perro humano eficaz",
+      "price": "$721.29",
+      "extracted_at": "2025-10-31T20:42:20.709Z"
+    },
+    {
+      "asin": "B0DHX7WXGY",
+      "title": "PawVital Medicamento para la Tos de Perros: Apoyo respiratorio 100% Natural: Alivio para la Tos y Las molestias respiratorias: golosinas Totalmente Naturales elaboradas con Pollo Real",
+      "price": "$896.08",
+      "extracted_at": "2025-10-31T20:42:20.709Z"
+    },
+    {
+      "asin": "B0DJSX1JBK",
+      "title": "Groundio Wildflower Seeds Bulk, 4 Oz, 100,000+ Seeds, 26 Variety Mix Annual Perennial, Attract Butterfly, Birds and Bees",
+      "price": "$667.60",
+      "extracted_at": "2025-10-31T20:42:20.709Z"
+    },
+    {
+      "asin": "B0D8J6K1LN",
+      "title": "Rywell - Kit de aseo para mascotas, aspiradora de aseo de 4 litros con 7 herramientas de aseo para mascotas para desprender pelo grueso y fino, pelo de mascotas, aspiradora de aseo de mascotas,",
+      "price": "$2,172.34",
+      "extracted_at": "2025-10-31T20:42:20.709Z"
+    },
+    {
+      "asin": "B0F1YDCKYQ",
+      "title": "Doctor By Dr.By Ut Care - Suplemento Urinario para La Infección Urinaria En Gatos, Apoyo Renal, Tratamiento de Arándanos para La Salud Renal de Gatos Con Pacran, Quercetina Y Taurina. Fórmula para Lam",
+      "price": "$1,099.65",
+      "extracted_at": "2025-10-31T20:42:20.709Z"
+    },
+    {
+      "asin": "B000UZQ07W",
+      "title": "PFIZER EQUINE 450006 Anthelcide EQ Equine Wormer Paste, 0.85 oz",
+      "price": "$710.78",
+      "extracted_at": "2025-10-31T20:42:30.998Z"
+    },
+    {
+      "asin": "B0CJCLHN8T",
+      "title": "Artullano - Polvo de calabaza para perros, diarrea de perro, soporte digestivo -8 onzas",
+      "price": "$680.63",
+      "extracted_at": "2025-10-31T20:42:30.998Z"
+    },
+    {
+      "asin": "B0CJWF1JSP",
+      "title": "Cadet - Bully Hide Sticks para Perros Grandes: Carne de Res Natural, Alto en Proteínas, Bajo en Grasa, Duradero, Gran Sabor",
+      "price": "$914.58",
+      "extracted_at": "2025-10-31T20:42:30.998Z"
+    },
+    {
+      "asin": "B0DK8H37K4",
+      "title": "Lucky Critter - Cueva de túnel subterráneo de acuario, curva natural, dos agujeros, visualización de peces y camarones bajo el túnel de grava, decoración de peceras, escondite perfecto para bagre",
+      "price": "$697.99",
+      "extracted_at": "2025-10-31T20:42:30.998Z"
+    },
+    {
+      "asin": "B0DCMG35R1",
+      "title": "Samorillo Spray Para Pájaros Con Aloe Vera, 8,5 Oz/251 Ml, No Tóxico, Alivia La Piel Seca Y Con Picazón Y Suaviza Las Plumas. Seguro Y Eficaz Para Todas Las Aves. Promueve Un Plumaje Saludable. Sin Ol",
+      "price": "$824.11",
+      "extracted_at": "2025-10-31T20:42:30.998Z"
+    },
+    {
+      "asin": "B0D1VBMKB7",
+      "title": "Barras de Descanso para gallineros, Percha para gallinas, Perfecta para Aves de Corral y gallineros de traspatio, fácil de Montar y Limpiar, Juguetes para gallinas de Granja",
+      "price": "$1,305.28",
+      "extracted_at": "2025-10-31T20:42:30.998Z"
+    },
+    {
+      "asin": "B0CNQBPD7J",
+      "title": "Snatchers- Cuernos de Alce para Perros: Juguetes y masticables duraderos para Perros Que muerden agresivamente y Que se desprenden de Forma Natural",
+      "price": "$532.12",
+      "extracted_at": "2025-10-31T20:42:30.998Z"
+    },
+    {
+      "asin": "B0CPPLLBHT",
+      "title": "Wowflash 100 almohadillas para orejas desechables de 22 x 22 pulgadas, dpads02",
+      "price": "$1,163.62",
+      "extracted_at": "2025-10-31T20:42:30.998Z"
+    },
+    {
+      "asin": "B0CLZ45SLP",
+      "title": "THFOPS - Arena de tofu para gatos, lavable, 100% natural y biodegradable, rápida aglutinación y última intervensión de polvo, control de olores y ultra absorbente, fuerte desodorante con máxima solubilidad en agua (6 libras x 2 bolsas)",
+      "price": "$1,188.75",
+      "extracted_at": "2025-10-31T20:42:30.999Z"
+    },
+    {
+      "asin": "B0DGL4H82X",
+      "title": "Halypet Arnés y correa para gatos [MAX Safety 4.ª generación] Correa ajustable a prueba de escapes, chaleco suave y cómodo, arnés fácil de usar con tira reflectante para gatos que caminan, talla M, co",
+      "price": "$532.12",
+      "extracted_at": "2025-10-31T20:42:30.999Z"
+    },
+    {
+      "asin": "B0C6JVWRDY",
+      "title": "VETRESKA Flora - Juego de arnés para perro, correa y collar, arnés para perro sin tirones para caminar y entrenar, ajustable, fácil control y suave acolchado arnés y mochila para mascotas para perros pequeños, medianos y grandes, L",
+      "price": "$1,232.78",
+      "extracted_at": "2025-10-31T20:42:30.999Z"
+    },
+    {
+      "asin": "B0DLWKBQSW",
+      "title": "Planta flotante Corral para acuario, accesorios para peceras para proteger la lenteja de los filtros, ajusta automáticamente la altura según el nivel del agua, adecuado para todas las lentejas de agua",
+      "price": "$501.39",
+      "extracted_at": "2025-10-31T20:42:30.999Z"
+    },
+    {
+      "asin": "B0D941TTWP",
+      "title": "3 bolígrafos de cepillo de dientes para mascotas, bolígrafos de brillo de dientes para perros, mascotas, perros, gatos y gatos, para cuidado dental, herramienta removedora de sarro",
+      "price": "$512.93",
+      "extracted_at": "2025-10-31T20:42:30.999Z"
+    },
+    {
+      "asin": "B01E7UKE86",
+      "title": "Super Snouts | Urinary Berry | Bladder & Urinary Tract Support | 75g Jar with Scoop",
+      "price": "$760.26",
+      "extracted_at": "2025-10-31T20:42:30.999Z"
+    },
+    {
+      "asin": "B0DK736LMT",
+      "title": "AUNZO - Arnés ajustable para perros pequeños, fácil control con asa, apto para chihuahua de habanés, inescapable, Ez Walking, tiras reflectantes seguras, sin frotar, sin estrangular, verde militar, S",
+      "price": "$752.37",
+      "extracted_at": "2025-10-31T20:42:30.999Z"
+    },
+    {
+      "asin": "B08THC95MJ",
+      "title": "Mosca negra seca para pollos de 2 libras",
+      "price": "$798.75",
+      "extracted_at": "2025-10-31T20:42:30.999Z"
+    },
+    {
+      "asin": "B0CJ3CSV3G",
+      "title": "Treat&Train - Sistema de entrenamiento remoto para perros, refuerzo positivo, comportamiento tranquilo, prevención de distracciones, incluye folleto de instrucciones, varita lente y control remoto, para perros de 6 meses en adelante",
+      "price": "$4,466.91",
+      "extracted_at": "2025-10-31T20:42:42.428Z"
+    },
+    {
+      "asin": "B01EUP8ZG6",
+      "title": "Hatortempt 5 lbs Dried Mealworms for Wild Bird Chicken Fish",
+      "price": "$1,401.01",
+      "extracted_at": "2025-10-31T20:42:42.428Z"
+    },
+    {
+      "asin": "B0777TRVTX",
+      "title": "Lillian Ruff Brightening & Whitening Shampoo for Dogs Ð Tear Free Coconut Scent with Aloe for Normal, Dry & Sensitive Skin Ð Adds Shine & Luster to Coats",
+      "price": "$1,761.90",
+      "extracted_at": "2025-10-31T20:42:42.429Z"
+    },
+    {
+      "asin": "B0DLXFPH52",
+      "title": "Wuffes Probiótico Diario para Perros: favorece la Salud digestiva, el Equilibrio intestinal y el Sistema inmunológico, con prebióticos, raíz de malvavisco y Polvo de Calabaza, 60 masticables Blandos",
+      "price": "$1,206.35",
+      "extracted_at": "2025-10-31T20:42:42.429Z"
+    },
+    {
+      "asin": "B0CDFWWMYR",
+      "title": "VETRESKA - Bolsas para caca para perros con dispensador, aroma a lavanda, a prueba de fugas y bolsas de basura extra gruesas para perros y gatos, 1 soporte para bolsa y 105 bolsas (7 rollos de",
+      "price": "$550.79",
+      "extracted_at": "2025-10-31T20:42:42.429Z"
+    },
+    {
+      "asin": "B0DNJNNGJ8",
+      "title": "PurronPaws Túnel Plegable Para Gatos De Tubo Recto Para Gatos Y Gatitos De Interior, Cueva De Juego Plegable Grande Con Bola Colgante Y Orificio Para Mirar, Ideal Para Conejos, Hurones, Cachorros Y Ma",
+      "price": "$750.54",
+      "extracted_at": "2025-10-31T20:42:42.429Z"
+    },
+    {
+      "asin": "B0CHH2SY7G",
+      "title": "Everroot- Suplementos masticables Blandos para Perros de Purina para la Cadera y Las articulaciones - Bote de 10,6 oz",
+      "price": "$890.59",
+      "extracted_at": "2025-10-31T20:42:42.429Z"
+    },
+    {
+      "asin": "B0C1NXKKNV",
+      "title": "Oxawo Interactive Cat Toys Cat Exercise Tumbler, Rechargeable Cat Toys for Indoor Cats Spin Butterfly Game Teasing Kitty, Extra Long Feather Wand",
+      "price": "$751.22",
+      "extracted_at": "2025-10-31T20:42:42.429Z"
+    },
+    {
+      "asin": "B0DCNNN5FC",
+      "title": "Comedero automático para gatos con cámara: 5G WiFi Comedero automático para perros de raza grande, dispensador de comida para gatos con visión nocturna, desmontable para una fácil limpieza-7L(29Cup)",
+      "price": "$1,783.93",
+      "extracted_at": "2025-10-31T20:42:42.429Z"
+    },
+    {
+      "asin": "B09WBT7PZT",
+      "title": "Pooph Kitty - Desodorante para caja de arena, espray de 32 onzas, desmantela los olores de una base molecular, gatos, ambientador, eliminador, orina, excremento, desodorizante, naturaleza, fresco, limpio, muebles, orina, seguro",
+      "price": "$909.56",
+      "extracted_at": "2025-10-31T20:42:42.429Z"
+    },
+    {
+      "asin": "B0CC2JK5V2",
+      "title": "Juexica - 30 casas de pájaros de madera, casas de pájaros sin acabar, kits de artes y manualidades, casas de pájaros de madera para pintar para niños",
+      "price": "$1,181.90",
+      "extracted_at": "2025-10-31T20:42:42.429Z"
+    },
+    {
+      "asin": "B0DBQZ8WRG",
+      "title": "Golosinas liofilizadas para perros y gatos, caja sellada de 17,6 oz, tamaño pequeño, repletas de proteínas con pollo, yema de huevo de codorniz, corazones, hígado, salmón y calabaza; bocadillos de ent",
+      "price": "$1,128.76",
+      "extracted_at": "2025-10-31T20:42:42.430Z"
+    },
+    {
+      "asin": "B0DHZMBH98",
+      "title": "Kits gruesos y delgados para casa de pájaros para niños de 4 a 8 años, kit de madera para casa de pájaros, manualidades de carpintería al aire última intervensión, pintura de estilo última",
+      "price": "$497.85",
+      "extracted_at": "2025-10-31T20:42:42.430Z"
+    },
+    {
+      "asin": "B0DG95J46R",
+      "title": "Plifal - 6 dijes de gatos para estetoscopio, bonitos y ajustables, personalizados, aptos para MDF y Littmann, regalos para médicos, enfermeras, estudiantes enfermeros, graduación de enfermería",
+      "price": "$512.93",
+      "extracted_at": "2025-10-31T20:42:42.430Z"
+    },
+    {
+      "asin": "B0C42CXR6M",
+      "title": "Fetch A Vet Gel De Carbón Activado, Botella De Dosis Ez De 60 Ml (Paquete De 1), Primeros Auxilios para Mascotas, Tratamiento con Antídoto contra Venenos",
+      "price": "$776.36",
+      "extracted_at": "2025-10-31T20:42:42.430Z"
+    },
+    {
+      "asin": "B0C8DCTX52",
+      "title": "Escondite de conejillo de indias, casa de conejillo de indias con escaleras y tapetes extragrande Castillo de conejillo de indias desmontable para animales pequeños, hábitats de madera de conejillo de indias con múltiples puertas y ventanas",
+      "price": "$990.44",
+      "extracted_at": "2025-10-31T20:42:42.430Z"
+    },
+    {
+      "asin": "B0C6JWDSBL",
+      "title": "VETRESKA Flora - Juego de arnés para perro, correa y collar, arnés para perro sin tirones para caminar y entrenar, ajustable, fácil control y suave acolchado arnés y mochila para mascotas para perros pequeños, medianos y grandes, M",
+      "price": "$1,174.50",
+      "extracted_at": "2025-10-31T20:42:54.262Z"
+    },
+    {
+      "asin": "B07WJX5TB7",
+      "title": "WhiteTail Naturals grado A, cornamentas de ciervo rojo dividido para perros | (6 paquetes medianos) | Naturalmente derramar cuerno de cornamenta | masticar perros naturales de 5 a 6 pulgadas de largo | para masticadores más pequeños",
+      "price": "$1,608.92",
+      "extracted_at": "2025-10-31T20:42:54.262Z"
+    },
+    {
+      "asin": "B09JGLB6D7",
+      "title": "Collar de gato Breakaway 2 piezas con patrón ajustable tribal azteca suroeste de seguridad para gatos gatitos (azteca + tribal)",
+      "price": "$393.20",
+      "extracted_at": "2025-10-31T20:42:54.262Z"
+    },
+    {
+      "asin": "B0DSBQX49J",
+      "title": "Fokauiwo Juego de Juguetes Interactivos 4 En 1 para Gatos con 12 Piezas de Repuesto para Gatos de Interior(Incluye Una Pluma Gigante) Juguete de Caña de Pescar con Mango de Madera, Ventosa Mejorada Y",
+      "price": "$626.93",
+      "extracted_at": "2025-10-31T20:42:54.263Z"
+    },
+    {
+      "asin": "B013F64HTA",
+      "title": "Bark2Basics D-Mat Acondicionador para Perros, 1 galón, Todo Natural, Multiusos, Elimina la estática, sin aditivos, desnatación, Ayuda en el desprendimiento, Profesional",
+      "price": "$1,440.30",
+      "extracted_at": "2025-10-31T20:42:54.263Z"
+    },
+    {
+      "asin": "B0BQ59TN84",
+      "title": "Mercano - Juego de arnés y correa de malla suave para perro, sin calzón, reflectante, transpirable, ligero, fácil de caminar, a prueba de escapes, arnés con hebilla de seguridad para perros pequeños y medianos, gatos (gris, XS)",
+      "price": "$541.71",
+      "extracted_at": "2025-10-31T20:42:54.263Z"
+    },
+    {
+      "asin": "B07S1P6DY1",
+      "title": "Correa de entrenamiento de nailon para perros pequeños, medianos y grandes, 4,5 m, 6 m, 9 m, 15,2 m de largo, correa para perro/cachorro para entrenamiento de obediencia, camping (4,5 m, verde)",
+      "price": "$481.36",
+      "extracted_at": "2025-10-31T20:42:54.263Z"
+    },
+    {
+      "asin": "B0F1FXWF67",
+      "title": "Awjcsv - Funda de asiento de coche para perro para asiento trasero, cama de perro para coche, apto para extensores de asiento trasero, protector de asiento de coche, antideslizante, suave, duradera",
+      "price": "$1,344.04",
+      "extracted_at": "2025-10-31T20:42:54.263Z"
+    },
+    {
+      "asin": "B07PHNR3PB",
+      "title": "Legendog Legendog - 5 piezas de juguete para gatos, juguete para masticar para gatos y gatos con dibujos animados, juguete masticable (multicolor1)",
+      "price": "$512.70",
+      "extracted_at": "2025-10-31T20:42:54.263Z"
+    },
+    {
+      "asin": "B0BNHVBJGN",
+      "title": "MUTTROS Cactus Cat Tree Torre para Gatos De 40 \"con Hamaca De Alfombra De Metal Grande, Rascador para Gatos De Interior con Condominio Y Bola Colgante, Verde",
+      "price": "$1,452.41",
+      "extracted_at": "2025-10-31T20:42:54.263Z"
+    },
+    {
+      "asin": "B0CXPFPYH3",
+      "title": "VCEPJH - Ropa de cama de corteza de reptil, 2 libras de corteza de corcho natural para reptiles, sustrato de madera de corcho, suministros de tanque de sustrato para serpiente, arañas, dragones",
+      "price": "$1,113.58",
+      "extracted_at": "2025-10-31T20:42:54.263Z"
+    },
+    {
+      "asin": "B07FDD9W7X",
+      "title": "Bark 2 Basics Blueberry D-Mat Acondicionador para perro, 1 galón | Todos los ingredientes naturales, multiuso, eliminación estática, afloja las esteras y enredos, fabricado en los Estados Unidos",
+      "price": "$1,440.30",
+      "extracted_at": "2025-10-31T20:42:54.263Z"
+    },
+    {
+      "asin": "B0BQ62T3Z8",
+      "title": "Mercano - Juego de arnés y correa de malla suave para perro, sin calzón, reflectante, transpirable, ligero, fácil de caminar, a prueba de escapar, arnés con hebilla de seguridad para perros pequeños y medianos, gatos (champaña, S)",
+      "price": "$572.45",
+      "extracted_at": "2025-10-31T20:42:54.264Z"
+    },
+    {
+      "asin": "B0CR5JMVWM",
+      "title": "BATTIPAW 2Pcs Columpios De Aves De Pollo, Perchas De Pollo, Juguetes De Columpio De Madera Natural, Soportes De Madera para Pollitos, Accesorios De Gallinero, Columpios para Gallineros, Loro",
+      "price": "$512.93",
+      "extracted_at": "2025-10-31T20:42:54.264Z"
+    },
+    {
+      "asin": "B019Y8A1GG",
+      "title": "Syndicate Sales Terrarium Tool Kit 4 Piece",
+      "price": "$596.78",
+      "extracted_at": "2025-10-31T20:42:54.264Z"
+    },
+    {
+      "asin": "B0CFF3JNNY",
+      "title": "VETRESKA - Bolso portador para perros pequeños, portador portátil para mascotas con bolsillos",
+      "price": "$1,756.35",
+      "extracted_at": "2025-10-31T20:42:54.264Z"
+    },
+    {
+      "asin": "B0C8HNJ6G8",
+      "title": "Filtro de fuente de agua para gatos compatible con fuentes de acero inoxidable, filtración eficiente con carbón activado con cáscara de coco y fibra de algodón de alta densidad para agua limpia y fresca",
+      "price": "$570.10",
+      "extracted_at": "2025-10-31T20:43:08.219Z"
+    },
+    {
+      "asin": "B0BRQ1TYTT",
+      "title": "WACOOL - Paquete de 2 lámparas de calor nocturno para reptiles y anfibios, lámpara de calor nocturno de 100 W para reptiles y anfibios, simular la luz de la luna de la naturaleza, luz de noche púrpura para dragón barbudo lagarto serpiente cangrejo",
+      "price": "$656.64",
+      "extracted_at": "2025-10-31T20:43:08.219Z"
+    },
+    {
+      "asin": "B0817466B5",
+      "title": "famjamjams Suéteres navideños a Juego para Perros y dueños de Mascotas (Navidad clásica, Humano Unisex L (se Adapta a L de Mujer/S de Hombre))",
+      "price": "$1,317.38",
+      "extracted_at": "2025-10-31T20:43:08.220Z"
+    },
+    {
+      "asin": "B07DXBZXSV",
+      "title": "Arenus Sore No-More PoulticeF",
+      "price": "$1,451.96",
+      "extracted_at": "2025-10-31T20:43:08.220Z"
+    }
+  ]
+}

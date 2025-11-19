@@ -1,0 +1,42 @@
+{
+  "seller_id": "A12WQF3HZEWBDD",
+  "batch_number": 3,
+  "created_at": "2025-11-03T13:57:06.095Z",
+  "analysis_type": "recursive_hierarchical_batch",
+  "max_products_per_leaf": 320,
+  "max_recursion_depth": 10,
+  "max_products_per_batch": 1000,
+  "main_categories": [
+    "Alimentos y Bebidas",
+    "Automotriz y Motocicletas",
+    "Bebé",
+    "Belleza",
+    "Deportes y Aire libre",
+    "Electrónicos",
+    "Herramientas y Mejoras del Hogar",
+    "Hogar y Cocina",
+    "Industria, Empresas y Ciencia",
+    "Instrumentos Musicales",
+    "Jardín",
+    "Juguetes y Juegos",
+    "Libros",
+    "Oficina y Papelería",
+    "Productos para animales",
+    "Ropa, Zapatos y Accesorios",
+    "Salud y Cuidado Personal"
+  ],
+  "categories": [
+    {
+      "name": "Deportes y Aire libre",
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A12WQF3HZEWBDD&rh=n%3A9482660011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1762177562&rnid=15997893011&ref=sr_nr_n_5&ds=v1%3AlDZkKpiq8B9U8Z7Lx8WIgA90WreHH%2BWMGo2AnlitBls",
+      "expected_products": 159,
+      "isLeaf": true,
+      "depth": 1,
+      "path": [
+        "Deportes y Aire libre"
+      ],
+      "status": "pending",
+      "created_at": "2025-11-03T13:48:11.030Z"
+    }
+  ]
+}

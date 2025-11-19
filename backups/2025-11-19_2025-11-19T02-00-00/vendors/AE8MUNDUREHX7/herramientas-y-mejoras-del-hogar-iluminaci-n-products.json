@@ -1,0 +1,1387 @@
+{
+  "metadata": {
+    "seller_id": "AE8MUNDUREHX7",
+    "seller_url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482670011%2Cn%3A9939347011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370058&rnid=9482670011&ref=sr_nr_n_6&ds=v1%3AvmXEq8Box0QD9La4cU66EoMXhO1VMHoGAxpbdg65JQ0",
+    "category_name": "herramientas-y-mejoras-del-hogar-iluminaci-n",
+    "total_products": 229,
+    "pages_processed": 15,
+    "extraction_date": "2025-10-17T22:09:11.361Z",
+    "script_version": "1.0"
+  },
+  "products": [
+    {
+      "asin": "B0CP5NZGQ1",
+      "title": "Larkvue - Cadena de luces LED de 96 pies para exteriores, impermeables, con 30+2 bombillas de plástico regulables, luces Edison clásico de 2700 K, color blanco",
+      "price": "$1,239.84",
+      "extracted_at": "2025-10-17T22:06:30.091Z"
+    },
+    {
+      "asin": "B0C3H9R1PH",
+      "title": "SESIMENT Lámpara colgante industrial galvanizada en oro de 11.8 pulgadas, 2 unidades, accesorios colgantes mentales para isla de cocina, lámpara colgante de cúpula, accesorios de techo para",
+      "price": "$2,215.50",
+      "extracted_at": "2025-10-17T22:06:30.091Z"
+    },
+    {
+      "asin": "B091DLFDL9",
+      "title": "Bombillas de cultivo, foco LED Briignite A19, foco de crecimiento de espectro completo, foco de luz de planta E26, foco de crecimiento de 11 W equivalente a 100 W, luz de crecimiento para plantas de",
+      "price": "$508.79",
+      "extracted_at": "2025-10-17T22:06:30.091Z"
+    },
+    {
+      "asin": "B0BRCNT75K",
+      "title": "Lámpara colgante de enchufe dorado, luces colgantes con cable de enchufe, mini luces colgantes de latón para isla de cocina, lámpara moderna con visualización de metal, lámparas colgantes para",
+      "price": "$1,123.09",
+      "extracted_at": "2025-10-17T22:06:30.091Z"
+    },
+    {
+      "asin": "B0CNVVPQXW",
+      "title": "AHlove Freddy - Señales de neón para decoración de pared, luces LED de neón para recámara, cumpleaños, regalos de Navidad para niños, adaptador de corriente de 5 V, 12 x 13 pulgadas (blanco + naranja)",
+      "price": "$1,038.92",
+      "extracted_at": "2025-10-17T22:06:30.091Z"
+    },
+    {
+      "asin": "B086QSKL4J",
+      "title": "Tresda - Luz de trabajo recargable COB de 100 W, luces LED inalámbricas de 7000 lm, luz de inundación portátil impermeable con soporte para acampar al aire última intervensión, senderismo, cochera,",
+      "price": "$1,503.11",
+      "extracted_at": "2025-10-17T22:06:30.091Z"
+    },
+    {
+      "asin": "B0D7BWWVC7",
+      "title": "LAMSU - Lámpara de pie de trípode bohemio para sala de estar, lámpara de pie de madera de ratán con pantallas de tela, lámpara de pie de mediados de siglo con estante, interruptor de pie, lámparas",
+      "price": "$2,780.59",
+      "extracted_at": "2025-10-17T22:06:30.091Z"
+    },
+    {
+      "asin": "B0D5DDR29L",
+      "title": "libtit - Lámpara de techo de 7 pulgadas de bronce aceitado, montaje empotrado, lámpara de techo de 15 W, 3000 K/4000 K/6500 K, accesorio de iluminación de techo redondo ultrafino para recámara,",
+      "price": "$668.24",
+      "extracted_at": "2025-10-17T22:06:30.091Z"
+    },
+    {
+      "asin": "B0C398JW1J",
+      "title": "Luxster 2024 Punisher 40,000LM H7 Bombillas LED para faros, Chips TalonLED Ultra-Brillantes, 6000K Blanco Puro, Instalación Fácil Plug-N-Play, Resistente al agua IP68, Paquete de 2",
+      "price": "$1,288.19",
+      "extracted_at": "2025-10-17T22:06:30.091Z"
+    },
+    {
+      "asin": "B0D145J3H9",
+      "title": "EIUIO Luces solares para exteriores, luces solares impermeables al aire última intervensión, luces solares para exteriores con encendido y apagado automático y 3 modos de iluminación, luces al aire",
+      "price": "$767.07",
+      "extracted_at": "2025-10-17T22:06:30.091Z"
+    },
+    {
+      "asin": "B09V366BDY",
+      "title": "Ksipze Tira de luces LED de 100 pies RGB sincronización de música cambio de color, luces LED con control remoto de aplicación inteligente, luces LED para iluminación de dormitorio",
+      "price": "$513.43",
+      "extracted_at": "2025-10-17T22:06:30.092Z"
+    },
+    {
+      "asin": "B0C6MT8MMB",
+      "title": "Arch - Lámparas de pie con control remoto, lámpara de pie regulable de 70 pulgadas, lámpara alta negra con visualización de metal colgante ajustable de 360°, lámparas de arco de pie con foco de 9 W,",
+      "price": "$1,919.79",
+      "extracted_at": "2025-10-17T22:06:30.092Z"
+    },
+    {
+      "asin": "B0B3XJTQ3T",
+      "title": "VIODAIM - Velas solares para exteriores, resistentes al agua: pilar parpadeante sin llama, juego de 3 luces de sensor recargables de anochecer a amanecer, 3 x 4/5/6 pulgadas, color blanco",
+      "price": "$947.69",
+      "extracted_at": "2025-10-17T22:06:30.092Z"
+    },
+    {
+      "asin": "B0B76DPKR8",
+      "title": "JOSU - Velas LED de té (24 unidades), velas sin llama, velas realistas que funcionan con pilas, velas parpadeantes brillantes con luz amarilla cálida para fiestas, bodas, día de San Valentín",
+      "price": "$639.89",
+      "extracted_at": "2025-10-17T22:06:30.092Z"
+    },
+    {
+      "asin": "B0D3PRLJGQ",
+      "title": "METHEDEECO - 2 pantallas colgantes de lino hechas a mano de 20 pulgadas, pantallas de tela plegables, linternas colgantes minimalistas beige y blancas para recámara, sala de estar, isla de cocina",
+      "price": "$1,850.80",
+      "extracted_at": "2025-10-17T22:06:30.092Z"
+    },
+    {
+      "asin": "B09DGD7J39",
+      "title": "AXILIXI - Lámpara de araña de vidrio contemporánea, 24 pulgadas, lámpara de techo de vidrio K9, lámpara de techo redonda de 5 niveles, color negro para entrada, comedor, escalera",
+      "price": "$7,935.93",
+      "extracted_at": "2025-10-17T22:06:30.092Z"
+    },
+    {
+      "asin": "B0B8NBFZTY",
+      "title": "merrynights - Velas LED, velas de té, funciona a granel, paquete de 24 velas de vela de larga duración de 200 horas sin llama, luces de té realistas para Halloween, Navidad, boda, 1.5 pulgadas de",
+      "price": "$518.62",
+      "extracted_at": "2025-10-17T22:06:42.735Z"
+    },
+    {
+      "asin": "B08M31MZ22",
+      "title": "MWZ - Apliques de pared modernos negros para iluminación, paquete de 2 lámparas rústicas doradas, sencillez, acabado bronce, brazo oscilante, luces de pared industriales para recámara, sala de estar,",
+      "price": "$1,618.07",
+      "extracted_at": "2025-10-17T22:06:42.735Z"
+    },
+    {
+      "asin": "B093K6D3Y1",
+      "title": "JOIONE - Velas sin llama con temporizador remoto, paquete de 6 velas de cera real que funcionan con pilas, llama parpadeante, luz cálida, luces LED eléctricas falsas para fiestas de Navidad, bodas,",
+      "price": "$888.67",
+      "extracted_at": "2025-10-17T22:06:42.735Z"
+    },
+    {
+      "asin": "B01N6FLRLT",
+      "title": "110 V clásico bombillas, 4PCS 110V 40w T300, 4 PCS 40W T300",
+      "price": "$941.69",
+      "extracted_at": "2025-10-17T22:06:42.735Z"
+    },
+    {
+      "asin": "B07WR75TT6",
+      "title": "G9 LED Bulb 4W (40W Halogen Equivalent) 400 LM G9 Bi-pin Base LED Light Bulbs Warm White 3000K AC 120V 360° Beam Angle Non-dimmable for Home Lighting Under Cabinet (10 Pack)",
+      "price": "$626.73",
+      "extracted_at": "2025-10-17T22:06:42.735Z"
+    },
+    {
+      "asin": "B0BVLM8W6V",
+      "title": "AUGE LIGHT - Lámpara minimalista inalámbrica para escritorio, con luces LED recargables, moderna, regulable, con 3 niveles, para juegos, oficina en casa, recámara, sala, cocina, bar, restaurante",
+      "price": "$1,262.10",
+      "extracted_at": "2025-10-17T22:06:42.736Z"
+    },
+    {
+      "asin": "B0D1VKCRHL",
+      "title": "HEMONNKAM - Luz de lectura de libros, recargable con clip, cuidado de los ojos, 3 temperaturas de color y 5 niveles de brillo, uso nocturno para cama, larga duración, lectura por la noche en la cama",
+      "price": "$405.94",
+      "extracted_at": "2025-10-17T22:06:42.736Z"
+    },
+    {
+      "asin": "B0D6RJ6VRW",
+      "title": "TobeBright - foco de lava de 25 W, base S11 E17, 25 W, 120 V, para lámpara de lava de 14.5 pulgadas, bombillas regulables E17, paquete de 2 unidades",
+      "price": "$418.36",
+      "extracted_at": "2025-10-17T22:06:42.736Z"
+    },
+    {
+      "asin": "B0CKLZRL27",
+      "title": "Zen Cigarette Tubes | Light | King Size | 5 Pack | 1250 Tubes | Premium Quality and Affordability - Includes LifeMods Bundle_AB, White",
+      "price": "$1,081.18",
+      "extracted_at": "2025-10-17T22:06:42.736Z"
+    },
+    {
+      "asin": "B0DCZN3W69",
+      "title": "SAIWEYA - Juego de 2 lámparas de mesa de granja de 27.5 pulgadas, con puertos USB C+A y salida de CA, lámparas táctiles regulables de 3 vías para sala de estar, recámara, oficina, sala de estudio,",
+      "price": "$2,563.43",
+      "extracted_at": "2025-10-17T22:06:42.736Z"
+    },
+    {
+      "asin": "B0C17W3Q9B",
+      "title": "axolotl lamp,3.15 inch 3D K9 Crystal Ball Axolotl Night Light with Wooden Base,16 colors change,remote control,color box,Birthday Christmas axolotl Gift",
+      "price": "$764.50",
+      "extracted_at": "2025-10-17T22:06:42.736Z"
+    },
+    {
+      "asin": "B0C7YW96D1",
+      "title": "UNILAMP - Bombillas LED azules equivalentes a 9 W, 60 W, foco azul E26 para exteriores, bombillas de color azul para fiestas decorativas para día festivo, día de Acción de Gracias, Navidad, Halloween, paquete de 4",
+      "price": "$506.06",
+      "extracted_at": "2025-10-17T22:06:42.736Z"
+    },
+    {
+      "asin": "B0C9TXVN77",
+      "title": "TYBEEU Palmera iluminada de 5 pies, 136 luces LED con cocos brillantes, regulable, certificado UL, impermeable, ideal para decoración de interiores y exteriores",
+      "price": "$2,561.79",
+      "extracted_at": "2025-10-17T22:06:42.736Z"
+    },
+    {
+      "asin": "B09Y8G3N5Q",
+      "title": "SUNREI - Luz de trabajo magnética recargable con LED, banco de energía de 180°, 1500 lúmenes, 6 modos, magnético y gancho, batería de 13500 mAh, linterna magnética para camping, reparación de",
+      "price": "$1,328.02",
+      "extracted_at": "2025-10-17T22:06:42.736Z"
+    },
+    {
+      "asin": "B07GB5H7X8",
+      "title": "Paquete de 10 bombillas de repuesto para cadena de luces para exteriores, ST40 bombillas Edison transparentes, base de tornillo E17 de 7 vatios para bombillas de repuesto para luces de cadena al aire",
+      "price": "$609.16",
+      "extracted_at": "2025-10-17T22:06:42.736Z"
+    },
+    {
+      "asin": "B07XJHND3T",
+      "title": "Luces solares para exteriores [6 unidades/3 modos], luces solares de seguridad con sensor de movimiento solar, luces impermeables para exteriores, para jardín, valla de patio, cochera",
+      "price": "$939.16",
+      "extracted_at": "2025-10-17T22:06:42.736Z"
+    },
+    {
+      "asin": "B07TW7DZQZ",
+      "title": "Luces solares con sensor de movimiento para exteriores 1400 lúmenes, 9 vatios (110 W equivalente) Foco solar de aluminio para seguridad de inundación para jardín, entrada, garajes, puertas, cubiertas y porches, 2 años de garantía 100% gratuita (blanco, 2 unidades)",
+      "price": "$1,339.35",
+      "extracted_at": "2025-10-17T22:06:55.488Z"
+    },
+    {
+      "asin": "B09BK4T3QX",
+      "title": "Lámpara de comedor para casa de campo, luces colgantes para isla de cocina, lámparas rústicas, 4 luces de madera y metal negro, lámpara de araña rectangular para colgar en el techo, 35.4 pulgadas",
+      "price": "$2,709.60",
+      "extracted_at": "2025-10-17T22:06:55.488Z"
+    },
+    {
+      "asin": "B0DF5NW3WG",
+      "title": "Boho - Lámpara colgante de ratán de cocina sobre isla, 3 luces bohemias para isla de cocina, accesorios de iluminación de comedor sobre mesa, lámpara de ratán para comedor",
+      "price": "$2,684.21",
+      "extracted_at": "2025-10-17T22:06:55.488Z"
+    },
+    {
+      "asin": "B0CZJ75627",
+      "title": "ANGSYLTH - 2 fundas de luz fluorescente - 4 x 2 pies para luces de techo, filtros de luz magnéticos para aula, oficina, hospitales, hogar",
+      "price": "$515.31",
+      "extracted_at": "2025-10-17T22:06:55.488Z"
+    },
+    {
+      "asin": "B0CKP571B6",
+      "title": "JARBIH - Paquete de 5 perfiles LED de aluminio para decoración de pared de techo, 1 m, 6 x 6 cm, línea de tira de esquina superior, lámpara luminosa sin techo, canal interno lineal para sala de estar",
+      "price": "$2,796.70",
+      "extracted_at": "2025-10-17T22:06:55.488Z"
+    },
+    {
+      "asin": "B09JMHF8QZ",
+      "title": "Qgiytp - Lámpara de techo de 8 luces Sputnik con forma de globo de vidrio mate negro y dorado de mediados de siglo, moderna lámpara de techo ajustable clásico colgante para comedor, cocina, recámara,",
+      "price": "$3,799.14",
+      "extracted_at": "2025-10-17T22:06:55.488Z"
+    },
+    {
+      "asin": "B004SBPDFY",
+      "title": "Novelty Lights 25 Pack G50 Outdoor Patio Globe Replacement Bulbs, Orange, E17/C9 Intermediate Base, 7 Watt",
+      "price": "$772.17",
+      "extracted_at": "2025-10-17T22:06:55.488Z"
+    },
+    {
+      "asin": "B0BC74BPZP",
+      "title": "JSKNB - Foco de 100000 lúmenes, 6 modos LED recargable como se ve en la televisión con trípode, filtros de color, luces solares superbrillantes para exteriores, de mano para caza, navegación, camping",
+      "price": "$881.99",
+      "extracted_at": "2025-10-17T22:06:55.489Z"
+    },
+    {
+      "asin": "B0C8CX9DCZ",
+      "title": "Aaleds - Luces para interiores de caravana, 12 voltios, 1000 lúmenes, luces para caravana, 8 W, accesorios interiores para caravana, 12 V, luz de cúpula de techo para caravana, remolque, barco, coche (blanco natural, 2 unidades)",
+      "price": "$860.09",
+      "extracted_at": "2025-10-17T22:06:55.489Z"
+    },
+    {
+      "asin": "B093K8RJ53",
+      "title": "JOIONE - Velas cónicas sin llama con temporizador remoto, paquete de 6 velas parpadeantes de cera real que funcionan con pilas, luces LED eléctricas falsas para el día de la madre, Navidad, color",
+      "price": "$877.03",
+      "extracted_at": "2025-10-17T22:06:55.489Z"
+    },
+    {
+      "asin": "B088GRWYVS",
+      "title": "Paquete de 2 luces LED de alambre de cobre alimentadas por energía solar, al aire última intervensión, impermeable, 8 modos de luces de hadas para jardín, patio, fiesta, Navidad, casa, Blanco Warm",
+      "price": "$506.28",
+      "extracted_at": "2025-10-17T22:06:55.489Z"
+    },
+    {
+      "asin": "B07J55ZD89",
+      "title": "GOOTHY -10 Red/Yellow Flame Bulb Christmas Light Bulbs(Plus 2 Extra Bulbs)-7 watts /120 volts/E12 Base (10 Pack)",
+      "price": "$598.79",
+      "extracted_at": "2025-10-17T22:06:55.489Z"
+    },
+    {
+      "asin": "B0DFZ1ZHFL",
+      "title": "Winawing - Lámpara de mesita de noche con base en madera con botón de impresión 3D, mesa de control USB, lámpara LED regulable, lámpara de mesita de noche con visualización PLA para recámara, sala de",
+      "price": "$955.04",
+      "extracted_at": "2025-10-17T22:06:55.489Z"
+    },
+    {
+      "asin": "B08L1LFCSH",
+      "title": "BEULT - Luz LED UFO de alta bahía de 100 W, 15000 lm, 5000 K, IP65, aprobado por UL, cable de 5 pies, con enchufe de EE. UU. Alternativa a 400 W MH/HPS ampliamente utilizado para almacén, tienda,",
+      "price": "$1,388.88",
+      "extracted_at": "2025-10-17T22:06:55.489Z"
+    },
+    {
+      "asin": "B09W2BNWBF",
+      "title": "Dekang - Lámpara de tocador de baño con níquel cepillado, moderna lámpara de pared de 2 luces para dormitorio, sala de estar, pasillo, decoración de pantallas de cristal blanco, base estándar E26, bombillas no incluidas",
+      "price": "$1,362.95",
+      "extracted_at": "2025-10-17T22:06:55.489Z"
+    },
+    {
+      "asin": "B0D3TCXHX8",
+      "title": "Señal de neón de pesca, luz de neón regulable, para decoración de pared, luces LED alimentadas por USB, gancho de pesca para tienda de equipos de pesca, yate, hombre, cueva, sala de estar, regalos",
+      "price": "$1,284.28",
+      "extracted_at": "2025-10-17T22:06:55.489Z"
+    },
+    {
+      "asin": "B0C2CFVWXZ",
+      "title": "Lámpara LED INVOVNI Linkable Tri-Proof, IP66 Impermeable con 5000K para Tienda Exterior, Garaje, Lavado de Autos y Armario - Luminaria LED Estanca de 60cm/18W, Incluye Enchufe y Interruptor, SF-18W",
+      "price": "$890.36",
+      "extracted_at": "2025-10-17T22:07:06.233Z"
+    },
+    {
+      "asin": "B01N6FQFGU",
+      "title": "110 V clásico bombillas, 4pcs 110V 40w T45, 4 PCS 40w T45",
+      "price": "$634.86",
+      "extracted_at": "2025-10-17T22:07:06.233Z"
+    },
+    {
+      "asin": "B0DHDCQV6X",
+      "title": "Juego de dos apliques de pared inalámbricos clásico que funcionan con pilas, luces de pared doradas recargables, visualización de vidrio de tulipán ámbar con iluminación de pared regulable a distancia",
+      "price": "$1,994.26",
+      "extracted_at": "2025-10-17T22:07:06.233Z"
+    },
+    {
+      "asin": "B0CLVGCVXL",
+      "title": "G-SAFAVA - Lámpara de mesa pequeña de 14.2 pulgadas para sala de estar, casa de campo, mesita de noche de resina con forma de búho dorado para recámara, lámpara de mesita de noche rústica retro",
+      "price": "$1,259.17",
+      "extracted_at": "2025-10-17T22:07:06.233Z"
+    },
+    {
+      "asin": "B0DCG9HF2N",
+      "title": "ECO-WILL Barra de luz LED moderna de cambiador de baño de 23.6 pulgadas, accesorio de iluminación de espejo negro de 15 W, lámpara LED regulable de 330 °, lámpara LED regulable de 6000 K, iluminación",
+      "price": "$1,496.61",
+      "extracted_at": "2025-10-17T22:07:06.233Z"
+    },
+    {
+      "asin": "B0DJ6KZ7FQ",
+      "title": "JingleChoo - Lámpara de pie de arco RGB con 3 temperaturas de color, lámpara de pie estilo bohemio de ratán regulable, aplicación y control remoto, moderna lámpara alta para leer, sala de estar,",
+      "price": "$1,636.13",
+      "extracted_at": "2025-10-17T22:07:06.233Z"
+    },
+    {
+      "asin": "B0DGLBDPZQ",
+      "title": "UFO - Luz LED de alta bahía, 150 W, 120 W, 90 W, ajustable, 4500 K/5000 K/5700 K, luz LED de alta bahía con cable de 5 pies, lista ETL/DLC, AC100-277 V, iluminación comercial impermeable IP65 para",
+      "price": "$2,255.42",
+      "extracted_at": "2025-10-17T22:07:06.233Z"
+    },
+    {
+      "asin": "B0DG2WHC68",
+      "title": "SAIWEYA - Juego de 2 lámparas de mesa de granja de 27.5 pulgadas, lámpara de noche regulable de 3 vías con 2 salidas USB + CA para mesita de noche, lámparas de tacto rústico clásico (negro antiguo)",
+      "price": "$2,576.66",
+      "extracted_at": "2025-10-17T22:07:06.233Z"
+    },
+    {
+      "asin": "B0DCN8GH69",
+      "title": "Lámpara de techo rústica de madera de granja de 3 luces, montaje empotrado, de madera de roble, tambor redondo, semirempotrado, para pasillo, entrada, recámara, casa de campo, interior, color negro",
+      "price": "$2,126.05",
+      "extracted_at": "2025-10-17T22:07:06.233Z"
+    },
+    {
+      "asin": "B0D5383HQZ",
+      "title": "Okayera - Linda luz nocturna Capybara, lámpara LED de silicona para animales con temporizador recargable USB portátil, regulable, perfecto para cumpleaños, Navidad, Pascua, mejor decoración del",
+      "price": "$820.81",
+      "extracted_at": "2025-10-17T22:07:06.233Z"
+    },
+    {
+      "asin": "B0DCZFDH3X",
+      "title": "Paquete de 2 luces solares de Navidad al aire última intervensión, impermeables, 2 modos de luces LED solares de colores para árboles de Navidad, encendido y apagado automático, decoración de Navidad",
+      "price": "$690.36",
+      "extracted_at": "2025-10-17T22:07:06.233Z"
+    },
+    {
+      "asin": "B0D8JX9WT1",
+      "title": "Guirnalda de Navidad con luces, 8.2 pies, funciona con pilas, 12 bombillas LED, conos de pino, decoraciones de bayas rojas, iluminadas para interiores y exteriores, ventana, hogar, chimenea, mesa,",
+      "price": "$682.13",
+      "extracted_at": "2025-10-17T22:07:06.234Z"
+    },
+    {
+      "asin": "B00D2ZGB7G",
+      "title": "Novelty Lights 25 Pack G40 Frosted White Outdoor Globe Bulbs, Light Bulbs Glass Incandescent Bulbs With 3000 Hour Lifespan, Globe String Lights Replacement Bulbs",
+      "price": "$656.53",
+      "extracted_at": "2025-10-17T22:07:06.234Z"
+    },
+    {
+      "asin": "B09VBWMDHP",
+      "title": "Lámpara de techo cuadrada de 24 W de 12 pulgadas, muy fina, 5000 K, luz blanca de día, panel plano, moderna, 3200 lúmenes, para baño, cocina, pasillo, escalera, sala de estar",
+      "price": "$1,057.90",
+      "extracted_at": "2025-10-17T22:07:06.234Z"
+    },
+    {
+      "asin": "B0DG2DXJDS",
+      "title": "Keretuby - Guirnalda de luces de cerezo con diseño de flor de cerezo, 33 pies, 100 LED USB, enchufe en colores pastel de flores de Navidad, lindas luces florales Diwali para techo, patio, recámara,",
+      "price": "$818.81",
+      "extracted_at": "2025-10-17T22:07:06.234Z"
+    },
+    {
+      "asin": "B0DDJK8LSJ",
+      "title": "Lilampts - Lámpara de noche de calabaza, linda decoración de calabaza, lámpara de noche de silicona con 3 niveles regulables, luz de noche de Halloween, luz nocturna de cuarto de bebé, luz táctil de",
+      "price": "$552.48",
+      "extracted_at": "2025-10-17T22:07:06.234Z"
+    },
+    {
+      "asin": "B0DBCQJFLS",
+      "title": "FFZZKJ - Paquete de 2 luces de Halloween en total, 100 luces LED de 33 pies, impermeables, funciona con pilas, 8 modos de decoración de Halloween para decoración de interiores y exteriores (morado y",
+      "price": "$678.46",
+      "extracted_at": "2025-10-17T22:07:16.914Z"
+    },
+    {
+      "asin": "B0D9NJ15FS",
+      "title": "MOSSNDAR - Proyector decorativo de 64 patrones HD con control remoto RF, proyector de lámpara de paisaje impermeable para jardín, patio, día de la independencia, fiesta de cumpleaños, decoración de",
+      "price": "$1,042.93",
+      "extracted_at": "2025-10-17T22:07:16.914Z"
+    },
+    {
+      "asin": "B0D8B8FV9P",
+      "title": "GANZQH - Luces LED de 20 pies para TV, retroiluminación LED para TV de 32 a 80 pulgadas, tira de luz LED USB con control remoto, control de aplicación, tira de luces LED RGB, sincronización de música,",
+      "price": "$447.14",
+      "extracted_at": "2025-10-17T22:07:16.915Z"
+    },
+    {
+      "asin": "B0D5CNJCD8",
+      "title": "Lámpara de araña de ratán con 5 luces estilo bohemio para comedor, color café y tejida, iluminación para lámpara de techo, recámara, sala de estar, vestíbulo, isla de cocina, costa, escalera, pasillo",
+      "price": "$5,130.36",
+      "extracted_at": "2025-10-17T22:07:16.915Z"
+    },
+    {
+      "asin": "B0D4CKG7PX",
+      "title": "Mgcanyu - Lámpara colgante estilo bohemio para isla de cocina, 17.7 pulgadas, tela a mano natural, lámpara de techo bohemia, para colgar en la costa, 5 luces, accesorio de iluminación de mimbre para",
+      "price": "$4,509.00",
+      "extracted_at": "2025-10-17T22:07:16.915Z"
+    },
+    {
+      "asin": "B0DJM1PWXG",
+      "title": "Proyector de luces de Halloween para exteriores/interiores, proyector de luces LED impermeable para regalo decoraciones de Halloween, proyector de día de fiesta, espectáculo de luces para Halloween",
+      "price": "$636.29",
+      "extracted_at": "2025-10-17T22:07:16.915Z"
+    },
+    {
+      "asin": "B094MN8J6V",
+      "title": "Lighttop - Guirnalda de luces de hadas para interiores (6 unidades, 20 LED de alambre de cobre, funciona con pilas, para árbol de Navidad, dormitorio, boda, fiesta de cumpleaños, decoración de bricolaje (blanco cálido)",
+      "price": "$518.38",
+      "extracted_at": "2025-10-17T22:07:16.915Z"
+    },
+    {
+      "asin": "B0BH8WLJ98",
+      "title": "Farmhouse - Lámpara colgante rústica de madera blanca, paquete de 1",
+      "price": "$1,504.65",
+      "extracted_at": "2025-10-17T22:07:16.915Z"
+    },
+    {
+      "asin": "B0D7HPYJ5M",
+      "title": "Bigsnail 18 x 18 W luz de escenario con control remoto",
+      "price": "$1,930.71",
+      "extracted_at": "2025-10-17T22:07:16.915Z"
+    },
+    {
+      "asin": "B0D1TLFPTS",
+      "title": "Lámpara de techo de ratán, de 3 luces, estilo bohemio, moderna, tejida, color negro, bohemio, para recámara, sala de estar, comedor, foco no incluida",
+      "price": "$1,742.49",
+      "extracted_at": "2025-10-17T22:07:16.915Z"
+    },
+    {
+      "asin": "B0D1JTHXL2",
+      "title": "G-SAFAVA - Juego de 2 lámparas de mesa pequeñas de 14.2 pulgadas, para decoración del hogar, rústico, estilo clásico, mesita de noche de resina retro, color blanco",
+      "price": "$1,305.97",
+      "extracted_at": "2025-10-17T22:07:16.915Z"
+    },
+    {
+      "asin": "B08ZMSY4HH",
+      "title": "Solar Mason Jar Lights,4 Pack 30 Led Fairy Hanging Jar Lights,Solar Lanterns for Outdoor Patio Party Garden Wedding Decor Lights(Mason Jars/Handles Included)",
+      "price": "$938.37",
+      "extracted_at": "2025-10-17T22:07:16.915Z"
+    },
+    {
+      "asin": "B0B42KTJ5S",
+      "title": "Bombillas de repuesto G40 de 5 W transparentes para base de candelabro E12, bombillas de repuesto regulables para decoración de patio interior y exterior, 120 voltios (paquete de 25)",
+      "price": "$646.10",
+      "extracted_at": "2025-10-17T22:07:16.915Z"
+    },
+    {
+      "asin": "B0D2GWHBTH",
+      "title": "NESSTU - Linternas solares resistentes al agua: paquete de 4 luces colgantes de metal para exteriores, para jardín, patio, decoración de árbol de camino de mesa, regalos de jardinería para mujeres y",
+      "price": "$1,360.70",
+      "extracted_at": "2025-10-17T22:07:16.916Z"
+    },
+    {
+      "asin": "B0CYS7LMN6",
+      "title": "SUEHHYY - Lámpara de mesa de noche de tela para el día de la madre, regalo para el día de la abuela, regalo de cumpleaños, Navidad, día de San Valentín, para abuela, abuela",
+      "price": "$627.51",
+      "extracted_at": "2025-10-17T22:07:16.916Z"
+    },
+    {
+      "asin": "B0CYSTP27F",
+      "title": "ZSSXOLED - 4 luces LED estroboscópicas de bastón recargables LED para botella de servicio, reutilizable, botella de champaña, luz LED para fiestas, discotecas, bar, bodas, eventos, festivales,",
+      "price": "$1,456.61",
+      "extracted_at": "2025-10-17T22:07:16.916Z"
+    },
+    {
+      "asin": "B0BD7NGP34",
+      "title": "Mancra - Paquete de 8 luces solares para valla de cubierta, luces solares para exteriores, impermeables, decoración de patio, patio, porche, entrada, 3000 K",
+      "price": "$1,062.45",
+      "extracted_at": "2025-10-17T22:07:29.789Z"
+    },
+    {
+      "asin": "B0DDBZYQK7",
+      "title": "Lámpara infrarroja con soporte, lámpara de terapia de luz infrarroja, lámpara de calor infrarrojo cercano de 275 W para terapia de dolor corporal o dolor muscular, juego de lámpara de pie ajustable de",
+      "price": "$3,194.91",
+      "extracted_at": "2025-10-17T22:07:29.790Z"
+    },
+    {
+      "asin": "B07D18B6JM",
+      "title": "VETOUR 24 velas de té sin llama realistas LED parpadeantes luces de té con batería constante, velas falsas eléctricas de larga duración, decoración para fiestas e ideas de regalos",
+      "price": "$580.29",
+      "extracted_at": "2025-10-17T22:07:29.790Z"
+    },
+    {
+      "asin": "B0DB67Q1MG",
+      "title": "BESMYJ - Paquete de 2 linternas solares de pared para exteriores con 3 modos, sensor de movimiento del anochecer al amanecer, luces LED IP65 impermeables, lámparas de seguridad exteriores frontales",
+      "price": "$1,645.53",
+      "extracted_at": "2025-10-17T22:07:29.790Z"
+    },
+    {
+      "asin": "B0D6V4V51W",
+      "title": "GANZQH - Tira de luces LED para recámara de 100 pies, con sincronización de música RGB, tira de luz LED que cambia de color con control remoto y de aplicación, luces para juegos, bricolaje, decoración",
+      "price": "$498.86",
+      "extracted_at": "2025-10-17T22:07:29.790Z"
+    },
+    {
+      "asin": "B0CWCQNFXS",
+      "title": "MUMENG - Lámpara de noche con visualización de tela, base de foco E27, bonito estilo LED de computadora con soporte ajustable, luces de noche de madera para habitación de niños, recámara, oficina,",
+      "price": "$1,020.79",
+      "extracted_at": "2025-10-17T22:07:29.790Z"
+    },
+    {
+      "asin": "B07Y391RPT",
+      "title": "Briignite - Luces nocturnas que se conectan a la pared, paquete de 4 luces nocturnas con sensores de luz, luz nocturna LED para habitación de niños, luz nocturna de bebé, baño, luces de escalera, luz",
+      "price": "$677.43",
+      "extracted_at": "2025-10-17T22:07:29.790Z"
+    },
+    {
+      "asin": "B07QPS38TC",
+      "title": "WdtPro - Luces solares para jardín al aire última intervensión, paquete de 6, luces solares impermeables de jardín con 24 flores de lirio, luces LED que cambian de color con energía solar para patio",
+      "price": "$1,054.41",
+      "extracted_at": "2025-10-17T22:07:29.790Z"
+    },
+    {
+      "asin": "B09D9F795R",
+      "title": "Sunset Lamp Projection Led Lights with Remote, 16 Colors Night Light 360° Rotation Rainbow Lights 4 Modes Setting for Photography/Selfie/ Party/Home/Living Room/Bedroom Decor, Gifts for Women.",
+      "price": "$564.85",
+      "extracted_at": "2025-10-17T22:07:29.790Z"
+    },
+    {
+      "asin": "B004Q6GLCK",
+      "title": "Novelty Lights 25 Pack C9 Outdoor Christmas Replacement Bulbs, Red, E17/C9 Intermediate Base, 7 Watt",
+      "price": "$706.23",
+      "extracted_at": "2025-10-17T22:07:29.790Z"
+    },
+    {
+      "asin": "B09NZY3ZTK",
+      "title": "QHIUAT - Lámpara de pared moderna para exteriores de 24 W, lámpara de pared de 35.4 pulgadas, iluminación de pared LED, impermeable, para cochera, porche, puertas de patio",
+      "price": "$2,688.08",
+      "extracted_at": "2025-10-17T22:07:29.790Z"
+    },
+    {
+      "asin": "B01KJ94Q1K",
+      "title": "PAR36 LED xenón blanco 6000 K (Eq 100 W Incandescent Iamp) Lámpara multiusos para tractor agrícola industrial todoterreno iluminación de paisaje incandescente para exteriores (terminal de inundación)",
+      "price": "$1,196.89",
+      "extracted_at": "2025-10-17T22:07:29.790Z"
+    },
+    {
+      "asin": "B088BDLMCN",
+      "title": "Paquete de 2 luces LED de alambre de cobre alimentadas por energía solar, al aire última intervensión, impermeable, 8 modos de luces de hadas para jardín, patio, fiesta, Navidad, casa, Blanco",
+      "price": "$530.58",
+      "extracted_at": "2025-10-17T22:07:29.790Z"
+    },
+    {
+      "asin": "B0CRDSJF7H",
+      "title": "MITELSON - Lámpara de pie con estantes y USB, USB-C y tomas de corriente, lámpara de pie de estante alto con estación de carga, lámparas para sala de estar, lámpara de pie resistente para recámara y",
+      "price": "$1,659.67",
+      "extracted_at": "2025-10-17T22:07:29.791Z"
+    },
+    {
+      "asin": "B0CQPFM4HL",
+      "title": "Ciyebst Luz de media luna con soporte para teléfono, lámpara de computadora de uñas de 29 en 48 W, luz de pestañas para tecnología de pestañas, maquillaje, tatuaje, spa, salón, lámpara de tecnología",
+      "price": "$1,740.27",
+      "extracted_at": "2025-10-17T22:07:29.791Z"
+    },
+    {
+      "asin": "B0BZ7W3RX2",
+      "title": "Akaco Moving Sand Art Base de madera de movimiento líquido, color 3D, arena movediza, reloj de arena de vidrio redondo, marco de arena de mar profundo, con accesorios de computadora blancos claros, para hombres, luz nocturna creativa",
+      "price": "$882.19",
+      "extracted_at": "2025-10-17T22:07:29.791Z"
+    },
+    {
+      "asin": "B09C629LCK",
+      "title": "gardencave - Paquete de 6 luces solares decorativas para jardín al aire última intervensión, luces solares de jardín con luz cálida, impermeables, luces de paisaje para camino, patio, patio, patio",
+      "price": "$1,163.56",
+      "extracted_at": "2025-10-17T22:07:41.495Z"
+    },
+    {
+      "asin": "B095S4PP8X",
+      "title": "Fielegen 20 luces LED de mariposa, 10 pies/3 metros, funciona con pilas, luces de hadas de mariposa moradas para el hogar, recámara, interior, exterior, jardín, boda, fiesta, día festivo, decoración de verano",
+      "price": "$696.58",
+      "extracted_at": "2025-10-17T22:07:41.495Z"
+    },
+    {
+      "asin": "B0CHBC3ZPP",
+      "title": "VIHOSE - 8 lámparas de mesa inalámbricas, LED, portátil, recargable, con sensor táctil, 3 colores de atenuación de hasta 15 horas de batería, luz de computadora para restaurante, guardería, sala de",
+      "price": "$2,608.03",
+      "extracted_at": "2025-10-17T22:07:41.495Z"
+    },
+    {
+      "asin": "B0CH11G7FL",
+      "title": "ABEAJAT - Lámpara de techo de 6 luces de níquel cepillado Sputnik, moderna lámpara de techo semi empotrada, lámpara de techo industrial de metal para sala de estar, granja, cocina recámara (níquel cepillado)",
+      "price": "$1,518.71",
+      "extracted_at": "2025-10-17T22:07:41.495Z"
+    },
+    {
+      "asin": "B0CBBKZC4X",
+      "title": "Lámpara de comedor sobre mesa, iluminación de isla de cocina de 4 luces, moderna lámpara de madera con altura ajustable, grandes luces colgantes industriales negras para colgar en el techo para sala",
+      "price": "$2,993.86",
+      "extracted_at": "2025-10-17T22:07:41.495Z"
+    },
+    {
+      "asin": "B0B1QQV73M",
+      "title": "MOUJOE - Lámpara de techo semi empotrada de 6 luces de madera rústica Sputnik lámpara de techo de roble y negro con E26 para comedor, recámara, cocina",
+      "price": "$1,914.27",
+      "extracted_at": "2025-10-17T22:07:41.495Z"
+    },
+    {
+      "asin": "B0CKHQJ4DZ",
+      "title": "FLRYBRG - Foco de Halloween para exteriores de 15 W con control remoto de 110 V COB LED para exteriores, luces de paisaje que cambian de color RGB para decoración de patio, árbol, camino de jardín",
+      "price": "$928.70",
+      "extracted_at": "2025-10-17T22:07:41.496Z"
+    },
+    {
+      "asin": "B0C9LTQJBY",
+      "title": "Elaruslux - Paquete de 12 luces LED ultradelgadas de 7 pulgadas 3CCT con caja de conexiones, 3000 K/4500 K/6000 K seleccionables, 18 W Eqv 125 W, Downlight regulable sin canas, 1600 LM de alto brillo",
+      "price": "$2,714.04",
+      "extracted_at": "2025-10-17T22:07:41.496Z"
+    },
+    {
+      "asin": "B0989SHGHS",
+      "title": "Elyccupa Lámpara de araña de cuentas de madera con",
+      "price": "$2,131.88",
+      "extracted_at": "2025-10-17T22:07:41.496Z"
+    },
+    {
+      "asin": "B08KVQHRCW",
+      "title": "A AXILIXI - Lámparas de techo modernas de 24 pulgadas, lámpara colgante de montaje empotrado, 12 luces, 5 niveles, K9, lámpara colgante grande para entrada, comedor, sala de estar, recámara",
+      "price": "$7,686.32",
+      "extracted_at": "2025-10-17T22:07:41.496Z"
+    },
+    {
+      "asin": "B07FBFBV69",
+      "title": "LGL - Lámpara LED de luz temporal, alta fijación, ((150W LED Temporary Work Light Fixture))",
+      "price": "$2,542.18",
+      "extracted_at": "2025-10-17T22:07:41.496Z"
+    },
+    {
+      "asin": "B0BZYPXB45",
+      "title": "Wirziis - Juego de 2 ruedas de madera de 2.75 pies, poleas de montaje en techo de pared clásico de roble para lámparas colgantes de plantas de cultivo",
+      "price": "$890.73",
+      "extracted_at": "2025-10-17T22:07:41.496Z"
+    },
+    {
+      "asin": "B0CGX25HTX",
+      "title": "HBGFHG - Luces LED de pared magnéticas giratorias de 360° que funcionan con pilas, recargables por USB, regulables, luz nocturna LED para luces de lectura, luz de maquillaje e iluminación doméstica",
+      "price": "$1,323.67",
+      "extracted_at": "2025-10-17T22:07:41.496Z"
+    },
+    {
+      "asin": "B0BXXJ1SHG",
+      "title": "ABEAJAT Lámpara de techo de ratán, Iluminación, Lámpara de techo de montaje empotrado, 3 luces tejidas a mano, Araña de ratán rústica para pasillo, recámara, cocina, casa de campo y entrada (negro)",
+      "price": "$1,878.91",
+      "extracted_at": "2025-10-17T22:07:41.496Z"
+    },
+    {
+      "asin": "B0BFWCKJ37",
+      "title": "JUNWEN - Tira de luces LED cortas alimentadas con pilas con intermitente, 1 pieza de luces LED flexibles que funcionan con pilas, brillante para caja de sombras, regalo de bricolaje, coche, bar,",
+      "price": "$739.02",
+      "extracted_at": "2025-10-17T22:07:41.496Z"
+    },
+    {
+      "asin": "B096ZP878T",
+      "title": "VOOSEI Vintage LED Edison Bulbs, 6W, Equivalent 60W, Daylight White 4000K,High Brightness,E26 Medium Base, ST58 Antique Filament Bulbs, Non Dimmable,Clear Glass,Pack of 6",
+      "price": "$876.63",
+      "extracted_at": "2025-10-17T22:07:41.496Z"
+    },
+    {
+      "asin": "B0B9ZV3CDZ",
+      "title": "BIEOCUR - Lámpara de pared LED moderna de 40cm, 10 W, luz de porche y patio, luz blanca esmerilada, resistente a la humedad, adecuada para cochera, entrada, casa",
+      "price": "$1,508.91",
+      "extracted_at": "2025-10-17T22:07:51.238Z"
+    },
+    {
+      "asin": "B08YRD7JTF",
+      "title": "FinExpect Lámpara de araña moderna de 4 luces con pantalla de tambor de lino blanco de 45 cm para vestíbulo, comedor, sala de estar, cocina, latón envejecido",
+      "price": "$3,530.56",
+      "extracted_at": "2025-10-17T22:07:51.239Z"
+    },
+    {
+      "asin": "B08SVS6BNC",
+      "title": "Areful - Tira de luces LED de 15 pies, RGBWW que cambian de color con control remoto, tubo duradero flexible y conectable, impermeable para uso en interiores y exteriores, 17 colores y 6 modos",
+      "price": "$1,192.32",
+      "extracted_at": "2025-10-17T22:07:51.239Z"
+    },
+    {
+      "asin": "B0BF48GX59",
+      "title": "CONCA - Lámpara industrial Steampunk, base E26, luz Edison rústica con base de madera enjaulada y tubo de hierro (negro)",
+      "price": "$1,406.74",
+      "extracted_at": "2025-10-17T22:07:51.239Z"
+    },
+    {
+      "asin": "B0B6NXDLT9",
+      "title": "MATICOD - Luces LED para retroiluminación LED de TV, tira de luces LED RGB de 10 pies para luces de TV detrás, tira de luz LED USB para TV de 32 a 43 pulgadas, control de aplicación Bluetooth, tira de",
+      "price": "$534.04",
+      "extracted_at": "2025-10-17T22:07:51.239Z"
+    },
+    {
+      "asin": "B0B5TBXBMK",
+      "title": "Silla de cubeta LED de 15 pulgadas, 16 colores RGB que cambian de luz LED con mando a distancia, versátil y recargable, silla de cubeta brillante, mesa auxiliar moderna, luz de humor para recámara,",
+      "price": "$4,198.67",
+      "extracted_at": "2025-10-17T22:07:51.239Z"
+    },
+    {
+      "asin": "B0B3H9TCSB",
+      "title": "GIPTPLY Tira de luces LED de 100 pies, luces LED para recámara, sincronización de música, luces LED que cambian de color con aplicación y control remoto, tiras de luz LED RGB 5050 para decoración de habitación (100 pies)",
+      "price": "$513.43",
+      "extracted_at": "2025-10-17T22:07:51.239Z"
+    },
+    {
+      "asin": "B09YYDBH52",
+      "title": "Larekook - Farol solar cardenal para exteriores, resistente al agua, 13 pulgadas, gran lámpara colgante decorativa, luces solares de metal para patio, césped, mesa, patio, jardín, regalos cardenales",
+      "price": "$947.14",
+      "extracted_at": "2025-10-17T22:07:51.239Z"
+    },
+    {
+      "asin": "B09V6LWFX5",
+      "title": "Livinlarge - Linterna solar para colgar al aire última intervensión, linterna solar grande de ratán impermeable con mango de cordel, luces solares brillantes para exteriores con foco Edison para",
+      "price": "$1,229.22",
+      "extracted_at": "2025-10-17T22:07:51.239Z"
+    },
+    {
+      "asin": "B09RT6N4BD",
+      "title": "Farol solar de ratán natural con asa, luces LED grandes impermeables decorativas de jardín, lámpara de mesa solar de ratán brillante para patio, boda, decoración del hogar",
+      "price": "$1,230.80",
+      "extracted_at": "2025-10-17T22:07:51.239Z"
+    },
+    {
+      "asin": "B09QYBLFLT",
+      "title": "Linterna solar impermeable de ratán para exterior, linterna decorativa bohemia luminosa con mango rústico para colgar o lámpara de mesa para vallas, porche, jardín, patio, decoración de boda",
+      "price": "$1,335.66",
+      "extracted_at": "2025-10-17T22:07:51.239Z"
+    },
+    {
+      "asin": "B09VBYWLPC",
+      "title": "GEEDIAR - Paquete de 4 luces solares flotantes para piscina inflables impermeables IP68, 14 pulgadas de luz solar LED para piscina al aire última intervensión, accesorios de piscina para piscinas enterradas, 4 unidades",
+      "price": "$1,658.47",
+      "extracted_at": "2025-10-17T22:07:51.239Z"
+    },
+    {
+      "asin": "B09V6ZYSWF",
+      "title": "foco LED G8 Mini G8 de 3,5 W (equivalente a foco halógena de 35 W), base de dos pines T4 G8, 120 V, 3000 K, luz blanca cálida, G8 para iluminación debajo de la encimera, luz debajo del gabinete (paquete de 5)",
+      "price": "$759.39",
+      "extracted_at": "2025-10-17T22:07:51.240Z"
+    },
+    {
+      "asin": "B09SHDH1P5",
+      "title": "COOSA - Lámpara colgante de 1 luz, hecha a mano, para isla de cocina, acabado de níquel cepillado con accesorio ajustable montado en cable (tierra)",
+      "price": "$1,158.23",
+      "extracted_at": "2025-10-17T22:07:51.240Z"
+    },
+    {
+      "asin": "B09PL56NYJ",
+      "title": "ZSSXOLED Bombillas LED C7 E12 de repuesto para lámparas de sal del Himalaya de 15 W, bombillas de luz nocturna, candelabros, bombillas LED C7, 6000 K, 2 unidades",
+      "price": "$475.38",
+      "extracted_at": "2025-10-17T22:07:51.240Z"
+    },
+    {
+      "asin": "B09P4MY2GH",
+      "title": "Luces solares de jardín, luces de fuegos artificiales al aire última intervensión, paquete de 5 120 luces LED decorativas con mando a distancia, 8 modos de luz de paisaje de bricolaje, lámparas",
+      "price": "$973.19",
+      "extracted_at": "2025-10-17T22:07:51.240Z"
+    },
+    {
+      "asin": "B09LTQY3LB",
+      "title": "TFOI - Bombillas LED de emergencia recargables para fallas de alimentación en el hogar, funciona con pilas, corte de energía, camping, lectura, huracán, 12 W, 800 lm, E26, 4 unidades (luz diurna)",
+      "price": "$625.56",
+      "extracted_at": "2025-10-17T22:08:05.544Z"
+    },
+    {
+      "asin": "B09DXWN3R6",
+      "title": "Kaqur - Iluminación LED integrada de 7 pulgadas y 1.8 W, luces de paisaje de bajo voltaje de 12 V CA/CC, luces de pared de retención, luz de paso IP65 para exteriores, blanco suave de 2700 K, certificación ETL, 50.000 horas de vida útil, paquete de 8",
+      "price": "$2,919.29",
+      "extracted_at": "2025-10-17T22:08:05.544Z"
+    },
+    {
+      "asin": "B09DCC35FD",
+      "title": "Moderna lámpara de araña de cristal, lámpara colgante de techo negra regulable, lámpara redonda de 16 pulgadas, gota de lluvia para sala de estar, comedor, dormitorio, vestíbulo, cocina, 3 niveles, 6 luces",
+      "price": "$4,181.50",
+      "extracted_at": "2025-10-17T22:08:05.544Z"
+    },
+    {
+      "asin": "B099PKVRWL",
+      "title": "Adzok - foco G8, GY8.6 con base de dos pines, no regulable, tipo T4, xenón JCD, 120 V, 35 W, halógeno de repuesto para iluminación de cocina debajo del mostrador (paquete de 5, luz blanca diurna 6000",
+      "price": "$525.29",
+      "extracted_at": "2025-10-17T22:08:05.544Z"
+    },
+    {
+      "asin": "B092D3ZL2K",
+      "title": "Guirnalda de luces para exteriores G40 de 30,5 m, bombillas inastillables regulables para luces de patio, patio, porche, boda, fiesta, iluminación comercial, lista UL",
+      "price": "$1,315.56",
+      "extracted_at": "2025-10-17T22:08:05.544Z"
+    },
+    {
+      "asin": "B099WZNBG1",
+      "title": "Paquete de 2 bombillas LED equivalentes a 500 W, 7500 lúmenes, 5000 K, 60 W, luz blanca fría E26/E27, base media para exteriores, taller, garaje, almacén, fábrica, patio trasero, calle, 2 unidades",
+      "price": "$1,148.14",
+      "extracted_at": "2025-10-17T22:08:05.544Z"
+    },
+    {
+      "asin": "B099NK3BMC",
+      "title": "Vosaro - Luces solares de jardín, impermeables, decorativas, 7 colores cambiantes, luz de estaca solar para camino, patio, césped, decoración de vacaciones, 3 unidades",
+      "price": "$944.92",
+      "extracted_at": "2025-10-17T22:08:05.544Z"
+    },
+    {
+      "asin": "B097RY4XVN",
+      "title": "Luces LED de garaje, 60 W deformables LED iluminación de techo de garaje 6000 lm E26/E27 luz de día 6500 K super brillante luz de garaje luz ajustable para garaje, banco de trabajo, granero, almacén",
+      "price": "$863.35",
+      "extracted_at": "2025-10-17T22:08:05.544Z"
+    },
+    {
+      "asin": "B09633SBKT",
+      "title": "MOON-DE-AGE - Luces colgantes solares con control remoto, 3 colores y 2 modos de brillo temporizador de 8 pulgadas para colgar al aire última intervensión, lámpara de araña de cobertizo de gallinero,",
+      "price": "$1,340.29",
+      "extracted_at": "2025-10-17T22:08:05.545Z"
+    },
+    {
+      "asin": "B092V8V7NH",
+      "title": "NFESOLAR - Luces solares para exteriores con 16 LED, paquete de 8 luces solares brillantes multicolor para exteriores, impermeables, para caminos, jardín, césped, pasarela, Halloween, decoraciones de",
+      "price": "$970.05",
+      "extracted_at": "2025-10-17T22:08:05.545Z"
+    },
+    {
+      "asin": "B0915MKXYH",
+      "title": "Gasonny Luces LED empotrables de 4 pulgadas, iluminación empotrada LED ultrafina ajustable con caja de conexiones de 9 W, 750 lm, luz de geiling regulable ETL (opción 3000 K/4000 K/5000 K, 4 unidades)",
+      "price": "$1,752.46",
+      "extracted_at": "2025-10-17T22:08:05.545Z"
+    },
+    {
+      "asin": "B08D8Y5CQS",
+      "title": "Aplique de pared para exteriores con certificación ETL, impermeable, 60 W, luz de porche exterior, lámpara de montaje en pared de aluminio esmerilado con bombillas LED E26/E27 para patio, jardín, 2 unidades, negro mate, DECLUTTR",
+      "price": "$1,565.31",
+      "extracted_at": "2025-10-17T22:08:05.545Z"
+    },
+    {
+      "asin": "B07MH4HKYB",
+      "title": "JandCase BR30 - foco de luz que cambia de color, RGB+luz LED cálida y blanca fría, 12 W (equivalente a 100 W), 1050 lm, control remoto, bombillas regulables multicolor para techo, base E26, paquete de",
+      "price": "$834.22",
+      "extracted_at": "2025-10-17T22:08:05.545Z"
+    },
+    {
+      "asin": "B09XTGSJS7",
+      "title": "A AXILIXI - Lámpara de araña de vidrio moderna dorada de 24 pulgadas para comedor, 12 luces de techo, colgante de gota de lluvia de lujo, color dorado para entrada, sala de estar",
+      "price": "$7,012.65",
+      "extracted_at": "2025-10-17T22:08:05.545Z"
+    },
+    {
+      "asin": "B09M36V44B",
+      "title": "Gifarich - Lámparas de araña negras para comedor sobre mesa, lámparas modernas de granja para sala de estar, 9 luces industriales de metal para entrada, cocina, vestíbulo de isla",
+      "price": "$2,027.29",
+      "extracted_at": "2025-10-17T22:08:05.545Z"
+    },
+    {
+      "asin": "B08P5995TP",
+      "title": "Fabulis - Lámpara de cambiador con 3 luces clásicas de baño, moderna lámpara de pared con visualización de vidrio transparente, elegante aplique de pared para espejo, recámara, granja, baño, sala de estar, pasillo, negro mate",
+      "price": "$1,966.62",
+      "extracted_at": "2025-10-17T22:08:05.545Z"
+    },
+    {
+      "asin": "B08D9NWV23",
+      "title": "VSATEN - Luz nocturna de dinosaurio para niños, luz nocturna de silicona que cambia de color con sensor táctil para recámara de niños, lámpara LED recargable por USB, lámpara LED para habitación de",
+      "price": "$767.62",
+      "extracted_at": "2025-10-17T22:08:16.787Z"
+    },
+    {
+      "asin": "B08D3QCHCM",
+      "title": "JandCase Bombillas LED, ventilador de techo, base pequeña, bombilla redonda de 6 W, equivalente a 60 W, 3000 K, bombillas LED E12 Candelabro, bombillas LED G14 para ventilador de techo, candelabro, tocador, no regulable, listado UL, paquete de 6",
+      "price": "$607.86",
+      "extracted_at": "2025-10-17T22:08:16.787Z"
+    },
+    {
+      "asin": "B08B2WYHV7",
+      "title": "Backyadda - Botes de repuesto para antorcha (16 oz). Compatible con antorchas Tiki. Fácil apertura de llenado. Paquete de 4 unidades de metal estándar (sin tapas)",
+      "price": "$764.97",
+      "extracted_at": "2025-10-17T22:08:16.787Z"
+    },
+    {
+      "asin": "B08B146J9Q",
+      "title": "SAN YOUNG Barra de luz LED, cápsulas de luz LED de 4 pulgadas, 78 W, 5000 lm, luces LED de trabajo para camiones, barras de luz LED, cápsulas de 12 V, 24 V, recolección de barco, ATV, UTV, RV, focos",
+      "price": "$1,775.58",
+      "extracted_at": "2025-10-17T22:08:16.787Z"
+    },
+    {
+      "asin": "B086MSJ47D",
+      "title": "JIOR - Focos solares de paisaje para exteriores, 32 LED IP65, impermeables, alimentados por energía solar, luces inalámbricas ajustables 2 en 1, para jardín, patio, entrada, piscina, patio, paquete de",
+      "price": "$1,193.71",
+      "extracted_at": "2025-10-17T22:08:16.787Z"
+    },
+    {
+      "asin": "B07K9SLN1F",
+      "title": "Bawoo - Paquete de 6 luces LED para disco, control remoto, color blanco cálido, brillo regulable, funciona con pilas, para clóset, cocina, clóset",
+      "price": "$685.71",
+      "extracted_at": "2025-10-17T22:08:16.787Z"
+    },
+    {
+      "asin": "B0987YRLMR",
+      "title": "Luces solares para exteriores, 270 LED 3000 lm, luz con sensor de movimiento, IP65, impermeable, 4 cabezales, 3 modos, 330 ° gran angular 6500 K, luces de inundación inalámbricas, luces solares para",
+      "price": "$1,047.25",
+      "extracted_at": "2025-10-17T22:08:16.787Z"
+    },
+    {
+      "asin": "B095WJHVMG",
+      "title": "Jolux - Luces LED para accesorios cerrados, bombillas LED equivalentes a 100 W, blanco suave de 2700 K, 1500 LM, base de tornillo medio E26, foco de alto lúmenes, no regulable, 6 unidades (paquete de",
+      "price": "$1,084.98",
+      "extracted_at": "2025-10-17T22:08:16.787Z"
+    },
+    {
+      "asin": "B0D6BCR3BX",
+      "title": "Liveasily Luces de Halloween, Decoración de Telaraña Solar, 14.8 x 16.4 pies, 135 Luces LED Verdes, Resistente al Agua IP44",
+      "price": "$1,086.49",
+      "extracted_at": "2025-10-17T22:08:16.787Z"
+    },
+    {
+      "asin": "B083GHXFTJ",
+      "title": "Winzwon - Luces LED interiores para accesorios de coche para mujeres y hombres, regalos de cumpleaños para hombres, control de aplicación con puerto USB, sincronización de música, cambio de color",
+      "price": "$493.50",
+      "extracted_at": "2025-10-17T22:08:16.788Z"
+    },
+    {
+      "asin": "B0822HCG21",
+      "title": "GLW - Luces de paisaje de 12 V, 10 W, bajo voltaje, RGB para exteriores, IP65 resistente al agua que cambia de color, luz LED de inundación, luz de pared regulable, lámpara de inundación, 16 colores, 4 modos (8 unidades)",
+      "price": "$2,308.52",
+      "extracted_at": "2025-10-17T22:08:16.788Z"
+    },
+    {
+      "asin": "B07Y3TMQJ5",
+      "title": "Luces de Navidad – Cadena de luces LED transparentes de 50 unidades, 8 modos de cable verde mini juego de luces con temporizador para árbol de Navidad, decoración interior y exterior, impermeable, blanco cálido",
+      "price": "$737.04",
+      "extracted_at": "2025-10-17T22:08:16.788Z"
+    },
+    {
+      "asin": "B07VZXKYXW",
+      "title": "PERFECTDAY - Luz de libro con 10 LED USB recargable con brillo de 3 niveles para protección ocular lámpara de lectura nocturna (10 LED)",
+      "price": "$446.00",
+      "extracted_at": "2025-10-17T22:08:16.788Z"
+    },
+    {
+      "asin": "B07S3TC8F4",
+      "title": "Ariceleo - Luces LED de hadas con pilas, 4 paquetes de mini luces de hadas estrelladas de alambre de cobre alimentadas por pilas, para recámara, Navidad, fiestas, boda, centro de mesa, decoración (5",
+      "price": "$681.19",
+      "extracted_at": "2025-10-17T22:08:16.788Z"
+    },
+    {
+      "asin": "B07RYKCC8P",
+      "title": "Ariceleo - Luces LED de hadas con pilas, 4 paquetes de mini luces de hadas estrelladas de alambre de cobre alimentadas por pilas, para recámara, Navidad, fiestas, boda, centro de mesa, decoración (5",
+      "price": "$679.33",
+      "extracted_at": "2025-10-17T22:08:16.788Z"
+    },
+    {
+      "asin": "B07RVF998P",
+      "title": "BritTech - Letrero abierto de neón de 21 x 10 pulgadas, modelo 2025, con control remoto, ve tu negocio día o noche (21 x 10 pulgadas, azul/rojo)",
+      "price": "$2,509.00",
+      "extracted_at": "2025-10-17T22:08:16.788Z"
+    },
+    {
+      "asin": "B094YDWNQY",
+      "title": "XVZ - Lote de 2 farolillos solares para colgar, 30 luces LED de cristal agrietado, lámparas colgantes IP65 impermeables, lámparas solares para jardín, valla, patio, boda, Halloween, Navidad, blanco cálido",
+      "price": "$790.19",
+      "extracted_at": "2025-10-17T22:08:25.273Z"
+    },
+    {
+      "asin": "B08T64V91C",
+      "title": "WOCHOS Lámpara de araña retro industrial de metal y madera con 1 luz redonda para cocina, isla, vestíbulo, bar, comedor, restaurante, 19,8 cm de profundidad x 21,8 cm de alto",
+      "price": "$2,028.40",
+      "extracted_at": "2025-10-17T22:08:25.273Z"
+    },
+    {
+      "asin": "B0DCZDNCS9",
+      "title": "CONUCK - Lámpara de baño de 5 luces, accesorios de iluminación de baño sobre espejo, luz de cambiador negra con pantallas de vidrio transparente",
+      "price": "$2,752.70",
+      "extracted_at": "2025-10-17T22:08:25.273Z"
+    },
+    {
+      "asin": "B08BNDM6SK",
+      "title": "Biling Focos solares para exteriores, luces solares brillantes de 700 lúmenes para exteriores, IP67, impermeables, luces solares para paisaje, luces ascendentes para casa, patio, camino, jardín, entrada, piscina, color blanco (paquete de 4)",
+      "price": "$1,514.51",
+      "extracted_at": "2025-10-17T22:08:25.274Z"
+    },
+    {
+      "asin": "B086MCRS3W",
+      "title": "Paquete de 2 cadenas de 100 luces led con energía solar, cable de cobre impermeable al aire libre, 8 modos de luces de fantasía para jardín, patio, fiesta, Navidad, hogar",
+      "price": "$606.85",
+      "extracted_at": "2025-10-17T22:08:25.274Z"
+    },
+    {
+      "asin": "B0D9B57C3Y",
+      "title": "Kveosv - Lámpara de araña negra dorada moderna para comedor, 4 luces, iluminación de isla de cocina, colgante para lámparas lineales de granja de mediados de siglo con visualización de globo de vidrio",
+      "price": "$3,546.08",
+      "extracted_at": "2025-10-17T22:08:25.274Z"
+    },
+    {
+      "asin": "B0D98MGLG3",
+      "title": "Decoraciones de Navidad para exteriores, 4 juegos de árbol de Navidad solar con 80 luces LED de fresa multicolor y decoración de estrella, 8 modos de iluminación, luces impermeables para caminos",
+      "price": "$988.56",
+      "extracted_at": "2025-10-17T22:08:25.274Z"
+    },
+    {
+      "asin": "B0D93DBQKM",
+      "title": "Pevfah Crystal - Lámpara de techo redonda chapada en cromo, moderno candelabro de 3 luces, 15.7 x 10.7 pulgadas, transparente, para sala de estar, pasillo, baño, cocina, recámara",
+      "price": "$3,419.46",
+      "extracted_at": "2025-10-17T22:08:25.274Z"
+    },
+    {
+      "asin": "B0D5H6B8LL",
+      "title": "Lámparas de cambiador de baño de 5 luces, luz de baño de madera, apliques rústicos con elegante visualización de metal para sala de estar, recámara, pasillo..",
+      "price": "$2,988.78",
+      "extracted_at": "2025-10-17T22:08:25.274Z"
+    },
+    {
+      "asin": "B0D52SMDY1",
+      "title": "Tomourd - Lámpara de pared LED de 40 W, 4000 lm, 5000 K, 360 °, gran angular, IP66, impermeable, para uso en pared para exteriores, paquete de pared, iluminación ideal para cochera (4 paquetes)",
+      "price": "$5,453.20",
+      "extracted_at": "2025-10-17T22:08:25.274Z"
+    },
+    {
+      "asin": "B0B2X5VYP4",
+      "title": "ClanKin Apliques de pared, lámpara de pared regulable para recámara industrial, iluminación de fregadero de baño para recámara, pasillo, sala de estar (1 paquete, negro con Swtich)",
+      "price": "$1,143.22",
+      "extracted_at": "2025-10-17T22:08:25.274Z"
+    },
+    {
+      "asin": "B07ZW13PJX",
+      "title": "Kit de lámpara de cable de luz colgante, cable de foco colgante de 15 pies con certificación UL E26, kit de cable de enchufe, con interruptor de palanca de encendido/apagado + ganchos + enchufe de",
+      "price": "$599.76",
+      "extracted_at": "2025-10-17T22:08:25.274Z"
+    },
+    {
+      "asin": "B07PFTCKL3",
+      "title": "LOHAS Luz nocturna enchufable, luces LED de noche regulables con sensor de anochecer a amanecer, luz nocturna de sueño de 3000 K, brillo ajustable, mini luz de 5 a 80 lm, para guardería, habitación de",
+      "price": "$555.56",
+      "extracted_at": "2025-10-17T22:08:25.274Z"
+    },
+    {
+      "asin": "B0757WG6GX",
+      "title": "Elsent - Paquete de 4 luces LED de noche rojas reales, enchufe en luces de pared con sensor de luz, adecuado para recámara, habitación de bebé y niños (diseño único de cubierta rosa)",
+      "price": "$771.38",
+      "extracted_at": "2025-10-17T22:08:25.275Z"
+    },
+    {
+      "asin": "B071WW3CYN",
+      "title": "OTTFF - Juego de 16 cables colgantes de luz de 3.2 pies, cables de suspensión de techo con pinzas ajustables para luces hexagonales de cochera, paneles LED, luces de acuario, carga máxima de 7 libras",
+      "price": "$653.64",
+      "extracted_at": "2025-10-17T22:08:25.275Z"
+    },
+    {
+      "asin": "B06XHJP5PC",
+      "title": "OTTFF - Juego de 8 cables de suspensión de luz de techo de 3.3 pies, acero de longitud ajustable para luz hexagonal de cochera, panel LED, luces de acuario",
+      "price": "$587.36",
+      "extracted_at": "2025-10-17T22:08:25.275Z"
+    },
+    {
+      "asin": "B00ANU0HPK",
+      "title": "Novelty Lights Traditional Christmas Bubble Light Night Light, Red Liquid, 1 Pack",
+      "price": "$564.22",
+      "extracted_at": "2025-10-17T22:08:36.860Z"
+    },
+    {
+      "asin": "B0D5TFL2YP",
+      "title": "Wowza Powah - Cadena de luces de camping 4 en 1 de 32.8 pies para exteriores, almacenamiento rápido, cadena de luces y linternas, 8 modos retráctiles, esenciales, impermeables, luces de campamento",
+      "price": "$605.76",
+      "extracted_at": "2025-10-17T22:08:36.860Z"
+    },
+    {
+      "asin": "B07QLQHQQ2",
+      "title": "YEEGO DIRECT - Barra de luz LED de 7 pulgadas, 240 W 24000 lm, luces LED todoterreno, luces de trabajo impermeables para camión, UTV, ATV, SUV, 12 V, 24 V, tractor, camioneta, barco (4 piezas)",
+      "price": "$1,638.14",
+      "extracted_at": "2025-10-17T22:08:36.860Z"
+    },
+    {
+      "asin": "B018FXNV0O",
+      "title": "OTTFF 3W E27 Disco Ball Lamp RGB Rotating LED Strobe Party Bulb Stage Light for Family Party,Birthday,Festival,Desk Lamp Decoration,Remote Control",
+      "price": "$678.46",
+      "extracted_at": "2025-10-17T22:08:36.860Z"
+    },
+    {
+      "asin": "B004OZKLBK",
+      "title": "Novelty Lights 25 Pack C7 Outdoor Christmas Replacement Bulbs, Blue, C7/E12 Candelabra Base, 5 Watt",
+      "price": "$736.67",
+      "extracted_at": "2025-10-17T22:08:36.860Z"
+    },
+    {
+      "asin": "B005MZC82Q",
+      "title": "Novelty Lights 25 Pack S14 Outdoor Patio Edison Replacement Bulbs, E27 Medium Base, Ceramic Multi, 11 Watt",
+      "price": "$1,032.48",
+      "extracted_at": "2025-10-17T22:08:36.860Z"
+    },
+    {
+      "asin": "B07N8K7JJ4",
+      "title": "Great Eagle Lighting Corporation - Bombilla Foco LED A19 equivalente a 40/60/100 W equivalente a 3 vías, 3000 K, Color Blanco Suave (Paquete de 4)",
+      "price": "$654.64",
+      "extracted_at": "2025-10-17T22:08:36.860Z"
+    },
+    {
+      "asin": "B07GB2PGY2",
+      "title": "ST38 - Guirnalda de luces de 3 m con 11 bombillas Edison transparentes, base E12 con certificación UL para porche de fiesta, patio trasero, cable negro",
+      "price": "$659.11",
+      "extracted_at": "2025-10-17T22:08:36.860Z"
+    },
+    {
+      "asin": "B073M28VC9",
+      "title": "Elsent [Pack de 4] Enchufe en LED Brillante Azul luz de Noche con Sensor de Dusk a Dawn, Auto ON/Off – Perfecto para baño, Pasillo y Cocina",
+      "price": "$814.66",
+      "extracted_at": "2025-10-17T22:08:36.860Z"
+    },
+    {
+      "asin": "B004Q65OJQ",
+      "title": "Novelty Lights 25 Pack G30 Outdoor Globe Replacement Bulbs, Red, C7/E12 Candelabra Base, 5 Watt",
+      "price": "$670.27",
+      "extracted_at": "2025-10-17T22:08:36.861Z"
+    },
+    {
+      "asin": "B0B1V3VLXF",
+      "title": "Luces láser de Navidad, proyector de luces láser para jardín al aire última intervensión, estrella de movimiento, 3 colores, rojo, verde, azul, a prueba de agua, adecuado para decoración de jardín al",
+      "price": "$1,161.46",
+      "extracted_at": "2025-10-17T22:08:36.861Z"
+    },
+    {
+      "asin": "B0C7QQQ8V9",
+      "title": "HAJAE - Letreros de neón de Jesús con luces led para decoración de pared, recámara, sala, bodas, luz regulable para decoración del hogar, eventos religiosos, regalos de Navidad y Pascua, cruz de Jesús",
+      "price": "$988.90",
+      "extracted_at": "2025-10-17T22:08:36.861Z"
+    },
+    {
+      "asin": "B094N4V1ZH",
+      "title": "foco LED recargable de emergencia con gancho, se mantiene encendida cuando falla la alimentación, bombillas LED equivalentes a 1500 mAh, 12 W y 60 W para el hogar, camping, senderismo, paquete de 4",
+      "price": "$764.60",
+      "extracted_at": "2025-10-17T22:08:36.861Z"
+    },
+    {
+      "asin": "B095RL5DHK",
+      "title": "Omgomne - Lámpara colgante moderna para isla de cocina, 1 luz, color negro, oro GU10, cable de luz colgante ajustable para sala de estar, recámara, comedor, 1 paquete",
+      "price": "$1,284.28",
+      "extracted_at": "2025-10-17T22:08:36.861Z"
+    },
+    {
+      "asin": "B08J6SRZ9Q",
+      "title": "Bribyit Kitchen Island Lighting, 33.5-Inch 5 Lights Farmhouse Linear Chandelier for Dining Room Pool Table Pendant Light Fixture, Rustic Wood Grain Finish, Industrial Pendant Light…",
+      "price": "$5,066.38",
+      "extracted_at": "2025-10-17T22:08:36.861Z"
+    },
+    {
+      "asin": "B07Z8XLGRC",
+      "title": "Ventilador de techo de vidrio de 52 pulgadas con luces, 5 cuchillas de madera y hermosa lámpara, ventilador de techo moderno con motor silencioso, ventilador de araña con control remoto para recámara,",
+      "price": "$5,013.37",
+      "extracted_at": "2025-10-17T22:08:36.861Z"
+    },
+    {
+      "asin": "B0DGY3C2R7",
+      "title": "Letreros de neón de coronas de Navidad, señal de luz LED de Navidad, luces de neón para fiestas, hogar, bar, festivales, decoración de pared, alimentada por USB",
+      "price": "$1,087.20",
+      "extracted_at": "2025-10-17T22:08:49.577Z"
+    },
+    {
+      "asin": "B0D97C6PVG",
+      "title": "Velas flotantes con varita – Paquete de 12 velas mágicas sin llama parpadeantes, luz cálida, velas LED para colgar a distancia, velas que funcionan con pilas para Navidad, decoración de fiestas",
+      "price": "$742.55",
+      "extracted_at": "2025-10-17T22:08:49.577Z"
+    },
+    {
+      "asin": "B0CFT7DGNB",
+      "title": "Letras LED pequeñas para marquesina, letras iluminadas, letras LED de 8.58 pulgadas, letrero iluminado con pilas para mesa, fiesta, cumpleaños, decoración de Navidad (rosa purpurina, letra J)",
+      "price": "$466.62",
+      "extracted_at": "2025-10-17T22:08:49.577Z"
+    },
+    {
+      "asin": "B0CDJFKVMF",
+      "title": "LOEHINLE - Lámpara colgante clásico de granja con visualización de metal, luces industriales de granero para pasillo, isla de cocina, fregadero, comedor, sala de estar, negro, 12.2 pulgadas",
+      "price": "$1,446.70",
+      "extracted_at": "2025-10-17T22:08:49.577Z"
+    },
+    {
+      "asin": "B0C39SXQ41",
+      "title": "Luces de disco con temporizador remoto, luces LED que funcionan con pilas, luces LED para estante de pegar luces inalámbricas, luces de mostrador RGB que cambian de color, 2 unidades, color blanco",
+      "price": "$524.19",
+      "extracted_at": "2025-10-17T22:08:49.577Z"
+    },
+    {
+      "asin": "B092DC6W14",
+      "title": "Chosenior - Lámpara de baño negra, 3 luces modernas con visualización de vidrio transparente para espejo, cocina, recámara, pasillo",
+      "price": "$2,271.82",
+      "extracted_at": "2025-10-17T22:08:49.577Z"
+    },
+    {
+      "asin": "B098J6LNG4",
+      "title": "AKSDA - Luz LED regulable para debajo del gabinete, iluminación inalámbrica, barra magnética de luz nocturna con batería recargable, mostrador para escaleras de cocina, pasillo, fregadero",
+      "price": "$626.73",
+      "extracted_at": "2025-10-17T22:08:49.577Z"
+    },
+    {
+      "asin": "B0BVBM9ZCD",
+      "title": "HiBay - Juego de 2 lámparas de noche táctiles de 17.7 pulgadas con puertos de carga USB y salida de CA, luces de noche blancas modernas para recámara, sala de estar, habitación de los niños",
+      "price": "$1,874.94",
+      "extracted_at": "2025-10-17T22:08:49.578Z"
+    },
+    {
+      "asin": "B09Y344K1F",
+      "title": "NEROSUN Luces de Navidad multicolor que funcionan con pilas, paquete de 2 50 luces LED de 16 pies impermeables para árbol de Navidad con 8 modos, decoraciones de Navidad para interiores y exteriores, patio, boda, decoración del hogar",
+      "price": "$695.83",
+      "extracted_at": "2025-10-17T22:08:49.578Z"
+    },
+    {
+      "asin": "B09T6YXSXQ",
+      "title": "Tira de luz LED blanca, 16 pies/5 m SMD5050 300 LED DC12 V flexible cinta LED cortable iluminación (sin enchufe de alimentación de 12 V/adaptador)",
+      "price": "$533.06",
+      "extracted_at": "2025-10-17T22:08:49.578Z"
+    },
+    {
+      "asin": "B0B1Q9W2ND",
+      "title": "RIDALUX - Luces solares para exteriores, paquete de 8 luces solares con llama parpadeante para decoración de jardín, iluminación impermeable al aire última intervensión, linterna de llama LED para",
+      "price": "$1,088.87",
+      "extracted_at": "2025-10-17T22:08:49.578Z"
+    },
+    {
+      "asin": "B09XTPZXG5",
+      "title": "AXILIXI - Candelabros de cristal dorado de 16 pulgadas, lámpara colgante de techo moderna para comedor, regulable, pequeño montaje empotrado, candelabros redondos para vestíbulo, cocina, isla de entrada",
+      "price": "$3,791.94",
+      "extracted_at": "2025-10-17T22:08:49.578Z"
+    },
+    {
+      "asin": "B09T929FVZ",
+      "title": "Postes de luz de cadena (paquete de 2)",
+      "price": "$2,426.38",
+      "extracted_at": "2025-10-17T22:08:49.578Z"
+    },
+    {
+      "asin": "B09Q5P162V",
+      "title": "Edzemuwa - Lámpara de techo de 3 luces, montaje empotrado en acabado negro mate, iluminación de granja para porche, pasillo, cocina, recámara",
+      "price": "$1,062.14",
+      "extracted_at": "2025-10-17T22:08:49.578Z"
+    },
+    {
+      "asin": "B09MKLH48V",
+      "title": "Nanzhujin - Linterna solar para exteriores, jardín, PVC, impermeable, 3 LED, sin llama, luces decorativas para mesa, exterior, fiesta, 00-1, cobre",
+      "price": "$905.16",
+      "extracted_at": "2025-10-17T22:08:49.578Z"
+    },
+    {
+      "asin": "B0967GT96Y",
+      "title": "HANASS MBA1237 - Lámpara de baño dorada de 21 pulgadas, 3 luces, con visualización de vidrio en acabado dorado, MBA1237",
+      "price": "$2,279.70",
+      "extracted_at": "2025-10-17T22:08:49.578Z"
+    },
+    {
+      "asin": "B093PSNZLY",
+      "title": "WSYEAR - Regalo de Navidad para hija de mamá, ideas para regalos de mamá e hija, regalo para hija, luz nocturna, regalos para Navidad, cumpleaños, día de San Valentín, regalos de graduación",
+      "price": "$831.21",
+      "extracted_at": "2025-10-17T22:09:01.277Z"
+    },
+    {
+      "asin": "B093KG6WXD",
+      "title": "Juego de 2 farolillos solares para colgar al aire libre luces decorativas para jardín, patio, porche. (Bronze)",
+      "price": "$1,081.92",
+      "extracted_at": "2025-10-17T22:09:01.278Z"
+    },
+    {
+      "asin": "B08H2B4LCH",
+      "title": "Lucalda - Lámpara de cambiador de baño regulable de 6000 K, 26 pulgadas, color dorado champaña, luces LED de 12 W, barra acrílica, luz de cambiador de bronce champaña",
+      "price": "$3,493.72",
+      "extracted_at": "2025-10-17T22:09:01.278Z"
+    },
+    {
+      "asin": "B088M42X4Z",
+      "title": "Biling Focos solares para exteriores, 2 en 1, luces solares de paisaje, 12 bombillas LED, luces solares IP67, impermeable, luz de pared ajustable para patio, camino, patio, jardín, entrada, piscina, color blanco (paquete de 2)",
+      "price": "$1,078.82",
+      "extracted_at": "2025-10-17T22:09:01.278Z"
+    },
+    {
+      "asin": "B07WN96M7Z",
+      "title": "Bombillas LED tubulares regulables de 6 W, 3000 K, blanco cálido, bombilla de filamento estilo Edison, bombilla vintage T10 equivalente a 60 W, E26 base media 550 lm, cubierta de vidrio transparente, 7.3 pulgadas (185 mm), paquete de 4",
+      "price": "$823.81",
+      "extracted_at": "2025-10-17T22:09:01.278Z"
+    },
+    {
+      "asin": "B0822KLWMF",
+      "title": "Biling - Focos solares para exteriores, 2 en 1, 12 bombillas LED, funciona con energía solar, IP67, impermeable, ajustable, para patio, camino, jardín, piscina, color blanco cálido (2 unidades)",
+      "price": "$890.36",
+      "extracted_at": "2025-10-17T22:09:01.278Z"
+    },
+    {
+      "asin": "B07V4BXSVJ",
+      "title": "PUZHI HOME Isla de Cocina Negra, 3-luces Iluminación Colgante de Granja con Cortinas de Metal Lámpara Colgante Moderna para Cocina Comedor",
+      "price": "$2,947.28",
+      "extracted_at": "2025-10-17T22:09:01.278Z"
+    },
+    {
+      "asin": "B07TSNS2YM",
+      "title": "Prosperbiz - Bombillas LED regulables E12 de 6 vatios (equivalente a 60 W) G14 para ventilador de techo, luz blanca de día 5000 K, base de candelabro, forma de globo, 600 lúmenes, paquete de 6",
+      "price": "$805.63",
+      "extracted_at": "2025-10-17T22:09:01.278Z"
+    },
+    {
+      "asin": "B07TLS8NMM",
+      "title": "Lámpara de pared para exteriores con luz LED para porche, lámpara de pared cilíndrica de 60 W, resistente al agua, para jardín, patio, dormitorio, sala de estar, luz blanca nocturna, sin bombillas",
+      "price": "$1,033.02",
+      "extracted_at": "2025-10-17T22:09:01.278Z"
+    },
+    {
+      "asin": "B07MX5LLQS",
+      "title": "SUNWIND - Juego de 4 luces LED de valla para postes de madera de 4 x 4 y 5 x 5 pulgadas, color blanco cálido, impermeables, para decoración de terraza, patio o jardín (negro)",
+      "price": "$1,109.85",
+      "extracted_at": "2025-10-17T22:09:01.279Z"
+    },
+    {
+      "asin": "B07MG4HDKG",
+      "title": "Cadena de luces de patio de 50 pies con 53 bombillas de globo Edison, con certificación UL para uso en interiores y exteriores, base de enchufe E12, luces conectables para porche, cubierta, cenadores, balcón, boda, reuniones de fiesta, decoración, color negro",
+      "price": "$1,376.15",
+      "extracted_at": "2025-10-17T22:09:01.279Z"
+    },
+    {
+      "asin": "B07Q6HDWZR",
+      "title": "YUJIU - foco LED regulable de 8 W E17 para horno de microondas, luz LED de base intermedia, luz diurna de 6000 K 100 W equivalente a halógeno bajo microondas (paquete de 2)",
+      "price": "$608.35",
+      "extracted_at": "2025-10-17T22:09:01.279Z"
+    },
+    {
+      "asin": "B07DVDPYXX",
+      "title": "Abeja Bombillas de repuesto G40, foco de globo transparente de 5 W para enchufes de base de rosca E12/C7, bombillas transparentes de 1.5 pulgadas para decoración de patio interior y exterior, paquete de 25",
+      "price": "$680.20",
+      "extracted_at": "2025-10-17T22:09:01.279Z"
+    },
+    {
+      "asin": "B0788H7LS3",
+      "title": "7Pandas Bombillas LED PAR38 para inundación, bombilla halógena equivalente a 90 W, listado en ETL, cuerpo de vidrio completo, 14 W 1200 LM, uso en interiores y exteriores, paquete de 4, rojo",
+      "price": "$1,664.28",
+      "extracted_at": "2025-10-17T22:09:01.279Z"
+    },
+    {
+      "asin": "B06XS1L7CN",
+      "title": "110 V clásico bombillas, 4PCS 110V 60w A19, 4 PCS 60W A19",
+      "price": "$742.55",
+      "extracted_at": "2025-10-17T22:09:01.279Z"
+    },
+    {
+      "asin": "B095SZ8F66",
+      "title": "Iluminación LED empotrable de 4 pulgadas, paquete de 6 unidades, 3CCT ultra delgada ajustable LED globo ocular Gimbal, iluminación LED empotrable de 4 pulgadas con caja de conexiones, 3000K/4000K/5000K, 9W 700LM, regulable, ETL listado",
+      "price": "$2,377.56",
+      "extracted_at": "2025-10-17T22:09:01.279Z"
+    },
+    {
+      "asin": "B0CJ8ZFB1M",
+      "title": "Moderna lámpara de araña de vidrio dorado para comedor, ramas de árbol para sala de estar, recámara, baño, cocina, vestíbulo, lámpara redonda de 30 pulgadas sobre mesa, lámparas de techo de vidrio",
+      "price": "$8,815.08",
+      "extracted_at": "2025-10-17T22:09:11.336Z"
+    },
+    {
+      "asin": "B0BXX3M18D",
+      "title": "iMaihom - Luz LED de seguridad con sensor de movimiento de 100 W, luces de inundación superbrillantes de 9000 lm, proyector exterior de 6500 K, impermeable IP65, detector de movimiento ajustable de 3 cabezales para patio y cochera (café)",
+      "price": "$2,220.17",
+      "extracted_at": "2025-10-17T22:09:11.336Z"
+    },
+    {
+      "asin": "B09NVKQKRR",
+      "title": "Liveasily - Paquete de 4 luces solares LED con llama parpadeante para exteriores, impermeables, para Halloween, linternas solares, luces de estaca, encendido y apagado automático, decoraciones de",
+      "price": "$791.35",
+      "extracted_at": "2025-10-17T22:09:11.336Z"
+    },
+    {
+      "asin": "B08CCZ11WQ",
+      "title": "Luces LED empotrables de 4 pulgadas ultrafinas ajustables con cardán LED empotrable con caja de conexiones, 9 W, 750 lm, luz de techo regulable con certificación ETL (2700 K/3000 K/3500 K/4000 K/5000",
+      "price": "$2,623.67",
+      "extracted_at": "2025-10-17T22:09:11.336Z"
+    },
+    {
+      "asin": "B08CCY492H",
+      "title": "Gasonny Luces LED empotrables de 4 pulgadas, ultradelgadas, ajustables, con forma de globo ocular, iluminación empotrada con caja de conexiones, 9 W, 750 lúmenes, luz de techo regulable con certificación ETL (3000 k/4000 k/5000 k, opción de 12 unidades)",
+      "price": "$4,728.03",
+      "extracted_at": "2025-10-17T22:09:11.336Z"
+    }
+  ]
+}

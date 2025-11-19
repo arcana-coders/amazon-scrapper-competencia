@@ -1,0 +1,4600 @@
+{
+  "started_at": "2025-10-10T19:48:41.482Z",
+  "total_products": 623,
+  "completed_products": 232,
+  "failed_products": 107,
+  "processed_asins": [
+    "B0FFM7T35T",
+    "B0FF4WKFYR",
+    "B0F9FLWRHM",
+    "B0F8QN9NDS",
+    "B0FH4J3XBN",
+    "B0FD2N3ZGZ",
+    "B0BB94G2PZ",
+    "B0FDWD863Z",
+    "B0FB5B545Y",
+    "B0CMC6SXJN",
+    "B0FM2G3RLL",
+    "B0F5HZ15Q8",
+    "B0DDSTCWLV",
+    "B0DS2D93SM",
+    "B0FF9FN8MM",
+    "B0DZKDS8QC",
+    "B0FJS2MTBQ",
+    "B0F89Y51YS",
+    "B0DT9L99YV",
+    "B0CW9Q3KXF",
+    "B0DR56S6Y7",
+    "B0DJLHWBJB",
+    "B000HDON4Y",
+    "B0FFC4V59H",
+    "B0D9VM2QP3",
+    "B0CQWZR6L8",
+    "B0FH9PSM1V",
+    "B0F53HFR94",
+    "B09TKWRDDS",
+    "B0FF21CTC2",
+    "B0D7L8Q5TW",
+    "B0CNSDMNCX",
+    "B0756RWM4Y",
+    "B0FG2W3KKP",
+    "B09FHVRJZZ",
+    "B0C69LSK2K",
+    "B0FH79F19M",
+    "B0F32M2QRV",
+    "B0F28Z41DN",
+    "B0DKD6J4XF",
+    "B0CTQDG76H",
+    "B0FHGWH38Y",
+    "B0FDQ65D8S",
+    "B0F5W98F1Y",
+    "B0DYD5FWNL",
+    "B0FG256M1L",
+    "B0F4D5DGPT",
+    "B0DX2M2GRP",
+    "B0FGX5RSLG",
+    "B0FGX5283V",
+    "B0F7QXH3P4",
+    "B0F5QFB5JV",
+    "B00L0ILSX4",
+    "B0FBZMQJ87",
+    "B0F8V6WBZL",
+    "B0FK2FMFPC",
+    "B0F6CFTF1F",
+    "B08NP6KCBL",
+    "B0DPFKXFDR",
+    "B0FPF9MCHK",
+    "B0FMYN1WZ6",
+    "B0FMK58KGC",
+    "B0FKZTN375",
+    "B0FK5446Q5",
+    "B0FJR36CLY",
+    "B0FHQ46W1W",
+    "B0FHKVK971",
+    "B0FHHDNPJN",
+    "B0FH54WVNV",
+    "B0FGXPRF2J",
+    "B0FGX4TWRX",
+    "B0FGX3XHD7",
+    "B0FGNLJ8C9",
+    "B0FFYG1LS8",
+    "B0FFSPNXR7",
+    "B0FFNQS2S7",
+    "B0FFMGBM3B",
+    "B0FFG58BLJ",
+    "B0FBYT63NS",
+    "B0FB3JVBGV",
+    "B0F8R1JPSC",
+    "B0F8P8MG32",
+    "B0F8HMLL7T",
+    "B0F7R2YGSW",
+    "B0F7QPV512",
+    "B0F7LJN3S7",
+    "B0F47QVRFM",
+    "B0F3HGQJL9",
+    "B0F28Q792F",
+    "B0F249KV9P",
+    "B0F241N4DF",
+    "B0F1YJYDPL",
+    "B0F1Y9PCCB",
+    "B0F12SWMDB",
+    "B0DZVNMF1C",
+    "B0DZT1NQQF",
+    "B0DZ6GZS24",
+    "B0DYZFB3HG",
+    "B0DYS78W5R",
+    "B0DYHH6NYF",
+    "B0DXZ46KXJ",
+    "B0DTH8PGT4",
+    "B0DT49WCWH",
+    "B0DT3F2FHW",
+    "B0DQCV45YH",
+    "B0DP22N37Y",
+    "B0DNXKWJ1J",
+    "B0DNMVGLG2",
+    "B0DLNVJVMX",
+    "B0DLL716ZX",
+    "B0DKP5144P",
+    "B0DD7VR5XJ",
+    "B0DBQTDHHW",
+    "B0D9J4QP8G",
+    "B0D7HJXQ21",
+    "B0D5HT5JHF",
+    "B0D3HRKQDX",
+    "B0D2XR3L4S",
+    "B0CVZYLPSW",
+    "B0CVBL22SR",
+    "B0CS2VR3S7",
+    "B0CQLN1N71",
+    "B0CN2BYM6R",
+    "B0BTJRJFN3",
+    "B0BNN3MSK9",
+    "B0BKZ5Y8VN",
+    "B09JYBZZ28",
+    "B083J1DZS4",
+    "B01N3PKXXT",
+    "B005XZG45C",
+    "B0DW8YHF5T",
+    "B0FFM72XFD",
+    "B0FCFPPFDH",
+    "B0F7QJST4W",
+    "B09NVSNVS4",
+    "B0FDQ7ZWMK",
+    "B0DV59HS8V",
+    "B0FG7NDMJ7",
+    "B0FDQMRSCJ",
+    "B0F5Q6B45Q",
+    "B0DWF4BH2C",
+    "B0DRD1F4Q2",
+    "B0DB5SC1SD",
+    "B0F3JVHQ79",
+    "B0D5LSP5LW",
+    "B0D447MCSR",
+    "B0FKMNY2N4",
+    "B0FGN32BCV",
+    "B0F8BYTK8M",
+    "B0F842DB1B",
+    "B0F2M55NKS",
+    "B0F29PBC8N",
+    "B0DXTP6W9Y",
+    "B0DQKZDP6W",
+    "B0D5D9B5X4",
+    "B0FKZ12GZ2",
+    "B0FGPMZCHV",
+    "B0FCMW541Y",
+    "B0F5PZVW56",
+    "B0DZHC3GWM",
+    "B0DSVN1N41",
+    "B0DS87KWG1",
+    "B0F9X4HDDW",
+    "B0DYB94Z6N",
+    "B0DX2K953R",
+    "B0F5MD2C7S",
+    "B0FHQVVSLP",
+    "B0FC27XKVF",
+    "B0F9P8YG83",
+    "B0FGX2Z4CM",
+    "B0FFLPS1J9",
+    "B0FCS89VKV",
+    "B0FBZ658BM",
+    "B0FBRCYJG7",
+    "B0F9KRMTCJ",
+    "B0F9FJ3PFK",
+    "B0F8QLRLWR",
+    "B0F7QRZDPS",
+    "B0F7QJ7K5T",
+    "B0DXSTHKWV",
+    "B0DK9H778B",
+    "B0FPR8KLML",
+    "B0FL75W42C",
+    "B0FCS5NYRG",
+    "B0FC2F6544",
+    "B0DXVM8ZDF",
+    "B0F1T969W7",
+    "B0FDLFC3JT",
+    "B093LQD76J",
+    "B0FP2PDBTL",
+    "B0FMR36GWP",
+    "B0FM31KJYC",
+    "B0FLP5QWR9",
+    "B0FL2CP5JV",
+    "B0FL1T9K3Z",
+    "B0FKBLS9D1",
+    "B0FHFRRC11",
+    "B0FHDG5V3R",
+    "B0FHDFPPY9",
+    "B0FGX62B7D",
+    "B0FGX5Q6FJ",
+    "B0FGX5HF94",
+    "B0FGX4BZ1T",
+    "B0FGX49SMN",
+    "B0FG7RM2MN",
+    "B0FG27Z4TL",
+    "B0FG27R83P",
+    "B0FG26SM7H",
+    "B0FG25V4SG",
+    "B0FG25SKS7",
+    "B0FG255GF1",
+    "B0FG253VCQ",
+    "B0FD742JCZ",
+    "B0FBZ6GGD3",
+    "B0FBS3LX7L",
+    "B0FB9J1JRQ",
+    "B0FB8F6MKZ",
+    "B0F9W34P3Y",
+    "B0F9PNMLFS",
+    "B0F8VMTNLM",
+    "B0F7R374JT",
+    "B0F7R2CNRW",
+    "B0F7QZ6CG3",
+    "B0F7QWKTZ5",
+    "B0F7QTHMGN",
+    "B0F7QL13XV",
+    "B0F66VPDKN",
+    "B0F63PKCS2",
+    "B0F2MC7Y1P",
+    "B0F26ZVGL2",
+    "B0F26YNHJB",
+    "B0F223HHVF"
+  ],
+  "failed_asins": [
+    "B0F7QJ7K5T",
+    "B0DXSTHKWV",
+    "B0DXSTHKWV",
+    "B0DK9H778B",
+    "B0DK9H778B",
+    "B0FPR8KLML",
+    "B0FPR8KLML",
+    "B0FL75W42C",
+    "B0FL75W42C",
+    "B0FCS5NYRG",
+    "B0FCS5NYRG",
+    "B0FC2F6544",
+    "B0FC2F6544",
+    "B0DXVM8ZDF",
+    "B0DXVM8ZDF",
+    "B0F1T969W7",
+    "B0F1T969W7",
+    "B0FDLFC3JT",
+    "B0FDLFC3JT",
+    "B093LQD76J",
+    "B093LQD76J",
+    "B0FP2PDBTL",
+    "B0FP2PDBTL",
+    "B0FMR36GWP",
+    "B0FMR36GWP",
+    "B0FM31KJYC",
+    "B0FM31KJYC",
+    "B0FLP5QWR9",
+    "B0FLP5QWR9",
+    "B0FL2CP5JV",
+    "B0FL2CP5JV",
+    "B0FL1T9K3Z",
+    "B0FL1T9K3Z",
+    "B0FKBLS9D1",
+    "B0FKBLS9D1",
+    "B0FHFRRC11",
+    "B0FHFRRC11",
+    "B0FHDG5V3R",
+    "B0FHDG5V3R",
+    "B0FHDFPPY9",
+    "B0FHDFPPY9",
+    "B0FGX62B7D",
+    "B0FGX62B7D",
+    "B0FGX5Q6FJ",
+    "B0FGX5Q6FJ",
+    "B0FGX5HF94",
+    "B0FGX5HF94",
+    "B0FGX4BZ1T",
+    "B0FGX4BZ1T",
+    "B0FGX49SMN",
+    "B0FGX49SMN",
+    "B0FG7RM2MN",
+    "B0FG7RM2MN",
+    "B0FG27Z4TL",
+    "B0FG27Z4TL",
+    "B0FG27R83P",
+    "B0FG27R83P",
+    "B0FG26SM7H",
+    "B0FG26SM7H",
+    "B0FG25V4SG",
+    "B0FG25V4SG",
+    "B0FG25SKS7",
+    "B0FG25SKS7",
+    "B0FG255GF1",
+    "B0FG255GF1",
+    "B0FG253VCQ",
+    "B0FG253VCQ",
+    "B0FD742JCZ",
+    "B0FD742JCZ",
+    "B0FBZ6GGD3",
+    "B0FBZ6GGD3",
+    "B0FBS3LX7L",
+    "B0FBS3LX7L",
+    "B0FB9J1JRQ",
+    "B0FB9J1JRQ",
+    "B0FB8F6MKZ",
+    "B0FB8F6MKZ",
+    "B0F9W34P3Y",
+    "B0F9W34P3Y",
+    "B0F9PNMLFS",
+    "B0F9PNMLFS",
+    "B0F8VMTNLM",
+    "B0F8VMTNLM",
+    "B0F7R374JT",
+    "B0F7R374JT",
+    "B0F7R2CNRW",
+    "B0F7R2CNRW",
+    "B0F7QZ6CG3",
+    "B0F7QZ6CG3",
+    "B0F7QWKTZ5",
+    "B0F7QWKTZ5",
+    "B0F7QTHMGN",
+    "B0F7QTHMGN",
+    "B0F7QL13XV",
+    "B0F7QL13XV",
+    "B0F66VPDKN",
+    "B0F66VPDKN",
+    "B0F63PKCS2",
+    "B0F63PKCS2",
+    "B0F2MC7Y1P",
+    "B0F2MC7Y1P",
+    "B0F26ZVGL2",
+    "B0F26ZVGL2",
+    "B0F26YNHJB",
+    "B0F26YNHJB",
+    "B0F223HHVF",
+    "B0F223HHVF"
+  ],
+  "enriched_products": [
+    {
+      "asin": "B0FFM7T35T",
+      "title": "XSHINOVA - Soporte para cápsulas de café Nespresso Vertuo, paquete de 3 unidades, capacidad para 21 cápsulas, montaje modular en pared o gabinete, estante para cápsulas de café con tiras adhesivas 3M",
+      "price": "$921.31",
+      "extracted_at": "2025-10-10T17:11:52.328Z",
+      "category": "Últimos 90 Días",
+      "also_appears_in": [
+        "Cocina",
+        "Meses sin Intereses"
+      ],
+      "enrichment": {
+        "current_price": "646.",
+        "current_seller": "Sky Direct LLC",
+        "original_price": "$921.31",
+        "original_category": "Últimos 90 Días",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T19:48:46.718Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0FF4WKFYR",
+      "title": "LAMU - Soporte para animales de peluche, zoológico de madera con cordones elásticos, organizador de juguetes para ahorrar espacio, organizador de animales de peluche de capacidad extragrande para sala",
+      "price": "$2,326.85",
+      "extracted_at": "2025-10-10T17:11:52.328Z",
+      "category": "Últimos 90 Días",
+      "also_appears_in": [
+        "Muebles"
+      ],
+      "enrichment": {
+        "current_price": "1,921.",
+        "current_seller": "A_DEM",
+        "original_price": "$2,326.85",
+        "original_category": "Últimos 90 Días",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T19:48:58.955Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0F9FLWRHM",
+      "title": "Almacenamiento de animales de peluche sobre la puerta para niños, organizador de fieltro con clips para mostrar arte y bolsillos de malla para rellenos, libros y más, diseño colgante que ahorra",
+      "price": "$1,324.62",
+      "extracted_at": "2025-10-10T17:11:52.328Z",
+      "category": "Últimos 90 Días",
+      "also_appears_in": [
+        "Almacenamiento y Organización",
+        "Meses sin Intereses"
+      ],
+      "enrichment": {
+        "current_price": "1,346.",
+        "current_seller": "ZENITHCORE",
+        "original_price": "$1,324.62",
+        "original_category": "Últimos 90 Días",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T19:49:11.184Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0F8QN9NDS",
+      "title": "TBMax - Contenedor de almacenamiento de harina de arroz con tapa abatible automática de 25 libras | 12.68 cuartos de galón, contenedor de harina de almacenamiento de alimentos alto y estrecho para",
+      "price": "$2,077.47",
+      "extracted_at": "2025-10-10T17:11:52.328Z",
+      "category": "Últimos 90 Días",
+      "also_appears_in": [
+        "Cocina"
+      ],
+      "enrichment": {
+        "current_price": "1,413.",
+        "current_seller": "F4ST ORCHESTRA",
+        "original_price": "$2,077.47",
+        "original_category": "Últimos 90 Días",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T19:49:22.425Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0FH4J3XBN",
+      "title": "YLQLA 9 paquetes de bolsas grandes de almacenamiento de juguetes, organizador de juguetes para niños con cierre y etiquetas, almacenamiento de juegos de mesa de PVC transparente, bolsas organizadoras",
+      "price": "$1,684.48",
+      "extracted_at": "2025-10-10T17:11:52.329Z",
+      "category": "Últimos 90 Días",
+      "also_appears_in": [
+        "Muebles"
+      ],
+      "enrichment": {
+        "current_price": "1,685.",
+        "current_seller": "SkyyMart",
+        "original_price": "$1,684.48",
+        "original_category": "Últimos 90 Días",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T19:49:32.655Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0FD2N3ZGZ",
+      "title": "PatioPerk - Sistema organizador de clóset integrado con 6 estantes y 3 varillas extensibles para colgar, sistemas de almacenamiento para recámara",
+      "price": "$6,769.64",
+      "extracted_at": "2025-10-10T17:11:52.329Z",
+      "category": "Últimos 90 Días",
+      "also_appears_in": [
+        "Almacenamiento y Organización"
+      ],
+      "enrichment": {
+        "current_price": "7,001.",
+        "current_seller": "Duran STORE",
+        "original_price": "$6,769.64",
+        "original_category": "Últimos 90 Días",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T19:49:44.476Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0BB94G2PZ",
+      "title": "BARIEN 6 Pcs 12\" x 9\" x 6\" Natural Water Hyacinth Storage Baskets, Rectangular Wicker Basket with Built-in Handles, Woven Cube Storage Bin with Chalkboard Label Chalk Marker (Natural - Set of 6)",
+      "price": "$4,338.37",
+      "extracted_at": "2025-10-10T17:05:40.967Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "3,342.",
+        "current_seller": "DONGHANGS",
+        "original_price": "$4,338.37",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T19:49:58.803Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0FDWD863Z",
+      "title": "BETU Bolsas de mudanza extragrandes, bolsas de almacenamiento resistentes con asas de cierre, paquete de 8 contenedores de almacenamiento de ropa, cajas de mudanza, suministros de mudanza para",
+      "price": "$1,568.96",
+      "extracted_at": "2025-10-10T17:05:40.967Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "658.",
+        "current_seller": null,
+        "original_price": "$1,568.96",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T19:50:12.458Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0FB5B545Y",
+      "title": "BATUBEAT Organizador de cinturón para clóset, organizador de cinturón para cajón con 6 compartimentos, organizador de almacenamiento de cinturón para hombres y mujeres para relojes, cinturón, bufandas",
+      "price": "$1,261.64",
+      "extracted_at": "2025-10-10T17:05:40.967Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "1,074.",
+        "current_seller": "FERHATSTOREES",
+        "original_price": "$1,261.64",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T19:50:25.082Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0CMC6SXJN",
+      "title": "JJoiaS Carrito de almacenamiento de plástico, contenedor de almacenamiento mediano con 3 cajones transparentes grandes con ruedas, color blanco",
+      "price": "$2,794.82",
+      "extracted_at": "2025-10-10T17:05:40.967Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "2,242.",
+        "current_seller": "Teos Trade",
+        "original_price": "$2,794.82",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T19:50:34.723Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0FM2G3RLL",
+      "title": "Paquete de 8 organizadores de sábanas para clóset de lino, cajas de almacenamiento de ropa de cama tamaño King/Queen con ventana transparente, organizador de lino plegable y a prueba de polvo para",
+      "price": "$2,824.39",
+      "extracted_at": "2025-10-10T17:05:40.967Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "339.",
+        "current_seller": null,
+        "original_price": "$2,824.39",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T19:50:44.919Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0F5HZ15Q8",
+      "title": "Cesta de almacenamiento tejida pequeña, cesta de almacenamiento mediano, mini cesta de cuerda de algodón, para estantes, guardería, oficina, baño y más, perfecta para organizar y deco (blanco y gris",
+      "price": "$1,088.79",
+      "extracted_at": "2025-10-10T17:05:40.968Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [
+        "Meses sin Intereses"
+      ],
+      "enrichment": {
+        "current_price": "1,109.",
+        "current_seller": "CRAZYBIG STORE",
+        "original_price": "$1,088.79",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T19:50:56.360Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0DDSTCWLV",
+      "title": "REIBII - Estantería de metal de 5 niveles para almacenamiento de despensa, estante ajustable de alambre de metal con bloqueadores laterales de 59 pulgadas de alto, estante de almacenamiento de pie con",
+      "price": "$3,411.52",
+      "extracted_at": "2025-10-10T17:05:40.968Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "3,197.",
+        "current_seller": "ShoppinGoods MX",
+        "original_price": "$3,411.52",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T19:51:06.766Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0DS2D93SM",
+      "title": "QueenFun - Espejo para gabinete de medicina negro, superficie de 16 x 24 pulgadas o gabinete de medicina con marco de aluminio empotrado con espejo biselado, montado completo, estantes ajustables,",
+      "price": "$6,652.13",
+      "extracted_at": "2025-10-10T17:05:40.968Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [
+        "Baño",
+        "Muebles",
+        "Salud y Cuidado Personal"
+      ],
+      "enrichment": {
+        "current_price": "5,017.",
+        "current_seller": null,
+        "original_price": "$6,652.13",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T19:51:19.022Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0FF9FN8MM",
+      "title": "POIXM Bolsas de aspiradora para viajes con bomba, bolsa reutilizable para ahorro de espacio, cubos de embalaje al aspiradora impermeables IP67 para maletas de viaje y mochila (2 unidades + bomba)",
+      "price": "$1,879.31",
+      "extracted_at": "2025-10-10T17:05:40.968Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "1,868.",
+        "current_seller": "KING H SALE",
+        "original_price": "$1,879.31",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T19:51:33.215Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0DZKDS8QC",
+      "title": "BEBE BASK Cesta colgante de mimbre festoneada – La decoración original de pared de mimbre – Cesta tejida a mano – Cesta para colgar en la pared – Cesta de almacenamiento de pared para guardería, sala",
+      "price": "$2,849.61",
+      "extracted_at": "2025-10-10T17:05:40.968Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "2,460.",
+        "current_seller": "UMY STORE",
+        "original_price": "$2,849.61",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T19:51:49.013Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0FJS2MTBQ",
+      "title": "Bolsa de almacenamiento para árbol de Navidad, se adapta a árbol de Navidad duradero 600D Oxford con cremalleras dobles de apertura ancha (reno)",
+      "price": "$1,209.99",
+      "extracted_at": "2025-10-10T17:05:40.968Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "1,126.",
+        "current_seller": "Huma's Shop",
+        "original_price": "$1,209.99",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T19:52:04.422Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0F89Y51YS",
+      "title": "Cupic Cupid - Cubitos de almacenamiento de 11 x 11 pulgadas, cubos para clóset, color rosa, paquete de 6",
+      "price": "$1,463.91",
+      "extracted_at": "2025-10-10T17:05:40.968Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "1,308.",
+        "current_seller": "SAYIL STORE",
+        "original_price": "$1,463.91",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T19:52:18.728Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0DT9L99YV",
+      "title": "Sakugi - Estanterías de almacenamiento de 5 niveles, organizador versátil para el hogar, la oficina o el cochera",
+      "price": "$2,984.33",
+      "extracted_at": "2025-10-10T17:05:40.968Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "539.",
+        "current_seller": null,
+        "original_price": "$2,984.33",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T19:52:32.617Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0CW9Q3KXF",
+      "title": "Cozivolife - clóset de almacenamiento sobre el inodoro con cajón y puerta abatible, estante organizador de baño de bambú con diseño antipunta y almohadilla impermeable para los pies, estante no",
+      "price": "$4,124.28",
+      "extracted_at": "2025-10-10T17:05:40.968Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [
+        "Baño"
+      ],
+      "enrichment": {
+        "current_price": "3,710.",
+        "current_seller": "ergunstore",
+        "original_price": "$4,124.28",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T19:52:43.343Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0DR56S6Y7",
+      "title": "VASMIA - Portaequipajes de bambú LRT001",
+      "price": "$1,937.95",
+      "extracted_at": "2025-10-10T17:05:40.968Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "1,497.",
+        "current_seller": "MCK MALL",
+        "original_price": "$1,937.95",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T19:52:59.204Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0DJLHWBJB",
+      "title": "TEDIDUWA Perchero de 36 pulgadas, estante de ropa montado en la pared con estante de madera real, estante para colgar ropa resistente, barra colgante multiusos, almacenamiento de clóset que ahorra",
+      "price": "$3,303.66",
+      "extracted_at": "2025-10-10T17:05:40.969Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "2,590.",
+        "current_seller": "Red Pure",
+        "original_price": "$3,303.66",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T19:53:11.436Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B000HDON4Y",
+      "title": "Great Useful Stuff Kangaroom clóset de Lino storages, Contemporáneo, Beige, Pequeño, 1",
+      "price": "$1,221.09",
+      "extracted_at": "2025-10-10T17:05:55.299Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "1,048.",
+        "current_seller": "Sky Marketingg",
+        "original_price": "$1,221.09",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T19:53:21.593Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0FFC4V59H",
+      "title": "Paquete de 6 bolsas de mudanza extra grandes con asas reforzadas, bolsa de almacenamiento resistente para habitación de recámara con cierre fuerte, cajas de mudanza para suministros universitarios",
+      "price": "$1,252.23",
+      "extracted_at": "2025-10-10T17:05:55.299Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "1,112.",
+        "current_seller": "DIMA GLOBAL",
+        "original_price": "$1,252.23",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T19:53:31.953Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0D9VM2QP3",
+      "title": "GarveeHome - Almacenamiento de Vestir para niñas con luz y Espejo, clóset para niños con Perchero y contenedor de Almacenamiento, Color Rosa",
+      "price": "$6,335.46",
+      "extracted_at": "2025-10-10T17:05:55.299Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "5,704.",
+        "current_seller": "Balkan Store 59",
+        "original_price": "$6,335.46",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T19:53:44.764Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0CQWZR6L8",
+      "title": "SMIBUY - Portaequipajes, totalmente montado, paquete de 2, soporte plegable de bambú con estante de almacenamiento para habitación de invitados, recámara, hotel, resistente (blanco y negro)",
+      "price": "$3,888.28",
+      "extracted_at": "2025-10-10T17:05:55.299Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "3,013.",
+        "current_seller": "DONGHANGS",
+        "original_price": "$3,888.28",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T19:53:57.545Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0FH9PSM1V",
+      "title": "Jofuler - clóset de montaje rápido y fácil, clóset portátil con varillas colgantes, estantes de almacenamiento y bolsillos laterales (gris, 34 pulgadas)",
+      "price": "$1,793.82",
+      "extracted_at": "2025-10-10T17:05:55.300Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [
+        "Meses sin Intereses"
+      ],
+      "enrichment": {
+        "current_price": "1,388.",
+        "current_seller": "ZENITHCORE",
+        "original_price": "$1,793.82",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T19:54:09.371Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0F53HFR94",
+      "title": "7 divisores de tamaño de clóset de bebé, organizador de clóset de bebé de doble cara, adorable colgador divisor, decoración de guardería para colgar ropa, guardería, guardarropa, armarios, habitación",
+      "price": "$659.19",
+      "extracted_at": "2025-10-10T17:05:55.300Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [
+        "Meses sin Intereses"
+      ],
+      "enrichment": {
+        "current_price": "497.",
+        "current_seller": "CRAZYBIG STORE",
+        "original_price": "$659.19",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T19:54:24.538Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B09TKWRDDS",
+      "title": "Danightime Soporte de lazo de 48.5 x 16.5 pulgadas para niñas, soporte de lazo de bebé con 7 cintas de algodón, 6 ganchos de metal, 1 gancho sin costuras y 1 gancho de pared de madera, organizador de lazos para el cabello para niñas, color blanco",
+      "price": "$1,171.37",
+      "extracted_at": "2025-10-10T17:05:55.300Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "995.",
+        "current_seller": "A_DEM",
+        "original_price": "$1,171.37",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T19:54:36.881Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0FF21CTC2",
+      "title": "TOMACE - Botiquín asimétrico ovalado sin marco con espejo biselado, superficie irregular, espejo de baño con almacenamiento para baño, 20 pulgadas de ancho x 30 pulgadas de alto",
+      "price": "$8,003.39",
+      "extracted_at": "2025-10-10T17:05:55.300Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [
+        "Baño",
+        "Muebles",
+        "Salud y Cuidado Personal"
+      ],
+      "enrichment": {
+        "current_price": "8,847.",
+        "current_seller": "ESIN GLOBAL",
+        "original_price": "$8,003.39",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T19:54:49.470Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0D7L8Q5TW",
+      "title": "BEBE BASK - Juego de 2 cestas festoneadas de alta calidad, 16 x 10 x 7 pulgadas, elegante mimbre tela a mano con borde festoneado, almacenamiento de guardería (natural)",
+      "price": "$2,849.61",
+      "extracted_at": "2025-10-10T17:05:55.300Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "2,277.",
+        "current_seller": "MCK MALL",
+        "original_price": "$2,849.61",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T19:55:03.764Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0CNSDMNCX",
+      "title": "Caja de bambú grande con cerradura de combinación, caja de almacenamiento de bambú grande de alta calidad, bandeja extraíble, bandeja mejorada, herramienta de accesorios incluida. (rosa)",
+      "price": "$2,050.20",
+      "extracted_at": "2025-10-10T17:05:55.300Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "1,779.",
+        "current_seller": "Tierra Viva",
+        "original_price": "$2,050.20",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T19:55:15.353Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0756RWM4Y",
+      "title": "Little Partners Poco Socios Dos Cubby Kids de Madera Locker – Seis Secciones de Almacenamiento – Construcción Duradera",
+      "price": "$9,107.58",
+      "extracted_at": "2025-10-10T17:05:55.300Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "7,330.",
+        "current_seller": "ESIN GLOBAL",
+        "original_price": "$9,107.58",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T19:55:25.413Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0FG2W3KKP",
+      "title": "WILLITAT cubeta de almacenamiento de 11 x 11 pulgadas, paquete de 3 cubos de almacenamiento tejidos, cestas de cuerda de algodón de 11 pulgadas para organizar, cestas cuadradas para estantes",
+      "price": "$1,546.46",
+      "extracted_at": "2025-10-10T17:05:55.300Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "1,481.",
+        "current_seller": "Asia Silk Store",
+        "original_price": "$1,546.46",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T19:55:34.622Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B09FHVRJZZ",
+      "title": "Baúl de almacenamiento de 40 pulgadas, moderno organizador de caja de juguetes para niños con tapa elevadora y 2 bisagras de seguridad, baúl de almacenamiento resistente y grande para cualquier sala de juegos, recámara y sala de estar",
+      "price": "$6,049.19",
+      "extracted_at": "2025-10-10T17:05:55.300Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "4,563.",
+        "current_seller": "Good2Go Store",
+        "original_price": "$6,049.19",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T19:55:45.081Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0C69LSK2K",
+      "title": "OOOK - clóset de almacenamiento de madera de 5 compartimentos, estante Montessori para organizadores y almacenamiento de juguetes, organizador de aula para niños, sala de juegos, guardería y estante",
+      "price": "$6,438.28",
+      "extracted_at": "2025-10-10T17:05:55.300Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "5,204.",
+        "current_seller": "rizaerginstore",
+        "original_price": "$6,438.28",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T19:55:59.630Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0FH79F19M",
+      "title": "BRUBEQO Organizador de sombreros para gorras de béisbol, 2 paquetes con clips de resorte integrados, soporte para colgar sombreros de clóset, almacenamiento para puertas o armarios, soportes para",
+      "price": "$1,294.67",
+      "extracted_at": "2025-10-10T17:05:55.300Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "1,024.",
+        "current_seller": "AISHAM FOREVER",
+        "original_price": "$1,294.67",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T19:56:09.396Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0F32M2QRV",
+      "title": "Gainvieyee - Paquete de 18 cajas organizadoras de zapatos, de plástico duro resistente, apilables con puertas, contenedores de tenis para clóset, entrada, debajo de la cama, color negro, 13.8 x 9.8 x",
+      "price": "$3,206.59",
+      "extracted_at": "2025-10-10T17:06:05.801Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [
+        "Muebles"
+      ],
+      "enrichment": {
+        "current_price": "2,805.",
+        "current_seller": "Cuate Store",
+        "original_price": "$3,206.59",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T19:56:18.801Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0F28Z41DN",
+      "title": "efluky - Cesta de lavandería delgada para ropa, recámara y recámara (beige, 75 L)",
+      "price": "$1,267.60",
+      "extracted_at": "2025-10-10T17:06:05.801Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [
+        "Aspiración, Limpieza y Planchado"
+      ],
+      "enrichment": {
+        "current_price": "1,298.",
+        "current_seller": "Huma's Shop",
+        "original_price": "$1,267.60",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T19:56:26.763Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0DKD6J4XF",
+      "title": "Cesta de almacenamiento redonda de mimbre, cesta de lavandería tejida con asas, cesta de piso para mantas, zapatos, cesta grande de yute para sala de estar, recámara (blanqueado, mediano)",
+      "price": "$1,335.26",
+      "extracted_at": "2025-10-10T17:06:05.802Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [
+        "Aspiración, Limpieza y Planchado"
+      ],
+      "enrichment": {
+        "current_price": "1,206.",
+        "current_seller": "Segura Express",
+        "original_price": "$1,335.26",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T19:56:38.639Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0CTQDG76H",
+      "title": "HODAKJUE Cesta de almacenamiento de computadora, Organizador de Cajones, Caja de almacenamiento para cajones de oficina, Cesta de almacenamiento con marco de madera (Negro-Largo estrecho)",
+      "price": "$1,520.63",
+      "extracted_at": "2025-10-10T17:06:05.802Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "1,447.",
+        "current_seller": "Asia Silk Store",
+        "original_price": "$1,520.63",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T19:56:52.936Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0FHGWH38Y",
+      "title": "Contenedores grandes de almacenamiento para clóset con cajón, contenedores de tela para organización, cajones de almacenamiento plegables para recámara, sala de estar, paquete de 4, color gris",
+      "price": "$1,506.39",
+      "extracted_at": "2025-10-10T17:06:05.802Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "1,349.",
+        "current_seller": "Twenty Market",
+        "original_price": "$1,506.39",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T19:57:05.931Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0FDQ65D8S",
+      "title": "HISULIV - Paquete de 1 caja grande de almacenamiento de juguetes con tapas transparentes, plegable, cesta organizadora de juguetes con divisores ajustables para niños, niñas, sala de estar, guardería",
+      "price": "$1,020.76",
+      "extracted_at": "2025-10-10T17:06:05.802Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [
+        "Meses sin Intereses"
+      ],
+      "enrichment": {
+        "current_price": "838.",
+        "current_seller": "AISHAM FOREVER",
+        "original_price": "$1,020.76",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T19:57:15.950Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0F5W98F1Y",
+      "title": "Agekub Tonie Estantería TonieBox Organizador Tonie Estantería de almacenamiento, forma de paraguas, estantes magnéticos flotantes de madera para exhibición Toniebox, cifras y personajes",
+      "price": "$952.69",
+      "extracted_at": "2025-10-10T17:06:05.802Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "876.",
+        "current_seller": "NISAN GLOBAL",
+        "original_price": "$952.69",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T19:57:28.438Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0DYD5FWNL",
+      "title": "ZZTLHDS Cubitos de almacenamiento de mimbre de 11.8 pulgadas, cestas cuadradas plegables naturales, cestas de almacenamiento de jacinto de agua, contenedores tejidos para baño (plegable-natural)",
+      "price": "$1,456.35",
+      "extracted_at": "2025-10-10T17:06:05.802Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$1,456.35",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": null,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T19:57:38.791Z",
+        "status": "unavailable"
+      }
+    },
+    {
+      "asin": "B0FG256M1L",
+      "title": "Elefeltclave - Contenedores de almacenamiento para tenis, amantes del tenis, aficionados, regalos, cesta de almacenamiento plegable para sala de deportes, gimnasio, recámara, baño, ropa, juguetes",
+      "price": "$1,082.04",
+      "extracted_at": "2025-10-10T17:06:05.802Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [
+        "Meses sin Intereses"
+      ],
+      "enrichment": {
+        "current_price": "1,083.",
+        "current_seller": "CRAZYBIG STORE",
+        "original_price": "$1,082.04",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T19:57:50.451Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0F4D5DGPT",
+      "title": "HoliPapaya Estante flotante para Toniebox, Castillo",
+      "price": "$1,967.41",
+      "extracted_at": "2025-10-10T17:06:05.802Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "1,647.",
+        "current_seller": "NATURALIVA",
+        "original_price": "$1,967.41",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T19:58:04.324Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0DX2M2GRP",
+      "title": "IliBx Organizador de gorra de béisbol + jaula de lavado de gorra de béisbol | 2 estantes para sombreros/organizadores de sombreros y 1 jaula para lavadora para tus encantadoras gorras | Almacenamiento",
+      "price": "$1,303.33",
+      "extracted_at": "2025-10-10T17:06:05.802Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [
+        "Meses sin Intereses"
+      ],
+      "enrichment": {
+        "current_price": "1,309.",
+        "current_seller": "AnraDesign",
+        "original_price": "$1,303.33",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T19:58:15.752Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0FGX5RSLG",
+      "title": "Elefeltclave Christian Coquette - Contenedores de almacenamiento con arco de god dice que soy bíblico, organizador religioso, plegable, para recámara, ropa de baño, libros, caja de juguetes para niñas",
+      "price": "$1,122.20",
+      "extracted_at": "2025-10-10T17:06:05.802Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$1,122.20",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": null,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T19:58:25.877Z",
+        "status": "unavailable"
+      }
+    },
+    {
+      "asin": "B0FGX5283V",
+      "title": "Elefeltclave - Contenedores de almacenamiento con lazo rosa de coqueta, diseño de lazo femenino estético, plegable, organizador para niñas, recámara, baño, ropa, juguetes, libros, caja de juguetes",
+      "price": "$1,009.59",
+      "extracted_at": "2025-10-10T17:06:05.802Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$1,009.59",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": null,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T19:58:35.895Z",
+        "status": "unavailable"
+      }
+    },
+    {
+      "asin": "B0F7QXH3P4",
+      "title": "Elefeltclave - Contenedores de almacenamiento para reglas de sala de juegos para niños, reglas de sala de juegos bohemios, cesta de almacenamiento plegable para sala de juegos, recámara, ropa de",
+      "price": "$1,065.89",
+      "extracted_at": "2025-10-10T17:06:05.802Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$1,065.89",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": null,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T19:58:47.521Z",
+        "status": "unavailable"
+      }
+    },
+    {
+      "asin": "B0F5QFB5JV",
+      "title": "IZEUK - Estantería de almacenamiento de 5 niveles con ruedas, organizador ajustable de alambre de acero resistente (cromo, 17.7 pulgadas de profundidad x 47 pulgadas de ancho x 77 pulgadas de alto",
+      "price": "$6,475.69",
+      "extracted_at": "2025-10-10T17:06:05.802Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "5,496.",
+        "current_seller": "Snorlax Store",
+        "original_price": "$6,475.69",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T19:59:01.146Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B00L0ILSX4",
+      "title": "Contender c16121 abedul Báltico 12-cubby unidad de almacenamiento con transparente jardineras, rta (paquete de 12)",
+      "price": "$11,328.17",
+      "extracted_at": "2025-10-10T17:06:05.803Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [
+        "Industria, Empresas y Ciencia"
+      ],
+      "enrichment": {
+        "current_price": "10,430.",
+        "current_seller": "Nurimu",
+        "original_price": "$11,328.17",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T19:59:10.234Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0FBZMQJ87",
+      "title": "Back2School Express Sleekline - Gabinete de almacenamiento de 3 estantes, 36 pulgadas de alto, estante de libros, natural",
+      "price": "$6,799.16",
+      "extracted_at": "2025-10-10T17:06:19.028Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "6,838.",
+        "current_seller": "SAYIL STORE",
+        "original_price": "$6,799.16",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T19:59:23.273Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0F8V6WBZL",
+      "title": "Dawuyu - Contenedores apilables con tapas, organizadores de clóset, caja de tela para el hogar y la oficina, organizadores de ropa de mantas, contenedores de almacenamiento debajo de la cama, paquete",
+      "price": "$1,387.62",
+      "extracted_at": "2025-10-10T17:06:19.028Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$1,387.62",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": null,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T19:59:33.983Z",
+        "status": "unavailable"
+      }
+    },
+    {
+      "asin": "B0FK2FMFPC",
+      "title": "QAVABIN Contenedores de almacenamiento extra grandes de 120 galones con tapa, organizadores y cajones apilables de 480 cuartos de galón, contenedores de almacenamiento plegables con ruedas, gabinete",
+      "price": "$6,945.64",
+      "extracted_at": "2025-10-10T17:06:19.028Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "7,314.",
+        "current_seller": "AnraDesign",
+        "original_price": "$6,945.64",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T19:59:43.812Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0F6CFTF1F",
+      "title": "QAVABIN Contenedores de almacenamiento extra grandes de 150 galones con tapa, organizadores y cajones apilables de 600 cuartos de galón, contenedores de almacenamiento plegables con ruedas, gabinete",
+      "price": "$6,489.69",
+      "extracted_at": "2025-10-10T17:06:19.028Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "2,500.",
+        "current_seller": null,
+        "original_price": "$6,489.69",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T19:59:58.467Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B08NP6KCBL",
+      "title": "Sailor Moon - Caja de almacenamiento plegable con diseño bonito y bonito organizador de cestas de almacenamiento, para escritorio, oficina, dormitorio, guardería, armario (paquete de 3)",
+      "price": "$1,665.70",
+      "extracted_at": "2025-10-10T17:06:19.028Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "1,466.",
+        "current_seller": "Asia Silk Store",
+        "original_price": "$1,665.70",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:00:11.085Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0DPFKXFDR",
+      "title": "Edospaen Contenedores de almacenamiento de plástico apilables de 4 niveles con tapa de 42 cuartos de galón/nivel, cajón de plástico plegable con ruedas, contenedores para el hogar, cajas de armarios",
+      "price": "$4,372.26",
+      "extracted_at": "2025-10-10T17:06:19.028Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "4,351.",
+        "current_seller": "MARKKINARAKO",
+        "original_price": "$4,372.26",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:00:23.943Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0FPF9MCHK",
+      "title": "Fangtueh cubeta de almacenamiento plegable extragrande de 200 galones con tapa, organizador de plástico apilable de 800 cuartos con 6 ruedas, gabinete plegable para clóset, sala de estar, oficina",
+      "price": "$9,562.83",
+      "extracted_at": "2025-10-10T17:06:19.028Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$9,562.83",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": null,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T20:00:39.359Z",
+        "status": "unavailable"
+      }
+    },
+    {
+      "asin": "B0FMYN1WZ6",
+      "title": "Juego de 16 divisores BabyCloset de 12 círculos de tamaño redondo preetiquetados con 4 discos en blanco y marcadores, organización y almacenamiento de clóset de fácil tamaño, se adapta a la mayoría de",
+      "price": "$868.68",
+      "extracted_at": "2025-10-10T17:06:19.028Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$868.68",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": null,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T20:00:52.888Z",
+        "status": "unavailable"
+      }
+    },
+    {
+      "asin": "B0FMK58KGC",
+      "title": "VAFHYLLIS - Organizador de almacenamiento de 2 cubos, estantería abierta de madera de 2 niveles, cubos de almacenamiento versátiles para sala de estar, recámara, oficina en casa, roble, 2 cubos a 11.8",
+      "price": "$5,078.29",
+      "extracted_at": "2025-10-10T17:06:19.028Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$5,078.29",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": null,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T20:01:06.056Z",
+        "status": "unavailable"
+      }
+    },
+    {
+      "asin": "B0FKZTN375",
+      "title": "KUMETENESS - Organizador de almacenamiento de auriculares para colgar sobre la puerta, 30 bolsillos organizadores de PVC transparente con 2 tarjetas de almacenamiento para auriculares con calcomanías",
+      "price": "$1,373.05",
+      "extracted_at": "2025-10-10T17:06:19.028Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "1,103.",
+        "current_seller": "Mishaland Store",
+        "original_price": "$1,373.05",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:01:15.448Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0FK5446Q5",
+      "title": "Almacenamiento de Disfraces para niñas, clóset de Disfraces para niños con Espejo Iluminado y contenedor de Almacenamiento, Color Rosa",
+      "price": "$6,938.83",
+      "extracted_at": "2025-10-10T17:06:19.028Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$6,938.83",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": null,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T20:01:28.080Z",
+        "status": "unavailable"
+      }
+    },
+    {
+      "asin": "B0FJR36CLY",
+      "title": "Superunner - Estante de almacenamiento de madera, estante de almacenamiento de madera de metal resistente con ajuste de ángulo múltiple y soporte de pared de 3 niveles para cochera, tienda en",
+      "price": "$1,752.82",
+      "extracted_at": "2025-10-10T17:06:19.028Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "1,760.",
+        "current_seller": "SkyyMart",
+        "original_price": "$1,752.82",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:01:38.590Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0FHQ46W1W",
+      "title": "GarveeHome Estantería y Almacenamiento de Juguetes para niños, Organizador de Juguetes de 2 Niveles con gabinete de Almacenamiento, estantería de 2 estantes para Sala de Juegos, recámara, Sala de",
+      "price": "$4,327.99",
+      "extracted_at": "2025-10-10T17:06:19.029Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "3,803.",
+        "current_seller": "BEST SUPPLY",
+        "original_price": "$4,327.99",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:01:50.138Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0FHKVK971",
+      "title": "HZFTJOY - Cesta grande para organizar, organizadores de clóset de 65 litros y contenedores de almacenamiento para estantes, cestas de almacenamiento de cuerda tejida, sala de estar, recámara, cuarto",
+      "price": "$1,463.91",
+      "extracted_at": "2025-10-10T17:06:19.029Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [
+        "Aspiración, Limpieza y Planchado"
+      ],
+      "enrichment": {
+        "current_price": "1,377.",
+        "current_seller": "Segura Express",
+        "original_price": "$1,463.91",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:02:01.479Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0FHHDNPJN",
+      "title": "Seeloowy Cesta rectangular de Halloween Horror grande plegable con asa, adecuada para decoración de habitación, cubeta de Halloween, caja de juguetes, caja de almacenamiento de coche (fantasma)",
+      "price": "$1,009.59",
+      "extracted_at": "2025-10-10T17:06:19.029Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$1,009.59",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": null,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T20:02:17.119Z",
+        "status": "unavailable"
+      }
+    },
+    {
+      "asin": "B0FH54WVNV",
+      "title": "Alpen Archivador móvil de 5 cajones para Almacenamiento Debajo del computadora con Ruedas, archivador Vertical de Madera, Soporte para Impresora pequeño para Oficina en casa, Color Blanco",
+      "price": "$4,425.45",
+      "extracted_at": "2025-10-10T17:06:19.029Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "4,435.",
+        "current_seller": "KADRIYE STORE",
+        "original_price": "$4,425.45",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:02:26.688Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0FGXPRF2J",
+      "title": "JMvicyroam - Cesta de manta tejida, 65 l con asas, organizador para mantas, juguetes, libros y ropa, cesta de lavandería para sala de estar, recámara, guardería y baño, blanco y azul",
+      "price": "$1,475.59",
+      "extracted_at": "2025-10-10T17:06:27.147Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [
+        "Aspiración, Limpieza y Planchado"
+      ],
+      "enrichment": {
+        "current_price": "1,476.",
+        "current_seller": "MUSMEGAS",
+        "original_price": "$1,475.59",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:02:40.569Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0FGX4TWRX",
+      "title": "Elefeltclave - Contenedores de almacenamiento para campaña, regalos para amantes del campamento, cesta de almacenamiento plegable para campista, campamento, recámara, baño, ropa, juguetes, libros",
+      "price": "$1,094.18",
+      "extracted_at": "2025-10-10T17:06:27.147Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$1,094.18",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": null,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T20:02:50.200Z",
+        "status": "unavailable"
+      }
+    },
+    {
+      "asin": "B0FGX3XHD7",
+      "title": "Elefeltclave Let Them - Contenedores de almacenamiento con arco de coqueta, afirmación positiva inspiradora, plegable, organizador para niñas, recámara, baño, ropa, juguetes, libros, caja de juguetes",
+      "price": "$1,094.18",
+      "extracted_at": "2025-10-10T17:06:27.147Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$1,094.18",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": null,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T20:02:58.633Z",
+        "status": "unavailable"
+      }
+    },
+    {
+      "asin": "B0FGNLJ8C9",
+      "title": "JMvicyroam - Cesta de almacenamiento de cuerda pequeña con asas y bolsa de cinta, organizador para estantes, armarios, baño, cesta de regalo vacía para baby shower, cumpleaños, día del padre, color",
+      "price": "$924.99",
+      "extracted_at": "2025-10-10T17:06:27.148Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$924.99",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": null,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T20:03:09.987Z",
+        "status": "unavailable"
+      }
+    },
+    {
+      "asin": "B0FFYG1LS8",
+      "title": "TasticTotes Bolsas de almacenamiento plegables de 60 L, paquete de 4",
+      "price": "$1,212.65",
+      "extracted_at": "2025-10-10T17:06:27.148Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$1,212.65",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": null,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T20:03:27.340Z",
+        "status": "unavailable"
+      }
+    },
+    {
+      "asin": "B0FFSPNXR7",
+      "title": "UAMFURI 640QT-160QT/40GAL*4 contenedores de almacenamiento apilables extra grandes con tapas y ruedas, cajones de almacenamiento apilables, paquete de 4 contenedores de almacenamiento plegables con",
+      "price": "$9,450.48",
+      "extracted_at": "2025-10-10T17:06:27.148Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$9,450.48",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": null,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T20:03:40.619Z",
+        "status": "unavailable"
+      }
+    },
+    {
+      "asin": "B0FFNQS2S7",
+      "title": "Paquete de 3 cestas tejidas de cuerda de algodón, cestas de estante con asa, 13.8 x 11.8 x 11.0 pulgadas, almacenamiento para guardería, baño, sala de estar, juguetes, libros, toallas, contenedores",
+      "price": "$1,706.25",
+      "extracted_at": "2025-10-10T17:06:27.148Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "1,617.",
+        "current_seller": "Segura Express",
+        "original_price": "$1,706.25",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:03:53.418Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0FFMGBM3B",
+      "title": "KEGII - Barra de tensión de esquina para ducha con jabonera y soporte para maquinilla de afeitar, organizador de baño ajustable con ganchos, estante de almacenamiento a prueba de óxido de 25 a 114.2",
+      "price": "$2,295.46",
+      "extracted_at": "2025-10-10T17:06:27.148Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [
+        "Baño"
+      ],
+      "enrichment": {
+        "current_price": "1,836.",
+        "current_seller": "EWB ONLINE MX",
+        "original_price": "$2,295.46",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:04:06.841Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0FFG58BLJ",
+      "title": "Mangpung Kawaii Capybara - Contenedor de almacenamiento plegable, bonita caja de almacenamiento plegable, computadora de oficina, decoración de cambiador de baño, bonita decoración de habitación",
+      "price": "$868.68",
+      "extracted_at": "2025-10-10T17:06:27.148Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$868.68",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": null,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T20:04:15.814Z",
+        "status": "unavailable"
+      }
+    },
+    {
+      "asin": "B0FBYT63NS",
+      "title": "Back2School Express Sleekline - clóset de almacenamiento de 2 estantes, 24 pulgadas de alto, estante de libros, natural",
+      "price": "$4,571.05",
+      "extracted_at": "2025-10-10T17:06:27.148Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "4,401.",
+        "current_seller": "Cuate Store",
+        "original_price": "$4,571.05",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:04:27.736Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0FB3JVBGV",
+      "title": "Jusgym - Estante de almacenamiento para cochera con altura ajustable, sistema organizador de almacenamiento resistente",
+      "price": "$7,210.18",
+      "extracted_at": "2025-10-10T17:06:27.148Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "$5,142.15",
+        "current_seller": null,
+        "original_price": "$7,210.18",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T20:04:36.858Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0F8R1JPSC",
+      "title": "JUIOEIU - Contenedores de almacenamiento plegables de vaca rústica con asas, valla de madera de campo, bonita vaca esponjosa, cesta organizadora plegable para recámara, baño, ropa, juguetes, libros",
+      "price": "$1,094.18",
+      "extracted_at": "2025-10-10T17:06:27.148Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$1,094.18",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": null,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T20:04:46.524Z",
+        "status": "unavailable"
+      }
+    },
+    {
+      "asin": "B0F8P8MG32",
+      "title": "Ordn2Ordn - Cestas de almacenamiento para organizar, pequeños contenedores de almacenamiento para estantes, cesta de regalo vacía, lindo organizador de clóset decorativo tela, cesta de cuerda de bebé",
+      "price": "$1,318.61",
+      "extracted_at": "2025-10-10T17:06:27.148Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "1,282.",
+        "current_seller": "CasaNovaMX",
+        "original_price": "$1,318.61",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:04:56.902Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0F8HMLL7T",
+      "title": "IZEUK - Estanterías (negro, 3 niveles, 11.8 pulgadas de profundidad x 17.7 pulgadas de ancho x 28.8 pulgadas de alto)",
+      "price": "$1,840.76",
+      "extracted_at": "2025-10-10T17:06:27.148Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "1,920.",
+        "current_seller": "SkyyMart",
+        "original_price": "$1,840.76",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:05:06.819Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0F7R2YGSW",
+      "title": "Elefeltclave caja de almacenaje, 109",
+      "price": "$1,065.89",
+      "extracted_at": "2025-10-10T17:06:27.149Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$1,065.89",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": null,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T20:05:19.771Z",
+        "status": "unavailable"
+      }
+    },
+    {
+      "asin": "B0F7QPV512",
+      "title": "Elefeltclave caja de almacenaje, 106",
+      "price": "$973.21",
+      "extracted_at": "2025-10-10T17:06:40.020Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$973.21",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": null,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T20:05:29.896Z",
+        "status": "unavailable"
+      }
+    },
+    {
+      "asin": "B0F7LJN3S7",
+      "title": "Paquete de 4: bolsas de almacenamiento de PVC transparente con asas reforzadas y doble cierre, bolsas organizadoras impermeables para juguetes, artículos de cambiador de viaje, maquillaje",
+      "price": "$1,189.96",
+      "extracted_at": "2025-10-10T17:06:40.020Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "1,138.",
+        "current_seller": "Segura Express",
+        "original_price": "$1,189.96",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:05:41.476Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0F47QVRFM",
+      "title": "Feelyueyue - Cesta de almacenamiento plegable de girasol, cesta de almacenamiento de lona con asa de tapa, contenedores de cubeta para niños, juguetes para niños, organizadores de artículos para",
+      "price": "$999.04",
+      "extracted_at": "2025-10-10T17:06:40.020Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "949.",
+        "current_seller": "MrsWhite",
+        "original_price": "$999.04",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:05:51.008Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0F3HGQJL9",
+      "title": "pioncrey - Contenedores de almacenamiento con tapas de 76 cuartos de galón (4 unidades, apilables con ruedas de rodadura suave, organizadores de clóset de plástico y almacenamiento, contenedores de",
+      "price": "$4,965.41",
+      "extracted_at": "2025-10-10T17:06:40.020Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$4,965.41",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": null,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T20:06:01.270Z",
+        "status": "unavailable"
+      }
+    },
+    {
+      "asin": "B0F28Q792F",
+      "title": "Bnrkmeb - Organizadores colgantes para la cabeza, organizador de lazos para el cabello de niñas, soporte para lazo para bebé, gancho de lazo para niñas, accesorios para el cabello, viene con 20",
+      "price": "$849.87",
+      "extracted_at": "2025-10-10T17:06:40.020Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "728.",
+        "current_seller": "Segura Express",
+        "original_price": "$849.87",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:06:13.619Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0F249KV9P",
+      "title": "HSGREC - Bolsa de transporte y almacenamiento para colchón de aire tamaño King/individual – 21.6 x 9.8 x 19.7 pulgadas, 18.49 gal/70 L, Oxford 600D premium, resistente al agua; almacena colchón de",
+      "price": "$1,316.24",
+      "extracted_at": "2025-10-10T17:06:40.020Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$1,316.24",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": null,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T20:06:24.159Z",
+        "status": "unavailable"
+      }
+    },
+    {
+      "asin": "B0F241N4DF",
+      "title": "Fnaumdol - Soporte magnético para bola de secadora para organización y almacenamiento de lavandería, papelera magnética para lavadero,",
+      "price": "$1,107.17",
+      "extracted_at": "2025-10-10T17:06:40.020Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "865.",
+        "current_seller": "SEVENTEEN DESIGN",
+        "original_price": "$1,107.17",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:06:34.582Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0F1YJYDPL",
+      "title": "TREVIETDECOR - Cubitos de almacenamiento de 33 x 33 cm, cesta de almacenamiento de jacinto de agua, cestas de almacenamiento de mimbre para estantes, cestas tejidas para almacenamiento, cesta cuadrada",
+      "price": "$4,789.07",
+      "extracted_at": "2025-10-10T17:06:40.020Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [
+        "Meses sin Intereses"
+      ],
+      "enrichment": {
+        "current_price": "4,790.",
+        "current_seller": "STOREARENS",
+        "original_price": "$4,789.07",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:06:45.940Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0F1Y9PCCB",
+      "title": "Cesta de almacenamiento rectangular, cesta organizadora de estantes, cestas plegables de metal, cesta organizadora para regalos de ropa, oficina en casa, recámara (camión monstruo genial)",
+      "price": "$1,261.64",
+      "extracted_at": "2025-10-10T17:06:40.020Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$1,261.64",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": null,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T20:07:00.760Z",
+        "status": "unavailable"
+      }
+    },
+    {
+      "asin": "B0F12SWMDB",
+      "title": "Juego de 5 cestas de almacenamiento de cuerda de algodón, organizadores tejidos para guardería, baño y decoración del hogar, estantes de 8 a 12.6 pulgadas, varios tamaños (color)",
+      "price": "$1,487.76",
+      "extracted_at": "2025-10-10T17:06:40.020Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "1,489.",
+        "current_seller": "ZENITHCORE",
+        "original_price": "$1,487.76",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:07:14.701Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0DZVNMF1C",
+      "title": "Dayacoco - Almacenamiento debajo de la cama con ruedas, paquete de 2 contenedores de almacenamiento debajo de la cama con tapas transparentes, no requiere montaje, almacenamiento debajo de la cama de",
+      "price": "$1,912.13",
+      "extracted_at": "2025-10-10T17:06:40.020Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [
+        "Meses sin Intereses"
+      ],
+      "enrichment": {
+        "current_price": "1,689.",
+        "current_seller": "AKCES STORE",
+        "original_price": "$1,912.13",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:07:27.889Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0DZT1NQQF",
+      "title": "OLAHETE - Cesta de cuerda de algodón para organizar, estantes tejidos, cesta de almacenamiento para clóset, organizador decorativo de 13 x 10 x 9 pulgadas para el hogar",
+      "price": "$1,275.53",
+      "extracted_at": "2025-10-10T17:06:40.021Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$1,275.53",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": null,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T20:07:39.394Z",
+        "status": "unavailable"
+      }
+    },
+    {
+      "asin": "B0DZ6GZS24",
+      "title": "Bolsa de colchón para almacenamiento en movimiento, bolsa de colchón antidesgaste, a prueba de polvo, reutilizable, protector para almacenamiento en movimiento (negro)",
+      "price": "$2,168.52",
+      "extracted_at": "2025-10-10T17:06:40.021Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$2,168.52",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": null,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T20:07:54.638Z",
+        "status": "unavailable"
+      }
+    },
+    {
+      "asin": "B0DYZFB3HG",
+      "title": "Estante redondo de almacenamiento de cocina de 5 niveles, organizador de acero al carbono, para despensa, frutas y verduras, estantes giratorios de 360°, duraderos y resistentes al óxido, estante",
+      "price": "$4,353.58",
+      "extracted_at": "2025-10-10T17:06:40.021Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "4,309.",
+        "current_seller": "FERHATSTOREES",
+        "original_price": "$4,353.58",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:08:08.567Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0DYS78W5R",
+      "title": "Glosen Botiquín con bloqueo para medicina montado en la pared, color plateado, 13.6 x 12.4 x 6.5 pulgadas, contenedor de almacenamiento portátil de gran capacidad",
+      "price": "$2,495.53",
+      "extracted_at": "2025-10-10T17:06:40.021Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [
+        "Baño",
+        "Muebles",
+        "Salud y Cuidado Personal"
+      ],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$2,495.53",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": null,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T20:08:23.050Z",
+        "status": "unavailable"
+      }
+    },
+    {
+      "asin": "B0DYHH6NYF",
+      "title": "TIDY SAVANT - Organizador de almacenamiento para colgar sobre la puerta, 5 bolsillos grandes, 10 bolsillos de malla, negro, capacidad de 44 libras (negro)",
+      "price": "$1,597.10",
+      "extracted_at": "2025-10-10T17:06:40.021Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [
+        "Meses sin Intereses",
+        "Muebles"
+      ],
+      "enrichment": {
+        "current_price": "1,578.",
+        "current_seller": "ZENITHCORE",
+        "original_price": "$1,597.10",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:08:35.340Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0DXZ46KXJ",
+      "title": "Mulaibdin - Juego de 5 cestas de almacenamiento, cestas tejidas de cuerda de algodón, pequeños organizadores de baño y almacenamiento, cesta de decoración blanca para juguetes, regalo, inodoro",
+      "price": "$1,281.08",
+      "extracted_at": "2025-10-10T17:06:50.687Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$1,281.08",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": null,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T20:08:48.346Z",
+        "status": "unavailable"
+      }
+    },
+    {
+      "asin": "B0DTH8PGT4",
+      "title": "Roobyl - Contenedores de almacenamiento plegables grandes de 17 pulgadas con tapas, organizadores apilables de clóset con mango de poliuretano y etiquetas, paquete de 3 cajas de almacenamiento",
+      "price": "$1,726.52",
+      "extracted_at": "2025-10-10T17:06:50.687Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "1,474.",
+        "current_seller": "AKCES STORE",
+        "original_price": "$1,726.52",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:08:59.960Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0DT49WCWH",
+      "title": "ZHKINGGS - Perchero para niños (clásico, rosa)",
+      "price": "$1,886.55",
+      "extracted_at": "2025-10-10T17:06:50.687Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [
+        "Meses sin Intereses"
+      ],
+      "enrichment": {
+        "current_price": "1,587.",
+        "current_seller": "KUZU GLOBAL",
+        "original_price": "$1,886.55",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:09:13.242Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0DT3F2FHW",
+      "title": "HY.MIS - Organizador de lazos para niñas, organizador de pinzas para el pelo, organizador de accesorios para el cabello, organizador de accesorios para el cabello, decoración para colgar en la pared",
+      "price": "$947.38",
+      "extracted_at": "2025-10-10T17:06:50.688Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "732.",
+        "current_seller": "Asia Silk Store",
+        "original_price": "$947.38",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:09:29.634Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0DQCV45YH",
+      "title": "TasticTotes - Organizador de cajones para clóset, paquete de 24, color gris",
+      "price": "$1,380.88",
+      "extracted_at": "2025-10-10T17:06:50.688Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "388.",
+        "current_seller": null,
+        "original_price": "$1,380.88",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T20:09:38.645Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0DP22N37Y",
+      "title": "Organizador de lazos para el cabello para bebés y niñas, organizador de accesorios para el cabello, abalorio de madera, guirnalda de lazos, almacenamiento para colgar en la pared, decoración bohemia",
+      "price": "$664.50",
+      "extracted_at": "2025-10-10T17:06:50.688Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [
+        "Meses sin Intereses"
+      ],
+      "enrichment": {
+        "current_price": "729.",
+        "current_seller": "CasaNovaMX",
+        "original_price": "$664.50",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:09:46.759Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0DNXKWJ1J",
+      "title": "KOKODO - Paquete de 3 cestas de almacenamiento de despensa de mimbre con pizarrón, cesta de jacinto de agua duradera con asas integradas y marco de metal, perfecto para estantes que ahorran espacio y",
+      "price": "$2,898.09",
+      "extracted_at": "2025-10-10T17:06:50.688Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "759.",
+        "current_seller": null,
+        "original_price": "$2,898.09",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T20:10:00.321Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0DNMVGLG2",
+      "title": "Paquete de 4 organizadores de papel de almacenamiento de plástico transparente A4, caja de almacenamiento multifuncional con tapas de cierre para organización de aulas, suministros de almacenamiento",
+      "price": "$1,665.45",
+      "extracted_at": "2025-10-10T17:06:50.688Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$1,665.45",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": null,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T20:10:16.079Z",
+        "status": "unavailable"
+      }
+    },
+    {
+      "asin": "B0DLNVJVMX",
+      "title": "Organizador grande de juguetes de baño y almacenamiento – Soporte de juguetes para tina colgante de 3 compartimentos con cierre inferior, bolsa de malla de secado rápido, soporte ideal para juguetes",
+      "price": "$930.81",
+      "extracted_at": "2025-10-10T17:06:50.688Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [
+        "Baño"
+      ],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$930.81",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": null,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T20:10:24.908Z",
+        "status": "unavailable"
+      }
+    },
+    {
+      "asin": "B0DLL716ZX",
+      "title": "Dcerzxzci - Cestas de almacenamiento para organizar estantes, cestas tejidas para almacenamiento, cestas rectangulares de cuerda de algodón para almacenamiento, cesta de juguetes para habitación de",
+      "price": "$2,003.83",
+      "extracted_at": "2025-10-10T17:06:50.688Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$2,003.83",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": null,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T20:10:35.419Z",
+        "status": "unavailable"
+      }
+    },
+    {
+      "asin": "B0DKP5144P",
+      "title": "Bolsa de almacenamiento de juguetes con bloqueo portátil con cerradura con 2 mini cajas de EVA con cierre, ligera, discreta y bloqueable, para artículos privados, mujeres, hombres (1)",
+      "price": "$1,151.54",
+      "extracted_at": "2025-10-10T17:06:50.688Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "1,152.",
+        "current_seller": "Asia Silk Store",
+        "original_price": "$1,151.54",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:10:46.165Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0DD7VR5XJ",
+      "title": "Hudson Exchange 24 x 16 x 8 (2 unidades) de malla recta con mango de pared, color gris",
+      "price": "$5,663.84",
+      "extracted_at": "2025-10-10T17:06:50.688Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [
+        "Industria, Empresas y Ciencia"
+      ],
+      "enrichment": {
+        "current_price": "3,323.",
+        "current_seller": null,
+        "original_price": "$5,663.84",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T20:10:55.934Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0DBQTDHHW",
+      "title": "Lemoeyes - Organizador de almacenamiento de juguetes con estantería, estantería de 3 niveles para niños de 42.3 pulgadas de alto para almacenamiento de juguetes para niños y niñas, exhibición de",
+      "price": "$6,320.01",
+      "extracted_at": "2025-10-10T17:06:50.688Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "6,442.",
+        "current_seller": "GK ALLSTORE",
+        "original_price": "$6,320.01",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:11:08.895Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0D9J4QP8G",
+      "title": "Nsngxus 66 Qt. Caja de cierre de plástico transparente, cierres azules con tapa transparente",
+      "price": "$3,121.00",
+      "extracted_at": "2025-10-10T17:06:50.689Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$3,121.00",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": null,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T20:11:18.958Z",
+        "status": "unavailable"
+      }
+    },
+    {
+      "asin": "B0D7HJXQ21",
+      "title": "Vipbox - clóset organizador de zapatos negro para clóset, entrada, cajas de almacenamiento transparentes para zapatos, almacenamiento apilable, con puerta, fácil montaje, zapatero con tapas, tamaño",
+      "price": "$9,506.79",
+      "extracted_at": "2025-10-10T17:06:50.689Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [
+        "Muebles"
+      ],
+      "enrichment": {
+        "current_price": "239.",
+        "current_seller": null,
+        "original_price": "$9,506.79",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T20:11:33.084Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0D5HT5JHF",
+      "title": "Gumuslen - Cesta de almacenamiento plegable con asa organizadora de ropa, ropa para ropa de lavandería, juguetes para niños, manta de regalo para cuarto de baño y recámara",
+      "price": "$1,540.94",
+      "extracted_at": "2025-10-10T17:06:50.689Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [
+        "Aspiración, Limpieza y Planchado"
+      ],
+      "enrichment": {
+        "current_price": "569.",
+        "current_seller": null,
+        "original_price": "$1,540.94",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T20:11:44.281Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0D3HRKQDX",
+      "title": "2 Bolsas de Almacenamiento Triangulares de Tela Oxford para Ahorrar Espacio, Organizador de Esquina Perfecto, Caja de Almacenamiento Plegable con Tapa para Baño, Tocador, Cocina(38×23cm/Azul marino)",
+      "price": "$2,099.00",
+      "extracted_at": "2025-10-10T17:07:01.405Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [
+        "Bebé",
+        "Muebles"
+      ],
+      "enrichment": {
+        "current_price": "569.",
+        "current_seller": null,
+        "original_price": "$2,099.00",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T20:11:58.111Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0D2XR3L4S",
+      "title": "KFNHN Cesta de almacenamiento rectangular personalizada, organizador de nombres personalizado para juguetes de mascotas/niños, libros, ropa, perfecta para habitaciones/sala de juegos, color rojo",
+      "price": "$2,242.81",
+      "extracted_at": "2025-10-10T17:07:01.405Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "467.",
+        "current_seller": null,
+        "original_price": "$2,242.81",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T20:12:09.545Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0CVZYLPSW",
+      "title": "CAPHAUS Cesta de almacenamiento tejida a mano con tapa y asas, 2 bolsas de forro extraíble, cesta plegable para ropa de lavandería, cesta de lavandería grande de ratán sintético con tapa, cesta de",
+      "price": "$2,666.70",
+      "extracted_at": "2025-10-10T17:07:01.405Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [
+        "Aspiración, Limpieza y Planchado"
+      ],
+      "enrichment": {
+        "current_price": "2,057.",
+        "current_seller": "CURIOUS KITTY",
+        "original_price": "$2,666.70",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:12:20.939Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0CVBL22SR",
+      "title": "Hudson Exchange 20 x 15 x 12.5 pulgadas (paquete de 3) contenedores apilables de plástico gigante, color gris",
+      "price": "$6,865.87",
+      "extracted_at": "2025-10-10T17:07:01.405Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [
+        "Industria, Empresas y Ciencia"
+      ],
+      "enrichment": {
+        "current_price": "467.",
+        "current_seller": null,
+        "original_price": "$6,865.87",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T20:12:31.214Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0CS2VR3S7",
+      "title": "SiliFine - 4 contenedores de plástico transparente para sala de juegos y juegos, de 7.09 x 5.2 x 3.43 pulgadas, contenedores de almacenamiento apilables con tapas para estantes o cubos, sostiene",
+      "price": "$1,355.30",
+      "extracted_at": "2025-10-10T17:07:01.405Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [
+        "Meses sin Intereses"
+      ],
+      "enrichment": {
+        "current_price": "1,201.",
+        "current_seller": "ShoppinGoods MX",
+        "original_price": "$1,355.30",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:12:43.388Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0CQLN1N71",
+      "title": "OPTYMIRA Estanterías de Almacenamiento de cochera, estantes de Acero Ajustables de 72 x 35.4 x 15.7 Pulgadas, estantes de Almacenamiento de 2000 Libras, estantes de Metal de 5 Niveles, estantes de",
+      "price": "$5,416.41",
+      "extracted_at": "2025-10-10T17:07:01.405Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "283.",
+        "current_seller": null,
+        "original_price": "$5,416.41",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T20:12:53.806Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0CN2BYM6R",
+      "title": "PEtbon - Cesta cuadrada de plástico para lavandería (1,5 unidades), color blanco",
+      "price": "$3,122.32",
+      "extracted_at": "2025-10-10T17:07:01.405Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [
+        "Aspiración, Limpieza y Planchado"
+      ],
+      "enrichment": {
+        "current_price": "1,350.",
+        "current_seller": null,
+        "original_price": "$3,122.32",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T20:13:05.023Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0BTJRJFN3",
+      "title": "RRI Goods - Cubbies de madera de 10 secciones con cubos de plástico café, organizadores colgantes de pared con ganchos",
+      "price": "$14,887.88",
+      "extracted_at": "2025-10-10T17:07:01.405Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "14,888.",
+        "current_seller": "Asia Silk Store",
+        "original_price": "$14,887.88",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:13:16.522Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0BNN3MSK9",
+      "title": "SHIZLIN Simplicity and Luxury - Almohada de cuña de protección para la cintura, almohada de lectura para sofá, almohada triangular para respaldo",
+      "price": "$2,069.26",
+      "extracted_at": "2025-10-10T17:07:01.406Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [
+        "Cocina",
+        "Muebles"
+      ],
+      "enrichment": {
+        "current_price": "2,026.",
+        "current_seller": "zhangahildasda",
+        "original_price": "$2,069.26",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:13:26.478Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0BKZ5Y8VN",
+      "title": "Mancofy - Cofre de juguete de madera, caja de juguetes para niños, muebles para sala de juegos, banco con tapa de seguridad con bisagras, organizador de almacenamiento de caja de juguetes de madera, mueble para niños (blanco)",
+      "price": "$5,647.97",
+      "extracted_at": "2025-10-10T17:07:01.406Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "5,648.",
+        "current_seller": "SWORD LIMITED M. X.",
+        "original_price": "$5,647.97",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:13:36.616Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B09JYBZZ28",
+      "title": "livinbox FB-6432S-BK - Contenedores apilables plegables de 45 litros para almacenamiento, contenedores de almacenamiento plegables con tapas, puerta abierta lateral, oficina en casa, recámara, sala de",
+      "price": "$2,923.79",
+      "extracted_at": "2025-10-10T17:07:01.406Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$2,923.79",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": null,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T20:13:46.811Z",
+        "status": "unavailable"
+      }
+    },
+    {
+      "asin": "B083J1DZS4",
+      "title": "Cesto de lavandería plegable para ropa sucia, cesta de lavandería, ramas, perezoso para el hogar, organizador de guardería, cesta de bebé, habitación de los niños",
+      "price": "$1,512.39",
+      "extracted_at": "2025-10-10T17:07:01.406Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [
+        "Aspiración, Limpieza y Planchado"
+      ],
+      "enrichment": {
+        "current_price": "369.",
+        "current_seller": null,
+        "original_price": "$1,512.39",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T20:13:59.651Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B01N3PKXXT",
+      "title": "Warp's alabeos cb-86 218,4 x 233,7 cm Grande Colchón Bolsa de Almacenamiento",
+      "price": "$1,496.00",
+      "extracted_at": "2025-10-10T17:07:01.406Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$1,496.00",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": null,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T20:14:10.225Z",
+        "status": "unavailable"
+      }
+    },
+    {
+      "asin": "B005XZG45C",
+      "title": "King SZ Mattress Bag",
+      "price": "$1,523.23",
+      "extracted_at": "2025-10-10T17:07:01.406Z",
+      "category": "Almacenamiento y Organización",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "772.",
+        "current_seller": null,
+        "original_price": "$1,523.23",
+        "original_category": "Almacenamiento y Organización",
+        "price_changed": true,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T20:14:21.647Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0DW8YHF5T",
+      "title": "RYTTGOP Bolsas de colchón, Reina del colchón, Cubierta del colchón, manijas Pesadas, Bolsa de Almacenamiento de colchones Reutilizables, para moverse, Almacenamiento",
+      "price": "$3,096.53",
+      "extracted_at": "2025-10-10T17:07:12.851Z",
+      "category": "Aspiración, Limpieza y Planchado",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "882.",
+        "current_seller": "YIWUCHA",
+        "original_price": "$3,096.53",
+        "original_category": "Aspiración, Limpieza y Planchado",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:14:36.476Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0FFM72XFD",
+      "title": "KINGBOARD Tabla de planchar de mesa, pequeña tabla de planchar con alfombrilla de hierro, mini tabla de planchar plegable, fácil almacenamiento para viajes y recámara, 12 x 32 pulgadas, color azul",
+      "price": "$1,900.92",
+      "extracted_at": "2025-10-10T17:07:12.851Z",
+      "category": "Aspiración, Limpieza y Planchado",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "1,931.",
+        "current_seller": "UMY STORE",
+        "original_price": "$1,900.92",
+        "original_category": "Aspiración, Limpieza y Planchado",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:14:49.672Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0FCFPPFDH",
+      "title": "NYTGAH Protector de salpicaduras para tina, protector de silicona para tina con 4 ventosas, bandeja para tina para almacenamiento, organizador de baño para artículos esenciales de baño (azul)",
+      "price": "$1,099.73",
+      "extracted_at": "2025-10-10T17:07:23.660Z",
+      "category": "Baño",
+      "also_appears_in": [
+        "Bebé"
+      ],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$1,099.73",
+        "original_category": "Baño",
+        "price_changed": null,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T20:15:02.344Z",
+        "status": "unavailable"
+      }
+    },
+    {
+      "asin": "B0F7QJST4W",
+      "title": "Elefeltclave Little Man Cave Space Contenedores de almacenamiento para niños, Space Galaxy Planets Rocket Astronauta Cesta de almacenamiento plegable Organizador para habitación de niños, ropa de",
+      "price": "$973.21",
+      "extracted_at": "2025-10-10T17:02:58.215Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "890.",
+        "current_seller": "BSMS STORE",
+        "original_price": "$973.21",
+        "original_category": "Bebé",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:15:12.428Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B09NVSNVS4",
+      "title": "Meiliart Cesta de almacenamiento de cuerda de algodón, cesta de tela gruesa y suave, manta de juguete, almacenamiento de 15 x 13.8 pulgadas, cestas de almacenamiento tejidas para manta, guardería, sala de estar, bebé",
+      "price": "$1,414.91",
+      "extracted_at": "2025-10-10T17:02:58.216Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "1,147.",
+        "current_seller": "Asia Silk Store",
+        "original_price": "$1,414.91",
+        "original_category": "Bebé",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:15:26.618Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0FDQ7ZWMK",
+      "title": "Mesa de construcción con almacenamiento para niños, mesa de construcción de madera para niños a partir de 3 años, computadora de actividades para niños con 2 sillas, 31.29 x 22.44 x 19.69 pulgadas",
+      "price": "$4,505.96",
+      "extracted_at": "2025-10-10T17:02:58.216Z",
+      "category": "Bebé",
+      "also_appears_in": [
+        "Muebles"
+      ],
+      "enrichment": {
+        "current_price": "4,508.",
+        "current_seller": "S-Shop24 LLC",
+        "original_price": "$4,505.96",
+        "original_category": "Bebé",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:15:37.754Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0DV59HS8V",
+      "title": "Karl Home - Cambiador moderno para bebé, aparador para cambiar pañales con cesta de lavandería, mesa de lactancia infantil con 3 cajones de almacenamiento, riel de seguridad extraíble y correa para",
+      "price": "$6,622.02",
+      "extracted_at": "2025-10-10T17:02:58.216Z",
+      "category": "Bebé",
+      "also_appears_in": [
+        "Salud y Cuidado Personal"
+      ],
+      "enrichment": {
+        "current_price": "6,623.",
+        "current_seller": "ERDIK INTERNATIONAL LTD",
+        "original_price": "$6,622.02",
+        "original_category": "Bebé",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:15:51.082Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0FG7NDMJ7",
+      "title": "VPSMAT Montessori Estante de almacenamiento de juguetes, organizador de almacenamiento de libros y juguetes para niños con estantes de cubeta para habitación de niños, sala de juegos, sala de estar",
+      "price": "$2,974.40",
+      "extracted_at": "2025-10-10T17:02:58.216Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "2,817.",
+        "current_seller": "Asia Silk Store",
+        "original_price": "$2,974.40",
+        "original_category": "Bebé",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:16:01.626Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0FDQMRSCJ",
+      "title": "Organizador de almacenamiento de juguetes de baño, 2 unidades, soporte de juguetes transparente para tina de gran capacidad con agujeros de drenaje, organizador de ducha de secado rápido para juguetes",
+      "price": "$1,056.96",
+      "extracted_at": "2025-10-10T17:02:58.216Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "928.",
+        "current_seller": "SEVENTEEN DESIGN",
+        "original_price": "$1,056.96",
+        "original_category": "Bebé",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:16:11.763Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0F5Q6B45Q",
+      "title": "HouseJoy - Librería de madera para niños, estantería blanca para niños y almacenamiento de juguetes, estantería para niños pequeños con 2 divisores ajustables, estantería para bebés para habitación de",
+      "price": "$3,582.65",
+      "extracted_at": "2025-10-10T17:02:58.216Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "2,849.",
+        "current_seller": "SEVENTEEN DESIGN",
+        "original_price": "$3,582.65",
+        "original_category": "Bebé",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:16:22.891Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0DWF4BH2C",
+      "title": "OIASKET Cesta de manta extragrande de 118 litros, 24.8 pulgadas de largo x 17.7 pulgadas de ancho x 16.2 pulgadas de alto, cesta de almacenamiento para organizar, cuerda tejida para ropa, almohadas,",
+      "price": "$1,866.76",
+      "extracted_at": "2025-10-10T17:02:58.217Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "1,791.",
+        "current_seller": "ZENITHCORE",
+        "original_price": "$1,866.76",
+        "original_category": "Bebé",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:16:33.518Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0DRD1F4Q2",
+      "title": "QMHHRJT - Cambiador portátil plegable para bebé, cambiador de pañales portátil con ruedas, guardería de cinco niveles ajustable de altura con almacenamiento organizador (rosa)",
+      "price": "$4,742.18",
+      "extracted_at": "2025-10-10T17:02:58.217Z",
+      "category": "Bebé",
+      "also_appears_in": [
+        "Salud y Cuidado Personal"
+      ],
+      "enrichment": {
+        "current_price": "3,697.",
+        "current_seller": "MCK MALL",
+        "original_price": "$4,742.18",
+        "original_category": "Bebé",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:16:47.139Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0DB5SC1SD",
+      "title": "Almohada inflable de cuña para viajar, cojín portátil para apnea del sueño y reflujo ácido, almohada de cuña ajustable para adultos, almohada pequeña para dormir para aliviar el dolor de espalda y",
+      "price": "$895.97",
+      "extracted_at": "2025-10-10T17:02:58.217Z",
+      "category": "Bebé",
+      "also_appears_in": [
+        "Blancos para el Hogar"
+      ],
+      "enrichment": {
+        "current_price": "719.",
+        "current_seller": "HAZAN",
+        "original_price": "$895.97",
+        "original_category": "Bebé",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:16:58.505Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0F3JVHQ79",
+      "title": "HMOSSVK Organizador de pañales para bebé, organizador de fieltro para coche, cesta de almacenamiento de productos para bebé, mango de madera maciza, cesta de almacenamiento desmontable para guardería",
+      "price": "$978.52",
+      "extracted_at": "2025-10-10T17:02:58.217Z",
+      "category": "Bebé",
+      "also_appears_in": [
+        "Salud y Cuidado Personal"
+      ],
+      "enrichment": {
+        "current_price": "977.",
+        "current_seller": "KADRIYE STORE",
+        "original_price": "$978.52",
+        "original_category": "Bebé",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:17:10.406Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0D5LSP5LW",
+      "title": "Kidi House - Carrito de almacenamiento de madera con ruedas de 4 niveles, organizador de carrito de arte para niños, carrito de abedul multifuncional para niños, estantería de arte, manualidades",
+      "price": "$5,820.62",
+      "extracted_at": "2025-10-10T17:02:58.217Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "4,707.",
+        "current_seller": "AREDIANT",
+        "original_price": "$5,820.62",
+        "original_category": "Bebé",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:17:21.908Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0D447MCSR",
+      "title": "ZANY TRAINS - Papelera de almacenamiento de tren y tapete de juego, caja de almacenamiento de juguetes de ferrocarril de madera con diseño de pistas de tren, almacenamiento plegable dos en uno para",
+      "price": "$1,107.17",
+      "extracted_at": "2025-10-10T17:02:58.217Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "902.",
+        "current_seller": "SEVENTEEN DESIGN",
+        "original_price": "$1,107.17",
+        "original_category": "Bebé",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:17:32.807Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0FKMNY2N4",
+      "title": "Noonkty Extra Large blanket Basket with Lid, Toy basket Storage Kids rope Laundry Basket, Baby Toy Storage Toallero de almacenamiento para juguetes de bebé Soporte para manta para salones",
+      "price": "$1,345.88",
+      "extracted_at": "2025-10-10T17:02:58.217Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "1,156.",
+        "current_seller": "ZENITHCORE",
+        "original_price": "$1,345.88",
+        "original_category": "Bebé",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:17:46.404Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0FGN32BCV",
+      "title": "FANTALIN Story Estantería para niños pequeños, caja de almacenamiento de libros de madera, organizador de cesta con piernas, exhibición de libros de piso (B-White-read)",
+      "price": "$1,189.96",
+      "extracted_at": "2025-10-10T17:02:58.218Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "1,006.",
+        "current_seller": "KUCUK SHOP",
+        "original_price": "$1,189.96",
+        "original_category": "Bebé",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:17:58.414Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0F8BYTK8M",
+      "title": "Greadsoel Organizador de almacenamiento de cesta tejida para el hogar, mantas, juguetes, con 2 posavasos de cuerda de algodón gratis, tamaño mediano 50L",
+      "price": "$1,303.88",
+      "extracted_at": "2025-10-10T17:02:58.218Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "1,244.",
+        "current_seller": "ZENITHCORE",
+        "original_price": "$1,303.88",
+        "original_category": "Bebé",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:18:14.042Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0F842DB1B",
+      "title": "Briwooody - Contenedor de juguetes para perros, cesta grande de madera de 17.5 pulgadas, con asa y etiquetas para cabeza de perro, caja de muñecas duradera para mascotas, cofre de organización para",
+      "price": "$1,767.07",
+      "extracted_at": "2025-10-10T17:03:07.947Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "1,638.",
+        "current_seller": "ZEN GLOBAL",
+        "original_price": "$1,767.07",
+        "original_category": "Bebé",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:18:25.813Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0F2M55NKS",
+      "title": "Cesta de almacenamiento de cuerda de algodón tejida con asas: cesta de lavandería de 45 x 34,8 cm, almacenamiento de guardería y cesta de lavandería para ropa, mantas, juguetes, toallas, libros, gris",
+      "price": "$1,649.28",
+      "extracted_at": "2025-10-10T17:03:07.947Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "1,505.",
+        "current_seller": "ZENITHCORE",
+        "original_price": "$1,649.28",
+        "original_category": "Bebé",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:18:39.440Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0F29PBC8N",
+      "title": "ADEHMDA - Cofre de juguete, caja grande con tapa, plegable y resistente, organizador de juguetes para niños, niñas y niños, cuarto de guardería y sala de estar, 26 x 13 x 16 pulgadas (tren negro)",
+      "price": "$1,356.02",
+      "extracted_at": "2025-10-10T17:03:07.947Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "1,634.",
+        "current_seller": "ZENITHCORE",
+        "original_price": "$1,356.02",
+        "original_category": "Bebé",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:18:52.987Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0DXTP6W9Y",
+      "title": "GOPAS - Cesta de manta extragrande de 125 L, 25 x 16 pulgadas, cesta tejida para la colada jumbo decorativa para el hogar, cesta de cuerda de algodón con asas, cesta de juguetes para bebé, para",
+      "price": "$3,239.42",
+      "extracted_at": "2025-10-10T17:03:07.948Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "3,338.",
+        "current_seller": "ZENITHCORE",
+        "original_price": "$3,239.42",
+        "original_category": "Bebé",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:19:03.948Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0DQKZDP6W",
+      "title": "Lusofie - Organizador de lazo para el pelo de 38 pulgadas de largo, con correa de lazo para bebé, organizador de clips de pelo para niñas, gancho de lazo para habitación de niñas pequeñas",
+      "price": "$697.81",
+      "extracted_at": "2025-10-10T17:03:07.948Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "564.",
+        "current_seller": "SEVENTEEN DESIGN",
+        "original_price": "$697.81",
+        "original_category": "Bebé",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:19:19.328Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0D5D9B5X4",
+      "title": "Gumuslen - Cesta plegable para ropa sucia para ropa sucia, lona impermeable para guardar juguetes para bebé, cesta organizadora de niños para cuarto de baño y recámara",
+      "price": "$1,364.47",
+      "extracted_at": "2025-10-10T17:03:07.948Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "1,121.",
+        "current_seller": "SEVENTEEN DESIGN",
+        "original_price": "$1,364.47",
+        "original_category": "Bebé",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:19:34.587Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0FKZ12GZ2",
+      "title": "Gabinete de almacenamiento de animales de peluche con organizador de 2 niveles, soporte de peluche con cubierta transparente a prueba de polvo, caja de almacenamiento de oso de peluche, zoológico de",
+      "price": "$1,753.40",
+      "extracted_at": "2025-10-10T17:03:07.948Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "1,750.",
+        "current_seller": "VY Deals*",
+        "original_price": "$1,753.40",
+        "original_category": "Bebé",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:19:46.264Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0FGPMZCHV",
+      "title": "Zoo de almacenamiento de animales de peluche con ruedas, soporte grande de madera para animales de peluche, organizador de juguetes para ahorrar espacio, jaula de almacenamiento de felpa para",
+      "price": "$2,656.03",
+      "extracted_at": "2025-10-10T17:03:07.948Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "724.",
+        "current_seller": null,
+        "original_price": "$2,656.03",
+        "original_category": "Bebé",
+        "price_changed": true,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T20:19:58.240Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0FCMW541Y",
+      "title": "Hggzeg - Estantería para niños, estantería de 6 niveles, organizador de libros de madera de fácil acceso con bolsillo para recámara de niños y sala de juegos (beige)",
+      "price": "$1,561.18",
+      "extracted_at": "2025-10-10T17:03:07.948Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "1,349.",
+        "current_seller": "Mishaland Store",
+        "original_price": "$1,561.18",
+        "original_category": "Bebé",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:20:10.449Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0F5PZVW56",
+      "title": "BPMFDTNL Montessori Estantería para niños pequeños, organizador de libros de madera con divisor ajustable, exhibición de libros de piso, estante para libros para niños pequeños, estantería para aula",
+      "price": "$2,515.07",
+      "extracted_at": "2025-10-10T17:03:07.948Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "2,355.",
+        "current_seller": "STOREARENS",
+        "original_price": "$2,515.07",
+        "original_category": "Bebé",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:20:21.401Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0DZHC3GWM",
+      "title": "XHWZOF Woodland - Cesta de regalo para bebé, oso ciervo, zorro, decoración de guardería, para niños, selva, árbol de animales, búho, conejo, ardilla, mapache, estante para ropa, libro de remolque",
+      "price": "$953.18",
+      "extracted_at": "2025-10-10T17:03:07.948Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "857.",
+        "current_seller": "MrsWhite",
+        "original_price": "$953.18",
+        "original_category": "Bebé",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:20:31.213Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0DSVN1N41",
+      "title": "CroBlissful - Almacenamiento de zoológico de animales de peluche con cadena de luces USB de estrella, jaula suave de madera, organizador de juguetes de peluche para habitación de bebé, sala de juegos,",
+      "price": "$2,226.88",
+      "extracted_at": "2025-10-10T17:03:07.948Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "1,833.",
+        "current_seller": "SafeHaven Shop",
+        "original_price": "$2,226.88",
+        "original_category": "Bebé",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:20:44.930Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0DS87KWG1",
+      "title": "HSYOYO - Cesta de almacenamiento con asas, plegable, organizador de juguetes, caja organizadora rectangular para almacenamiento de juguetes, cestas de tela para guardería, recámara, baño, 1 unidad",
+      "price": "$1,024.62",
+      "extracted_at": "2025-10-10T17:03:07.948Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "825.",
+        "current_seller": "Asia Silk Store",
+        "original_price": "$1,024.62",
+        "original_category": "Bebé",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:20:56.316Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0F9X4HDDW",
+      "title": "Curipeer - Almacenamiento giratorio para niños, color blanco",
+      "price": "$6,596.69",
+      "extracted_at": "2025-10-10T17:03:07.948Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "6,606.",
+        "current_seller": "DEVRANSTORE",
+        "original_price": "$6,596.69",
+        "original_category": "Bebé",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:21:08.690Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0DYB94Z6N",
+      "title": "Sweet Baby Co. Cesta de almacenamiento clásica de Winnie Pooh con tapa de cierre, parte inferior grande cuadrada de lona de algodón, cesta plegable para el baño, recámara, ropa de bebé, juguetes de",
+      "price": "$1,106.93",
+      "extracted_at": "2025-10-10T17:03:07.948Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "932.",
+        "current_seller": "Cuate Store",
+        "original_price": "$1,106.93",
+        "original_category": "Bebé",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:21:23.353Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0DX2K953R",
+      "title": "MXUSHEIY Cesta grande de almacenamiento de juguetes, organizador de juguetes plegable, para almacenamiento de juguetes y animales de peluche en sala de estar o recámara de niños",
+      "price": "$895.97",
+      "extracted_at": "2025-10-10T17:03:07.949Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "701.",
+        "current_seller": "Sky Direct LLC",
+        "original_price": "$895.97",
+        "original_category": "Bebé",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:21:37.065Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0F5MD2C7S",
+      "title": "Juego de alimentación de silicona para bebé, suministros de alimentación portátiles para niños pequeños, platos y cuencos para bebés con succión con cuchara y taza, babero y bolsa de almacenamiento",
+      "price": "$1,257.37",
+      "extracted_at": "2025-10-10T17:03:18.084Z",
+      "category": "Bebé",
+      "also_appears_in": [
+        "Salud y Cuidado Personal"
+      ],
+      "enrichment": {
+        "current_price": "1,288.",
+        "current_seller": "BRT SHOP",
+        "original_price": "$1,257.37",
+        "original_category": "Bebé",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:21:49.445Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0FHQVVSLP",
+      "title": "MIXIUJIAJU - clóset de almacenamiento de madera de cinco rejillas, estante de almacenamiento de juguetes de doble capa, estantería Montessori para aula de niños, jardín de infantes, guardería y sala",
+      "price": "$3,410.79",
+      "extracted_at": "2025-10-10T17:03:18.084Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "3,073.",
+        "current_seller": "GK ALLSTORE",
+        "original_price": "$3,410.79",
+        "original_category": "Bebé",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:21:58.924Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0FC27XKVF",
+      "title": "GarveeHome - Cofre de Almacenamiento de 30 Pulgadas con Tapas, Caja de Juguetes de ratán de Madera para niños y niñas con bisagra de Seguridad, Banco de Almacenamiento de Entrada, soporta 350 Libras",
+      "price": "$5,025.72",
+      "extracted_at": "2025-10-10T17:03:18.084Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "5,024.",
+        "current_seller": "Twenty Market",
+        "original_price": "$5,025.72",
+        "original_category": "Bebé",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:22:12.939Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0F9P8YG83",
+      "title": "BBLIKE Organizador de pañales con estante colgante – Carrito utilitario rodante de 3 niveles con cajones y divisores para almacenamiento de biberones de bebé, carrito de noche para cambio de estación",
+      "price": "$3,076.98",
+      "extracted_at": "2025-10-10T17:03:18.084Z",
+      "category": "Bebé",
+      "also_appears_in": [
+        "Salud y Cuidado Personal"
+      ],
+      "enrichment": {
+        "current_price": "2,535.",
+        "current_seller": "ONEBLOOD STORE",
+        "original_price": "$3,076.98",
+        "original_category": "Bebé",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:22:24.236Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0FGX2Z4CM",
+      "title": "Elefeltclave - Contenedores de almacenamiento para guardería, regalos para los amantes de los libros, lectores, cesta de almacenamiento plegable, para el aula, biblioteca de niños, recámara, ropa",
+      "price": "$1,094.18",
+      "extracted_at": "2025-10-10T17:03:18.084Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$1,094.18",
+        "original_category": "Bebé",
+        "price_changed": null,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T20:22:37.465Z",
+        "status": "unavailable"
+      }
+    },
+    {
+      "asin": "B0FFLPS1J9",
+      "title": "Organizador de almacenamiento de juguetes para niños, 2 en 1 de almacenamiento de animales de peluche y organizador de juguetes con 12 contenedores de almacenamiento, estante de juguetes de madera",
+      "price": "$5,363.86",
+      "extracted_at": "2025-10-10T17:03:18.084Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "5,331.",
+        "current_seller": "Rendomin",
+        "original_price": "$5,363.86",
+        "original_category": "Bebé",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:22:48.699Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0FCS89VKV",
+      "title": "Hkojewp - Cesta de almacenamiento pequeña para guardería, cesta de almacenamiento de mapache, cuerda tejida redonda de algodón, manta de bebé con asas para orejas, cubos de almacenamiento para",
+      "price": "$1,212.61",
+      "extracted_at": "2025-10-10T17:03:18.084Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "265.",
+        "current_seller": null,
+        "original_price": "$1,212.61",
+        "original_category": "Bebé",
+        "price_changed": true,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T20:23:01.630Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0FBZ658BM",
+      "title": "Back2School Express - Gabinete de almacenamiento móvil de 4 compartimentos, arrancador, organizador de juguetes, natural",
+      "price": "$5,085.65",
+      "extracted_at": "2025-10-10T17:03:18.084Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "4,917.",
+        "current_seller": "WALKERSSTORE",
+        "original_price": "$5,085.65",
+        "original_category": "Bebé",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:23:12.746Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0FBRCYJG7",
+      "title": "DGANXUN Cesta de almacenamiento multiusos clásico con tapa, cesta de almacenamiento tejida a mano, adecuada para recámara, sala de estar, baño, blanco",
+      "price": "$2,359.92",
+      "extracted_at": "2025-10-10T17:03:18.084Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$2,359.92",
+        "original_category": "Bebé",
+        "price_changed": null,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T20:23:24.536Z",
+        "status": "unavailable"
+      }
+    },
+    {
+      "asin": "B0F9KRMTCJ",
+      "title": "Funyoo Organizador de pañales para bebé para cambiador de mesa y cuna, capacidad para más de 70 pañales y esenciales, almacenamiento apilable resistente para patio, 22.4 pulgadas de largo x 18",
+      "price": "$2,050.20",
+      "extracted_at": "2025-10-10T17:03:18.084Z",
+      "category": "Bebé",
+      "also_appears_in": [
+        "Salud y Cuidado Personal"
+      ],
+      "enrichment": {
+        "current_price": "1,619.",
+        "current_seller": "Tierra Viva",
+        "original_price": "$2,050.20",
+        "original_category": "Bebé",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:23:36.855Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0F9FJ3PFK",
+      "title": "ROMSHINE - Juego de mesa y silla de madera para niños, mesa de actividades para niños pequeños con 2 sillas, cajones de almacenamiento, soporte para rollos de papel y tablero de juego, computadora de",
+      "price": "$5,191.17",
+      "extracted_at": "2025-10-10T17:03:18.084Z",
+      "category": "Bebé",
+      "also_appears_in": [
+        "Muebles"
+      ],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$5,191.17",
+        "original_category": "Bebé",
+        "price_changed": null,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T20:23:50.214Z",
+        "status": "unavailable"
+      }
+    },
+    {
+      "asin": "B0F8QLRLWR",
+      "title": "Estante de almacenamiento de juguetes de madera",
+      "price": "$2,668.58",
+      "extracted_at": "2025-10-10T17:03:18.085Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "659.",
+        "current_seller": null,
+        "original_price": "$2,668.58",
+        "original_category": "Bebé",
+        "price_changed": true,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T20:24:04.112Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0F7QRZDPS",
+      "title": "Elefeltclave Contenedores de almacenamiento para habitación de niño, el club de niños, organizador plegable para aula, habitación de niños, recámara, sala de juegos, ropa, juguetes, caja de juguetes",
+      "price": "$1,150.49",
+      "extracted_at": "2025-10-10T17:03:18.085Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$1,150.49",
+        "original_category": "Bebé",
+        "price_changed": null,
+        "seller_changed": null,
+        "last_checked": "2025-10-10T20:24:19.610Z",
+        "status": "unavailable"
+      }
+    },
+    {
+      "asin": "B0F7QJ7K5T",
+      "title": "Elefeltclave Contenedores de almacenamiento de dinosaurios, Let the World Hear You Roar, organizador plegable de almacenamiento para habitación de niños, cuarto de baño, cuarto de juegos, ropa, libros",
+      "price": "$999.04",
+      "extracted_at": "2025-10-10T17:03:18.085Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": "929.",
+        "current_seller": "CRAZYBIG STORE",
+        "original_price": "$999.04",
+        "original_category": "Bebé",
+        "price_changed": true,
+        "seller_changed": true,
+        "last_checked": "2025-10-10T20:24:31.317Z",
+        "status": "available"
+      }
+    },
+    {
+      "asin": "B0DXSTHKWV",
+      "title": "FinerFurnis - Juego de mesa y silla para niñas, computadora de maquillaje para niñas, cambiador de madera con 3 cajones, espejo triplegable, estantes grandes de almacenamiento, color rosa",
+      "price": "$6,004.36",
+      "extracted_at": "2025-10-10T17:03:18.085Z",
+      "category": "Bebé",
+      "also_appears_in": [
+        "Muebles"
+      ],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$6,004.36",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.432Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0DK9H778B",
+      "title": "CORNER LACE - Separadores de clóset para bebé, 8 piezas, diseño de mariposa/floral, de madera, de doble cara, organizador de tamaño de ropa de recién nacido a niño pequeño para decoración de",
+      "price": "$840.40",
+      "extracted_at": "2025-10-10T17:03:18.085Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$840.40",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.437Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0FPR8KLML",
+      "title": "Garvee - Juego de computadora y Silla para niños, Mesa de Estudio de Madera con Estante de Almacenamiento, Tablero de anuncios para niños de 3 a 8 años",
+      "price": "$7,791.15",
+      "extracted_at": "2025-10-10T17:03:31.737Z",
+      "category": "Bebé",
+      "also_appears_in": [
+        "Muebles"
+      ],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$7,791.15",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.443Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0FL75W42C",
+      "title": "Organizador de Almacenamiento de Juguetes para niños, estantería de 5 Cubos, Estante de Juguetes para niños, gabinete de Almacenamiento de Madera para habitación de los niños, Escuela, Aula, Sala de",
+      "price": "$5,318.39",
+      "extracted_at": "2025-10-10T17:03:31.738Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$5,318.39",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.447Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0FCS5NYRG",
+      "title": "DOREROOM Organizador de almacenamiento de juguetes para niños, caja de juguetes apilable, cofre de juguetes para niños y niñas, estante de libros blanco para habitaciones de niños, aula, guardería",
+      "price": "$3,527.22",
+      "extracted_at": "2025-10-10T17:03:31.738Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$3,527.22",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.457Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0FC2F6544",
+      "title": "Organizador de almacenamiento de juguetes blanco, organizadores de juguetes y contenedores de almacenamiento, estante de almacenamiento de juguetes con 8 contenedores de juguete, organizador de",
+      "price": "$6,026.26",
+      "extracted_at": "2025-10-10T17:03:31.738Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$6,026.26",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.461Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0DXVM8ZDF",
+      "title": "Homonova - Estantería infantil con 3 cajones de tela plegables, organizador de almacenamiento de juguetes para niñas y niños, recámara o sala de juegos, seguro y fácil de montar (rosa + blanco)",
+      "price": "$3,993.39",
+      "extracted_at": "2025-10-10T17:03:31.738Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$3,993.39",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.466Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0F1T969W7",
+      "title": "GarveeHome - Estantería de Madera para niños con 4 cajones, estantería para niños de 48 Pulgadas, Estante para Libros de Almacenamiento para bebés, Organizador de Juguetes, clóset, Estante de",
+      "price": "$7,433.56",
+      "extracted_at": "2025-10-10T17:03:31.738Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$7,433.56",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.471Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0FDLFC3JT",
+      "title": "Twinkoo - Organizador de pañales para bebé, carrito rodante de 3 niveles con ruedas, divisores y cajones, carros de utilidad para guardería, carrito de almacenamiento móvil de gran capacidad para cuna",
+      "price": "$3,888.28",
+      "extracted_at": "2025-10-10T17:03:31.738Z",
+      "category": "Bebé",
+      "also_appears_in": [
+        "Salud y Cuidado Personal"
+      ],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$3,888.28",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.474Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B093LQD76J",
+      "title": "CribMATE - Juego de cama de 3 piezas con bordado de mosca de Buterfly para bebé, color rosa intenso, juego de cama para cuna con mariposas 3D, edredón + sábana bajera + bolsa de almacenamiento de pañales, 28 x 52 pulgadas",
+      "price": "$4,976.15",
+      "extracted_at": "2025-10-10T17:03:31.738Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$4,976.15",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.477Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0FP2PDBTL",
+      "title": "Estantería Infantil y Almacenamiento de Juguetes, Organizador de Almacenamiento de Juguetes con gabinete de Almacenamiento y Estante de Juguetes, Estante de Libros para niños pequeños, Sala de Juegos",
+      "price": "$5,357.43",
+      "extracted_at": "2025-10-10T17:03:31.738Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$5,357.43",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.481Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0FMR36GWP",
+      "title": "Mrxxjz - Cesta de juguetes triangulares para mascotas, caja de almacenamiento con asa duradera para organizar juguetes para perros, mantas y accesorios",
+      "price": "$1,150.49",
+      "extracted_at": "2025-10-10T17:03:31.738Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$1,150.49",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.487Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0FM31KJYC",
+      "title": "Dwuww - Bolsas para colgar en la mesita de noche, color blanco, para almacenamiento de baberos, organizador para cuna de bebé, pañales, recámara, organizador para colgar en el cuarto de bebé",
+      "price": "$727.78",
+      "extracted_at": "2025-10-10T17:03:31.738Z",
+      "category": "Bebé",
+      "also_appears_in": [
+        "Salud y Cuidado Personal"
+      ],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$727.78",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.491Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0FLP5QWR9",
+      "title": "Noonkty - Cesta de almacenamiento de juguetes para sala de estar, 21.7 x 21.7 x 13.8 pulgadas, XXL de cuerda de algodón tejida con asas, cestas grandes para cesta de almacenamiento, color negro",
+      "price": "$1,343.47",
+      "extracted_at": "2025-10-10T17:03:31.738Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$1,343.47",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.494Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0FL2CP5JV",
+      "title": "AACULPET Estantería y almacenamiento de juguetes, organizador de almacenamiento de juguetes de 4 cubos con estantería, cubito de almacenamiento de madera para niños, 24 pulgadas de largo x 14 pulgadas",
+      "price": "$5,572.11",
+      "extracted_at": "2025-10-10T17:03:31.738Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$5,572.11",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.497Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0FL1T9K3Z",
+      "title": "Organizador de Almacenamiento de Juguetes para niños, cubito de estantería de 5 Secciones, gabinete de Almacenamiento para habitación de los niños, Escuela, Aula, Sala de Juegos, guardería, jardín de",
+      "price": "$4,945.41",
+      "extracted_at": "2025-10-10T17:03:31.738Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$4,945.41",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.501Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0FKBLS9D1",
+      "title": "DPDPPL y organizador",
+      "price": "$1,963.54",
+      "extracted_at": "2025-10-10T17:03:31.739Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$1,963.54",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.506Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0FHFRRC11",
+      "title": "Lyrlody - Red transpirable para cuna de bebé, hilo de malla suave de cobertura completa, grande de 1,6 x 4,2 m, para recámara infantil, fácil instalación y almacenamiento, material de calidad premium",
+      "price": "$908.07",
+      "extracted_at": "2025-10-10T17:03:31.739Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$908.07",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.510Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0FHDG5V3R",
+      "title": "ATBWGT - Caja de almacenamiento inspiradora, caja de juguetes para niñas y niños, estos son los buenos viejos días positivos, cestas de almacenamiento plegables organizadoras para recámara, baño",
+      "price": "$981.30",
+      "extracted_at": "2025-10-10T17:03:45.823Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$981.30",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.513Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0FHDFPPY9",
+      "title": "ATBWGT - Caja de almacenamiento para guardería, caja de juguetes para niños y niñas, cesta de almacenamiento plegable Adventure Forest Dragon para recámara, baño, habitación de niños, ropa de recámara",
+      "price": "$1,235.08",
+      "extracted_at": "2025-10-10T17:03:45.823Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$1,235.08",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.516Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0FGX62B7D",
+      "title": "Elefeltclave - Contenedores de almacenamiento para playa, océano, Go to the Beach, cesta de almacenamiento plegable para recámara, baño, niños, guardería, juguetes, caja de juguetes para niños y niñas",
+      "price": "$1,009.59",
+      "extracted_at": "2025-10-10T17:03:45.823Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$1,009.59",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.520Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0FGX5Q6FJ",
+      "title": "Elefeltclave - Contenedores de almacenamiento para niñas, colorido arco de coqueta, preparado para niñas, organizador de almacenamiento plegable para recámara, cuarto de baño, ropa de guardería",
+      "price": "$1,094.18",
+      "extracted_at": "2025-10-10T17:03:45.823Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$1,094.18",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.525Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0FGX5HF94",
+      "title": "Elefeltclave - Contenedores de almacenamiento para guardería, sistema solar, Planet Rocket, cosmic, plegable, organizador para niños, recámara, cuarto de baño, ropa de guardería, libros, caja de",
+      "price": "$1,031.59",
+      "extracted_at": "2025-10-10T17:03:45.823Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$1,031.59",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.528Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0FGX4BZ1T",
+      "title": "Elefeltclave - Contenedores de almacenamiento para guardería, cesta plegable para niños, recámara, cuarto de baño, guardería, juguetes, caja de juguetes para niños y niñas, 237 almacenamiento",
+      "price": "$1,094.18",
+      "extracted_at": "2025-10-10T17:03:45.823Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$1,094.18",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.533Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0FGX49SMN",
+      "title": "Elefeltclave - Contenedores de almacenamiento para niños espaciales, sistema solar cósmico, planeta, cesta de almacenamiento plegable para recámara de niños, cuarto de baño, ropa de guardería, libros",
+      "price": "$973.21",
+      "extracted_at": "2025-10-10T17:03:45.823Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$973.21",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.537Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0FG7RM2MN",
+      "title": "QIANWEIWOVEN - Cesta multifuncional para pañales con asas, organizador de gran capacidad para recién nacidos, elegante para guardería y almacenamiento en el hogar (rosa)",
+      "price": "$1,134.10",
+      "extracted_at": "2025-10-10T17:03:45.823Z",
+      "category": "Bebé",
+      "also_appears_in": [
+        "Salud y Cuidado Personal"
+      ],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$1,134.10",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.541Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0FG27Z4TL",
+      "title": "Elefeltclave Western Cowboy Contenedores de almacenamiento para guardería, cesta plegable para niños pequeños, recámara, sala de juegos, baño, juguetes, caja de juguetes para niños",
+      "price": "$1,094.18",
+      "extracted_at": "2025-10-10T17:03:45.823Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$1,094.18",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.545Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0FG27R83P",
+      "title": "Elefeltclave - Contenedores de almacenamiento para guardería, con globos de aire caliente, plegable, organizador para niños pequeños, recámara, sala de juegos, baño, juguetes, caja de juguetes para",
+      "price": "$1,263.10",
+      "extracted_at": "2025-10-10T17:03:45.823Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$1,263.10",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.548Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0FG26SM7H",
+      "title": "Elefeltclave Mallard - Contenedores de almacenamiento para guardería, diseño de patos de cabeza verde salvaje, caza, cesta de almacenamiento plegable para recámara de niños, ropa de baño, libros de",
+      "price": "$1,206.80",
+      "extracted_at": "2025-10-10T17:03:45.823Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$1,206.80",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.553Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0FG25V4SG",
+      "title": "Elefeltclave - Contenedores de almacenamiento para guardería de vaca Highland, cesta plegable de almacenamiento para niñas, recámara, baño, ropa, libros, 201STORAGE-XS-TWOCOW",
+      "price": "$1,094.18",
+      "extracted_at": "2025-10-10T17:03:45.823Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$1,094.18",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.556Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0FG25SKS7",
+      "title": "Elefeltclave - Contenedores de almacenamiento temáticos de oso de peluche, organizador plegable de oso de bebé, para recámara de niños, sala de juegos, cuarto de baño, ropa de juguetes, libros",
+      "price": "$1,122.20",
+      "extracted_at": "2025-10-10T17:03:45.824Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$1,122.20",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.560Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0FG255GF1",
+      "title": "Elefeltclave Animal Mahjong Contenedores de almacenamiento para guardería, cesta plegable de almacenamiento para niños pequeños, recámara, sala de juegos, baño, juguetes, caja de juguetes para niñas",
+      "price": "$1,094.18",
+      "extracted_at": "2025-10-10T17:03:45.824Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$1,094.18",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.565Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0FG253VCQ",
+      "title": "Elefeltclave Highland - Contenedores de almacenamiento para guardería de vacas, botánico Highland, cesta de almacenamiento plegable para recámara de niños, ropa de baño, libros de juguetes, caja de",
+      "price": "$1,094.18",
+      "extracted_at": "2025-10-10T17:03:45.824Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$1,094.18",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.568Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0FD742JCZ",
+      "title": "GarveeHome - Organizador de Almacenamiento de Juguetes para niños, estantería para niños con Cubos de Almacenamiento, Estante de Juguetes para niños pequeños, Sala de Estar, guardería",
+      "price": "$5,099.89",
+      "extracted_at": "2025-10-10T17:03:45.824Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$5,099.89",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.571Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0FBZ6GGD3",
+      "title": "Back2School Express - Gabinete de almacenamiento de bloques móviles de 9 compartimentos, organizador de juguetes, natural",
+      "price": "$11,976.41",
+      "extracted_at": "2025-10-10T17:03:57.877Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$11,976.41",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.574Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0FBS3LX7L",
+      "title": "LGHWKETH - Paquete de 2 organizadores de pañales para bebé, de gran capacidad, portátil, con asas, cesta multifuncional con divisor extraíble para el hogar",
+      "price": "$1,568.96",
+      "extracted_at": "2025-10-10T17:03:57.877Z",
+      "category": "Bebé",
+      "also_appears_in": [
+        "Salud y Cuidado Personal"
+      ],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$1,568.96",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.577Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0FB9J1JRQ",
+      "title": "stadtecken Estante de madera para Toniebox – Capacidad para hasta 40 tonies – Organizador de almacenamiento de pared para habitación de los niños – Ampliable y compatible con cifras Toniebox (espacio",
+      "price": "$2,367.58",
+      "extracted_at": "2025-10-10T17:03:57.877Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$2,367.58",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.582Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0FB8F6MKZ",
+      "title": "VKSAO Organizador de pañales, organizador de bebé para artículos esenciales, cesta de almacenamiento todo en uno con compartimentos, bolsillo de limpieza y clips para carriola, imprescindible para",
+      "price": "$984.07",
+      "extracted_at": "2025-10-10T17:03:57.877Z",
+      "category": "Bebé",
+      "also_appears_in": [
+        "Salud y Cuidado Personal"
+      ],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$984.07",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.585Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0F9W34P3Y",
+      "title": "YOcity - Organizador de lazos para el pelo con arco iris, pinzas para el pelo, para niñas, diadema de bebé, accesorios para el cabello, organizador para colgar en la pared para decoración de",
+      "price": "$1,037.61",
+      "extracted_at": "2025-10-10T17:03:57.877Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$1,037.61",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.588Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0F9PNMLFS",
+      "title": "GEEHUA - Bolsas para colgar en la mesita de noche, bolsa de pañales para cuna, bolsa organizadora de litera, botella de leche, bolsas de almacenamiento de baberos, organizador de pañales para colgar",
+      "price": "$744.17",
+      "extracted_at": "2025-10-10T17:03:57.877Z",
+      "category": "Bebé",
+      "also_appears_in": [
+        "Salud y Cuidado Personal"
+      ],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$744.17",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.594Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0F8VMTNLM",
+      "title": "Cesta de fieltro para bebé, cesta de regalo de bebé en forma de cerdo, organizador para almacenamiento de artículos esenciales para recién nacidos, artículos esenciales plegables para el baño y el",
+      "price": "$868.68",
+      "extracted_at": "2025-10-10T17:03:57.877Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$868.68",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.598Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0F7R374JT",
+      "title": "Bathiin - Bandeja de soporte para mano, almacenamiento mejorado de juguetes de baño, color gris",
+      "price": "$1,043.42",
+      "extracted_at": "2025-10-10T17:03:57.878Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$1,043.42",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.604Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0F7R2CNRW",
+      "title": "Elefeltclave - Contenedores de almacenamiento espacial para niños, inspiradores espaciales galaxias planetas astronautas, organizador plegable para habitación de niños, ropa de guardería, juguetes",
+      "price": "$1,031.59",
+      "extracted_at": "2025-10-10T17:03:57.878Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$1,031.59",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.609Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0F7QZ6CG3",
+      "title": "Elefeltclave Woodland Contenedores de almacenamiento para guardería, cesta plegable de almacenamiento de animales de bosque para habitación de niños, recámara, cuarto de baño, ropa de guardería",
+      "price": "$1,050.45",
+      "extracted_at": "2025-10-10T17:03:57.878Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$1,050.45",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.614Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0F7QWKTZ5",
+      "title": "Elefeltclave - Contenedores de almacenamiento para niños de larga vida para niños, cesta de almacenamiento plegable para habitación de niños, habitación de niños, baño, sala de juegos, ropa, libros de",
+      "price": "$1,094.18",
+      "extracted_at": "2025-10-10T17:03:57.878Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$1,094.18",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.617Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0F7QTHMGN",
+      "title": "Elefeltclave - Contenedores de almacenamiento para habitación de niña, en un campo de rosas, organizador plegable de cesta de almacenamiento para habitación de niñas, guardería, sala de juegos, ropa",
+      "price": "$999.04",
+      "extracted_at": "2025-10-10T17:03:57.878Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$999.04",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.623Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0F7QL13XV",
+      "title": "Elefeltclave - Contenedores de almacenamiento de dinosaurios de cueva para niños, lindas cestas de almacenamiento plegables de dinosaurio, para habitación de niños, recámara, cuarto de baño, sala de",
+      "price": "$1,065.89",
+      "extracted_at": "2025-10-10T17:03:57.878Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$1,065.89",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.630Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0F66VPDKN",
+      "title": "FYSUIMU - 7 divisores de tamaño de clóset de bebé de madera de ganso con bolsa de almacenamiento, organizador de clóset colgante de ganso rosa para recién nacidos a 24 meses, organizador de clóset",
+      "price": "$1,023.97",
+      "extracted_at": "2025-10-10T17:03:57.878Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$1,023.97",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.634Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0F63PKCS2",
+      "title": "FDHUIJIA - Gabinete de almacenamiento de madera, estante Montessori de 5 secciones, organizador de almacenamiento de juguetes para niños para habitaciones de niños, aula, sala de juegos, guardería",
+      "price": "$4,527.61",
+      "extracted_at": "2025-10-10T17:03:57.878Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$4,527.61",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.638Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0F2MC7Y1P",
+      "title": "Primlect - Juego de 2 alfombrillas para siesta para niños pequeños, extragrande, con almohada y manta, lavable, ligero, fácil de enrollar, perfecto para guardería, preescolar, jardín de infantes",
+      "price": "$2,759.10",
+      "extracted_at": "2025-10-10T17:04:08.651Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$2,759.10",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.643Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0F26ZVGL2",
+      "title": "THJ - Organizador de lazo para colgar para el cabello, pinzas para el cabello, lazos para el cabello para niñas, diseño bohemio de arco iris, pinzas para el cabello para la cabeza, para habitación de",
+      "price": "$849.87",
+      "extracted_at": "2025-10-10T17:04:08.652Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$849.87",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.646Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0F26YNHJB",
+      "title": "THJ - Organizador de lazo para colgar para el cabello, pinzas para el cabello, lazos para el cabello para niñas, diseño bohemio de arco iris, ganchos para la cabeza, para almacenamiento de la diadema",
+      "price": "$906.45",
+      "extracted_at": "2025-10-10T17:04:08.652Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$906.45",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.651Z",
+        "status": "error"
+      }
+    },
+    {
+      "asin": "B0F223HHVF",
+      "title": "Evolur - Bandeja cambiadora Remy, pequeña área de almacenamiento, hecha de madera de álamo macizo, ajustada, lados cerrados y certificación ASTM",
+      "price": "$10,018.32",
+      "extracted_at": "2025-10-10T17:04:08.652Z",
+      "category": "Bebé",
+      "also_appears_in": [],
+      "enrichment": {
+        "current_price": null,
+        "current_seller": null,
+        "original_price": "$10,018.32",
+        "original_category": "Bebé",
+        "error": "page.goto: Target page, context or browser has been closed",
+        "last_checked": "2025-10-10T20:24:34.654Z",
+        "status": "error"
+      }
+    }
+  ],
+  "last_updated": "2025-10-10T20:24:34.655Z"
+}

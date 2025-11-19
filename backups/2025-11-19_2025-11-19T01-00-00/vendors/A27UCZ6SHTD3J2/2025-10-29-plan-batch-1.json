@@ -1,0 +1,199 @@
+{
+  "seller_id": "A27UCZ6SHTD3J2",
+  "batch_number": 1,
+  "created_at": "2025-10-29T19:29:45.026Z",
+  "analysis_type": "recursive_hierarchical_batch",
+  "max_products_per_leaf": 320,
+  "max_recursion_depth": 10,
+  "max_products_per_batch": 1000,
+  "main_categories": [
+    "Automotriz y Motocicletas",
+    "Bebé",
+    "Belleza",
+    "Deportes y Aire libre",
+    "Electrónicos",
+    "Herramientas y Mejoras del Hogar",
+    "Hogar y Cocina",
+    "Industria, Empresas y Ciencia",
+    "Jardín",
+    "Juguetes y Juegos",
+    "Libros",
+    "Música",
+    "Oficina y Papelería",
+    "Películas y Series de TV",
+    "Productos para animales",
+    "Ropa, Zapatos y Accesorios",
+    "Salud y Cuidado Personal",
+    "Software",
+    "Videojuegos"
+  ],
+  "categories": [
+    {
+      "name": "Automotriz y Motocicletas",
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A13848848011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761766132&rnid=15997893011&ref=sr_nr_n_1&ds=v1%3A8XuDjMK%2FuTKY20%2FGzN5Vn14N7ZPMZChy%2FdclrwaGXAA",
+      "expected_products": 79,
+      "isLeaf": true,
+      "depth": 1,
+      "path": [
+        "Automotriz y Motocicletas"
+      ],
+      "status": "pending",
+      "created_at": "2025-10-29T19:29:00.222Z"
+    },
+    {
+      "name": "Bebé",
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A9482650011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761766132&rnid=15997893011&ref=sr_nr_n_2&ds=v1%3AmY3FI2MF4MH%2BunGJmjMW4QzFt9k7Sl%2F5J%2F%2BDVVj2xog",
+      "expected_products": 57,
+      "isLeaf": true,
+      "depth": 1,
+      "path": [
+        "Bebé"
+      ],
+      "status": "pending",
+      "created_at": "2025-10-29T19:29:03.059Z"
+    },
+    {
+      "name": "Belleza",
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A11260452011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761766132&rnid=15997893011&ref=sr_nr_n_3&ds=v1%3AmhokcC7%2BwP9O0GycsqapCF%2B%2FwPRtWicR8ayZOifgMVU",
+      "expected_products": 459,
+      "isLeaf": false,
+      "depth": 1,
+      "path": [
+        "Belleza"
+      ],
+      "status": "pending",
+      "subcategories": [
+        {
+          "name": "Baño y Cuerpo",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A11260452011%2Cn%3A10178362011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761766143&rnid=11260452011&ref=sr_nr_n_1&ds=v1%3AyyufOKq3t7X3ZegCcoFcG%2BQ0tvMhkk7yRk9o7bgRyK0",
+          "expected_products": 92,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Belleza",
+            "Baño y Cuerpo"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-29T19:29:08.958Z"
+        },
+        {
+          "name": "Cosméticos",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A11260452011%2Cn%3A10178470011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761766143&rnid=11260452011&ref=sr_nr_n_2&ds=v1%3ARUsanWs8OxU61ui4xHGT9f%2Fzxnvu9flHApHd%2BWFrM9k",
+          "expected_products": 62,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Belleza",
+            "Cosméticos"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-29T19:29:11.823Z"
+        },
+        {
+          "name": "Cuidado de la Piel",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A11260452011%2Cn%3A10178562011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761766143&rnid=11260452011&ref=sr_nr_n_3&ds=v1%3A5obgUOoDjEc%2BiIBl50sOqkGm4q3q7f6qiY8sdt1zQik",
+          "expected_products": 189,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Belleza",
+            "Cuidado de la Piel"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-29T19:29:14.726Z"
+        },
+        {
+          "name": "Cuidado del Cabello",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A11260452011%2Cn%3A10178402011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761766143&rnid=11260452011&ref=sr_nr_n_4&ds=v1%3AS4Vz%2FUqjA3nW5ZqB8DdSkII5U5fydQGE41wGdKsIMZM",
+          "expected_products": 80,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Belleza",
+            "Cuidado del Cabello"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-29T19:29:17.531Z"
+        },
+        {
+          "name": "Manicure y Pedicure",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A11260452011%2Cn%3A10178508011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761766143&rnid=11260452011&ref=sr_nr_n_5&ds=v1%3A4S%2B5kKcOVa5eyv%2FmvRWI%2FlTW%2BD8ZvUGrjLTy%2FcJZHjY",
+          "expected_products": 29,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Belleza",
+            "Manicure y Pedicure"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-29T19:29:20.471Z"
+        },
+        {
+          "name": "Perfumes y Fragancias",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A11260452011%2Cn%3A10178384011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761766143&rnid=11260452011&ref=sr_nr_n_6&ds=v1%3A7PdElc04zAdqnl4xVbg9F%2Fv7%2BEcVEE%2FgQn2imziX3WQ",
+          "expected_products": 8,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Belleza",
+            "Perfumes y Fragancias"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-29T19:29:23.249Z"
+        },
+        {
+          "name": "Rasurado y Depilación",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A11260452011%2Cn%3A9845475011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761766143&rnid=11260452011&ref=sr_nr_n_7&ds=v1%3A7h96xAhwEOQgR7qkiWbt8qXvClki4hN4MTKtp9JImi0",
+          "expected_products": 9,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Belleza",
+            "Rasurado y Depilación"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-29T19:29:26.067Z"
+        },
+        {
+          "name": "Utensilios de Belleza",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A11260452011%2Cn%3A10178655011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761766143&rnid=11260452011&ref=sr_nr_n_8&ds=v1%3AYFYes1%2B2tvDCiiid9jUv97qVN6t2umcIxRooMREisqg",
+          "expected_products": 36,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Belleza",
+            "Utensilios de Belleza"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-29T19:29:28.996Z"
+        },
+        {
+          "name": "Meses sin Intereses",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A11260452011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761766143&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3Ah3I4IMncKnkBfHN7NSZ6CZqv3wrTN4tep4sjj3owhSU",
+          "expected_products": 43,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Belleza",
+            "Meses sin Intereses"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-29T19:29:31.749Z"
+        }
+      ],
+      "created_at": "2025-10-29T19:29:39.401Z"
+    },
+    {
+      "name": "Deportes y Aire libre",
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=A27UCZ6SHTD3J2&rh=n%3A9482660011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761766132&rnid=15997893011&ref=sr_nr_n_4&ds=v1%3AfTL48e%2FgmSMctOAwGRP4xQaNZkLb%2B%2BQqsKaJgDvnJAc",
+      "expected_products": 288,
+      "isLeaf": true,
+      "depth": 1,
+      "path": [
+        "Deportes y Aire libre"
+      ],
+      "status": "pending",
+      "created_at": "2025-10-29T19:29:42.168Z"
+    }
+  ]
+}

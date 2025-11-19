@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "seller_id": "AE8MUNDUREHX7",
+    "seller_url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482660011%2Cn%3A9786636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760369775&rnid=9482660011&ref=sr_nr_n_3&ds=v1%3Ar9y9BeiA3EPJod97hzVCEJkr7e38DZrJt9f8G4EoLIA",
+    "category_name": "deportes-y-aire-libre-art-culos-para-fans",
+    "total_products": 6,
+    "pages_processed": 1,
+    "extraction_date": "2025-10-17T16:31:44.474Z",
+    "script_version": "1.0"
+  },
+  "products": [
+    {
+      "asin": "B078PRJV1B",
+      "title": "MEBRACS Space Movie Basketball Shorts for Men 90S Hip Hop Clothing for Party with Pockets",
+      "price": "$778.60",
+      "extracted_at": "2025-10-17T16:31:44.451Z"
+    },
+    {
+      "asin": "B0D9VPB4PN",
+      "title": "SafeDelux - Bandeja rodante de metal con cargador de cono, máquina rodante plegable y bandeja para conos preenrollados de 1¼ de tamaño King y 1¼, accesorios para fumar, hogar, viajes, fiestas e ideas",
+      "price": "$537.90",
+      "extracted_at": "2025-10-17T16:31:44.451Z"
+    },
+    {
+      "asin": "B09D76KCZB",
+      "title": "Lauzq Cintas térmicas para las orejas de invierno para hombres y mujeres en clima frío para esquí, correr, ciclismo y entrenamiento, A-1-negro",
+      "price": "$640.97",
+      "extracted_at": "2025-10-17T16:31:44.451Z"
+    },
+    {
+      "asin": "B0CG5L157J",
+      "title": "209LD-Mp-remember Hogar y cocina > Productos de decoración del hogar > Acentos de decoración del hogar > Accesorios decorativos > Letreros y placas decorativas",
+      "price": "$562.35",
+      "extracted_at": "2025-10-17T16:31:44.451Z"
+    },
+    {
+      "asin": "B0BK7GYXMN",
+      "title": "Two Feet Ahead - Paquete de 2 mamelucos para bebé, recién nacidos, con licencia oficial",
+      "price": "$1,241.78",
+      "extracted_at": "2025-10-17T16:31:44.452Z"
+    },
+    {
+      "asin": "B09MG3336B",
+      "title": "Calcomanía de bandera estadounidense para perro de 5 pulgadas o coche, laptop, motocicleta o cualquier superficie lisa",
+      "price": "$431.88",
+      "extracted_at": "2025-10-17T16:31:44.452Z"
+    }
+  ]
+}

@@ -1,0 +1,893 @@
+{
+  "seller_id": "AJF6S5112BPIX",
+  "batch_number": 5,
+  "created_at": "2025-10-31T18:01:54.626Z",
+  "analysis_type": "recursive_hierarchical_batch",
+  "max_products_per_leaf": 320,
+  "max_recursion_depth": 10,
+  "max_products_per_batch": 1000,
+  "main_categories": [
+    "Alimentos y Bebidas",
+    "Automotriz y Motocicletas",
+    "Bebé",
+    "Belleza",
+    "Deportes y Aire libre",
+    "Electrónicos",
+    "Herramientas y Mejoras del Hogar",
+    "Hogar y Cocina",
+    "Industria, Empresas y Ciencia",
+    "Jardín",
+    "Juguetes y Juegos",
+    "Libros",
+    "Música",
+    "Oficina y Papelería",
+    "Productos para animales",
+    "Ropa, Zapatos y Accesorios",
+    "Salud y Cuidado Personal",
+    "Software",
+    "Videojuegos"
+  ],
+  "categories": [
+    {
+      "name": "Industria, Empresas y Ciencia",
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A11076223011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761932814&rnid=15997893011&ref=sr_nr_n_9&ds=v1%3AjEWWjOaOe60wdFZm8Ujv7aNi4OlxrrGYdF2v5KNngUo",
+      "expected_products": 258,
+      "isLeaf": true,
+      "depth": 1,
+      "path": [
+        "Industria, Empresas y Ciencia"
+      ],
+      "status": "pending",
+      "created_at": "2025-10-31T17:51:10.779Z"
+    },
+    {
+      "name": "Jardín",
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A16215357011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761932814&rnid=15997893011&ref=sr_nr_n_10&ds=v1%3A0LtjA4nqoJiIVg2MFAukJJtE5mc8R4iC6aNx%2FBVIjw0",
+      "expected_products": 80,
+      "isLeaf": true,
+      "depth": 1,
+      "path": [
+        "Jardín"
+      ],
+      "status": "pending",
+      "created_at": "2025-10-31T17:51:13.686Z"
+    },
+    {
+      "name": "Juguetes y Juegos",
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A11260442011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761932814&rnid=15997893011&ref=sr_nr_n_11&ds=v1%3AbJD6irCbZv205mzaSHwY%2B5Dljj5qER%2BzqAHLwDjWBE0",
+      "expected_products": 160,
+      "isLeaf": true,
+      "depth": 1,
+      "path": [
+        "Juguetes y Juegos"
+      ],
+      "status": "pending",
+      "created_at": "2025-10-31T17:51:16.454Z"
+    },
+    {
+      "name": "Libros",
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761932814&rnid=15997893011&ref=sr_nr_n_12&ds=v1%3A1NtqGdnxGuUIrqITpi8F%2FXRhiuX0Ihxo5ZQkSKsoHhM",
+      "expected_products": 639,
+      "isLeaf": false,
+      "depth": 1,
+      "path": [
+        "Libros"
+      ],
+      "status": "pending",
+      "subcategories": [
+        {
+          "name": "Libros en Idiomas Extranjeros",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cn%3A9647825011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933076&rnid=9298576011&ref=sr_nr_n_1&ds=v1%3AeUC5PWCcIJlLNMSDOER%2BBHZ4cM6IQzK8tVNXHrAP%2BGY",
+          "expected_products": 635,
+          "isLeaf": false,
+          "depth": 2,
+          "path": [
+            "Libros",
+            "Libros en Idiomas Extranjeros"
+          ],
+          "status": "pending",
+          "subcategories": [
+            {
+              "name": "Todos los descuentos",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9647825011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933079&rnid=23565476011&ref=sr_nr_p_n_deal_type_1&ds=v1%3AEx3UVXCgnj%2FVpywt%2F5XJ2D9Ihji8UwRPA9Zqf00erHQ",
+              "expected_products": 635,
+              "isLeaf": false,
+              "depth": 3,
+              "path": [
+                "Libros",
+                "Libros en Idiomas Extranjeros",
+                "Todos los descuentos"
+              ],
+              "status": "pending",
+              "subcategories": [
+                {
+                  "name": "Borrar",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9647825011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933082&ref=sr_ex_p_n_deal_type_0&ds=v1%3AGTrZ4aPyVPuzXGxUI4EwzHGpjC4IbO8LLp7ne%2Flh9lI",
+                  "expected_products": 635,
+                  "isLeaf": false,
+                  "depth": 4,
+                  "path": [
+                    "Libros",
+                    "Libros en Idiomas Extranjeros",
+                    "Todos los descuentos",
+                    "Borrar"
+                  ],
+                  "status": "pending",
+                  "subcategories": [
+                    {
+                      "name": "Meses sin Intereses",
+                      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933085&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3AzcUyVXr4ZSWiD0PJZ6HiSj8d07mb8qy8AOmlBDQvS%2B0",
+                      "expected_products": 6,
+                      "isLeaf": true,
+                      "depth": 5,
+                      "path": [
+                        "Libros",
+                        "Libros en Idiomas Extranjeros",
+                        "Todos los descuentos",
+                        "Borrar",
+                        "Meses sin Intereses"
+                      ],
+                      "status": "pending",
+                      "created_at": "2025-10-31T17:51:30.168Z"
+                    },
+                    {
+                      "name": "No Está en Una Serie",
+                      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cp_n_feature_three_browse-bin%3A122260029011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933085&rnid=122260026011&ref=sr_nr_p_n_feature_three_browse-bin_1&ds=v1%3AeOz1dyWW7JEdpVZYIVnPERU4e%2BdHsVbYc60mQpWY5m8",
+                      "expected_products": 9,
+                      "isLeaf": true,
+                      "depth": 5,
+                      "path": [
+                        "Libros",
+                        "Libros en Idiomas Extranjeros",
+                        "Todos los descuentos",
+                        "Borrar",
+                        "No Está en Una Serie"
+                      ],
+                      "status": "pending",
+                      "created_at": "2025-10-31T17:51:32.904Z"
+                    },
+                    {
+                      "name": "Audio CD",
+                      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cp_n_feature_browse-bin%3A9590846011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933085&rnid=9590844011&ref=sr_nr_p_n_feature_browse-bin_1&ds=v1%3AypqGT%2B0ityAhyXhuQIs%2Br7ohA26zkIEFsUX3DiWUPDQ",
+                      "expected_products": 1,
+                      "isLeaf": true,
+                      "depth": 5,
+                      "path": [
+                        "Libros",
+                        "Libros en Idiomas Extranjeros",
+                        "Todos los descuentos",
+                        "Borrar",
+                        "Audio CD"
+                      ],
+                      "status": "pending",
+                      "created_at": "2025-10-31T17:51:35.476Z"
+                    },
+                    {
+                      "name": "Audiolibros",
+                      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cp_n_feature_browse-bin%3A9590847011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933085&rnid=9590844011&ref=sr_nr_p_n_feature_browse-bin_2&ds=v1%3AK2kYpOoOlvLQmZsfBh8CpR%2BecGGyXk7N1P75J5tGLX0",
+                      "expected_products": 1,
+                      "isLeaf": true,
+                      "depth": 5,
+                      "path": [
+                        "Libros",
+                        "Libros en Idiomas Extranjeros",
+                        "Todos los descuentos",
+                        "Borrar",
+                        "Audiolibros"
+                      ],
+                      "status": "pending",
+                      "created_at": "2025-10-31T17:51:38.054Z"
+                    },
+                    {
+                      "name": "Pasta Dura",
+                      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cp_n_feature_browse-bin%3A9590863011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933085&rnid=9590844011&ref=sr_nr_p_n_feature_browse-bin_3&ds=v1%3AZweKJzZjvabBrn1I%2FGuXlhhZOBRgrnlcdCvWNkQjDbk",
+                      "expected_products": 16,
+                      "isLeaf": true,
+                      "depth": 5,
+                      "path": [
+                        "Libros",
+                        "Libros en Idiomas Extranjeros",
+                        "Todos los descuentos",
+                        "Borrar",
+                        "Pasta Dura"
+                      ],
+                      "status": "pending",
+                      "created_at": "2025-10-31T17:51:40.838Z"
+                    }
+                  ],
+                  "created_at": "2025-10-31T17:51:40.838Z"
+                },
+                {
+                  "name": "Meses sin Intereses",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cp_n_deal_type%3A23565478011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933082&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3AtIaoWkXl9AANjTGwTPhnWwrAgHfDPSduOsBwMxeytJg",
+                  "expected_products": 6,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Libros",
+                    "Libros en Idiomas Extranjeros",
+                    "Todos los descuentos",
+                    "Meses sin Intereses"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T17:51:43.483Z"
+                },
+                {
+                  "name": "No Está en Una Serie",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cp_n_deal_type%3A23565478011%2Cp_n_feature_three_browse-bin%3A122260029011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933082&rnid=122260026011&ref=sr_nr_p_n_feature_three_browse-bin_1&ds=v1%3Acf8rNO60yikhXpRnjYfTvo%2Fx4P7sYG%2FalK%2BNPy%2BZ3T8",
+                  "expected_products": 9,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Libros",
+                    "Libros en Idiomas Extranjeros",
+                    "Todos los descuentos",
+                    "No Está en Una Serie"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T17:51:46.138Z"
+                },
+                {
+                  "name": "Audio CD",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cp_n_deal_type%3A23565478011%2Cp_n_feature_browse-bin%3A9590846011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933082&rnid=9590844011&ref=sr_nr_p_n_feature_browse-bin_1&ds=v1%3ABkcn%2FA%2FXwObVdR6pg4dJMQPSkFhjl13CwzC423R5GaQ",
+                  "expected_products": 1,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Libros",
+                    "Libros en Idiomas Extranjeros",
+                    "Todos los descuentos",
+                    "Audio CD"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T17:51:48.757Z"
+                },
+                {
+                  "name": "Audiolibros",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cp_n_deal_type%3A23565478011%2Cp_n_feature_browse-bin%3A9590847011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933082&rnid=9590844011&ref=sr_nr_p_n_feature_browse-bin_2&ds=v1%3AJo%2FxKII818YSNVGERIQgyDwvVPjGUn2bmIr4oIDUTRI",
+                  "expected_products": 1,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Libros",
+                    "Libros en Idiomas Extranjeros",
+                    "Todos los descuentos",
+                    "Audiolibros"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T17:51:51.443Z"
+                },
+                {
+                  "name": "Pasta Dura",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cp_n_deal_type%3A23565478011%2Cp_n_feature_browse-bin%3A9590863011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933082&rnid=9590844011&ref=sr_nr_p_n_feature_browse-bin_3&ds=v1%3Aoz5Yg2kGrAD7cT3%2BA9WZ5MrqUi0E8naBadEBuTDEhYo",
+                  "expected_products": 16,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Libros",
+                    "Libros en Idiomas Extranjeros",
+                    "Todos los descuentos",
+                    "Pasta Dura"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T17:51:54.206Z"
+                }
+              ],
+              "created_at": "2025-10-31T17:51:54.206Z"
+            },
+            {
+              "name": "Meses sin Intereses",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933079&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3Aow13mN3NRW%2BYI0UhzUgBbUIQzI1c1cyZ9irAmbVLMzU",
+              "expected_products": 6,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Libros",
+                "Libros en Idiomas Extranjeros",
+                "Meses sin Intereses"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-31T17:51:56.803Z"
+            },
+            {
+              "name": "No Está en Una Serie",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cp_n_feature_three_browse-bin%3A122260029011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933079&rnid=122260026011&ref=sr_nr_p_n_feature_three_browse-bin_1&ds=v1%3ADToCxCVulPe9apjuhuUawytvIfzcRZHzV2%2FynX7LNDs",
+              "expected_products": 9,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Libros",
+                "Libros en Idiomas Extranjeros",
+                "No Está en Una Serie"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-31T17:51:59.384Z"
+            },
+            {
+              "name": "Audio CD",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cp_n_feature_browse-bin%3A9590846011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933079&rnid=9590844011&ref=sr_nr_p_n_feature_browse-bin_1&ds=v1%3AXcoxrQ3bDZCJOJa4DcBrvs7Ipocbp0O0JcvuTEdVXXQ",
+              "expected_products": 1,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Libros",
+                "Libros en Idiomas Extranjeros",
+                "Audio CD"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-31T17:52:01.983Z"
+            },
+            {
+              "name": "Audiolibros",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cp_n_feature_browse-bin%3A9590847011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933079&rnid=9590844011&ref=sr_nr_p_n_feature_browse-bin_2&ds=v1%3A6IFKNkoDF532%2B3e%2FO7Bat%2Bj4HdjsAH51%2BMPWbt9QWAI",
+              "expected_products": 1,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Libros",
+                "Libros en Idiomas Extranjeros",
+                "Audiolibros"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-31T17:52:04.556Z"
+            },
+            {
+              "name": "Pasta Dura",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cp_n_feature_browse-bin%3A9590863011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933079&rnid=9590844011&ref=sr_nr_p_n_feature_browse-bin_3&ds=v1%3AgC4sL5fjDQyuWIyCgalarZpsaryiPPoUXIH%2B1vaB7NU",
+              "expected_products": 16,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Libros",
+                "Libros en Idiomas Extranjeros",
+                "Pasta Dura"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-31T17:52:07.285Z"
+            }
+          ],
+          "created_at": "2025-10-31T17:52:07.285Z"
+        },
+        {
+          "name": "Todos los descuentos",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933076&rnid=23565476011&ref=sr_nr_p_n_deal_type_1&ds=v1%3Al0d8JLnQi0tktNKfJzF6ZU8a0%2FB6kzAL4LA4EsTg5Oc",
+          "expected_products": 639,
+          "isLeaf": false,
+          "depth": 2,
+          "path": [
+            "Libros",
+            "Todos los descuentos"
+          ],
+          "status": "pending",
+          "subcategories": [
+            {
+              "name": "Libros en Idiomas Extranjeros",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cn%3A9647825011%2Cp_n_deal_type%3A23565478011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933127&rnid=9298576011&ref=sr_nr_n_1&ds=v1%3A3FHKUpI%2F9Bzx%2BuzJYDy69O0wjIJ5sG4JvTyzco2qvkU",
+              "expected_products": 635,
+              "isLeaf": false,
+              "depth": 3,
+              "path": [
+                "Libros",
+                "Todos los descuentos",
+                "Libros en Idiomas Extranjeros"
+              ],
+              "status": "pending",
+              "subcategories": [
+                {
+                  "name": "Borrar",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cn%3A9647825011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933130&ref=sr_ex_p_n_deal_type_0&ds=v1%3AWlz3%2BlHl%2FyOnCGIEnMxS4lquivkRb2VJk8tAISIqdd4",
+                  "expected_products": 635,
+                  "isLeaf": false,
+                  "depth": 4,
+                  "path": [
+                    "Libros",
+                    "Todos los descuentos",
+                    "Libros en Idiomas Extranjeros",
+                    "Borrar"
+                  ],
+                  "status": "pending",
+                  "subcategories": [
+                    {
+                      "name": "Meses sin Intereses",
+                      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933133&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3ARwAPvwOKJjXA22seDl8xB4D7jXUifubXXoRHWqMjBRk",
+                      "expected_products": 6,
+                      "isLeaf": true,
+                      "depth": 5,
+                      "path": [
+                        "Libros",
+                        "Todos los descuentos",
+                        "Libros en Idiomas Extranjeros",
+                        "Borrar",
+                        "Meses sin Intereses"
+                      ],
+                      "status": "pending",
+                      "created_at": "2025-10-31T17:52:18.139Z"
+                    },
+                    {
+                      "name": "No Está en Una Serie",
+                      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cp_n_feature_three_browse-bin%3A122260029011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933133&rnid=122260026011&ref=sr_nr_p_n_feature_three_browse-bin_1&ds=v1%3AkE0V0kO1gM2UVxFKwxWILBkoNNem1LLbrG4CK%2BMks90",
+                      "expected_products": 9,
+                      "isLeaf": true,
+                      "depth": 5,
+                      "path": [
+                        "Libros",
+                        "Todos los descuentos",
+                        "Libros en Idiomas Extranjeros",
+                        "Borrar",
+                        "No Está en Una Serie"
+                      ],
+                      "status": "pending",
+                      "created_at": "2025-10-31T17:52:20.743Z"
+                    },
+                    {
+                      "name": "Audio CD",
+                      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cp_n_feature_browse-bin%3A9590846011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933133&rnid=9590844011&ref=sr_nr_p_n_feature_browse-bin_1&ds=v1%3AgsTz6ZqaYvt4qhi3X3%2BUwRqR8AVLaSB8dx4po0%2BtKpE",
+                      "expected_products": 1,
+                      "isLeaf": true,
+                      "depth": 5,
+                      "path": [
+                        "Libros",
+                        "Todos los descuentos",
+                        "Libros en Idiomas Extranjeros",
+                        "Borrar",
+                        "Audio CD"
+                      ],
+                      "status": "pending",
+                      "created_at": "2025-10-31T17:52:23.329Z"
+                    },
+                    {
+                      "name": "Audiolibros",
+                      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cp_n_feature_browse-bin%3A9590847011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933133&rnid=9590844011&ref=sr_nr_p_n_feature_browse-bin_2&ds=v1%3AoIdRAKxQTn%2FylKXxxlPqvtR%2BHwGUR066ZT545mCmrpg",
+                      "expected_products": 1,
+                      "isLeaf": true,
+                      "depth": 5,
+                      "path": [
+                        "Libros",
+                        "Todos los descuentos",
+                        "Libros en Idiomas Extranjeros",
+                        "Borrar",
+                        "Audiolibros"
+                      ],
+                      "status": "pending",
+                      "created_at": "2025-10-31T17:52:25.921Z"
+                    },
+                    {
+                      "name": "Pasta Dura",
+                      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cp_n_feature_browse-bin%3A9590863011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933133&rnid=9590844011&ref=sr_nr_p_n_feature_browse-bin_3&ds=v1%3Alf5PaiPfxst6LjDKJwpRRc5cudWD3mbzClsNqKSsjsY",
+                      "expected_products": 16,
+                      "isLeaf": true,
+                      "depth": 5,
+                      "path": [
+                        "Libros",
+                        "Todos los descuentos",
+                        "Libros en Idiomas Extranjeros",
+                        "Borrar",
+                        "Pasta Dura"
+                      ],
+                      "status": "pending",
+                      "created_at": "2025-10-31T17:52:28.591Z"
+                    }
+                  ],
+                  "created_at": "2025-10-31T17:52:28.591Z"
+                },
+                {
+                  "name": "Meses sin Intereses",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cp_n_deal_type%3A23565478011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933130&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3ARb5qd2PY918BjUbnl4AvXSf3HcAno%2BM%2FpskHL4BIh%2Bc",
+                  "expected_products": 6,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Libros",
+                    "Todos los descuentos",
+                    "Libros en Idiomas Extranjeros",
+                    "Meses sin Intereses"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T17:52:31.222Z"
+                },
+                {
+                  "name": "No Está en Una Serie",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cp_n_deal_type%3A23565478011%2Cp_n_feature_three_browse-bin%3A122260029011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933130&rnid=122260026011&ref=sr_nr_p_n_feature_three_browse-bin_1&ds=v1%3ALKuWPFbPy94Nevpwrj%2FE4y%2BOgflDjw8J4Y%2BV2fmNfwQ",
+                  "expected_products": 9,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Libros",
+                    "Todos los descuentos",
+                    "Libros en Idiomas Extranjeros",
+                    "No Está en Una Serie"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T17:52:33.875Z"
+                },
+                {
+                  "name": "Audio CD",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cp_n_deal_type%3A23565478011%2Cp_n_feature_browse-bin%3A9590846011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933130&rnid=9590844011&ref=sr_nr_p_n_feature_browse-bin_1&ds=v1%3AGqZQtQ1KTs315MCVQHebOCUJMfVcfQeJJQwGZ6fwvlU",
+                  "expected_products": 1,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Libros",
+                    "Todos los descuentos",
+                    "Libros en Idiomas Extranjeros",
+                    "Audio CD"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T17:52:36.442Z"
+                },
+                {
+                  "name": "Audiolibros",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cp_n_deal_type%3A23565478011%2Cp_n_feature_browse-bin%3A9590847011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933130&rnid=9590844011&ref=sr_nr_p_n_feature_browse-bin_2&ds=v1%3A1fzi29ungFQSCRyyeW2SNpAo4UMb1zffvINO0eOk90c",
+                  "expected_products": 1,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Libros",
+                    "Todos los descuentos",
+                    "Libros en Idiomas Extranjeros",
+                    "Audiolibros"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T17:52:38.991Z"
+                },
+                {
+                  "name": "Pasta Dura",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cp_n_deal_type%3A23565478011%2Cp_n_feature_browse-bin%3A9590863011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933130&rnid=9590844011&ref=sr_nr_p_n_feature_browse-bin_3&ds=v1%3AjbBz2beYYr8Pf4gQ1XokeFvFQelP3PR%2Bpxe8ox3k6Ys",
+                  "expected_products": 16,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Libros",
+                    "Todos los descuentos",
+                    "Libros en Idiomas Extranjeros",
+                    "Pasta Dura"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T17:52:41.689Z"
+                }
+              ],
+              "created_at": "2025-10-31T17:52:41.689Z"
+            },
+            {
+              "name": "Borrar",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933127&ref=sr_ex_p_n_deal_type_0&ds=v1%3AxRzPl36%2FTj1vAyQFe1I4UTe1PE0%2FFi%2FTyMPS6nLqmdM",
+              "expected_products": 639,
+              "isLeaf": false,
+              "depth": 3,
+              "path": [
+                "Libros",
+                "Todos los descuentos",
+                "Borrar"
+              ],
+              "status": "pending",
+              "subcategories": [
+                {
+                  "name": "Libros en Idiomas Extranjeros",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cn%3A9647825011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933162&rnid=9298576011&ref=sr_nr_n_1&ds=v1%3AOC2IAyhKhCmbeLOT2sdIMKNJfNXGmOXH9dVZ5FCZwNs",
+                  "expected_products": 635,
+                  "isLeaf": false,
+                  "depth": 4,
+                  "path": [
+                    "Libros",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Libros en Idiomas Extranjeros"
+                  ],
+                  "status": "pending",
+                  "subcategories": [
+                    {
+                      "name": "Meses sin Intereses",
+                      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933164&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3AGihsCxyQpImI4gBu7i3yBdtKZ0vwhFWpK1cXNK%2FHeOQ",
+                      "expected_products": 6,
+                      "isLeaf": true,
+                      "depth": 5,
+                      "path": [
+                        "Libros",
+                        "Todos los descuentos",
+                        "Borrar",
+                        "Libros en Idiomas Extranjeros",
+                        "Meses sin Intereses"
+                      ],
+                      "status": "pending",
+                      "created_at": "2025-10-31T17:52:49.650Z"
+                    },
+                    {
+                      "name": "No Está en Una Serie",
+                      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cp_n_feature_three_browse-bin%3A122260029011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933164&rnid=122260026011&ref=sr_nr_p_n_feature_three_browse-bin_1&ds=v1%3AHUaqkaslm9m6Y%2B2K%2BhU2z6Qxiq0zjCm2LpwwzZQPLB8",
+                      "expected_products": 9,
+                      "isLeaf": true,
+                      "depth": 5,
+                      "path": [
+                        "Libros",
+                        "Todos los descuentos",
+                        "Borrar",
+                        "Libros en Idiomas Extranjeros",
+                        "No Está en Una Serie"
+                      ],
+                      "status": "pending",
+                      "created_at": "2025-10-31T17:52:52.213Z"
+                    },
+                    {
+                      "name": "Audio CD",
+                      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cp_n_feature_browse-bin%3A9590846011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933164&rnid=9590844011&ref=sr_nr_p_n_feature_browse-bin_1&ds=v1%3A9liPVdshqcWauyrlyIFWo633bi1695kQjL%2B9r%2BebNjM",
+                      "expected_products": 1,
+                      "isLeaf": true,
+                      "depth": 5,
+                      "path": [
+                        "Libros",
+                        "Todos los descuentos",
+                        "Borrar",
+                        "Libros en Idiomas Extranjeros",
+                        "Audio CD"
+                      ],
+                      "status": "pending",
+                      "created_at": "2025-10-31T17:52:54.774Z"
+                    },
+                    {
+                      "name": "Audiolibros",
+                      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cp_n_feature_browse-bin%3A9590847011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933164&rnid=9590844011&ref=sr_nr_p_n_feature_browse-bin_2&ds=v1%3AvZd6nwcUMHi5TotnAqGZE4apCbe8ih0IbUNKpunuJJg",
+                      "expected_products": 1,
+                      "isLeaf": true,
+                      "depth": 5,
+                      "path": [
+                        "Libros",
+                        "Todos los descuentos",
+                        "Borrar",
+                        "Libros en Idiomas Extranjeros",
+                        "Audiolibros"
+                      ],
+                      "status": "pending",
+                      "created_at": "2025-10-31T17:52:57.368Z"
+                    },
+                    {
+                      "name": "Pasta Dura",
+                      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cp_n_feature_browse-bin%3A9590863011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933164&rnid=9590844011&ref=sr_nr_p_n_feature_browse-bin_3&ds=v1%3AdptAHTdP5pFEGCZasvOdWDDYSG%2BXdZwEgOnYbiu57bc",
+                      "expected_products": 16,
+                      "isLeaf": true,
+                      "depth": 5,
+                      "path": [
+                        "Libros",
+                        "Todos los descuentos",
+                        "Borrar",
+                        "Libros en Idiomas Extranjeros",
+                        "Pasta Dura"
+                      ],
+                      "status": "pending",
+                      "created_at": "2025-10-31T17:53:00.006Z"
+                    }
+                  ],
+                  "created_at": "2025-10-31T17:53:00.006Z"
+                },
+                {
+                  "name": "Meses sin Intereses",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933162&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3AFq8bXWLuEa%2BJrRA0CX0NP2JACLo0RLTTs%2FNnN9IKpYw",
+                  "expected_products": 6,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Libros",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Meses sin Intereses"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T17:53:02.614Z"
+                },
+                {
+                  "name": "No Está en Una Serie",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cp_n_feature_three_browse-bin%3A122260029011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933162&rnid=122260026011&ref=sr_nr_p_n_feature_three_browse-bin_1&ds=v1%3ArMPuVBiqBJJXiC4hqIoPtedwAMcvlOO35fkDyiM9TRI",
+                  "expected_products": 9,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Libros",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "No Está en Una Serie"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T17:53:05.208Z"
+                },
+                {
+                  "name": "Audio CD",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cp_n_feature_browse-bin%3A9590846011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933162&rnid=9590844011&ref=sr_nr_p_n_feature_browse-bin_1&ds=v1%3A%2B%2BjbvysbO21D41yV3e0vLGgmHLWwhaJR96hzcrSeMqc",
+                  "expected_products": 1,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Libros",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Audio CD"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T17:53:07.771Z"
+                },
+                {
+                  "name": "Audiolibros",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cp_n_feature_browse-bin%3A9590847011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933162&rnid=9590844011&ref=sr_nr_p_n_feature_browse-bin_2&ds=v1%3AKigwEGMLAURgbPkAJfbzJ34YFkPs4RLZykqbAguR1GQ",
+                  "expected_products": 1,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Libros",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Audiolibros"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T17:53:10.316Z"
+                },
+                {
+                  "name": "Pasta Dura",
+                  "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cp_n_feature_browse-bin%3A9590863011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933162&rnid=9590844011&ref=sr_nr_p_n_feature_browse-bin_3&ds=v1%3Ai0vUUcHkRItz9BcAwV36KMm5B%2F9zjBKP9VFzWo4FAdo",
+                  "expected_products": 16,
+                  "isLeaf": true,
+                  "depth": 4,
+                  "path": [
+                    "Libros",
+                    "Todos los descuentos",
+                    "Borrar",
+                    "Pasta Dura"
+                  ],
+                  "status": "pending",
+                  "created_at": "2025-10-31T17:53:13.028Z"
+                }
+              ],
+              "created_at": "2025-10-31T17:53:13.028Z"
+            },
+            {
+              "name": "Meses sin Intereses",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cp_n_deal_type%3A23565478011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933127&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3AgqEIWR46JSGi5pex03pvB%2FPfA7HFs9u0ud%2F1BSEIeD4",
+              "expected_products": 6,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Libros",
+                "Todos los descuentos",
+                "Meses sin Intereses"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-31T17:53:15.672Z"
+            },
+            {
+              "name": "No Está en Una Serie",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cp_n_deal_type%3A23565478011%2Cp_n_feature_three_browse-bin%3A122260029011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933127&rnid=122260026011&ref=sr_nr_p_n_feature_three_browse-bin_1&ds=v1%3AULSVxkIVUuhUb5wGWg5tbn8d%2BqL7ZG7Nu0CwDc4H3%2BY",
+              "expected_products": 9,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Libros",
+                "Todos los descuentos",
+                "No Está en Una Serie"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-31T17:53:18.305Z"
+            },
+            {
+              "name": "Audio CD",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cp_n_deal_type%3A23565478011%2Cp_n_feature_browse-bin%3A9590846011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933127&rnid=9590844011&ref=sr_nr_p_n_feature_browse-bin_1&ds=v1%3ARsHR4gs7GqFP4QoRddLsnZEEsLKC8cTIXlASUfkGYSo",
+              "expected_products": 1,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Libros",
+                "Todos los descuentos",
+                "Audio CD"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-31T17:53:20.882Z"
+            },
+            {
+              "name": "Audiolibros",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cp_n_deal_type%3A23565478011%2Cp_n_feature_browse-bin%3A9590847011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933127&rnid=9590844011&ref=sr_nr_p_n_feature_browse-bin_2&ds=v1%3AkATccLCzWVYkBhqe2xI9hScCc%2FX%2Fw0s3KhbTrwl22wg",
+              "expected_products": 1,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Libros",
+                "Todos los descuentos",
+                "Audiolibros"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-31T17:53:23.505Z"
+            },
+            {
+              "name": "Pasta Dura",
+              "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cp_n_deal_type%3A23565478011%2Cp_n_feature_browse-bin%3A9590863011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933127&rnid=9590844011&ref=sr_nr_p_n_feature_browse-bin_3&ds=v1%3AdnkpI%2BYEh7hKx4e%2BC06uYJN9kUZ%2F0eVUaW8cJ2i1EII",
+              "expected_products": 16,
+              "isLeaf": true,
+              "depth": 3,
+              "path": [
+                "Libros",
+                "Todos los descuentos",
+                "Pasta Dura"
+              ],
+              "status": "pending",
+              "created_at": "2025-10-31T17:53:26.225Z"
+            }
+          ],
+          "created_at": "2025-10-31T17:53:26.225Z"
+        },
+        {
+          "name": "Meses sin Intereses",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933076&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3A1paq8LKXJXUrVbZuDkDT5kVx82oydwZVZuoRZ6u06RQ",
+          "expected_products": 6,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Libros",
+            "Meses sin Intereses"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-31T17:53:28.803Z"
+        },
+        {
+          "name": "No Está en Una Serie",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cp_n_feature_three_browse-bin%3A122260029011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933076&rnid=122260026011&ref=sr_nr_p_n_feature_three_browse-bin_1&ds=v1%3ACCh3IpXCMqIwPC5X64q8ooDFl7SxA7hijFHrEsa2vSw",
+          "expected_products": 9,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Libros",
+            "No Está en Una Serie"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-31T17:53:31.399Z"
+        },
+        {
+          "name": "Audio CD",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cp_n_feature_browse-bin%3A9590846011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933076&rnid=9590844011&ref=sr_nr_p_n_feature_browse-bin_1&ds=v1%3AaYnRPQQ6ohIQL1BPPaNlu3DBeixM1A2rFk0UFE31gWU",
+          "expected_products": 1,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Libros",
+            "Audio CD"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-31T17:53:33.963Z"
+        },
+        {
+          "name": "Audiolibros",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cp_n_feature_browse-bin%3A9590847011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933076&rnid=9590844011&ref=sr_nr_p_n_feature_browse-bin_2&ds=v1%3ARYWAGuRhJaBWutlwUf09eL5723A1L9hlhNJ7QdK%2BqP8",
+          "expected_products": 1,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Libros",
+            "Audiolibros"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-31T17:53:36.565Z"
+        },
+        {
+          "name": "Pasta Dura",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9298576011%2Cp_n_feature_browse-bin%3A9590863011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761933076&rnid=9590844011&ref=sr_nr_p_n_feature_browse-bin_3&ds=v1%3A8BT7Tod6ay4J4AB%2B2X5fc5YcPP7GG9SdRxPU0wFIPVE",
+          "expected_products": 16,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Libros",
+            "Pasta Dura"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-31T17:53:39.245Z"
+        }
+      ],
+      "created_at": "2025-10-31T17:53:39.245Z"
+    },
+    {
+      "name": "Música",
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AJF6S5112BPIX&rh=n%3A9482620011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1761932814&rnid=15997893011&ref=sr_nr_n_13&ds=v1%3AWle3KPGhOQee4X%2FutG8acFiVDunHeXQBz39RN9ycAHM",
+      "expected_products": 11,
+      "isLeaf": true,
+      "depth": 1,
+      "path": [
+        "Música"
+      ],
+      "status": "pending",
+      "created_at": "2025-10-31T17:53:41.959Z"
+    }
+  ]
+}

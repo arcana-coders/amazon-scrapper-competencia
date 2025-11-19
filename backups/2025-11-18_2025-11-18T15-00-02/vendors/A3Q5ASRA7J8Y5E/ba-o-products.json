@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "seller_id": "A3Q5ASRA7J8Y5E",
+    "seller_url": "https://www.amazon.com.mx/s?i=merchant-items&me=A3Q5ASRA7J8Y5E&rh=n%3A9482593011%2Cn%3A9756950011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760103831&rnid=9482593011&ref=sr_nr_n_3&ds=v1%3AaSWajsxoR4Ub8rNYxcuO%2BrkEuZs0C2Z%2BFFwBuoHAgdY",
+    "category_name": "Baño",
+    "total_products": 7,
+    "pages_processed": 1,
+    "extraction_date": "2025-10-10T17:07:23.682Z",
+    "script_version": "1.0"
+  },
+  "products": [
+    {
+      "asin": "B0DS2D93SM",
+      "title": "QueenFun - Espejo para gabinete de medicina negro, superficie de 16 x 24 pulgadas o gabinete de medicina con marco de aluminio empotrado con espejo biselado, montado completo, estantes ajustables,",
+      "price": "$6,652.13",
+      "extracted_at": "2025-10-10T17:07:23.660Z"
+    },
+    {
+      "asin": "B0CW9Q3KXF",
+      "title": "Cozivolife - clóset de almacenamiento sobre el inodoro con cajón y puerta abatible, estante organizador de baño de bambú con diseño antipunta y almohadilla impermeable para los pies, estante no",
+      "price": "$4,124.28",
+      "extracted_at": "2025-10-10T17:07:23.660Z"
+    },
+    {
+      "asin": "B0FF21CTC2",
+      "title": "TOMACE - Botiquín asimétrico ovalado sin marco con espejo biselado, superficie irregular, espejo de baño con almacenamiento para baño, 20 pulgadas de ancho x 30 pulgadas de alto",
+      "price": "$8,003.39",
+      "extracted_at": "2025-10-10T17:07:23.660Z"
+    },
+    {
+      "asin": "B0FFMGBM3B",
+      "title": "KEGII - Barra de tensión de esquina para ducha con jabonera y soporte para maquinilla de afeitar, organizador de baño ajustable con ganchos, estante de almacenamiento a prueba de óxido de 25 a 114.2",
+      "price": "$2,295.46",
+      "extracted_at": "2025-10-10T17:07:23.660Z"
+    },
+    {
+      "asin": "B0FCFPPFDH",
+      "title": "NYTGAH Protector de salpicaduras para tina, protector de silicona para tina con 4 ventosas, bandeja para tina para almacenamiento, organizador de baño para artículos esenciales de baño (azul)",
+      "price": "$1,099.73",
+      "extracted_at": "2025-10-10T17:07:23.660Z"
+    },
+    {
+      "asin": "B0DYS78W5R",
+      "title": "Glosen Botiquín con bloqueo para medicina montado en la pared, color plateado, 13.6 x 12.4 x 6.5 pulgadas, contenedor de almacenamiento portátil de gran capacidad",
+      "price": "$2,495.53",
+      "extracted_at": "2025-10-10T17:07:23.660Z"
+    },
+    {
+      "asin": "B0DLNVJVMX",
+      "title": "Organizador grande de juguetes de baño y almacenamiento – Soporte de juguetes para tina colgante de 3 compartimentos con cierre inferior, bolsa de malla de secado rápido, soporte ideal para juguetes",
+      "price": "$930.81",
+      "extracted_at": "2025-10-10T17:07:23.660Z"
+    }
+  ]
+}

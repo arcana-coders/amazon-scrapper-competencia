@@ -1,0 +1,799 @@
+{
+  "metadata": {
+    "seller_id": "AE8MUNDUREHX7",
+    "seller_url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482670011%2Cp_n_is-global-store-asin%3A23559285011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370058&rnid=23559284011&ref=sr_nr_p_n_is-global-store-asin_1&ds=v1%3AAvYH9fNRk3cY8mf9fZ62THLLAiPRzm20V6aOh34iEwg",
+    "category_name": "herramientas-y-mejoras-del-hogar-amazon-internacional",
+    "total_products": 131,
+    "pages_processed": 9,
+    "extraction_date": "2025-10-17T22:14:21.197Z",
+    "script_version": "1.0"
+  },
+  "products": [
+    {
+      "asin": "B0D46RDLB3",
+      "title": "KISREL Resina UV 2000 g, kit de resina UV mejorado, tipo duro, resina epoxi UV de curado ultravioleta para manualidades",
+      "price": "$1,634.52",
+      "extracted_at": "2025-10-17T22:12:41.230Z"
+    },
+    {
+      "asin": "B0CNVVPQXW",
+      "title": "AHlove Freddy - Señales de neón para decoración de pared, luces LED de neón para recámara, cumpleaños, regalos de Navidad para niños, adaptador de corriente de 5 V, 12 x 13 pulgadas (blanco + naranja)",
+      "price": "$1,038.92",
+      "extracted_at": "2025-10-17T22:12:41.230Z"
+    },
+    {
+      "asin": "B0C3G9J8FN",
+      "title": "tornillo de bastón de 12 pulgadas, resistente tapón para puerta de barra de caída, pestillo de tierra para vallas de madera, puertas de metal, pasador de puerta para sujetar la puerta al piso, acabado negro, paquete de 2",
+      "price": "$742.08",
+      "extracted_at": "2025-10-17T22:12:41.230Z"
+    },
+    {
+      "asin": "B0CYP8C758",
+      "title": "Soportes y soportes para extintor de incendios, paquete de 4 soportes y soportes para extintor de incendios, gancho de pared para montaje de extintor de incendios de 5 a 10 libras",
+      "price": "$493.40",
+      "extracted_at": "2025-10-17T22:12:41.230Z"
+    },
+    {
+      "asin": "B00T5J7S02",
+      "title": "QUANS 30W Warm White 12V 24V DC Ultra Bright LED Security Wash Flood light Floodlight Lamp High Power Black Case Waterproof IP65 Work in the Rain Superbright 3000K by QUANS",
+      "price": "$1,077.77",
+      "extracted_at": "2025-10-17T22:12:41.230Z"
+    },
+    {
+      "asin": "B0CDPQH7JW",
+      "title": "Likapop - Patas de Mesa de Centro de Metal de 16 Pulgadas, Patas de Banco con Forma de Diamante, Patas de computadora Resistentes, Patas de Mesa Auxiliar de Metal Negro, Patas de Muebles de Bricolaje",
+      "price": "$1,428.59",
+      "extracted_at": "2025-10-17T22:12:41.231Z"
+    },
+    {
+      "asin": "B0B8HCRM4Y",
+      "title": "WHLLING Perforadora central automática de 2 piezas, perforadora central de acero endurecido de 6 pulgadas con tapa moleteada ajustable para maquinistas y carpinteros",
+      "price": "$651.25",
+      "extracted_at": "2025-10-17T22:12:41.231Z"
+    },
+    {
+      "asin": "B0D53G8TTB",
+      "title": "MOLLE - Kit de montaje para extintor de incendios para coche, de liberación rápida, para orificios de panel rígidos tácticos de 1 a 2 pulgadas. Soporte para extintor de incendios Molle, accesorios",
+      "price": "$1,728.18",
+      "extracted_at": "2025-10-17T22:12:41.231Z"
+    },
+    {
+      "asin": "B0C6R5XFCP",
+      "title": "THUNDER GRIP 32 x 4 pulgadas - Peldaños transparentes antideslizantes para escaleras de madera (paquete de 18) - Tiras autoadhesivas - Transparentes para interiores",
+      "price": "$1,162.61",
+      "extracted_at": "2025-10-17T22:12:41.231Z"
+    },
+    {
+      "asin": "B0CTCPBDSH",
+      "title": "Nebakne - clóset de 200 llaves, caja antirrobo con etiquetas para llaves, organizador de llaves ajustable, caja fuerte para la pared, para coche, oficina, casa, cochera, alquiler de negocios",
+      "price": "$3,622.14",
+      "extracted_at": "2025-10-17T22:12:41.231Z"
+    },
+    {
+      "asin": "B0C8M4P7WF",
+      "title": "Ceaeso - Púa de manguera de acero inoxidable de 1 pulgada x rosca macho NPT de 1 pulgada, para conectar mangueras de aire/agua/aceite de 1 pulgada, 2 por paquete..",
+      "price": "$601.98",
+      "extracted_at": "2025-10-17T22:12:41.231Z"
+    },
+    {
+      "asin": "B07WR75TT6",
+      "title": "G9 LED Bulb 4W (40W Halogen Equivalent) 400 LM G9 Bi-pin Base LED Light Bulbs Warm White 3000K AC 120V 360° Beam Angle Non-dimmable for Home Lighting Under Cabinet (10 Pack)",
+      "price": "$626.73",
+      "extracted_at": "2025-10-17T22:12:41.231Z"
+    },
+    {
+      "asin": "B0BVLM8W6V",
+      "title": "AUGE LIGHT - Lámpara minimalista inalámbrica para escritorio, con luces LED recargables, moderna, regulable, con 3 niveles, para juegos, oficina en casa, recámara, sala, cocina, bar, restaurante",
+      "price": "$1,262.10",
+      "extracted_at": "2025-10-17T22:12:41.231Z"
+    },
+    {
+      "asin": "B0CJFXPVKG",
+      "title": "BriskSpring Descalcificador de agua sin sal, suavizante del calentador de agua, evita la acumulación de incrustaciones en calentadores de agua, llave, inodoro inteligente y lavadora, sistema en línea",
+      "price": "$1,260.00",
+      "extracted_at": "2025-10-17T22:12:41.231Z"
+    },
+    {
+      "asin": "B0D3TDWMZ8",
+      "title": "Filtro de tanque séptico para tubo de 4 pulgadas, cartucho de filtro residencial de efluente de alcantarillado, repuesto para filtros de agua debajo del fregadero, pieza de tubería de campo de",
+      "price": "$959.01",
+      "extracted_at": "2025-10-17T22:12:41.231Z"
+    },
+    {
+      "asin": "B0C9ZTQMTX",
+      "title": "Asiento de inodoro redondo duradero con cierre suave lento, fácil de instalar y limpiar, nunca se afloja, blanco, se adapta a la mayoría de inodoros redondos",
+      "price": "$899.70",
+      "extracted_at": "2025-10-17T22:12:41.232Z"
+    },
+    {
+      "asin": "B07XJHND3T",
+      "title": "Luces solares para exteriores [6 unidades/3 modos], luces solares de seguridad con sensor de movimiento solar, luces impermeables para exteriores, para jardín, valla de patio, cochera",
+      "price": "$939.16",
+      "extracted_at": "2025-10-17T22:12:52.734Z"
+    },
+    {
+      "asin": "B0BG72CS6V",
+      "title": "KOMOHOM - Soporte de esquina en L (15 unidades), hierro galvanizado de ángulo medio L de 4 pulgadas, resistente, soportes de fijación de juntas, soporte de esquina en ángulo recto de 90 grados para",
+      "price": "$1,135.54",
+      "extracted_at": "2025-10-17T22:12:52.734Z"
+    },
+    {
+      "asin": "B09XL9K3QM",
+      "title": "RV Shore Power Inlet Charger Plug 15 Amp AC Port Plug 125 Volt Power Inlet Socket and Waterproof RV Electrical Outlet Receptacle Box Integrated Outdoor Extension Cord For Rv Power Inlet Trailer plug",
+      "price": "$650.31",
+      "extracted_at": "2025-10-17T22:12:52.735Z"
+    },
+    {
+      "asin": "B0DJ1FL7W6",
+      "title": "Todays Kids - Paquete de 2 candados para puerta corredera, cerradura a prueba de niños para puerta corredera, cerradura de ventana deslizante fácil de instalar, cerradura de seguridad para puerta",
+      "price": "$453.24",
+      "extracted_at": "2025-10-17T22:12:52.735Z"
+    },
+    {
+      "asin": "B0D2P9GGF1",
+      "title": "Follde - Portabrocas sin llave para Milwaukee, 3/8 pulgadas, 0.8-10 mm, universal, duradero",
+      "price": "$540.33",
+      "extracted_at": "2025-10-17T22:12:52.735Z"
+    },
+    {
+      "asin": "B0D53XVLQV",
+      "title": "Lineshading - 100 anclajes de plástico expandibles para hormigón, tubos de expansión de pared de yeso para paredes huecas, tubos de expansión de pernos de cemento (verde, 1/4 pulgadas x 1-1/4 pulgadas",
+      "price": "$478.92",
+      "extracted_at": "2025-10-17T22:12:52.735Z"
+    },
+    {
+      "asin": "B0BJCQ26KJ",
+      "title": "Fregadero utilitario de pie con un solo tazón de fuente con tubo de agua fría y caliente, fregadero de acero inoxidable para lavadero, baño, casa de campo",
+      "price": "$5,905.13",
+      "extracted_at": "2025-10-17T22:12:52.735Z"
+    },
+    {
+      "asin": "B0D3ZXQSNW",
+      "title": "Anclaje de yeso con pernos incluidos para tamaño de cierre de 1/4-20, anclajes de pared, paneles de yeso, resistentes para montaje en TV, kit de tornillos de anclaje de pared hueca soporta hasta 272",
+      "price": "$619.26",
+      "extracted_at": "2025-10-17T22:12:52.735Z"
+    },
+    {
+      "asin": "B07176GB88",
+      "title": "BATTOO Dr. Seuss Oh The Places You Go Airplane Pilot - Calcomanía de pared - blanco, mate, tipográfico, adorno de cristal, vinilo, decoración de pared",
+      "price": "$545.24",
+      "extracted_at": "2025-10-17T22:12:52.735Z"
+    },
+    {
+      "asin": "B00M0G4954",
+      "title": "OTOOLWORLD Induction Gold Melting Furnace Crucible set Graphite crucible ceramic container 1KG SET by OTOOLWORLD",
+      "price": "$1,038.17",
+      "extracted_at": "2025-10-17T22:12:52.735Z"
+    },
+    {
+      "asin": "B0D47Q2TWR",
+      "title": "3 hojas de revestimiento autoadhesivo de pared para casa de muñecas escala 1:12 (pared con paneles de madera (gris))",
+      "price": "$568.83",
+      "extracted_at": "2025-10-17T22:12:52.735Z"
+    },
+    {
+      "asin": "B09JMHF8QZ",
+      "title": "Qgiytp - Lámpara de techo de 8 luces Sputnik con forma de globo de vidrio mate negro y dorado de mediados de siglo, moderna lámpara de techo ajustable clásico colgante para comedor, cocina, recámara,",
+      "price": "$3,799.14",
+      "extracted_at": "2025-10-17T22:12:52.735Z"
+    },
+    {
+      "asin": "B09LCQV5NV",
+      "title": "AKKTOL Molly - Tornillos para paneles de yeso y paredes de yeso (0.12 a 1.3 pulgadas), fáciles de usar con herramienta de ajuste, 36 anclajes de pared hueca de alta resistencia en 6 tamaños, soporta",
+      "price": "$816.10",
+      "extracted_at": "2025-10-17T22:12:52.735Z"
+    },
+    {
+      "asin": "B088GRWYVS",
+      "title": "Paquete de 2 luces LED de alambre de cobre alimentadas por energía solar, al aire última intervensión, impermeable, 8 modos de luces de hadas para jardín, patio, fiesta, Navidad, casa, Blanco Warm",
+      "price": "$506.28",
+      "extracted_at": "2025-10-17T22:12:52.735Z"
+    },
+    {
+      "asin": "B0C2J6M616",
+      "title": "4 resortes de gas, soportes de elevación de puntales de gas de 100 N/22 libras, amortiguadores de gas, bisagras de cierre suave, tapa de puerta de gabinete para muebles, soporte de resorte hidráulico",
+      "price": "$569.75",
+      "extracted_at": "2025-10-17T22:12:52.736Z"
+    },
+    {
+      "asin": "B07J55ZD89",
+      "title": "GOOTHY -10 Red/Yellow Flame Bulb Christmas Light Bulbs(Plus 2 Extra Bulbs)-7 watts /120 volts/E12 Base (10 Pack)",
+      "price": "$598.79",
+      "extracted_at": "2025-10-17T22:12:52.736Z"
+    },
+    {
+      "asin": "B07LG5XWVJ",
+      "title": "Feiyang kit de abrazaderas de muelle de inglete para carpintería, marcos de fotos, adornos de madera, molduras",
+      "price": "$915.11",
+      "extracted_at": "2025-10-17T22:13:06.131Z"
+    },
+    {
+      "asin": "B0B518NDTW",
+      "title": "Homekicen Grifos de ducha de oro cepillado: sistema de ducha de lluvia antiguo en pared, cabezal de lluvia de 9 pulgadas y spray de mano, válvula de latón de equilibrio de presión con kit de molduras",
+      "price": "$6,335.25",
+      "extracted_at": "2025-10-17T22:13:06.131Z"
+    },
+    {
+      "asin": "B09W2BNWBF",
+      "title": "Dekang - Lámpara de tocador de baño con níquel cepillado, moderna lámpara de pared de 2 luces para dormitorio, sala de estar, pasillo, decoración de pantallas de cristal blanco, base estándar E26, bombillas no incluidas",
+      "price": "$1,362.95",
+      "extracted_at": "2025-10-17T22:13:06.131Z"
+    },
+    {
+      "asin": "B0D3TCXHX8",
+      "title": "Señal de neón de pesca, luz de neón regulable, para decoración de pared, luces LED alimentadas por USB, gancho de pesca para tienda de equipos de pesca, yate, hombre, cueva, sala de estar, regalos",
+      "price": "$1,284.28",
+      "extracted_at": "2025-10-17T22:13:06.131Z"
+    },
+    {
+      "asin": "B0C2CFVWXZ",
+      "title": "Lámpara LED INVOVNI Linkable Tri-Proof, IP66 Impermeable con 5000K para Tienda Exterior, Garaje, Lavado de Autos y Armario - Luminaria LED Estanca de 60cm/18W, Incluye Enchufe y Interruptor, SF-18W",
+      "price": "$890.36",
+      "extracted_at": "2025-10-17T22:13:06.131Z"
+    },
+    {
+      "asin": "B0D5383HQZ",
+      "title": "Okayera - Linda luz nocturna Capybara, lámpara LED de silicona para animales con temporizador recargable USB portátil, regulable, perfecto para cumpleaños, Navidad, Pascua, mejor decoración del",
+      "price": "$820.81",
+      "extracted_at": "2025-10-17T22:13:06.131Z"
+    },
+    {
+      "asin": "B0DK2TBQQ5",
+      "title": "Bridas de cierre resistentes de 12 pulgadas, 200 libras de resistencia a la tracción con bridas de doble cara con dientes súper duraderas, bridas de alambre extra grandes de nailon ajustables para",
+      "price": "$543.82",
+      "extracted_at": "2025-10-17T22:13:06.131Z"
+    },
+    {
+      "asin": "B0DDH1R7P7",
+      "title": "Sticky Expressions | (8 piezas) El vehículo de aviso está equipado con dispositivos de grabación de audio y video consentimiento al ingresar pegatina del coche, tamaño 3 pulgadas calcomanía fuerte",
+      "price": "$462.53",
+      "extracted_at": "2025-10-17T22:13:06.131Z"
+    },
+    {
+      "asin": "B08CZSGBBB",
+      "title": "Spray Bottle Storage Rack Abrasive Material Hanging Rail Car Beauty Shop Accessory Display Auto Cleaning Detailing Tools Hanger",
+      "price": "$1,012.72",
+      "extracted_at": "2025-10-17T22:13:06.132Z"
+    },
+    {
+      "asin": "B0B3X3PLPV",
+      "title": "Womens Gardening Weeding Working Gloves, Leather Garden Glove for Women Thorn Proof No Stab for Digging, Planting,Pruning",
+      "price": "$508.79",
+      "extracted_at": "2025-10-17T22:13:06.132Z"
+    },
+    {
+      "asin": "B0DBLB7FNY",
+      "title": "Soporte de timbre de anillo sin taladro, soporte calcomanía para puerta compatible con timbre de video 1/2/3/3 Plus/4/(versión 2020) inalámbrico, soporte de placa de montaje para casas y apartamentos",
+      "price": "$503.44",
+      "extracted_at": "2025-10-17T22:13:06.132Z"
+    },
+    {
+      "asin": "B0DBHMSYNX",
+      "title": "OCTOXEQA - Bridas de goma de 32 pulgadas, bridas de silicona reutilizables, resistentes, bridas flexibles para agrupar y sostener, bridas de silicona negras para uso en interiores y exteriores (8",
+      "price": "$749.79",
+      "extracted_at": "2025-10-17T22:13:06.132Z"
+    },
+    {
+      "asin": "B0D78QDHBV",
+      "title": "DOCXCDO - Plantilla de hardware para gabinete, mango de gabinete de aluminio para asas, pomos de tirador, plantilla de gabinete con punzón central automático, plantilla de hardware para puerta cajón",
+      "price": "$1,161.46",
+      "extracted_at": "2025-10-17T22:13:06.132Z"
+    },
+    {
+      "asin": "B0D2Y7WV7Q",
+      "title": "Cinta selladora para techo de RV, color blanco, 6 x 50 pies, resistente a la intemperie, resistente a los rayos UV, cinta selladora para reparación de techos de caravana, sellado de barco, ventana,",
+      "price": "$1,154.22",
+      "extracted_at": "2025-10-17T22:13:06.132Z"
+    },
+    {
+      "asin": "B089QJ1PJL",
+      "title": "ZUONAI - Ganchos de Pared Colgadores para Colgar Abrigos y Sombreros, 4 Unidades, Ganchos de Metal Macizo, para Colgar en la Pared, para Baño, Ropa, para Recámara, Perchas, Color Dorado",
+      "price": "$845.09",
+      "extracted_at": "2025-10-17T22:13:06.132Z"
+    },
+    {
+      "asin": "B0BN197833",
+      "title": "Qeke - Nicho de ducha de acero inoxidable de 24 x 8 pulgadas, estantes dobles de nicho de pared sin tejado, almacenamiento de ducha empotrado, negro mate",
+      "price": "$2,888.92",
+      "extracted_at": "2025-10-17T22:13:06.132Z"
+    },
+    {
+      "asin": "B0B1DWCYJX",
+      "title": "Retsun - cepillo para polvo para puerta enrollable de 12 x 39.37 pulgadas, 3 pulgadas de ancho, cepillo para polvo para puerta de cochera, duradero, fácil de montar (3 pulgadas, 12)",
+      "price": "$3,433.66",
+      "extracted_at": "2025-10-17T22:13:20.397Z"
+    },
+    {
+      "asin": "B0D5D4CDC2",
+      "title": "Removedor de zuecos de drenaje de 35 pulgadas, limpiador de drenaje, removedor de zuecos de cabello con mango giratorio y 7 recargas, removedor de pelo de drenaje, serpiente de fontanería, fácil y",
+      "price": "$486.49",
+      "extracted_at": "2025-10-17T22:13:20.397Z"
+    },
+    {
+      "asin": "B0D2WBMP8S",
+      "title": "TOBUMO - Juego de 2 herramientas de alineación de ruedas resistentes – Las placas de herramientas de alineación de punta negra contienen 2 cintas métricas, diseño de agujero para colgar, medidas",
+      "price": "$1,111.02",
+      "extracted_at": "2025-10-17T22:13:20.397Z"
+    },
+    {
+      "asin": "B0D2L5BGFJ",
+      "title": "Vouyar - Juego de 6 cepillos de limpieza de tubos de cobre para accesorios, 1/2\" 3/4\" 1\" 1\" juego de cepillos de limpieza de tubos de acero inoxidable para taladro eléctrico, vástago hexagonal de 1/4\"",
+      "price": "$601.98",
+      "extracted_at": "2025-10-17T22:13:20.398Z"
+    },
+    {
+      "asin": "B0BD7NGP34",
+      "title": "Mancra - Paquete de 8 luces solares para valla de cubierta, luces solares para exteriores, impermeables, decoración de patio, patio, porche, entrada, 3000 K",
+      "price": "$1,062.45",
+      "extracted_at": "2025-10-17T22:13:20.398Z"
+    },
+    {
+      "asin": "B0D3KM75SN",
+      "title": "4 soportes de esquina de acero resistente, soporte de ángulo recto de 6 x 6 x 5 pulgadas de largo, soportes de estante L de bricolaje, soporte de poste de 90 grados, soporte de conector de madera de",
+      "price": "$1,307.17",
+      "extracted_at": "2025-10-17T22:13:20.398Z"
+    },
+    {
+      "asin": "B0CZ3MGR22",
+      "title": "DowDew - Cinta de embalaje transparente, paquete de 2, cinta de embalaje resistente, 1.88 pulgadas x 110 yardas, rollos de repuesto ultra fuertes para envío de correo, movimiento de 220 yardas en",
+      "price": "$422.18",
+      "extracted_at": "2025-10-17T22:13:20.398Z"
+    },
+    {
+      "asin": "B0DB67Q1MG",
+      "title": "BESMYJ - Paquete de 2 linternas solares de pared para exteriores con 3 modos, sensor de movimiento del anochecer al amanecer, luces LED IP65 impermeables, lámparas de seguridad exteriores frontales",
+      "price": "$1,645.53",
+      "extracted_at": "2025-10-17T22:13:20.398Z"
+    },
+    {
+      "asin": "B09ZF5LXH7",
+      "title": "Herramientas de jardinería, 8 piezas de herramientas de jardín florales resistentes para regalos de cumpleaños para mujeres, kit de jardinería WANCHI rosa rojo (bolsa de herramientas de jardín,",
+      "price": "$939.16",
+      "extracted_at": "2025-10-17T22:13:20.398Z"
+    },
+    {
+      "asin": "B09H2H5Y34",
+      "title": "Cubierta de ventilación de fontanería Rv, tapa de ventilación de techo, cubierta de ventilación de alcantarillado de plástico para tubería de 1 a 2 3/8 pulgadas, remolque, caravana, autocaravana",
+      "price": "$626.73",
+      "extracted_at": "2025-10-17T22:13:20.398Z"
+    },
+    {
+      "asin": "B09NZY3ZTK",
+      "title": "QHIUAT - Lámpara de pared moderna para exteriores de 24 W, lámpara de pared de 35.4 pulgadas, iluminación de pared LED, impermeable, para cochera, porche, puertas de patio",
+      "price": "$2,688.08",
+      "extracted_at": "2025-10-17T22:13:20.398Z"
+    },
+    {
+      "asin": "B0CYQ3DNB8",
+      "title": "Abeillo - 216 fundas para agujeros de tornillo, pegatinas impermeables de PVC con cubierta redonda, 21 mm, para cubrir agujeros de tornillo en paredes y muebles (blanco), 574255_1_ePeAse2Pf",
+      "price": "$391.82",
+      "extracted_at": "2025-10-17T22:13:20.398Z"
+    },
+    {
+      "asin": "B088BDLMCN",
+      "title": "Paquete de 2 luces LED de alambre de cobre alimentadas por energía solar, al aire última intervensión, impermeable, 8 modos de luces de hadas para jardín, patio, fiesta, Navidad, casa, Blanco",
+      "price": "$530.58",
+      "extracted_at": "2025-10-17T22:13:20.399Z"
+    },
+    {
+      "asin": "B0D41359F3",
+      "title": "2 escaleras de zancuda y 2 calcomanías con certificación de zancuda de viña, pequeña escalera magnética adecuada para camiones, SUV, automóviles",
+      "price": "$821.03",
+      "extracted_at": "2025-10-17T22:13:20.399Z"
+    },
+    {
+      "asin": "B09C629LCK",
+      "title": "gardencave - Paquete de 6 luces solares decorativas para jardín al aire última intervensión, luces solares de jardín con luz cálida, impermeables, luces de paisaje para camino, patio, patio, patio",
+      "price": "$1,163.56",
+      "extracted_at": "2025-10-17T22:13:20.399Z"
+    },
+    {
+      "asin": "B095S4PP8X",
+      "title": "Fielegen 20 luces LED de mariposa, 10 pies/3 metros, funciona con pilas, luces de hadas de mariposa moradas para el hogar, recámara, interior, exterior, jardín, boda, fiesta, día festivo, decoración de verano",
+      "price": "$696.58",
+      "extracted_at": "2025-10-17T22:13:20.399Z"
+    },
+    {
+      "asin": "B0CLS5V1J9",
+      "title": "DecoHongDi - Abrazaderas de escape de 2.5 pulgadas, 2 paquetes, abrazadera de banda de unión de 2 1/2 pulgadas, acero inoxidable 304 para reparación de tubos de silenciador, convertidores catalíticos",
+      "price": "$780.33",
+      "extracted_at": "2025-10-17T22:13:33.989Z"
+    },
+    {
+      "asin": "B0C9LTQJBY",
+      "title": "Elaruslux - Paquete de 12 luces LED ultradelgadas de 7 pulgadas 3CCT con caja de conexiones, 3000 K/4500 K/6000 K seleccionables, 18 W Eqv 125 W, Downlight regulable sin canas, 1600 LM de alto brillo",
+      "price": "$2,714.04",
+      "extracted_at": "2025-10-17T22:13:33.990Z"
+    },
+    {
+      "asin": "B07FBFBV69",
+      "title": "LGL - Lámpara LED de luz temporal, alta fijación, ((150W LED Temporary Work Light Fixture))",
+      "price": "$2,542.18",
+      "extracted_at": "2025-10-17T22:13:33.990Z"
+    },
+    {
+      "asin": "B0BHX1HP16",
+      "title": "BTBLBITS - Broca de chaflán biselado de diamante, 0.0-2 pulgadas (50 mm) para extender los agujeros para recortar en azulejos, granito, mármol, porcelana, cerámica, con rosca de 5/8 a 11 para",
+      "price": "$823.58",
+      "extracted_at": "2025-10-17T22:13:33.990Z"
+    },
+    {
+      "asin": "B07TTJ2T3W",
+      "title": "CELL9102 Batería y cargador Combo de 18 V para Ryobi Herramientas inalámbricas de 18 V Batería y cargador P118B, capacidad de batería de 18 V Salida de 5.0 Ah",
+      "price": "$1,850.77",
+      "extracted_at": "2025-10-17T22:13:33.990Z"
+    },
+    {
+      "asin": "B0B9ZV3CDZ",
+      "title": "BIEOCUR - Lámpara de pared LED moderna de 40cm, 10 W, luz de porche y patio, luz blanca esmerilada, resistente a la humedad, adecuada para cochera, entrada, casa",
+      "price": "$1,508.91",
+      "extracted_at": "2025-10-17T22:13:33.990Z"
+    },
+    {
+      "asin": "B08SVS6BNC",
+      "title": "Areful - Tira de luces LED de 15 pies, RGBWW que cambian de color con control remoto, tubo duradero flexible y conectable, impermeable para uso en interiores y exteriores, 17 colores y 6 modos",
+      "price": "$1,192.32",
+      "extracted_at": "2025-10-17T22:13:33.990Z"
+    },
+    {
+      "asin": "B0BH7G1ZQ1",
+      "title": "Zyraw - Ganchos de ojo de tornillo de alta resistencia, 3.2 pulgadas, paquete de 10 tornillos de ojo de acero al carbono plateado para madera, chapados en zinc, resistente al óxido, tornillo de ojal",
+      "price": "$503.44",
+      "extracted_at": "2025-10-17T22:13:33.990Z"
+    },
+    {
+      "asin": "B09XQXBLBC",
+      "title": "Señal de salida fotoluminiscente de aluminio, parte trasera adhesiva que brilla en la oscuridad, flechas extraíbles incluidas, 12 x 7 pulgadas, luz de salida verde no eléctrica para visibilidad de 50 pies (paquete de 2)",
+      "price": "$1,312.89",
+      "extracted_at": "2025-10-17T22:13:33.990Z"
+    },
+    {
+      "asin": "B09WHCDS31",
+      "title": "Quality Life - Pestillo de puerta con resorte de 15,2 x 1,2 cm, acero sólido chapado en zinc, resistente para portón trasero, 2 unidades",
+      "price": "$709.16",
+      "extracted_at": "2025-10-17T22:13:33.990Z"
+    },
+    {
+      "asin": "B09PYGCQM3",
+      "title": "1222 - Kit de cartucho de repuesto para grifos de temperatura Posi de una manilla Moen, repuesto compatible con ducha Moen, latón duradero y plástico (aceite de silicona incluido, clip de retención,",
+      "price": "$629.07",
+      "extracted_at": "2025-10-17T22:13:33.990Z"
+    },
+    {
+      "asin": "B09PRNYMMS",
+      "title": "Troyesko Bolsa de documentos ignífuga impermeable e ignífuga, bolsa de dinero de 2300 °F, 15.7 x 11.2 pulgadas, impermeable, organizador de documentos, bolsa a prueba de fuego para objetos de valor, joyas, documentos legales, tablet A4",
+      "price": "$1,013.65",
+      "extracted_at": "2025-10-17T22:13:33.990Z"
+    },
+    {
+      "asin": "B09NJN3Q9K",
+      "title": "Dbgogo - Regulador de mini barrilete de presión estable de 0 a 60 PSI, sin fugas, portátil, Cornelius, cerveza, cursi, al aire última intervensión, picnic, fiesta, carbonatación, CO2, bloqueo de bola",
+      "price": "$786.68",
+      "extracted_at": "2025-10-17T22:13:33.991Z"
+    },
+    {
+      "asin": "B09LTQY3LB",
+      "title": "TFOI - Bombillas LED de emergencia recargables para fallas de alimentación en el hogar, funciona con pilas, corte de energía, camping, lectura, huracán, 12 W, 800 lm, E26, 4 unidades (luz diurna)",
+      "price": "$625.56",
+      "extracted_at": "2025-10-17T22:13:33.991Z"
+    },
+    {
+      "asin": "B09FTH1Q1P",
+      "title": "Reyhui Mural de pared grande de 108 x 75 pulgadas, cascada en el bosque, decoración de pared para recámara, sala de estar, habitación de los niños (no autoadhesivo)",
+      "price": "$2,023.33",
+      "extracted_at": "2025-10-17T22:13:33.991Z"
+    },
+    {
+      "asin": "B09FN2N4ZX",
+      "title": "KAYBOBEZK - Afilador de electrodos de tungsteno - Herramienta de cabeza de amoladora de tungsteno de soldadura TIG de aluminio universal, con ranura afilador de tungsteno, desplazamiento multiángulo",
+      "price": "$725.27",
+      "extracted_at": "2025-10-17T22:13:33.991Z"
+    },
+    {
+      "asin": "B09DZ2S9ZQ",
+      "title": "Juego de piedra de afilar cuchillos, doble grava 400/1000 3000/8000 piedra de agua, base de bambú antideslizante, guía de ángulo, piedra de aplanamiento, guantes resistentes a cortes y más",
+      "price": "$1,209.33",
+      "extracted_at": "2025-10-17T22:13:46.267Z"
+    },
+    {
+      "asin": "B0973CJVPJ",
+      "title": "YAIRMIS - Juego de 20 tornillos de metal para ojo de metal, ganchos de acero inoxidable 304, tornillo de anillo de ojo autorroscante, fuerte para interiores (2-3/4 pulgadas)",
+      "price": "$577.46",
+      "extracted_at": "2025-10-17T22:13:46.267Z"
+    },
+    {
+      "asin": "B095WQSSQH",
+      "title": "Cerradura de cierre de candado, cierre de puerta de acero inoxidable de 3 pulgadas, cierre de puerta negro mate con tornillos, cerraduras de puerta para recámara, clóset de cobertizo, paquete de 2",
+      "price": "$552.71",
+      "extracted_at": "2025-10-17T22:13:46.267Z"
+    },
+    {
+      "asin": "B08NPR51W9",
+      "title": "Jwodo - Kit de repuesto para mango de inodoro, acabado cromado, palancas de viaje con junta de sellado y tuerca, 2 cadenas de acero inoxidable, repuesto universal para la mayoría de inodoros de montaje lateral",
+      "price": "$577.46",
+      "extracted_at": "2025-10-17T22:13:46.267Z"
+    },
+    {
+      "asin": "B09DKL53H7",
+      "title": "Lexdale - Grifo de baño con cascada para lavabo (latón cromado, 2 manijas, desagüe emergente y líneas de suministro)",
+      "price": "$1,633.81",
+      "extracted_at": "2025-10-17T22:13:46.267Z"
+    },
+    {
+      "asin": "B096M68FKQ",
+      "title": "HWAQHDYL - 6 pomos con forma de tortuga marina, manijas de puerta de gabinete, cajón, clóset, tiradores de un solo agujero para muebles",
+      "price": "$715.46",
+      "extracted_at": "2025-10-17T22:13:46.268Z"
+    },
+    {
+      "asin": "B095MMVF54",
+      "title": "GENBONS - llave de baño negro cascada de una sola manija para fregadero de baño con drenaje emergente, llave de baño, un agujero o 3 agujeros con placa de cubierta",
+      "price": "$1,037.70",
+      "extracted_at": "2025-10-17T22:13:46.268Z"
+    },
+    {
+      "asin": "B07W7JM1VD",
+      "title": "FURNIWARE 10 bisagras de cierre suave para gabinete, bisagras de gabinete de 3/4 pulgadas, chapado en níquel, 105 grados",
+      "price": "$777.11",
+      "extracted_at": "2025-10-17T22:13:46.268Z"
+    },
+    {
+      "asin": "B09633SBKT",
+      "title": "MOON-DE-AGE - Luces colgantes solares con control remoto, 3 colores y 2 modos de brillo temporizador de 8 pulgadas para colgar al aire última intervensión, lámpara de araña de cobertizo de gallinero,",
+      "price": "$1,340.29",
+      "extracted_at": "2025-10-17T22:13:46.268Z"
+    },
+    {
+      "asin": "B0915MKXYH",
+      "title": "Gasonny Luces LED empotrables de 4 pulgadas, iluminación empotrada LED ultrafina ajustable con caja de conexiones de 9 W, 750 lm, luz de geiling regulable ETL (opción 3000 K/4000 K/5000 K, 4 unidades)",
+      "price": "$1,752.46",
+      "extracted_at": "2025-10-17T22:13:46.268Z"
+    },
+    {
+      "asin": "B07QQTLTLW",
+      "title": "Greek Art rodillo de pintura de 7 pulgadas con patrón de bricolaje, rodillo decorativo de goma, rodillo de textura con mango de plástico, más de 300 patrones, 17.78 cm, Pattern AD8",
+      "price": "$668.53",
+      "extracted_at": "2025-10-17T22:13:46.268Z"
+    },
+    {
+      "asin": "B07QNLG3YZ",
+      "title": "Greek Art rodillo de pintura de 7 pulgadas con patrón de bricolaje, rodillo decorativo de goma, rodillo de textura con mango de plástico, más de 300 patrones, 17.78 cm, Pattern AE0",
+      "price": "$668.53",
+      "extracted_at": "2025-10-17T22:13:46.268Z"
+    },
+    {
+      "asin": "B0983CL13X",
+      "title": "Inseknm - Cortadora de bordes con cuchillas de carburo de tungsteno, cepilladora manual versátil para rebabas, cortador manual de bandas de borde para ABS, PVC, chapa y melamina, color rojo",
+      "price": "$749.79",
+      "extracted_at": "2025-10-17T22:13:46.268Z"
+    },
+    {
+      "asin": "B0DMD7FKX7",
+      "title": "HOPOW - Protector de sobretensiones de tira de alimentación, paquete de 2, cable de extensión plano ultra delgado de 6 pies, protector de sobretensiones con 5 tomas de corriente y 3 puertos USB (2 USB",
+      "price": "$890.36",
+      "extracted_at": "2025-10-17T22:13:46.268Z"
+    },
+    {
+      "asin": "B08FY886C8",
+      "title": "YOGO - Juego de accesorios magnéticos decorativos para puerta de cochera | Bisagras de imitación, color negro",
+      "price": "$717.56",
+      "extracted_at": "2025-10-17T22:13:46.268Z"
+    },
+    {
+      "asin": "B08B146J9Q",
+      "title": "SAN YOUNG Barra de luz LED, cápsulas de luz LED de 4 pulgadas, 78 W, 5000 lm, luces LED de trabajo para camiones, barras de luz LED, cápsulas de 12 V, 24 V, recolección de barco, ATV, UTV, RV, focos",
+      "price": "$1,775.58",
+      "extracted_at": "2025-10-17T22:13:46.268Z"
+    },
+    {
+      "asin": "B089D3H9MN",
+      "title": "Paquete de 15 ganchos en forma de S resistentes de acero inoxidable para cocina, taller, cuarto de baño (4,3\", diámetro de 4 mm), 18pcs",
+      "price": "$584.70",
+      "extracted_at": "2025-10-17T22:13:59.188Z"
+    },
+    {
+      "asin": "B0987YRLMR",
+      "title": "Luces solares para exteriores, 270 LED 3000 lm, luz con sensor de movimiento, IP65, impermeable, 4 cabezales, 3 modos, 330 ° gran angular 6500 K, luces de inundación inalámbricas, luces solares para",
+      "price": "$1,047.25",
+      "extracted_at": "2025-10-17T22:13:59.189Z"
+    },
+    {
+      "asin": "B01JI9YPPY",
+      "title": "Naniwa NK-2091 - Sacapuntas profesionales Kagayaki #12000 con estuche de almacenamiento, 210 x 70 x 10 mm",
+      "price": "$1,629.64",
+      "extracted_at": "2025-10-17T22:13:59.189Z"
+    },
+    {
+      "asin": "B0DBM3QSMB",
+      "title": "RH15A - Taladro de martillo giratorio SDS-Plus de 1-9/16 pulgadas, martillo giratorio resistente de 12.5 amperios con 4 funciones, embrague de seguridad, control de vibración, martillo de demolición",
+      "price": "$3,322.21",
+      "extracted_at": "2025-10-17T22:13:59.189Z"
+    },
+    {
+      "asin": "B07X8XP1BC",
+      "title": "QZATTCAEN - Juego de 7 ruedas pulidoras para vías respiratorias (2 blancas, 2 naranjas, 2 azules, 1 rastrillo) 8 pulgadas de diámetro 5/8 pulgadas de diámetro 16 capas para amoladora angular",
+      "price": "$1,776.28",
+      "extracted_at": "2025-10-17T22:13:59.189Z"
+    },
+    {
+      "asin": "B07WVX686D",
+      "title": "Protector de dedo. Puertas a prueba de bebés, fáciles de usar, con tapón de espuma suave pero duradero. Evita lesiones en los dedos, golpear puertas y niños o mascotas para evitar que se bloqueen en la habitación (paquete de 6)",
+      "price": "$454.17",
+      "extracted_at": "2025-10-17T22:13:59.189Z"
+    },
+    {
+      "asin": "B07VZXKYXW",
+      "title": "PERFECTDAY - Luz de libro con 10 LED USB recargable con brillo de 3 niveles para protección ocular lámpara de lectura nocturna (10 LED)",
+      "price": "$446.00",
+      "extracted_at": "2025-10-17T22:13:59.189Z"
+    },
+    {
+      "asin": "B07VSS4N9K",
+      "title": "Cierres y cierres para cajones de RV, paquete de 12 cierres y cierres para puertas de gabinete, 10 libras de cierre de fuerza para caravana, motor, caravana, hogar, remolque, oficina, gabinete, cajón,",
+      "price": "$668.88",
+      "extracted_at": "2025-10-17T22:13:59.189Z"
+    },
+    {
+      "asin": "B07HQVGYZW",
+      "title": "End Mill Sets, Tungsten Steel CNC Router Burrs End Milling Engraving Bits Drilling Hole Tool for PCB Circuit Board, Plastic, Fiber, Wood, Copper 0.5~3.175mm Set of 12",
+      "price": "$676.00",
+      "extracted_at": "2025-10-17T22:13:59.189Z"
+    },
+    {
+      "asin": "B07YJNMXG5",
+      "title": "Duttao DF-1309CCH-BG - llave para fregadero con 2 asas y desagüe desplegable, 20,3 cm, Oil-Rubbed Bronze",
+      "price": "$1,776.51",
+      "extracted_at": "2025-10-17T22:13:59.189Z"
+    },
+    {
+      "asin": "B078J137D6",
+      "title": "Home's Place - Base de acero con vástago para reemplazar las ruedas. Evita deslizamientos. Soportes de cama resistentes con insertos de plástico. Juego de 4",
+      "price": "$539.59",
+      "extracted_at": "2025-10-17T22:13:59.190Z"
+    },
+    {
+      "asin": "B0D1P12YLN",
+      "title": "Amasideca - Paquete de 10 tiradores de latón envejecido para gabinetes de cocina de 5 pulgadas, manijas de aleación de zinc, tiradores de cajón clásico para gabinetes sólidos",
+      "price": "$1,210.26",
+      "extracted_at": "2025-10-17T22:13:59.190Z"
+    },
+    {
+      "asin": "B0B1V3VLXF",
+      "title": "Luces láser de Navidad, proyector de luces láser para jardín al aire última intervensión, estrella de movimiento, 3 colores, rojo, verde, azul, a prueba de agua, adecuado para decoración de jardín al",
+      "price": "$1,161.46",
+      "extracted_at": "2025-10-17T22:13:59.190Z"
+    },
+    {
+      "asin": "B0C7QQQ8V9",
+      "title": "HAJAE - Letreros de neón de Jesús con luces led para decoración de pared, recámara, sala, bodas, luz regulable para decoración del hogar, eventos religiosos, regalos de Navidad y Pascua, cruz de Jesús",
+      "price": "$988.90",
+      "extracted_at": "2025-10-17T22:13:59.190Z"
+    },
+    {
+      "asin": "B0DGY3C2R7",
+      "title": "Letreros de neón de coronas de Navidad, señal de luz LED de Navidad, luces de neón para fiestas, hogar, bar, festivales, decoración de pared, alimentada por USB",
+      "price": "$1,087.20",
+      "extracted_at": "2025-10-17T22:13:59.190Z"
+    },
+    {
+      "asin": "B0D97C6PVG",
+      "title": "Velas flotantes con varita – Paquete de 12 velas mágicas sin llama parpadeantes, luz cálida, velas LED para colgar a distancia, velas que funcionan con pilas para Navidad, decoración de fiestas",
+      "price": "$742.55",
+      "extracted_at": "2025-10-17T22:13:59.190Z"
+    },
+    {
+      "asin": "B098J6LNG4",
+      "title": "AKSDA - Luz LED regulable para debajo del gabinete, iluminación inalámbrica, barra magnética de luz nocturna con batería recargable, mostrador para escaleras de cocina, pasillo, fregadero",
+      "price": "$626.73",
+      "extracted_at": "2025-10-17T22:14:10.248Z"
+    },
+    {
+      "asin": "B0B64Z4FTR",
+      "title": "TBER Manguera de preenjuague con válvula de pulverización de 45 pulgadas flexible para lavavajillas y válvula de pulverización gris",
+      "price": "$2,245.16",
+      "extracted_at": "2025-10-17T22:14:10.248Z"
+    },
+    {
+      "asin": "B09YR1Q3G7",
+      "title": "YAIRMIS - Paquete de 12 ganchos de metal M6, ganchos de tornillo de acero inoxidable 304 resistentes, ganchos de tornillo de anillo de ojo autorroscantes, ganchos de agujero, ganchos fuertes para",
+      "price": "$750.34",
+      "extracted_at": "2025-10-17T22:14:10.248Z"
+    },
+    {
+      "asin": "B09FP3W5F2",
+      "title": "BOTEMY B9178 Drenaje para fregadero de cocina (negro)",
+      "price": "$1,228.21",
+      "extracted_at": "2025-10-17T22:14:10.248Z"
+    },
+    {
+      "asin": "B095KPLBWP",
+      "title": "Juego de 2 llaves de tuerca, juego de herramientas para tuercas de ala, para broca hexagonal de acero, para agujero de tornillo, perno de gancho C, Q-Hanger (2 tamaños (11/17 mm)",
+      "price": "$626.73",
+      "extracted_at": "2025-10-17T22:14:10.248Z"
+    },
+    {
+      "asin": "B08SLLGRBR",
+      "title": "NA - Manguera de goma resistente para agua de 1,5 m, perfecta para jardines y camas",
+      "price": "$989.41",
+      "extracted_at": "2025-10-17T22:14:10.248Z"
+    },
+    {
+      "asin": "B07WN96M7Z",
+      "title": "Bombillas LED tubulares regulables de 6 W, 3000 K, blanco cálido, bombilla de filamento estilo Edison, bombilla vintage T10 equivalente a 60 W, E26 base media 550 lm, cubierta de vidrio transparente, 7.3 pulgadas (185 mm), paquete de 4",
+      "price": "$823.81",
+      "extracted_at": "2025-10-17T22:14:10.248Z"
+    },
+    {
+      "asin": "B07QWK12QC",
+      "title": "LIKERAINY montaje empotrado de metal resistente",
+      "price": "$865.37",
+      "extracted_at": "2025-10-17T22:14:10.248Z"
+    },
+    {
+      "asin": "B07XG572CY",
+      "title": "Varillas magnéticas ajustables para electrodomésticos de metal, puertas, ventanas, 2 a 16 pulgadas, paquete de 2 toallas de inodoro de fácil instalación, multiútil (negro, paquete de 2)",
+      "price": "$787.39",
+      "extracted_at": "2025-10-17T22:14:10.249Z"
+    },
+    {
+      "asin": "B07XC4MS1T",
+      "title": "Varillas magnéticas ajustables para electrodomésticos de metal, puertas, ventanas, 16 a 28 pulgadas, paquete de 2, barra de toalla de inodoro de fácil instalación, multiusos (champaña, 2 unidades)",
+      "price": "$841.09",
+      "extracted_at": "2025-10-17T22:14:10.249Z"
+    },
+    {
+      "asin": "B095SZ8F66",
+      "title": "Iluminación LED empotrable de 4 pulgadas, paquete de 6 unidades, 3CCT ultra delgada ajustable LED globo ocular Gimbal, iluminación LED empotrable de 4 pulgadas con caja de conexiones, 3000K/4000K/5000K, 9W 700LM, regulable, ETL listado",
+      "price": "$2,377.56",
+      "extracted_at": "2025-10-17T22:14:10.249Z"
+    },
+    {
+      "asin": "B085K8QM57",
+      "title": "HESTIA HARDWARE - Paquete de 10 tiradores de cajón de 2.5 pulgadas de níquel satinado y tiradores de taza para cajones, manijas de cocina de baño para gabinetes | manijas de cambiador (Z7.10.S)",
+      "price": "$860.00",
+      "extracted_at": "2025-10-17T22:14:10.249Z"
+    },
+    {
+      "asin": "B0876PG5RQ",
+      "title": "TAIWAIN Herramienta de reparación de cable de red para conector RJ45/RJ11/RJ12 de paso a través, alicates de crimpado de alambre profesional, cortadora modular compacta CAT6 CAT5e para bricolaje y profesión., 25*15*5CM, F-W5OR",
+      "price": "$1,305.77",
+      "extracted_at": "2025-10-17T22:14:10.249Z"
+    },
+    {
+      "asin": "B08K8FW7J3",
+      "title": "TAIWAIN RJ45 Crimpadora RJ12/RJ11 Juego de herramientas de red de crimpado, mantenimiento Ethernet, herramientas de perforación para reparación de cables CAT5 CAT6, kit de crimpado de enchufe coaxial (naranja)",
+      "price": "$1,300.63",
+      "extracted_at": "2025-10-17T22:14:10.249Z"
+    },
+    {
+      "asin": "B01N11S4JB",
+      "title": "WEDGE-IT - The Ultimate Door Stop - PINK - TWO PACK",
+      "price": "$872.14",
+      "extracted_at": "2025-10-17T22:14:10.249Z"
+    },
+    {
+      "asin": "B0B3MD1KHL",
+      "title": "Womens Gardening Weeding Working Gloves, Leather Garden Glove for Women Thorn Proof No Stab for Digging, Planting,Pruning",
+      "price": "$725.27",
+      "extracted_at": "2025-10-17T22:14:10.249Z"
+    },
+    {
+      "asin": "B0B3MD1KHL",
+      "title": "Womens Gardening Weeding Working Gloves, Leather Garden Glove for Women Thorn Proof No Stab for Digging, Planting,Pruning",
+      "price": "$725.27",
+      "extracted_at": "2025-10-17T22:14:21.104Z"
+    },
+    {
+      "asin": "B08CCZ11WQ",
+      "title": "Luces LED empotrables de 4 pulgadas ultrafinas ajustables con cardán LED empotrable con caja de conexiones, 9 W, 750 lm, luz de techo regulable con certificación ETL (2700 K/3000 K/3500 K/4000 K/5000",
+      "price": "$2,623.67",
+      "extracted_at": "2025-10-17T22:14:21.104Z"
+    },
+    {
+      "asin": "B08CCY492H",
+      "title": "Gasonny Luces LED empotrables de 4 pulgadas, ultradelgadas, ajustables, con forma de globo ocular, iluminación empotrada con caja de conexiones, 9 W, 750 lúmenes, luz de techo regulable con certificación ETL (3000 k/4000 k/5000 k, opción de 12 unidades)",
+      "price": "$4,728.03",
+      "extracted_at": "2025-10-17T22:14:21.104Z"
+    }
+  ]
+}

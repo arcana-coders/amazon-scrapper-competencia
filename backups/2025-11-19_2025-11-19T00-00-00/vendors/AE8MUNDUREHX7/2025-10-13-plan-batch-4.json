@@ -1,0 +1,215 @@
+{
+  "seller_id": "AE8MUNDUREHX7",
+  "batch_number": 4,
+  "created_at": "2025-10-13T03:53:55.997Z",
+  "analysis_type": "recursive_hierarchical_batch",
+  "max_products_per_leaf": 320,
+  "max_recursion_depth": 10,
+  "max_products_per_batch": 1000,
+  "main_categories": [
+    "Alimentos y Bebidas",
+    "Automotriz y Motocicletas",
+    "Bebé",
+    "Belleza",
+    "Deportes y Aire libre",
+    "Electrónicos",
+    "Herramientas y Mejoras del Hogar",
+    "Hogar y Cocina",
+    "Industria, Empresas y Ciencia",
+    "Instrumentos Musicales",
+    "Jardín",
+    "Juguetes y Juegos",
+    "Libros",
+    "Oficina y Papelería",
+    "Películas y Series de TV",
+    "Productos para animales",
+    "Ropa, Zapatos y Accesorios",
+    "Salud y Cuidado Personal",
+    "Videojuegos"
+  ],
+  "categories": [
+    {
+      "name": "Herramientas y Mejoras del Hogar",
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482670011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327198&rnid=15997893011&ref=sr_nr_n_7&ds=v1%3APzy2xq%2FLMbFTRBK0QskOE8DgYfCHrMZ8vMYTKUX4L%2Fk",
+      "expected_products": 836,
+      "isLeaf": false,
+      "depth": 1,
+      "path": [
+        "Herramientas y Mejoras del Hogar"
+      ],
+      "status": "completed",
+      "subcategories": [
+        {
+          "name": "Almacenamiento y Organización del Hogar",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482670011%2Cn%3A9829500011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327435&rnid=9482670011&ref=sr_nr_n_1&ds=v1%3AVgOpdzT6ERWoojgVkC4GXzevrFij2c4QCydSpkJm4wA",
+          "expected_products": 10,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Herramientas y Mejoras del Hogar",
+            "Almacenamiento y Organización del Hogar"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:50:41.826Z"
+        },
+        {
+          "name": "Electricidad",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482670011%2Cn%3A9827671011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327435&rnid=9482670011&ref=sr_nr_n_2&ds=v1%3AYjhCnlfI093Etd1PsUJgtqRu%2FZUnNHIaylTGwak91r8",
+          "expected_products": 65,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Herramientas y Mejoras del Hogar",
+            "Electricidad"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:50:44.591Z"
+        },
+        {
+          "name": "Equipamiento de Baños y Cocinas",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482670011%2Cn%3A9828088011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327435&rnid=9482670011&ref=sr_nr_n_3&ds=v1%3AcOVsucl%2BJ0Jgm%2BLayzOCTAGtSXP60eUzQC%2FQXt61HmU",
+          "expected_products": 40,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Herramientas y Mejoras del Hogar",
+            "Equipamiento de Baños y Cocinas"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:50:47.367Z"
+        },
+        {
+          "name": "Ferretería",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482670011%2Cn%3A9827751011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327435&rnid=9482670011&ref=sr_nr_n_4&ds=v1%3AcHC0UTqr%2Bi0HuEO1gpM6RMaouhXoJmWKsAtMZcMx%2BwQ",
+          "expected_products": 200,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Herramientas y Mejoras del Hogar",
+            "Ferretería"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:50:50.172Z"
+        },
+        {
+          "name": "Herramientas Manuales y Eléctricas",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482670011%2Cn%3A9828215011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327435&rnid=9482670011&ref=sr_nr_n_5&ds=v1%3Aw30iVf%2ByHCTSOa2n%2BEf%2FedWs%2BQSlF8zymFzyceZCYec",
+          "expected_products": 138,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Herramientas y Mejoras del Hogar",
+            "Herramientas Manuales y Eléctricas"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:50:52.885Z"
+        },
+        {
+          "name": "Iluminación",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482670011%2Cn%3A9939347011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327435&rnid=9482670011&ref=sr_nr_n_6&ds=v1%3AhGZ8if5N78Z3f%2FtcXJn5fQmPJq2A3vQvgu4XAEbcwAM",
+          "expected_products": 225,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Herramientas y Mejoras del Hogar",
+            "Iluminación"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:50:55.622Z"
+        },
+        {
+          "name": "Pinturas, Herramientas y Tratamiento de Paredes",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482670011%2Cn%3A9829523011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327435&rnid=9482670011&ref=sr_nr_n_7&ds=v1%3AnJKz7zGZ1Ez5zyNFDJ0fK3qIcktz1wrecTfSwmGPVo8",
+          "expected_products": 55,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Herramientas y Mejoras del Hogar",
+            "Pinturas, Herramientas y Tratamiento de Paredes"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:50:58.450Z"
+        },
+        {
+          "name": "Plomería",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482670011%2Cn%3A9828087011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327435&rnid=9482670011&ref=sr_nr_n_8&ds=v1%3AwVSo6CDmpBfKJHFt6usBkn1mUiaokVVAr%2BfejQKavbY",
+          "expected_products": 20,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Herramientas y Mejoras del Hogar",
+            "Plomería"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:51:01.177Z"
+        },
+        {
+          "name": "Protección y Seguridad",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482670011%2Cn%3A9829579011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327435&rnid=9482670011&ref=sr_nr_n_9&ds=v1%3AZxAP3EkRLWaj8KtgPvLwxD32ZHe03kZv5abeP0c23Qc",
+          "expected_products": 53,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Herramientas y Mejoras del Hogar",
+            "Protección y Seguridad"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:51:03.896Z"
+        },
+        {
+          "name": "Suministros de Construcción",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482670011%2Cn%3A9829645011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327435&rnid=9482670011&ref=sr_nr_n_10&ds=v1%3ATV14UeG1bHjYKzFXbeJInfbtTGwseH2I7RvE7Nmf%2BaE",
+          "expected_products": 60,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Herramientas y Mejoras del Hogar",
+            "Suministros de Construcción"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:51:06.735Z"
+        },
+        {
+          "name": "Meses sin Intereses",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482670011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327435&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3A%2BHJL6t83dN5XLU2PQGwgVgmVs8U%2BATRnvbLEyY0SgrE",
+          "expected_products": 41,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Herramientas y Mejoras del Hogar",
+            "Meses sin Intereses"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:51:09.477Z"
+        },
+        {
+          "name": "Amazon Internacional",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482670011%2Cp_n_is-global-store-asin%3A23559285011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327435&rnid=23559284011&ref=sr_nr_p_n_is-global-store-asin_1&ds=v1%3AfH%2Fcl9qDtb8zKfAPspTjDl3JlkNnvthZRZby4z89TYE",
+          "expected_products": 123,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Herramientas y Mejoras del Hogar",
+            "Amazon Internacional"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:51:12.277Z"
+        }
+      ],
+      "created_at": "2025-10-13T03:51:14.727Z",
+      "started_at": "2025-10-13T15:40:56.873Z",
+      "completed_at": "2025-10-13T15:41:56.166Z",
+      "file_path": "2025-10-13-intelligent-herramientas-y-mejoras-del-hogar.json",
+      "validation_result": {
+        "total_subcategories": 12,
+        "total_products": 1030,
+        "loops_avoided": 0,
+        "filters_detected": 17,
+        "expected_vs_found": {
+          "expected": 836,
+          "found": 1030
+        }
+      }
+    }
+  ]
+}

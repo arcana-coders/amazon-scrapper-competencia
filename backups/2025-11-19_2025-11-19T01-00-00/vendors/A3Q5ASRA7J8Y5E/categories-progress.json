@@ -1,0 +1,88 @@
+{
+  "seller_id": "A3Q5ASRA7J8Y5E",
+  "categories_completed": [
+    {
+      "name": "Bebé",
+      "completed_at": "2025-10-10T17:04:48.788Z",
+      "expected_products": 147
+    },
+    {
+      "name": "Herramientas y Mejoras del Hogar",
+      "completed_at": "2025-10-10T17:05:28.682Z",
+      "expected_products": 37
+    },
+    {
+      "name": "Almacenamiento y Organización",
+      "completed_at": "2025-10-10T17:07:01.499Z",
+      "expected_products": 123
+    },
+    {
+      "name": "Aspiración, Limpieza y Planchado",
+      "completed_at": "2025-10-10T17:07:12.953Z",
+      "expected_products": 10
+    },
+    {
+      "name": "Baño",
+      "completed_at": "2025-10-10T17:07:23.761Z",
+      "expected_products": 7
+    },
+    {
+      "name": "Blancos para el Hogar",
+      "completed_at": "2025-10-10T17:08:11.378Z",
+      "expected_products": 60
+    },
+    {
+      "name": "Cocina",
+      "completed_at": "2025-10-10T17:08:31.517Z",
+      "expected_products": 32
+    },
+    {
+      "name": "Decoración del Hogar",
+      "completed_at": "2025-10-10T17:08:55.600Z",
+      "expected_products": 18
+    },
+    {
+      "name": "Muebles",
+      "completed_at": "2025-10-10T17:10:55.532Z",
+      "expected_products": 169
+    },
+    {
+      "name": "Obras de Arte y Material Decorativo",
+      "completed_at": "2025-10-10T17:11:04.888Z",
+      "expected_products": 12
+    },
+    {
+      "name": "Meses sin Intereses",
+      "completed_at": "2025-10-10T17:11:41.675Z",
+      "expected_products": 33
+    },
+    {
+      "name": "Últimos 90 Días",
+      "completed_at": "2025-10-10T17:11:52.436Z",
+      "expected_products": 5
+    },
+    {
+      "name": "Industria, Empresas y Ciencia",
+      "completed_at": "2025-10-10T17:12:35.812Z",
+      "expected_products": 36
+    },
+    {
+      "name": "Juguetes y Juegos",
+      "completed_at": "2025-10-10T17:12:48.189Z",
+      "expected_products": 10
+    },
+    {
+      "name": "Ropa, Zapatos y Accesorios",
+      "completed_at": "2025-10-10T17:13:18.090Z",
+      "expected_products": 43
+    },
+    {
+      "name": "Salud y Cuidado Personal",
+      "completed_at": "2025-10-10T17:13:40.303Z",
+      "expected_products": 22
+    }
+  ],
+  "categories_pending": [],
+  "last_updated": "2025-10-10T17:13:40.303Z",
+  "status": "completed"
+}

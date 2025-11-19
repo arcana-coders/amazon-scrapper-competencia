@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "seller_id": "AE8MUNDUREHX7",
+    "seller_url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260442011%2Cn%3A20940159011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370483&rnid=11260442011&ref=sr_nr_n_7&ds=v1%3AbqEBoHvOnayvWPFABS%2BY3STLQZyjf%2BeTODy0gChlr0A",
+    "category_name": "juguetes-y-juegos-juguetes-coleccionables",
+    "total_products": 13,
+    "pages_processed": 1,
+    "extraction_date": "2025-10-20T00:09:17.809Z",
+    "script_version": "1.0"
+  },
+  "products": [
+    {
+      "asin": "B0CN2BTM75",
+      "title": "Siifert - 36 fichas AA de recuperación y medallones a granel, fichas AA de sobriedad, fichas AA con alcohol, medallón anónimo, aluminio, incluye 1, 2, 3, 6, 9 meses y 24 horas, lote conmemorativo de",
+      "price": "$735.12",
+      "extracted_at": "2025-10-20T00:09:17.783Z"
+    },
+    {
+      "asin": "B0DQ13JT7J",
+      "title": "Forzarocket Carpeta de 9 bolsillos | Álbum de carga lateral de 288 tarjetas para juegos coleccionables y tarjetas deportivas, piel sintética con cierre (negro carbón)",
+      "price": "$883.00",
+      "extracted_at": "2025-10-20T00:09:17.783Z"
+    },
+    {
+      "asin": "B0D4LY92K6",
+      "title": "UAONO MTG - Caja de cubierta con 2 pantallas de comandante y bandeja de dados, diseño patentado, caja de doble cubierta para más de 280 tarjetas de una sola manga, caja de almacenamiento de tarjetas",
+      "price": "$1,029.82",
+      "extracted_at": "2025-10-20T00:09:17.784Z"
+    },
+    {
+      "asin": "B0D9B9WNC5",
+      "title": "Carpeta de 4 bolsillos para tarjetas de 400 tarjetas de álbum, soporte para tarjetas de intercambio de donas rosas con cierre para niñas y adolescentes (rosquilla rosa, 400 bolsillos)",
+      "price": "$653.25",
+      "extracted_at": "2025-10-20T00:09:17.784Z"
+    },
+    {
+      "asin": "B0C7449XGJ",
+      "title": "MUQING - 840 páginas de monedas, 20 hojas de insertos de bolsillo para monedas, suministros de almacenamiento de colección de monedas, páginas de bolsillo de colección de monedas para centavos, níquel, diez centavos, cuarto (42 bolsillos)",
+      "price": "$695.82",
+      "extracted_at": "2025-10-20T00:09:17.784Z"
+    },
+    {
+      "asin": "B09JZDMMSN",
+      "title": "Tpoael Fundas para tarjetas, 10 protectores de tarjetas de acrílico duro, ladrillo de tarjetas transparente + 2 soportes de exhibición para tarjetas de intercambio, tarjetas deportivas estándar",
+      "price": "$454.96",
+      "extracted_at": "2025-10-20T00:09:17.784Z"
+    },
+    {
+      "asin": "B0F63PQWFN",
+      "title": "Waaaandefu Dragón impreso en 3D que brilla en la oscuridad con huevo a juego, juego de huevos de dragón con impresión 3D reactiva a los rayos UV, coleccionable 2025 actualizado para fanáticos de la",
+      "price": "$730.55",
+      "extracted_at": "2025-10-20T00:09:17.784Z"
+    },
+    {
+      "asin": "B0DWSG2XWB",
+      "title": "Toploader - Carpeta de almacenamiento con capacidad para 288 tarjetas, 9 bolsillos, con fundas para cargadores superiores rígidos de 3 x 4 pulgadas (9 negro)",
+      "price": "$679.09",
+      "extracted_at": "2025-10-20T00:09:17.784Z"
+    },
+    {
+      "asin": "B0DPLZMG41",
+      "title": "Funda de metal PSA para parachoques de losa resistente a los rayos UV, caja magnética apilable de aluminio para tarjetas graduadas (oro metálico)",
+      "price": "$664.39",
+      "extracted_at": "2025-10-20T00:09:17.784Z"
+    },
+    {
+      "asin": "B0CWH3V2S1",
+      "title": "Fundas para tarjetas de 3 x 4 pulgadas, cargadores superiores para tarjetas, protectores de tarjetas de béisbol de 42 unidades de plástico duro, fundas para tarjetas deportivas, soporte transparente",
+      "price": "$409.52",
+      "extracted_at": "2025-10-20T00:09:17.784Z"
+    },
+    {
+      "asin": "B09L4LLTL8",
+      "title": "Tpoael Fundas para tarjetas de intercambio, 20 unidades, protector de tarjetas de acrílico duro, ladrillo de tarjetas transparente + 5 soportes de exhibición para tarjetas deportivas estándar, fundas coleccionables para tarjetas de béisbol, color blanco",
+      "price": "$638.87",
+      "extracted_at": "2025-10-20T00:09:17.785Z"
+    },
+    {
+      "asin": "B0CRSZWYB2",
+      "title": "LIUYALO - Marco de pared para coleccionista, soporte de monedas de desafío militar, pasadores militares, caja de sombra con cerradura con estantes extraíbles, color negro",
+      "price": "$1,371.47",
+      "extracted_at": "2025-10-20T00:09:17.785Z"
+    },
+    {
+      "asin": "B0CGBYBYS8",
+      "title": "Moneda de cumpleaños de la Fuerza Aérea de Estados Unidos 2023 Diseñado para veteranos militares – Producto oficial de la Fuerza Aérea Moneda",
+      "price": "No disponible",
+      "extracted_at": "2025-10-20T00:09:17.785Z"
+    }
+  ]
+}

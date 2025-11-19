@@ -1,0 +1,200 @@
+{
+  "seller_id": "AE8MUNDUREHX7",
+  "batch_number": 1,
+  "created_at": "2025-10-13T03:47:50.593Z",
+  "analysis_type": "recursive_hierarchical_batch",
+  "max_products_per_leaf": 320,
+  "max_recursion_depth": 10,
+  "max_products_per_batch": 1000,
+  "main_categories": [
+    "Alimentos y Bebidas",
+    "Automotriz y Motocicletas",
+    "Bebé",
+    "Belleza",
+    "Deportes y Aire libre",
+    "Electrónicos",
+    "Herramientas y Mejoras del Hogar",
+    "Hogar y Cocina",
+    "Industria, Empresas y Ciencia",
+    "Instrumentos Musicales",
+    "Jardín",
+    "Juguetes y Juegos",
+    "Libros",
+    "Oficina y Papelería",
+    "Películas y Series de TV",
+    "Productos para animales",
+    "Ropa, Zapatos y Accesorios",
+    "Salud y Cuidado Personal",
+    "Videojuegos"
+  ],
+  "categories": [
+    {
+      "name": "Alimentos y Bebidas",
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A17608484011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327198&rnid=15997893011&ref=sr_nr_n_1&ds=v1%3AN%2BcNqfhIe3T31HCle0TMdGzggsrM5X%2BjF6jmhO2R49I",
+      "expected_products": 55,
+      "isLeaf": true,
+      "depth": 1,
+      "path": [
+        "Alimentos y Bebidas"
+      ],
+      "status": "completed",
+      "created_at": "2025-10-13T03:46:45.722Z",
+      "started_at": "2025-10-13T14:47:56.732Z",
+      "completed_at": "2025-10-13T14:48:05.328Z",
+      "file_path": "2025-10-13-intelligent-alimentos-y-bebidas.json",
+      "validation_result": {
+        "total_subcategories": 1,
+        "total_products": 55,
+        "loops_avoided": 0,
+        "filters_detected": 0,
+        "expected_vs_found": {
+          "expected": 55,
+          "found": 55
+        }
+      }
+    },
+    {
+      "name": "Automotriz y Motocicletas",
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A13848848011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327198&rnid=15997893011&ref=sr_nr_n_2&ds=v1%3AZj%2FrxOGcX1naya9tI5k7v%2BD0Q9a9tt0%2FDc40gSdsHF8",
+      "expected_products": 384,
+      "isLeaf": false,
+      "depth": 1,
+      "path": [
+        "Automotriz y Motocicletas"
+      ],
+      "status": "completed",
+      "subcategories": [
+        {
+          "name": "Accesorios para Coche",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A13848848011%2Cn%3A14327167011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327205&rnid=13848848011&ref=sr_nr_n_1&ds=v1%3A6%2FN2CvO4%2BTlOt2kv3xPx2yQx6Bq36SGxA04DpF%2BJA50",
+          "expected_products": 110,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Automotriz y Motocicletas",
+            "Accesorios para Coche"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:46:51.215Z"
+        },
+        {
+          "name": "Cuidado de Coche y Moto",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A13848848011%2Cn%3A14327169011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327205&rnid=13848848011&ref=sr_nr_n_2&ds=v1%3AdFuJqihrU59fC9FPNdBDajOkpzMNR9cVAy7Pw1rvvp0",
+          "expected_products": 35,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Automotriz y Motocicletas",
+            "Cuidado de Coche y Moto"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:46:54.007Z"
+        },
+        {
+          "name": "Herramientas para Coche",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A13848848011%2Cn%3A14327172011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327205&rnid=13848848011&ref=sr_nr_n_3&ds=v1%3AFZQprpqtAoFPPMMEV4peMxi17Qy%2BNFvQHzb%2FMi2y6DY",
+          "expected_products": 37,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Automotriz y Motocicletas",
+            "Herramientas para Coche"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:46:56.773Z"
+        },
+        {
+          "name": "Llantas y Rines para Coche",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A13848848011%2Cn%3A14327174011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327205&rnid=13848848011&ref=sr_nr_n_4&ds=v1%3A4spxFUxedlH5pVmuM2ffC57qE64akl%2F1YEgDyYEMSrU",
+          "expected_products": 46,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Automotriz y Motocicletas",
+            "Llantas y Rines para Coche"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:46:59.493Z"
+        },
+        {
+          "name": "Motos, Accesorios y Piezas",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A13848848011%2Cn%3A14327173011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327205&rnid=13848848011&ref=sr_nr_n_5&ds=v1%3AcM6ENJotMy1wYyEWwf88VMH8LB1gDjjhn8kBz81FBcE",
+          "expected_products": 12,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Automotriz y Motocicletas",
+            "Motos, Accesorios y Piezas"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:47:02.171Z"
+        },
+        {
+          "name": "Partes y Refacciones",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A13848848011%2Cn%3A14327176011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327205&rnid=13848848011&ref=sr_nr_n_6&ds=v1%3AT2dj9ED9KGkaGXJuSoXfVYcNzOb6cA22nOQHj%2F1KqP0",
+          "expected_products": 100,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Automotriz y Motocicletas",
+            "Partes y Refacciones"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:47:04.892Z"
+        },
+        {
+          "name": "Meses sin Intereses",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A13848848011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327205&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3AXY0FdCT6UDDFdv5Sga%2BhB0N7KjXO7W8G43h651o%2BhVo",
+          "expected_products": 17,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Automotriz y Motocicletas",
+            "Meses sin Intereses"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:47:07.581Z"
+        }
+      ],
+      "created_at": "2025-10-13T03:47:12.542Z",
+      "started_at": "2025-10-13T15:29:34.709Z",
+      "completed_at": "2025-10-13T15:30:26.300Z",
+      "file_path": "2025-10-13-intelligent-automotriz-y-motocicletas.json",
+      "validation_result": {
+        "total_subcategories": 8,
+        "total_products": 733,
+        "loops_avoided": 0,
+        "filters_detected": 14,
+        "expected_vs_found": {
+          "expected": 384,
+          "found": 733
+        }
+      }
+    },
+    {
+      "name": "Bebé",
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482650011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327198&rnid=15997893011&ref=sr_nr_n_3&ds=v1%3AliW8PE6ChxjrCEyUSNI8EI%2FoqZMUZ3ouA8Zg%2FHLIh5I",
+      "expected_products": 269,
+      "isLeaf": true,
+      "depth": 1,
+      "path": [
+        "Bebé"
+      ],
+      "status": "completed",
+      "created_at": "2025-10-13T03:47:15.252Z",
+      "started_at": "2025-10-13T15:30:29.389Z",
+      "completed_at": "2025-10-13T15:30:34.393Z",
+      "file_path": "2025-10-13-intelligent-bebé.json",
+      "validation_result": {
+        "total_subcategories": 1,
+        "total_products": 267,
+        "loops_avoided": 0,
+        "filters_detected": 0,
+        "expected_vs_found": {
+          "expected": 269,
+          "found": 267
+        }
+      }
+    }
+  ]
+}

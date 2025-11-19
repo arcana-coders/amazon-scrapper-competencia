@@ -1,0 +1,279 @@
+{
+  "seller_id": "AE8MUNDUREHX7",
+  "batch_number": 8,
+  "created_at": "2025-10-13T03:57:19.419Z",
+  "analysis_type": "recursive_hierarchical_batch",
+  "max_products_per_leaf": 320,
+  "max_recursion_depth": 10,
+  "max_products_per_batch": 1000,
+  "main_categories": [
+    "Alimentos y Bebidas",
+    "Automotriz y Motocicletas",
+    "Bebé",
+    "Belleza",
+    "Deportes y Aire libre",
+    "Electrónicos",
+    "Herramientas y Mejoras del Hogar",
+    "Hogar y Cocina",
+    "Industria, Empresas y Ciencia",
+    "Instrumentos Musicales",
+    "Jardín",
+    "Juguetes y Juegos",
+    "Libros",
+    "Oficina y Papelería",
+    "Películas y Series de TV",
+    "Productos para animales",
+    "Ropa, Zapatos y Accesorios",
+    "Salud y Cuidado Personal",
+    "Videojuegos"
+  ],
+  "categories": [
+    {
+      "name": "Juguetes y Juegos",
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260442011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327198&rnid=15997893011&ref=sr_nr_n_12&ds=v1%3ARdYPPkNFrR6fmrlWREmvohlT05q00yDPLKlV4HvWeds",
+      "expected_products": 665,
+      "isLeaf": false,
+      "depth": 1,
+      "path": [
+        "Juguetes y Juegos"
+      ],
+      "status": "completed",
+      "subcategories": [
+        {
+          "name": "Aire Libre y Deportes",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260442011%2Cn%3A11337412011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327752&rnid=11260442011&ref=sr_nr_n_1&ds=v1%3A5frzOUGeNax%2FNfEsZPiFTB0Scb1EgwPqOb99iK6f49Q",
+          "expected_products": 39,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Juguetes y Juegos",
+            "Aire Libre y Deportes"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:55:58.155Z"
+        },
+        {
+          "name": "Artes y Manualidades",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260442011%2Cn%3A11337413011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327752&rnid=11260442011&ref=sr_nr_n_2&ds=v1%3AMaE3ejAy2NpcqzG4NP%2Ff6IpO7G5JJSkNo29ZqgcOYdM",
+          "expected_products": 93,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Juguetes y Juegos",
+            "Artes y Manualidades"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:56:00.935Z"
+        },
+        {
+          "name": "Artículos para Fiesta",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260442011%2Cn%3A11337414011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327752&rnid=11260442011&ref=sr_nr_n_3&ds=v1%3AiFddgXhOTo1CQLKybd1XbBJwYeSzkDnn8HLGrLmJUuA",
+          "expected_products": 233,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Juguetes y Juegos",
+            "Artículos para Fiesta"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:56:03.651Z"
+        },
+        {
+          "name": "Juegos de Construcción",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260442011%2Cn%3A11337421011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327752&rnid=11260442011&ref=sr_nr_n_4&ds=v1%3AWIkwC4rgi8c6bdx6w1oSXEsErPQj56KX6w5xnpXgRf8",
+          "expected_products": 17,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Juguetes y Juegos",
+            "Juegos de Construcción"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:56:06.374Z"
+        },
+        {
+          "name": "Juegos de Imitación",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260442011%2Cn%3A11337422011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327752&rnid=11260442011&ref=sr_nr_n_5&ds=v1%3ANon6eK88y5JtE%2FgFYifJvZkUZTRHRV5GryhCFazd308",
+          "expected_products": 44,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Juguetes y Juegos",
+            "Juegos de Imitación"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:56:09.137Z"
+        },
+        {
+          "name": "Juegos y Accesorios para Juegos",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260442011%2Cn%3A11337420011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327752&rnid=11260442011&ref=sr_nr_n_6&ds=v1%3An627LkzxMsOzcz%2F%2FdmUO76gp3x9igL7GNfVyvjd3UCU",
+          "expected_products": 53,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Juguetes y Juegos",
+            "Juegos y Accesorios para Juegos"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:56:11.899Z"
+        },
+        {
+          "name": "Juguetes Coleccionables",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260442011%2Cn%3A20940159011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327752&rnid=11260442011&ref=sr_nr_n_7&ds=v1%3ATyLFWen3Xuq0c9plGrzwfvw4cpfBbP5yLarm9uHf02E",
+          "expected_products": 13,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Juguetes y Juegos",
+            "Juguetes Coleccionables"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:56:14.613Z"
+        },
+        {
+          "name": "Juguetes Educativos",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260442011%2Cn%3A11337424011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327752&rnid=11260442011&ref=sr_nr_n_8&ds=v1%3AecBH9VtJtsilFOjEQX%2BstgQ6nBI31SIr9OYtoq8McxQ",
+          "expected_products": 32,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Juguetes y Juegos",
+            "Juguetes Educativos"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:56:17.339Z"
+        },
+        {
+          "name": "Juguetes Electrónicos",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260442011%2Cn%3A11337425011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327752&rnid=11260442011&ref=sr_nr_n_9&ds=v1%3A7TdoX4IEQzjVL2UlQcWwWrGuP1eTblhSDh7ooPCpaAY",
+          "expected_products": 8,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Juguetes y Juegos",
+            "Juguetes Electrónicos"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:56:20.077Z"
+        },
+        {
+          "name": "Muñecos, Figuras y Sets de Juego",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260442011%2Cn%3A11337429011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327752&rnid=11260442011&ref=sr_nr_n_10&ds=v1%3Al5p8N8dBEd%2BC9Z54RDVCL2YTcZ%2FQq1xRkgCexPCh4xE",
+          "expected_products": 11,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Juguetes y Juegos",
+            "Muñecos, Figuras y Sets de Juego"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:56:22.883Z"
+        },
+        {
+          "name": "Peluches",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260442011%2Cn%3A11337430011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327752&rnid=11260442011&ref=sr_nr_n_11&ds=v1%3A6Q30i5d%2Bd2etyPWWY7KTnjDUkRQuI6PQTxyfX%2B7Pwng",
+          "expected_products": 33,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Juguetes y Juegos",
+            "Peluches"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:56:25.600Z"
+        },
+        {
+          "name": "Títeres y Escenarios para Títeres",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260442011%2Cn%3A11337432011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327752&rnid=11260442011&ref=sr_nr_n_12&ds=v1%3AQbS3ZdH07F6%2B%2FYO48lsWH1RJqUsz5qcdkTiPQl26sDg",
+          "expected_products": 1,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Juguetes y Juegos",
+            "Títeres y Escenarios para Títeres"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:56:28.252Z"
+        },
+        {
+          "name": "Vehículos de Juguete",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260442011%2Cn%3A11337433011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327752&rnid=11260442011&ref=sr_nr_n_13&ds=v1%3AGfNb1nKVk9lr%2BOYL4j%2B%2FqGFIdI6SBYc%2FCmgddtBLkKo",
+          "expected_products": 20,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Juguetes y Juegos",
+            "Vehículos de Juguete"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:56:31.000Z"
+        },
+        {
+          "name": "0 a 1 Años",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260442011%2Cp_n_g-1004151746091%3A11338006011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327752&rnid=11337999011&ref=sr_nr_p_n_g-1004151746091_1&ds=v1%3ArpSJLfeRNxCnNmbjOpZUqIoe0RsBm8NKphRUzDYSWiM",
+          "expected_products": 31,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Juguetes y Juegos",
+            "0 a 1 Años"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:56:33.684Z"
+        },
+        {
+          "name": "1 a 2 Años",
+          "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260442011%2Cp_n_g-1004151746091%3A11338000011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327752&rnid=11337999011&ref=sr_nr_p_n_g-1004151746091_2&ds=v1%3AoVVqSKITWuuHchHd%2F%2BJD7baPcpW0rgOzWEPi%2FA8VV%2Fw",
+          "expected_products": 71,
+          "isLeaf": true,
+          "depth": 2,
+          "path": [
+            "Juguetes y Juegos",
+            "1 a 2 Años"
+          ],
+          "status": "pending",
+          "created_at": "2025-10-13T03:56:36.357Z"
+        }
+      ],
+      "created_at": "2025-10-13T03:56:36.357Z",
+      "started_at": "2025-10-13T15:48:02.079Z",
+      "completed_at": "2025-10-13T15:49:16.065Z",
+      "file_path": "2025-10-13-intelligent-juguetes-y-juegos.json",
+      "validation_result": {
+        "total_subcategories": 15,
+        "total_products": 695,
+        "loops_avoided": 0,
+        "filters_detected": 14,
+        "expected_vs_found": {
+          "expected": 665,
+          "found": 695
+        }
+      }
+    },
+    {
+      "name": "Libros",
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9298576011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760327198&rnid=15997893011&ref=sr_nr_n_13&ds=v1%3AaCXjB7khxa2nikRfpvNhjZ8mRc599owiU8p%2Fk7M57pw",
+      "expected_products": 140,
+      "isLeaf": true,
+      "depth": 1,
+      "path": [
+        "Libros"
+      ],
+      "status": "completed",
+      "created_at": "2025-10-13T03:56:39.053Z",
+      "started_at": "2025-10-13T15:49:19.829Z",
+      "completed_at": "2025-10-13T15:49:26.231Z",
+      "file_path": "2025-10-13-intelligent-libros.json",
+      "validation_result": {
+        "total_subcategories": 1,
+        "total_products": 140,
+        "loops_avoided": 0,
+        "filters_detected": 0,
+        "expected_vs_found": {
+          "expected": 140,
+          "found": 140
+        }
+      }
+    }
+  ]
+}

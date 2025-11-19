@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "seller_id": "A3Q5ASRA7J8Y5E",
+    "seller_url": "https://www.amazon.com.mx/s?i=merchant-items&me=A3Q5ASRA7J8Y5E&rh=n%3A9482593011%2Cn%3A9725297011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760103831&rnid=9482593011&ref=sr_nr_n_2&ds=v1%3AyCfSAJAepmMiWtqidf4bhSFZ0SA64bAf9z4iwhjPzdk",
+    "category_name": "Aspiración, Limpieza y Planchado",
+    "total_products": 10,
+    "pages_processed": 1,
+    "extraction_date": "2025-10-10T17:07:12.877Z",
+    "script_version": "1.0"
+  },
+  "products": [
+    {
+      "asin": "B0DW8YHF5T",
+      "title": "RYTTGOP Bolsas de colchón, Reina del colchón, Cubierta del colchón, manijas Pesadas, Bolsa de Almacenamiento de colchones Reutilizables, para moverse, Almacenamiento",
+      "price": "$3,096.53",
+      "extracted_at": "2025-10-10T17:07:12.851Z"
+    },
+    {
+      "asin": "B0F28Z41DN",
+      "title": "efluky - Cesta de lavandería delgada para ropa, recámara y recámara (beige, 75 L)",
+      "price": "$1,267.60",
+      "extracted_at": "2025-10-10T17:07:12.851Z"
+    },
+    {
+      "asin": "B0DKD6J4XF",
+      "title": "Cesta de almacenamiento redonda de mimbre, cesta de lavandería tejida con asas, cesta de piso para mantas, zapatos, cesta grande de yute para sala de estar, recámara (blanqueado, mediano)",
+      "price": "$1,335.26",
+      "extracted_at": "2025-10-10T17:07:12.851Z"
+    },
+    {
+      "asin": "B0FFM72XFD",
+      "title": "KINGBOARD Tabla de planchar de mesa, pequeña tabla de planchar con alfombrilla de hierro, mini tabla de planchar plegable, fácil almacenamiento para viajes y recámara, 12 x 32 pulgadas, color azul",
+      "price": "$1,900.92",
+      "extracted_at": "2025-10-10T17:07:12.851Z"
+    },
+    {
+      "asin": "B0FHKVK971",
+      "title": "HZFTJOY - Cesta grande para organizar, organizadores de clóset de 65 litros y contenedores de almacenamiento para estantes, cestas de almacenamiento de cuerda tejida, sala de estar, recámara, cuarto",
+      "price": "$1,463.91",
+      "extracted_at": "2025-10-10T17:07:12.851Z"
+    },
+    {
+      "asin": "B0FGXPRF2J",
+      "title": "JMvicyroam - Cesta de manta tejida, 65 l con asas, organizador para mantas, juguetes, libros y ropa, cesta de lavandería para sala de estar, recámara, guardería y baño, blanco y azul",
+      "price": "$1,475.59",
+      "extracted_at": "2025-10-10T17:07:12.851Z"
+    },
+    {
+      "asin": "B0D5HT5JHF",
+      "title": "Gumuslen - Cesta de almacenamiento plegable con asa organizadora de ropa, ropa para ropa de lavandería, juguetes para niños, manta de regalo para cuarto de baño y recámara",
+      "price": "$1,540.94",
+      "extracted_at": "2025-10-10T17:07:12.851Z"
+    },
+    {
+      "asin": "B0CVZYLPSW",
+      "title": "CAPHAUS Cesta de almacenamiento tejida a mano con tapa y asas, 2 bolsas de forro extraíble, cesta plegable para ropa de lavandería, cesta de lavandería grande de ratán sintético con tapa, cesta de",
+      "price": "$2,666.70",
+      "extracted_at": "2025-10-10T17:07:12.851Z"
+    },
+    {
+      "asin": "B0CN2BYM6R",
+      "title": "PEtbon - Cesta cuadrada de plástico para lavandería (1,5 unidades), color blanco",
+      "price": "$3,122.32",
+      "extracted_at": "2025-10-10T17:07:12.851Z"
+    },
+    {
+      "asin": "B083J1DZS4",
+      "title": "Cesto de lavandería plegable para ropa sucia, cesta de lavandería, ramas, perezoso para el hogar, organizador de guardería, cesta de bebé, habitación de los niños",
+      "price": "$1,512.39",
+      "extracted_at": "2025-10-10T17:07:12.851Z"
+    }
+  ]
+}

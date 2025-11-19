@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "seller_id": "AE8MUNDUREHX7",
+    "seller_url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A9482670011%2Cn%3A9829500011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760370058&rnid=9482670011&ref=sr_nr_n_1&ds=v1%3AiaUWmr%2BUZOIXVIEDaSQlVNnvycymvqM7LEV0qSDFng0",
+    "category_name": "herramientas-y-mejoras-del-hogar-almacenamiento-y-organizaci-n-del-hogar",
+    "total_products": 10,
+    "pages_processed": 1,
+    "extraction_date": "2025-10-17T22:00:02.042Z",
+    "script_version": "1.0"
+  },
+  "products": [
+    {
+      "asin": "B07GBYTLPQ",
+      "title": "Ultrawall Sistema de Almacenamiento para Utensilios de cochera, 12 Piezas, Organizador de Herramientas con Ganchos, Percha de Ropa",
+      "price": "$1,607.22",
+      "extracted_at": "2025-10-17T22:00:02.020Z"
+    },
+    {
+      "asin": "B09J4BSXJD",
+      "title": "Wokyy - Destornillador de pared, soporte para alicates de bambú, soporte para martillo, estante de pared, almacenamiento de herramientas para taller de cochera, paquete de 3",
+      "price": "$1,244.53",
+      "extracted_at": "2025-10-17T22:00:02.020Z"
+    },
+    {
+      "asin": "B09YLPSC8P",
+      "title": "UNITEDPOWER Estante de almacenamiento de taladro eléctrico, capacidad para 4 taladros, organizador de herramientas eléctricas de montaje en pared mejorado 2022 para taller, cobertizo, cochera, hogar",
+      "price": "$951.35",
+      "extracted_at": "2025-10-17T22:00:02.020Z"
+    },
+    {
+      "asin": "B09VKHVTSX",
+      "title": "AIRTOON - Organizador de herramientas de doble cara con polímero resistente a los impactos, almacenamiento de caja de hardware, excelente para tornillos, tuercas, piezas pequeñas, 34 compartimentos",
+      "price": "$1,070.39",
+      "extracted_at": "2025-10-17T22:00:02.020Z"
+    },
+    {
+      "asin": "B09P6JSQCS",
+      "title": "SANIKLITE - Funda para taladro inalámbrico",
+      "price": "$661.35",
+      "extracted_at": "2025-10-17T22:00:02.020Z"
+    },
+    {
+      "asin": "B0979R2LCC",
+      "title": "Strongarm Blue Welding Apron Flame Resistant Arc-Rated with X-tech Comfort Fastening Straps 24x36 (2023 Version)",
+      "price": "$1,002.22",
+      "extracted_at": "2025-10-17T22:00:02.020Z"
+    },
+    {
+      "asin": "B07M5DHPDN",
+      "title": "Ultrawall - Estante de esquí montado en la pared de 24 pulgadas, soporta hasta 300 libras, acero recubierto de polvo con revestimiento de goma, espaciado personalizable, fácil instalación",
+      "price": "$1,617.86",
+      "extracted_at": "2025-10-17T22:00:02.020Z"
+    },
+    {
+      "asin": "B094V9X73S",
+      "title": "Soporte de pared para esquís, snowboard, soporte de pared para 5 pares de bastones de esquí o snowboard, para casa y garaje",
+      "price": "$784.55",
+      "extracted_at": "2025-10-17T22:00:02.020Z"
+    },
+    {
+      "asin": "B0DF7F9W7V",
+      "title": "Xankzi Organizador de herramientas eléctricas con soporte de pared para estación de carga, organización ampliada de cochera resistente, almacenamiento grande para herramientas de cochera (rojo, 3-1 A)",
+      "price": "$1,755.13",
+      "extracted_at": "2025-10-17T22:00:02.020Z"
+    },
+    {
+      "asin": "B07GZ9GNFQ",
+      "title": "Ultrawall Organizador de herramientas de jardín, organizador de herramientas de cochera de 48 pulgadas, soporte de pared de acero resistente para herramientas, capacidad de peso de 400 libras",
+      "price": "$1,250.98",
+      "extracted_at": "2025-10-17T22:00:02.021Z"
+    }
+  ]
+}

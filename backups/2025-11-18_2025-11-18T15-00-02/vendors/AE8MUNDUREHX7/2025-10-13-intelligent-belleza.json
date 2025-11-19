@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "seller_id": "AE8MUNDUREHX7",
+    "category_name": "Belleza",
+    "date_scraped": "2025-10-13T15:35:04.251Z",
+    "processing_type": "intelligent_detection_v1",
+    "max_products_per_category": 320,
+    "max_depth": 3,
+    "expected_products": 418
+  },
+  "intelligence_stats": {
+    "loops_avoided": 0,
+    "filters_detected": 14
+  },
+  "subcategories": [
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260452011%2Cn%3A10178362011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760369704&rnid=11260452011&ref=sr_nr_n_1&ds=v1%3AxJ6FO1fPW68elm3uONe191e%2BqXbXpkEg4ZkYskDxmm8",
+      "name": "Baño y Cuerpo",
+      "full_path": "Belleza > Baño y Cuerpo",
+      "productCount": 34,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:35:15.795Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260452011%2Cn%3A10178470011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760369704&rnid=11260452011&ref=sr_nr_n_2&ds=v1%3AdX0bgA4rqbFPiPfgYxAIbUS7vwQ%2FLe8dHrSA97m9WIc",
+      "name": "Cosméticos",
+      "full_path": "Belleza > Cosméticos",
+      "productCount": 84,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:35:21.345Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260452011%2Cn%3A10178562011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760369704&rnid=11260452011&ref=sr_nr_n_3&ds=v1%3A5jgkMsxL6zxgxzlevefDFT6g9Y7Hd6m0Ie5hiNArjiA",
+      "name": "Cuidado de la Piel",
+      "full_path": "Belleza > Cuidado de la Piel",
+      "productCount": 57,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:35:24.667Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260452011%2Cn%3A10178402011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760369704&rnid=11260452011&ref=sr_nr_n_4&ds=v1%3AOksSvA9%2Fm7pVpF0Gv55vzJ552PU4xAAvAjKm3wuJvf0",
+      "name": "Cuidado del Cabello",
+      "full_path": "Belleza > Cuidado del Cabello",
+      "productCount": 125,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:35:30.896Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260452011%2Cn%3A10178384011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760369704&rnid=11260452011&ref=sr_nr_n_5&ds=v1%3Am1Dzn4yf0HOfI9DcO1xGDekNq%2F%2FRSCaHoG8L5C%2BaNyo",
+      "name": "Perfumes y Fragancias",
+      "full_path": "Belleza > Perfumes y Fragancias",
+      "productCount": 16,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:35:36.476Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260452011%2Cn%3A9845475011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760369704&rnid=11260452011&ref=sr_nr_n_6&ds=v1%3Aqrgz9iChyxQ5aOBDci6pnmjgTbeXb9xZ98uCS8bXgoc",
+      "name": "Rasurado y Depilación",
+      "full_path": "Belleza > Rasurado y Depilación",
+      "productCount": 15,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:35:42.491Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260452011%2Cn%3A10178655011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760369704&rnid=11260452011&ref=sr_nr_n_7&ds=v1%3AriViiIuidRvhwlDh%2Bc1sO9BubsE%2Bz6mRKPPFUQUCn%2Bw",
+      "name": "Utensilios de Belleza",
+      "full_path": "Belleza > Utensilios de Belleza",
+      "productCount": 95,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:35:46.167Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260452011%2Cp_n_installment_plan_eligible%3A118652636011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760369704&rnid=118652634011&ref=sr_nr_p_n_installment_plan_eligible_2&ds=v1%3A5qwzSB9IH3GimDwXeS2lBJyIT9gP4YhS2rBY6ORSZPg",
+      "name": "Meses sin Intereses",
+      "full_path": "Belleza > Meses sin Intereses",
+      "productCount": 27,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:35:50.298Z"
+    },
+    {
+      "url": "https://www.amazon.com.mx/s?i=merchant-items&me=AE8MUNDUREHX7&rh=n%3A11260452011%2Cp_n_is-global-store-asin%3A23559285011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760369704&rnid=23559284011&ref=sr_nr_p_n_is-global-store-asin_1&ds=v1%3AP2pkgVVutjGnXlU2cqrZs08DXeylC8AiagTox6InOeE",
+      "name": "Amazon Internacional",
+      "full_path": "Belleza > Amazon Internacional",
+      "productCount": 26,
+      "isLeaf": true,
+      "depth": 2,
+      "timestamp": "2025-10-13T15:35:56.090Z"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "seller_id": "A3Q5ASRA7J8Y5E",
+    "seller_url": "https://www.amazon.com.mx/s?i=merchant-items&me=A3Q5ASRA7J8Y5E&rh=n%3A11260442011&dc&marketplaceID=A1AM78C64UM0Y8&qid=1760103752&rnid=15997893011&ref=sr_nr_n_5&ds=v1%3AEt82N6M2Kve%2FgcZiAWvMqqWXPDlw%2FzRft%2FS3N1pwFX8",
+    "category_name": "Juguetes y Juegos",
+    "total_products": 10,
+    "pages_processed": 1,
+    "extraction_date": "2025-10-10T17:12:48.114Z",
+    "script_version": "1.0"
+  },
+  "products": [
+    {
+      "asin": "B0FDKKWQ31",
+      "title": "BrainyBees - Bolsa de juguetes de playa extragrande con cordón - Bolsa de malla para juguetes de arena, elementos esenciales ligeros para la piscina, color verde neón",
+      "price": "$962.42",
+      "extracted_at": "2025-10-10T17:12:48.081Z"
+    },
+    {
+      "asin": "B0DCVXWNCV",
+      "title": "Rexmica - 2 bolsas grandes de almacenamiento de juguetes compatibles con ladrillos de juguete, bolsas de viaje de juguete para bloques de construcción, azulejos magnéticos de construcción, coches de",
+      "price": "$1,383.29",
+      "extracted_at": "2025-10-10T17:12:48.081Z"
+    },
+    {
+      "asin": "B0CTYMRY9D",
+      "title": "WRITWAA 1 pieza de cofre del pirata para niños, disfraz de pirata, juguete para bebé, estilo clásico, decoración de boda, juguetes para bebés, juguetes para exteriores,",
+      "price": "$1,081.34",
+      "extracted_at": "2025-10-10T17:12:48.081Z"
+    },
+    {
+      "asin": "B0FB75ZHKN",
+      "title": "Montessori Mesa de actividades multifunción hecha a mano de madera de abedul con almacenamiento, compatible con Lego, Duplo y Mega Bloks, mesa de juego para niños con pista de coche, caja de arena con",
+      "price": "$5,427.91",
+      "extracted_at": "2025-10-10T17:12:48.081Z"
+    },
+    {
+      "asin": "B0FGXQGFTC",
+      "title": "Organizador de almacenamiento de animales de peluche del canal viejo, almacenamiento de peluche de madera, organizador de almacenamiento de juguetes para ahorrar espacio, soporte de zoológico para",
+      "price": "$1,963.54",
+      "extracted_at": "2025-10-10T17:12:48.082Z"
+    },
+    {
+      "asin": "B0FBVBRPKX",
+      "title": "Rexmica - Paquete de 2 bolsas de almacenamiento de juguetes con cordón compatible con ladrillos Lego, bolsa de almacenamiento de juguetes para bloques de construcción, azulejos magnéticos, juegos de",
+      "price": "$1,241.37",
+      "extracted_at": "2025-10-10T17:12:48.082Z"
+    },
+    {
+      "asin": "B0FBW59HXY",
+      "title": "CUTHOLLOW Organizador de almacenamiento de coche de juguete compatible con Hot Wheels – con 48 compartimentos y divisores ajustables, mini estuche portátil para coche de caja de cerillas, color azul",
+      "price": "$1,297.21",
+      "extracted_at": "2025-10-10T17:12:48.082Z"
+    },
+    {
+      "asin": "B0CHDSK3H4",
+      "title": "Red de almacenamiento de animales de peluche o hamaca, red de hamaca de juguete para colgar en la esquina de animales de peluche, red de peluche para recámara, cuarto de niños, exhibición de juguetes",
+      "price": "$1,050.45",
+      "extracted_at": "2025-10-10T17:12:48.082Z"
+    },
+    {
+      "asin": "B0B52CNWFY",
+      "title": "Bolsa de almacenamiento de malla de nailon turquesa para cocinar con niños, herramientas de cocina y hornear para niños, 17 x 11 pulgadas, cierre de cordón, asas resistentes para colgar,",
+      "price": "$951.96",
+      "extracted_at": "2025-10-10T17:12:48.082Z"
+    },
+    {
+      "asin": "B00IPK599Y",
+      "title": "Guidecraft Expressions - Estantería de Almacenamiento de Madera para niños, para Escuela, Sala de Juegos y Muebles de recámara",
+      "price": "$4,239.00",
+      "extracted_at": "2025-10-10T17:12:48.082Z"
+    }
+  ]
+}

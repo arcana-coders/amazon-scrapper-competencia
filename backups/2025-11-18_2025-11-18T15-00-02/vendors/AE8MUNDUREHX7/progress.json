@@ -1,0 +1,148 @@
+{
+  "seller_id": "AE8MUNDUREHX7",
+  "started_at": "2025-10-13T14:39:27.677Z",
+  "last_updated": "2025-10-13T15:49:26.566Z",
+  "completed_categories": [
+    {
+      "name": "Automotriz y Motocicletas",
+      "completed_at": "2025-10-13T15:30:26.673Z",
+      "products_found": 384,
+      "status": "completed"
+    },
+    {
+      "name": "Bebé",
+      "completed_at": "2025-10-13T15:30:34.617Z",
+      "products_found": 269,
+      "status": "completed"
+    },
+    {
+      "name": "Belleza",
+      "completed_at": "2025-10-13T15:36:09.649Z",
+      "products_found": 418,
+      "status": "completed"
+    },
+    {
+      "name": "Deportes y Aire libre",
+      "completed_at": "2025-10-13T15:37:27.599Z",
+      "products_found": 675,
+      "status": "completed"
+    },
+    {
+      "name": "Electrónicos",
+      "completed_at": "2025-10-13T15:40:44.049Z",
+      "products_found": 436,
+      "status": "completed"
+    },
+    {
+      "name": "Herramientas y Mejoras del Hogar",
+      "completed_at": "2025-10-13T15:41:56.398Z",
+      "products_found": 836,
+      "status": "completed"
+    },
+    {
+      "name": "Hogar y Cocina",
+      "completed_at": "2025-10-13T15:44:57.252Z",
+      "products_found": 3000,
+      "status": "completed"
+    },
+    {
+      "name": "Industria, Empresas y Ciencia",
+      "completed_at": "2025-10-13T15:46:18.415Z",
+      "products_found": 793,
+      "status": "completed"
+    },
+    {
+      "name": "Instrumentos Musicales",
+      "completed_at": "2025-10-13T15:46:35.382Z",
+      "products_found": 48,
+      "status": "completed"
+    },
+    {
+      "name": "Jardín",
+      "completed_at": "2025-10-13T15:47:52.794Z",
+      "products_found": 370,
+      "status": "completed"
+    },
+    {
+      "name": "Juguetes y Juegos",
+      "completed_at": "2025-10-13T15:49:16.315Z",
+      "products_found": 665,
+      "status": "completed"
+    },
+    {
+      "name": "Libros",
+      "completed_at": "2025-10-13T15:49:26.566Z",
+      "products_found": 140,
+      "status": "completed"
+    }
+  ],
+  "failed_categories": [
+    {
+      "name": "Alimentos y Bebidas",
+      "failed_at": "2025-10-13T14:39:28.388Z",
+      "error": "Proceso terminó con código: 1"
+    },
+    {
+      "name": "Automotriz y Motocicletas",
+      "failed_at": "2025-10-13T14:39:29.128Z",
+      "error": "Proceso terminó con código: 1"
+    },
+    {
+      "name": "Bebé",
+      "failed_at": "2025-10-13T14:39:29.837Z",
+      "error": "Proceso terminó con código: 1"
+    },
+    {
+      "name": "Belleza",
+      "failed_at": "2025-10-13T14:39:38.416Z",
+      "error": "Proceso terminó con código: 1"
+    },
+    {
+      "name": "Deportes y Aire libre",
+      "failed_at": "2025-10-13T14:39:39.106Z",
+      "error": "Proceso terminó con código: 1"
+    },
+    {
+      "name": "Electrónicos",
+      "failed_at": "2025-10-13T14:39:43.177Z",
+      "error": "Proceso terminó con código: 1"
+    },
+    {
+      "name": "Herramientas y Mejoras del Hogar",
+      "failed_at": "2025-10-13T14:39:48.823Z",
+      "error": "Proceso terminó con código: 1"
+    },
+    {
+      "name": "Hogar y Cocina",
+      "failed_at": "2025-10-13T14:39:54.929Z",
+      "error": "Proceso terminó con código: 1"
+    },
+    {
+      "name": "Industria, Empresas y Ciencia",
+      "failed_at": "2025-10-13T14:40:00.533Z",
+      "error": "Proceso terminó con código: 1"
+    },
+    {
+      "name": "Instrumentos Musicales",
+      "failed_at": "2025-10-13T14:40:08.057Z",
+      "error": "Proceso terminó con código: 1"
+    },
+    {
+      "name": "Jardín",
+      "failed_at": "2025-10-13T14:40:08.744Z",
+      "error": "Proceso terminó con código: 1"
+    },
+    {
+      "name": "Juguetes y Juegos",
+      "failed_at": "2025-10-13T14:40:13.401Z",
+      "error": "Proceso terminó con código: 1"
+    },
+    {
+      "name": "Libros",
+      "failed_at": "2025-10-13T14:40:14.092Z",
+      "error": "Proceso terminó con código: 1"
+    }
+  ],
+  "total_processed": 12,
+  "total_products_found": 8034
+}

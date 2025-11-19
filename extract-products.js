@@ -50,27 +50,29 @@ if (CATEGORY_NAME) {
   const categoryFileName = CATEGORY_NAME.toLowerCase().replace(/[^a-z0-9]/g, '-');
   OUTPUT_FILE = path.join(vendorDir, `${categoryFileName}-products.json`);
 } else {
-  OUTPUT_FILE = path.join(OUTPUT_DIR, `products-${SELLER_ID}-${new Date().toISOString().split('T')[0]}.json`);
+  const vendorDir = path.join(OUTPUT_DIR, 'vendors', SELLER_ID);
+  if (!fs.existsSync(vendorDir)) fs.mkdirSync(vendorDir, { recursive: true });
+  OUTPUT_FILE = path.join(vendorDir, 'all-products-consolidated.json');
 }
 
 // ========== FUNCIONES DE UTILIDAD ==========
 
 /**
  * Realizar scroll aleatorio para simular comportamiento humano
- */
+  */
 async function performRandomScroll(page) {
   const scrollActions = ['none', 'down', 'down_up', 'small_down'];
   const action = scrollActions[Math.floor(Math.random() * scrollActions.length)];
-  
+
   // Tiempo aleatorio antes del scroll (0-2 segundos)
   const preScrollWait = Math.random() * 2000;
   await page.waitForTimeout(preScrollWait);
-  
+
   switch (action) {
     case 'none':
       console.log('🎯 Sin scroll (comportamiento natural)');
       break;
-      
+
     case 'down':
       console.log('📜 Scroll hacia abajo');
       await page.evaluate(() => {
@@ -78,7 +80,7 @@ async function performRandomScroll(page) {
       });
       await page.waitForTimeout(500 + Math.random() * 1000);
       break;
-      
+
     case 'down_up':
       console.log('📜 Scroll abajo y arriba');
       await page.evaluate(() => {
@@ -90,7 +92,7 @@ async function performRandomScroll(page) {
       });
       await page.waitForTimeout(500 + Math.random() * 700);
       break;
-      
+
     case 'small_down':
       console.log('📜 Scroll pequeño');
       await page.evaluate(() => {
@@ -99,7 +101,7 @@ async function performRandomScroll(page) {
       await page.waitForTimeout(400 + Math.random() * 600);
       break;
   }
-  
+
   // Volver al top para asegurar que los elementos estén visibles
   await page.evaluate(() => window.scrollTo(0, 0));
   await page.waitForTimeout(300 + Math.random() * 500);
@@ -114,15 +116,15 @@ function loadCookies() {
       console.error(`❌ Archivo de cookies no encontrado: ${COOKIES_FILE}`);
       process.exit(1);
     }
-    
+
     const cookieData = JSON.parse(fs.readFileSync(COOKIES_FILE, 'utf8'));
     const cookies = cookieData.cookies || cookieData; // Soportar ambos formatos
-    
+
     if (!Array.isArray(cookies)) {
       console.error('❌ Formato de cookies inválido, debe ser un array');
       process.exit(1);
     }
-    
+
     console.log(`✅ Cookies cargadas: ${cookies.length} cookies`);
     return cookies;
   } catch (error) {
@@ -136,26 +138,26 @@ function loadCookies() {
  */
 async function extractProductsFromPage(page) {
   console.log('🔍 Extrayendo productos de la página actual...');
-  
+
   // Esperar a que los productos se carguen
   await page.waitForSelector('[data-asin]', { timeout: 10000 });
-  
+
   const products = await page.$$eval('[data-asin]', (elements) => {
     const debugInfo = [];
-    
+
     return elements.map((el, index) => {
       const asin = el.getAttribute('data-asin');
-      
+
       // Solo procesar elementos con ASIN válido (no vacío)
       if (!asin || asin.trim() === '') return null;
-      
+
       // DEBUG: Inspeccionar estructura del elemento
       const debug = {
         asin: asin,
         innerHTML_preview: el.innerHTML.substring(0, 200),
         classes: el.className
       };
-      
+
       // Extraer título - Selectores más amplios
       let title = '';
       const titleSelectors = [
@@ -169,7 +171,7 @@ async function extractProductsFromPage(page) {
         '.a-text-normal',
         'a .a-text-normal'
       ];
-      
+
       for (const selector of titleSelectors) {
         const titleEl = el.querySelector(selector);
         if (titleEl && titleEl.textContent.trim()) {
@@ -178,7 +180,7 @@ async function extractProductsFromPage(page) {
           break;
         }
       }
-      
+
       // Extraer precio - Selectores más amplios
       let price = '';
       const priceSelectors = [
@@ -190,7 +192,7 @@ async function extractProductsFromPage(page) {
         '.a-text-price',
         '.a-price'
       ];
-      
+
       for (const selector of priceSelectors) {
         const priceEl = el.querySelector(selector);
         if (priceEl && priceEl.textContent.trim()) {
@@ -199,14 +201,14 @@ async function extractProductsFromPage(page) {
           break;
         }
       }
-      
+
       // Agregar info de debug para los primeros 3 elementos
       if (index < 3) {
         debug.found_title = !!title;
         debug.found_price = !!price;
         debugInfo.push(debug);
       }
-      
+
       // Solo retornar si tenemos al menos ASIN y título
       if (asin && title) {
         return {
@@ -216,23 +218,23 @@ async function extractProductsFromPage(page) {
           extracted_at: new Date().toISOString()
         };
       }
-      
+
       return null;
     }).filter(product => product !== null);
   });
-  
+
   console.log(`✅ Productos extraídos: ${products.length}`);
-  
+
   // Si no extrajo productos, mostrar debug info
   if (products.length === 0) {
     console.log('🔍 DEBUG: Analizando por qué no se extrajeron productos...');
-    
+
     // Obtener información de debug del primer elemento
     const firstElementDebug = await page.$$eval('[data-asin]', (elements) => {
       if (elements.length > 0) {
         const el = elements[0];
         const asin = el.getAttribute('data-asin');
-        
+
         return {
           asin: asin,
           innerHTML_sample: el.innerHTML.substring(0, 500),
@@ -242,7 +244,7 @@ async function extractProductsFromPage(page) {
       }
       return null;
     });
-    
+
     if (firstElementDebug) {
       console.log('📋 DEBUG - Primer elemento:');
       console.log(`   ASIN: ${firstElementDebug.asin}`);
@@ -250,7 +252,7 @@ async function extractProductsFromPage(page) {
       console.log(`   HTML muestra: ${firstElementDebug.innerHTML_sample}`);
     }
   }
-  
+
   return products;
 }
 
@@ -261,39 +263,39 @@ async function extractProducts() {
   console.log('🚀 === EXTRACTOR DE PRODUCTOS DEL VENDEDOR ===');
   console.log(`🎯 Vendedor: ${SELLER_ID}`);
   console.log(`🔗 URL: ${SELLER_URL}`);
-  
+
   // Crear directorio de salida si no existe
   if (!fs.existsSync(OUTPUT_DIR)) {
     fs.mkdirSync(OUTPUT_DIR, { recursive: true });
   }
-  
+
   // Cargar cookies
   const cookies = loadCookies();
-  
+
   let browser;
   try {
     // Inicializar navegador
     console.log('🚀 Iniciando navegador...');
-    browser = await chromium.launch({ 
+    browser = await chromium.launch({
       headless: true, // Cambiar a false para debug
       args: ['--no-sandbox', '--disable-setuid-sandbox']
     });
-    
+
     const context = await browser.newContext({
       userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
       viewport: { width: 1366, height: 768 }
     });
-    
+
     const page = await context.newPage();
-    
+
     // Cargar cookies
     await context.addCookies(cookies);
     console.log('🍪 Cookies aplicadas');
-    
+
     const allProducts = [];
     let currentPage = 1;
     let hasNextPage = true;
-    
+
     while (hasNextPage) {
       // Verificar límite de páginas si está configurado
       if (MAX_PAGES && currentPage > MAX_PAGES) {
@@ -301,39 +303,39 @@ async function extractProducts() {
         break;
       }
       console.log(`\n📄 === PÁGINA ${currentPage} ===`);
-      
+
       // Navegar a la página
       const pageUrl = currentPage === 1 ? SELLER_URL : `${SELLER_URL}&page=${currentPage}`;
       console.log(`🌐 Navegando: ${pageUrl}`);
-      
-      await page.goto(pageUrl, { 
-        waitUntil: 'domcontentloaded', 
-        timeout: 30000 
+
+      await page.goto(pageUrl, {
+        waitUntil: 'domcontentloaded',
+        timeout: 30000
       });
-      
+
       // Esperar carga inicial con tiempo aleatorio
       const initialWait = 2000 + Math.random() * 3000; // 2-5 segundos
       console.log(`⏳ Esperando carga inicial: ${Math.round(initialWait)}ms`);
       await page.waitForTimeout(initialWait);
-      
+
       // Scroll aleatorio para simular comportamiento humano
       await performRandomScroll(page);
-      
+
       // Verificar si hay productos en la página
       const dataAsinElements = await page.$$('[data-asin]');
       console.log(`📋 Productos encontrados: ${dataAsinElements.length}`);
-      
+
       if (dataAsinElements.length === 0) {
         console.log('❌ No se encontraron productos en esta página');
         break;
       }
-      
+
       // Extraer productos de la página actual
       const pageProducts = await extractProductsFromPage(page);
       allProducts.push(...pageProducts);
-      
+
       console.log(`📦 Total productos hasta ahora: ${allProducts.length}`);
-      
+
       // Verificar si hay siguiente página con múltiples selectores
       const nextSelectors = [
         'a[aria-label="Ir a la siguiente página"]',
@@ -342,7 +344,7 @@ async function extractProducts() {
         'a:has-text("Siguiente")',
         'a:has-text("Next")'
       ];
-      
+
       let nextButton = null;
       for (const selector of nextSelectors) {
         try {
@@ -355,13 +357,13 @@ async function extractProducts() {
           // Continuar con el siguiente selector
         }
       }
-      
+
       // También verificar información de paginación
       const paginationInfo = await page.$eval('.s-pagination-strip', el => el.textContent).catch(() => '');
       console.log(`📄 Info paginación: ${paginationInfo}`);
-      
+
       const isNextDisabled = nextButton ? await nextButton.getAttribute('aria-disabled') === 'true' : true;
-      
+
       if (!nextButton || isNextDisabled) {
         console.log('✅ No hay más páginas o botón siguiente deshabilitado');
         hasNextPage = false;
@@ -374,7 +376,7 @@ async function extractProducts() {
         await page.waitForTimeout(pageWait);
       }
     }
-    
+
     // Guardar resultados
     const output = {
       metadata: {
@@ -386,16 +388,16 @@ async function extractProducts() {
         extraction_date: new Date().toISOString(),
         script_version: '1.0'
       },
-      products: allProducts
+      all_products: allProducts
     };
-    
+
     fs.writeFileSync(OUTPUT_FILE, JSON.stringify(output, null, 2));
-    
+
     console.log('\n🎉 === EXTRACCIÓN COMPLETADA ===');
     console.log(`📦 Total productos extraídos: ${allProducts.length}`);
     console.log(`📄 Páginas procesadas: ${currentPage}`);
     console.log(`💾 Archivo guardado: ${OUTPUT_FILE}`);
-    
+
     // Mostrar muestra de productos
     if (allProducts.length > 0) {
       console.log('\n📋 === MUESTRA DE PRODUCTOS ===');
@@ -403,7 +405,7 @@ async function extractProducts() {
         console.log(`${index + 1}. ${product.asin} - ${product.title} - ${product.price}`);
       });
     }
-    
+
   } catch (error) {
     console.error(`❌ Error durante la extracción: ${error.message}`);
     console.error(error.stack);
