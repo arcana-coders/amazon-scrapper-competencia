@@ -25,12 +25,14 @@ data/*.csv
 # Logs
 logs/
 *.log
+amazon-pipeline/logs/
+amazon-pipeline/*.log
 
-# Archivos temporales
-*.tmp
-*.temp
-.DS_Store
-Thumbs.db
+# Archivos de estado del pipeline
+amazon-pipeline/pipeline-state.json
+
+# Configuración local de Copilot
+amazon-pipeline/.claude/
 
 # IDEs
 .vscode/

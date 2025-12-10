@@ -1,0 +1,32 @@
+# Amazon Pipeline - .gitignore
+# ════════════════════════════════════════
+
+# 🚫 NO SUBIR: Archivos de estado local
+pipeline-state.json          # Estado actual del pipeline (varía según ejecuciones)
+logs/                         # Logs generados durante ejecuciones
+
+# 🚫 NO SUBIR: Configuración local de Copilot
+.claude/                      # Settings locales de Claude/VS Code
+
+# 🚫 NO SUBIR: Archivos temporales
+*.tmp
+*.temp
+*.log
+*.pid
+
+# 🚫 NO SUBIR: Archivos de sistema
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# 🚫 NO SUBIR: Node modules (si existen)
+node_modules/
+
+# ✅ SUBIR: Código, configuración y documentación
+# pipeline-orchestrator.js    ← Código principal
+# config/                      ← Configuración (sin datos sensibles)
+# modules/                     ← Módulos del pipeline
+# *.md                         ← Documentación
+# start-pipeline.bat           ← Script de inicio
